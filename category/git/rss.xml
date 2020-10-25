@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>taniho&#39;s blog • Posts by &#34;git&#34; category</title>
+        <link>http://blog.taniho.net</link>
+        <description>technical note</description>
+        <language>en</language>
+        <pubDate>Wed, 20 Apr 2016 12:27:41 +0900</pubDate>
+        <lastBuildDate>Wed, 20 Apr 2016 12:27:41 +0900</lastBuildDate>
+        <category>Emacs</category>
+        <category>ArchLinux</category>
+        <category>マイクロマウス</category>
+        <category>台湾</category>
+        <category>旅行</category>
+        <category>たまこまーけっと</category>
+        <category>2016年</category>
+        <category>買い物</category>
+        <category>おすすめ</category>
+        <category>日常</category>
+        <category>2017年</category>
+        <category>クリスマス</category>
+        <category>Elecrow</category>
+        <category>電子工作</category>
+        <category>関西地区大会</category>
+        <category>猫</category>
+        <category>Apache</category>
+        <category>letsencrypt</category>
+        <category>Blu-ray</category>
+        <category>VLC</category>
+        <category>CNC</category>
+        <category>Magit</category>
+        <category>git</category>
+        <category>MFT</category>
+        <category>RaspberryPi</category>
+        <category>無線LAN</category>
+        <category>Mice</category>
+        <category>鵤</category>
+        <category>メジロ</category>
+        <category>Qt</category>
+        <category>デレステ</category>
+        <category>yakudo</category>
+        <category>Android</category>
+        <category>Discord</category>
+        <category>Webアプリ</category>
+        <category>教習所</category>
+        <category>ロボット</category>
+        <category>Linux</category>
+        <category>remark</category>
+        <category>スライドショー</category>
+        <category>ごはん</category>
+        <category>金町</category>
+        <category>クレジットカード</category>
+        <category>ヘボコン</category>
+        <category>ボードゲーム</category>
+        <category>Quadcept</category>
+        <category>CAD</category>
+        <category>Doxygen</category>
+        <category>2018年</category>
+        <category>dアニメストア</category>
+        <category>Renesas</category>
+        <category>RX62T</category>
+        <category>e2studio</category>
+        <category>github</category>
+        <category>マウス</category>
+        <category>分解</category>
+        <category>logicool</category>
+        <category>M570</category>
+        <category>G700s</category>
+        <category>seccamp2016</category>
+        <category>seccamp</category>
+        <category>ownCloud</category>
+        <category>サーバー</category>
+        <category>subsonic</category>
+        <category>音楽</category>
+        <category>みそ煮込みうどん</category>
+        <category>I.Sys</category>
+        <category>フラッグLED</category>
+        <category>i3</category>
+        <category>wm</category>
+        <category>AdventCalendar</category>
+        <category>モード</category>
+        <category>迷路</category>
+        <category>C++</category>
+        <category>調整</category>
+        <category>中華</category>
+        <category>まとめ</category>
+        <category>助けて</category>
+        <category>三角関数</category>
+        <category>福岡</category>
+        <category>東北地区大会</category>
+        <category>STL</category>
+        <category>入門</category>
+        <category>ラズパイコンテスト</category>
+        <category>NFC</category>
+        <category>C言語</category>
+        <category>部品</category>
+        <category>管理</category>
+        <category>電子部品</category>
+        <category>STM32CubeMX</category>
+        <category>FTDI</category>
+        <category>Makefile</category>
+        <category>アプリ</category>
+        <category>はてな</category>
+        <category>インターン</category>
+        <category>最高</category>
+        <category>セキュリティ・キャンプ</category>
+        <item>
+            <guid isPermalink="true">http://blog.taniho.net/2016/04/git%E3%81%A8github%E3%81%AE%E9%81%95%E3%81%84/</guid>
+            <title>gitとgithubの違い</title>
+            <link>http://blog.taniho.net/2016/04/git%E3%81%A8github%E3%81%AE%E9%81%95%E3%81%84/</link>
+            <category>git</category>
+            <category>github</category>
+            <pubDate>Wed, 20 Apr 2016 12:27:41 +0900</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;違います&#34;&gt;&lt;a href=&#34;#違います&#34; class=&#34;headerlink&#34; title=&#34;違います&#34;&gt;&lt;/a&gt;違います&lt;/h1&gt;&lt;p&gt;gitはバージョン管理をするソフトウェアの名前であり，githubは共有リポジトリのホスティングサービスです。&lt;/p&gt;
+&lt;h1 id=&#34;gitって？&#34;&gt;&lt;a href=&#34;#gitって？&#34; class=&#34;headerlink&#34; title=&#34;gitって？&#34;&gt;&lt;/a&gt;gitって？&lt;/h1&gt;&lt;p&gt;バージョン管理をするためのソフトウェアのことです。&lt;br&gt;オープンソースで開発されており，無料で利用することができます。&lt;/p&gt;
+&lt;h2 id=&#34;バージョン管理&#34;&gt;&lt;a href=&#34;#バージョン管理&#34; class=&#34;headerlink&#34; title=&#34;バージョン管理&#34;&gt;&lt;/a&gt;バージョン管理&lt;/h2&gt;&lt;p&gt;プログラムでもCADでも何でも良いですが，Windowsでは基本的に1つのファイルしか保存されず，&lt;br&gt;「あ゛あ゛あ゛あ゛あ゛あ゛間゛違゛え゛て゛上゛書゛き゛し゛た゛あ゛あ゛あ゛あ゛あ゛あ゛」&lt;br&gt;というやらかしをよく耳にします。&lt;br&gt;(シャドウコピーという機能はありますが，gitに比べれば屁みたいな機能です)&lt;/p&gt;
+&lt;p&gt;Windowsの保存機能をポケモンのセーブ機能とすると，&lt;br&gt;gitはノベルゲームのコメント付きセーブ機能みたいなものだと考えると，その凄さは分かってもらえると思います。&lt;/p&gt;
+&lt;h2 id=&#34;はじめは&#34;&gt;&lt;a href=&#34;#はじめは&#34; class=&#34;headerlink&#34; title=&#34;はじめは&#34;&gt;&lt;/a&gt;はじめは&lt;/h2&gt;&lt;p&gt;なにはともあれgitをインストールしましょう。&lt;br&gt;Windowsの場合は &lt;a href=&#34;https://git-scm.com/&#34;&gt;こちら&lt;/a&gt; から，&lt;br&gt;Linuxの場合はお使いのパッケージ管理システムからインストールできます。&lt;/p&gt;
+&lt;p&gt;はじめのうちはコマンドを叩いてgitを使うことをオススメしますが，&lt;br&gt;便利なフロントエンドとして，Windowsの場合は &lt;a href=&#34;https://tortoisegit.org/&#34;&gt;TortoiseGit&lt;/a&gt;, Emacserの場合は &lt;a href=&#34;https://github.com/magit/magit&#34;&gt;Magit&lt;/a&gt; をオススメしておきます。&lt;br&gt;これらの使い方は省略するので，頑張って使いこなしてみてください。&lt;/p&gt;
+&lt;h2 id=&#34;コミットへの第一歩&#34;&gt;&lt;a href=&#34;#コミットへの第一歩&#34; class=&#34;headerlink&#34; title=&#34;コミットへの第一歩&#34;&gt;&lt;/a&gt;コミットへの第一歩&lt;/h2&gt;&lt;p&gt;gitの基本は実にシンプルです。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;概要&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;コマンド&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;gitで管理するファイルを登録&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;git add&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;編集したファイルを”更新リスト”に追加&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;git add&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;“更新リスト”にコメントをつけて保存&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;git commit&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;これだけでローカル環境でのファイル管理は，とりあえずできます。&lt;br&gt;あわせて，共有リポジトリを使って複数人で開発を行う際は，次の表も頭に入れておく必要があります。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;概要&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;コマンド&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;共有リポジトリ上の更新を確認&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;git pull&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;共有リポジトリに更新を反映&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;git push&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;更新が競合した場合の処理などは，ややこしいので今回は書きません。&lt;br&gt;「最新の(他の人の)更新を確認して，競合がなければアップロードする」&lt;br&gt;という手順で共有リポジトリを使います。&lt;/p&gt;
+&lt;h1 id=&#34;github&#34;&gt;&lt;a href=&#34;#github&#34; class=&#34;headerlink&#34; title=&#34;github&#34;&gt;&lt;/a&gt;github&lt;/h1&gt;&lt;p&gt;ではgithubが何かというと，今言ったばかりの「共有リポジトリ」を作らせてくれるサービスです。&lt;br&gt;さらにおまけとして，wikiやissue，pullrequestなどのサービスも提供されています。&lt;/p&gt;
+&lt;h2 id=&#34;普通に使う&#34;&gt;&lt;a href=&#34;#普通に使う&#34; class=&#34;headerlink&#34; title=&#34;普通に使う&#34;&gt;&lt;/a&gt;普通に使う&lt;/h2&gt;&lt;p&gt;github上に何らかのリポジトリが作成されているとします。&lt;br&gt;一番はじめは，何も考えずにリポジトリをコピーします。&lt;br&gt;(以下の説明はすべてgitのコマンドで示します。TortoiseGitなどを使っている場合は頑張って脳内補完してください)&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;git &lt;span class=&#34;built_in&#34;&gt;clone&lt;/span&gt; https://(自分のユーザー名)@github.com/(クローンしたいリポジトリのユーザー名)/(リポジトリ名).git&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;gitにこの共有リポジトリを登録しておきます。&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;git remote add origin master&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;あとはgit pullなりgit pushなりをすることでローカル環境とgithubを同期させることができます。&lt;/p&gt;
+&lt;h2 id=&#34;wiki&#34;&gt;&lt;a href=&#34;#wiki&#34; class=&#34;headerlink&#34; title=&#34;wiki&#34;&gt;&lt;/a&gt;wiki&lt;/h2&gt;&lt;p&gt;Wikiを作ることができます。&lt;br&gt;ソフトウェアのマニュアルや仕様書なんかを共有するのに使うと便利かと思います。&lt;/p&gt;
+&lt;h2 id=&#34;issue&#34;&gt;&lt;a href=&#34;#issue&#34; class=&#34;headerlink&#34; title=&#34;issue&#34;&gt;&lt;/a&gt;issue&lt;/h2&gt;&lt;p&gt;バグ報告ができます。&lt;br&gt;分類わけのためのラベルを付けたり，マイルストーンを設定することもできます。&lt;br&gt;解決担当者を決めることもできるので，複数人で開発する際は便利ですね。&lt;/p&gt;
+&lt;h2 id=&#34;pull-request&#34;&gt;&lt;a href=&#34;#pull-request&#34; class=&#34;headerlink&#34; title=&#34;pull request&#34;&gt;&lt;/a&gt;pull request&lt;/h2&gt;&lt;p&gt;重要な更新などをした際，全員にpullしてもらえるように通知することができます。&lt;/p&gt;
+&lt;h1 id=&#34;というわけで&#34;&gt;&lt;a href=&#34;#というわけで&#34; class=&#34;headerlink&#34; title=&#34;というわけで&#34;&gt;&lt;/a&gt;というわけで&lt;/h1&gt;&lt;p&gt;頑張ってgitを使いこなせるようになりましょう。&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

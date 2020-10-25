@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;はてな&#34; tag</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2016-09-15T06:13:52.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2016/09/%E3%81%AF%E3%81%A6%E3%81%AA%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B32016%E3%81%A7%E6%9C%80%E9%AB%98%E3%81%AE%E5%A4%8F%E3%82%92%E9%81%8E%E3%81%94%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F/</id>
+        <title>はてなサマーインターン2016で最高の夏を過ごしてきた</title>
+        <link rel="alternate" href="http://blog.taniho.net/2016/09/%E3%81%AF%E3%81%A6%E3%81%AA%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B32016%E3%81%A7%E6%9C%80%E9%AB%98%E3%81%AE%E5%A4%8F%E3%82%92%E9%81%8E%E3%81%94%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F/"/>
+        <content type="html">&lt;h1 id=&#34;はてなサマーインターン&#34;&gt;&lt;a href=&#34;#はてなサマーインターン&#34; class=&#34;headerlink&#34; title=&#34;はてなサマーインターン&#34;&gt;&lt;/a&gt;はてなサマーインターン&lt;/h1&gt;&lt;h2 id=&#34;とは&#34;&gt;&lt;a href=&#34;#とは&#34; class=&#34;headerlink&#34; title=&#34;とは&#34;&gt;&lt;/a&gt;とは&lt;/h2&gt;&lt;p&gt;はじめまして，&lt;a href=&#34;http://hantasmouse.hatenablog.jp/&#34;&gt;id:hantas&lt;/a&gt;です(誰だお前)．&lt;br&gt;はてなではhantas，それ以外ではtanihoを使っているのでややこしいですが，今回は&lt;a href=&#34;http://hantasmouse.hatenablog.jp/&#34;&gt;id:hantas&lt;/a&gt;としてはてなサマーインターンに参加してきました！&lt;/p&gt;
+&lt;p&gt;はてなサマーインターンとは，あの有名な株式会社はてなが1年に1度実施しているインターンシップです．20日間のうち前半は講義，後半はチームに配属されて開発を行います．なんと後半課程では給与が発生します！ 嬉しい！&lt;br&gt;詳しくは次の募集サイトを見てみてください．&lt;br&gt;&lt;a href=&#34;http://hatenacorp.jp/recruit/intern2016/&#34;&gt;はてなサマーインターン2016&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;なぜ参加したのか&#34;&gt;&lt;a href=&#34;#なぜ参加したのか&#34; class=&#34;headerlink&#34; title=&#34;なぜ参加したのか&#34;&gt;&lt;/a&gt;なぜ参加したのか&lt;/h2&gt;&lt;p&gt;「時代は静的ブログだ！」とか言ってはてなブログ(&lt;a href=&#34;http://hantasmouse.hatenablog.jp/&#34;&gt;hantas’s blog&lt;/a&gt;)からhexoに乗り換えた自分が，どうしてはてなのインターンに参加してしまったのでしょうか？&lt;br&gt;僕が小学生の頃．ロボットを通してプログラミングを学び始めた頃から，ちらほらと「プログラマーかっこいいなー」と思っていました．中学ではその世界から離れ，高校ではプログラムは少しだけ書いていたものの，ろくな活動はしていませんでした．「大学ではバリバリコード書くぞ！」と思っていたのですが，電気工学科がバリバリコードを書ける環境にあるかというと，ぶっちゃけそうでもなく．気づいたら &lt;strong&gt;&lt;a href=&#34;http://mice.deca.jp/&#34;&gt;悪徳宗教サークルMice&lt;/a&gt;&lt;/strong&gt; に入部して組み込み開発と機械設計の毎日を送っていました．&lt;br&gt;学生生活もあと2年を切り，悔いのないようにしたいと思ったのが学部3年の5月．&lt;a href=&#34;http://blog.taniho.net/2016/08/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%972016%E5%85%A8%E5%9B%BD%E5%A4%A7%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%9F/&#34;&gt;セキュリティキャンプ&lt;/a&gt;の応募を考えている頃に，同時に将来のことなんかも考えていました．将来どんな仕事をしようか？ 定年まで働くの？ 大学院は？ いろいろ考えないといけないことがあります．周りの&lt;a href=&#34;https://twitter.com/hiro_engineer&#34;&gt;友達&lt;/a&gt;が「インターン，インターン！ インターン！！」と叫び出したので，とりあえずの気持ちでインターンに応募し始めました．&lt;br&gt;ハーフマウスの開発にお金が吹き飛んでいったことを言い訳にして「無給インターンは行きたくない！ お金の出るところだけ応募するぞ！」というとても厚かましいことを言い出し，LINE，yahoo，pixiv，はてなの4社に応募しました．結果，yahoo以外はすべて1次選考通過したのですが&lt;del&gt;スケジュールの兼ね合いで&lt;/del&gt;一番行きたかったはてなに行くことにしました！&lt;br&gt;はてなインターンシップの選考ではポートフォリオを出すように指定されたので，参考にも僕のポートフォリオサイトを公開しておきます．デザインがひどい件については，幅広くアドバイスを募集しています．&lt;br&gt;&lt;a href=&#34;http://taniho0707.github.io/&#34;&gt;Portfolio - taniho0707&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;おいマウスやれよ&#34;&gt;&lt;a href=&#34;#おいマウスやれよ&#34; class=&#34;headerlink&#34; title=&#34;おいマウスやれよ&#34;&gt;&lt;/a&gt;おいマウスやれよ&lt;/h2&gt;&lt;p&gt;誰かに会う度に言ってる気がするんですが，インターンにこの夏のすべてを捧げた感じがします．&lt;br&gt;&lt;img src=&#34;/2016/09/%E3%81%AF%E3%81%A6%E3%81%AA%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B32016%E3%81%A7%E6%9C%80%E9%AB%98%E3%81%AE%E5%A4%8F%E3%82%92%E9%81%8E%E3%81%94%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F/IMG_3464.PNG&#34; width=&#34;600&#34; /&gt;&lt;br&gt;&lt;strong&gt;休日が壊滅的に存在しない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;マウスで圧倒的進捗して台湾大会で優勝する予定(大嘘)だったのですが，インターンシップがたいへんハードなスケジュールだったので進捗を出せるはずもなく．Perl書きすぎてC++書けなくなってるかもしれませんが，10月からは頑張りたいと思います．&lt;/p&gt;
+&lt;h1 id=&#34;前半&#34;&gt;&lt;a href=&#34;#前半&#34; class=&#34;headerlink&#34; title=&#34;前半&#34;&gt;&lt;/a&gt;前半&lt;/h1&gt;&lt;p&gt;前半の講義が始まる前に，環境構築の時間がありました．僕のパソコンではMySQLが起動しないという大変な事態が起こっていたのですが，&lt;a href=&#34;http://polamjag.hatenablog.jp/&#34;&gt;id:polamjag&lt;/a&gt;くんやメンターの&lt;a href=&#34;http://windymelt.hatenablog.com/&#34;&gt;id:windymelt&lt;/a&gt;さんに助けてもらい，あっという間に解決しました．感謝！&lt;br&gt;この内容については別記事を書く予定です．&lt;/p&gt;
+&lt;p&gt;講義が始まったら，毎日新しい分野の専門講義を受講し，午後にそれを用いた課題に取り組みます．特にトラブルがなければ，必須課題は終わります．遅くても帰る時間(22時)には絶対終わると思います．ただ，応用課題はすごいざっくりとした課題なので，好きなだけ凝ることができます．そして気付いたら22時になって悲しくなります．初めの2週間は，大体こんな感じで過ぎていきました．&lt;br&gt;そういえば，この講義では超基本的なことはあまり触れられません．事前課題があるので，最低ラインの知識があること前提なのでしょう．しかし，最高の教科書と最高のメンターと，最高の講義のおかげもあり，メキメキと知識がついていくことが実感できました．&lt;/p&gt;
+&lt;p&gt;前半のハイライトです．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;はてな最高 &lt;a href=&#34;https://t.co/kHjlwsWF35&#34;&gt;pic.twitter.com/kHjlwsWF35&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/766602558869692417&#34;&gt;2016年8月19日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;今日のまかない。ふたばの豆餅付き！！！ &lt;a href=&#34;https://t.co/XTT7Ho3G3H&#34;&gt;pic.twitter.com/XTT7Ho3G3H&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/769028408391196672&#34;&gt;2016年8月26日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;グリーンカレー初めて食べたけど美味しかった．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;グリーンカレー &lt;a href=&#34;https://t.co/wZBbtF7lcA&#34;&gt;pic.twitter.com/wZBbtF7lcA&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/771559738848845824&#34;&gt;2016年9月2日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;生まれて初めてのファミコン．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;昨日のハイライトです &lt;a href=&#34;https://t.co/KDSQENqdnP&#34;&gt;pic.twitter.com/KDSQENqdnP&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/769341737340809216&#34;&gt;2016年8月27日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;http://profile.hatena.ne.jp/nanto_vi/&#34;&gt;id:nanto_vi&lt;/a&gt;さんに京都観光に連れて行ってもらいました！&lt;br&gt;コースは，平等院鳳凰堂からの下鴨神社！ 晩御飯は美味しい京野菜のお店に行きました！&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;帰省のたびに来てる気がする。たまこラブストーリー観たい &lt;a href=&#34;https://t.co/fiS2l2I3T5&#34;&gt;pic.twitter.com/fiS2l2I3T5&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/769458117146873856&#34;&gt;2016年8月27日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;帰った後たまこラブストーリー観ました．&lt;a href=&#34;http://hantasmouse.hatenablog.jp/entry/2015/10/27/140846&#34;&gt;subsonic&lt;/a&gt;最高だわ．&lt;/p&gt;
+&lt;h1 id=&#34;中間&#34;&gt;&lt;a href=&#34;#中間&#34; class=&#34;headerlink&#34; title=&#34;中間&#34;&gt;&lt;/a&gt;中間&lt;/h1&gt;&lt;p&gt;京都にいるのでいろんな人といろんなところに遊びに行きました．この章ははてなと関係ありません．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;東京から友達が来たので，ダリ展とか，日本橋とか，〜禁則事項〜地とか，深夜の伏見稲荷大社とか，地主神社とか行きました．&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;コミケの打ち上げを京都でやりました．近々DLSiteに登録するので，是非ご購入ください！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;地元の友達と花火しました．儚く落ちる線香花火．夏っぽくていいですね．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;夏って感じ &lt;a href=&#34;https://t.co/2i4GYHVMjZ&#34;&gt;pic.twitter.com/2i4GYHVMjZ&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/769889240217858048&#34;&gt;2016年8月28日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;後半&#34;&gt;&lt;a href=&#34;#後半&#34; class=&#34;headerlink&#34; title=&#34;後半&#34;&gt;&lt;/a&gt;後半&lt;/h1&gt;&lt;h2 id=&#34;配属&#34;&gt;&lt;a href=&#34;#配属&#34; class=&#34;headerlink&#34; title=&#34;配属&#34;&gt;&lt;/a&gt;配属&lt;/h2&gt;&lt;p&gt;後半では，それぞれのチームに2人ずつ配属されました．僕たちは機械学習・自然言語処理・アドテクノロジーコースということで，はてなブックマークなどなどを扱っている最高のチームに配属され，メンターの&lt;a href=&#34;http://www.yasuhisay.info/&#34;&gt;id:syou6162&lt;/a&gt;さんにサポートしてもらいながら作業していました！ チームメンバーとなった &lt;a href=&#34;http://t-na.hatenablog.com/&#34;&gt;id:takuya-nakamura&lt;/a&gt; くん，2週間の間お世話になりました！&lt;br&gt;後半課程として与えられた課題は，検索結果を改善すること．前半課程で学んだ機械学習の知識をフル活用し，検索エンジンの改良に取り組みました．&lt;/p&gt;
+&lt;h2 id=&#34;事件&#34;&gt;&lt;a href=&#34;#事件&#34; class=&#34;headerlink&#34; title=&#34;事件&#34;&gt;&lt;/a&gt;事件&lt;/h2&gt;&lt;p&gt;とある昼休みにはこんなことがありました．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;はてなブログ落ちてる&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/770480752072986628&#34;&gt;2016年8月30日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;インターン生が飛んで行った&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/770480799368024065&#34;&gt;2016年8月30日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;なんでもインターンあるあるだとか．&lt;br&gt;そんなこともあったブログチームですが，なんと最速リリースをして「優勝！ 優勝！」と叫んでいました．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;ブログチームの様子 &lt;a href=&#34;https://t.co/m986BCXRcd&#34;&gt;pic.twitter.com/m986BCXRcd&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/771207056854429696&#34;&gt;2016年9月1日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;さっそく設定しました!!!!!!!!!!!!!!!!!!!!!! / 他4コメント &lt;a href=&#34;https://t.co/A5cpecgFUE&#34;&gt;https://t.co/A5cpecgFUE&lt;/a&gt; “ブログのaboutページを自由に編集できるようにしました - はてなブログ開発ブログ” &lt;a href=&#34;https://t.co/wctYO6yFpn&#34;&gt;https://t.co/wctYO6yFpn&lt;/a&gt;&lt;/p&gt;&amp;mdash; 芹澤優 (@upamune) &lt;a href=&#34;https://twitter.com/upamune/status/773083266316312576&#34;&gt;2016年9月6日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;h2 id=&#34;定時後&#34;&gt;&lt;a href=&#34;#定時後&#34; class=&#34;headerlink&#34; title=&#34;定時後&#34;&gt;&lt;/a&gt;定時後&lt;/h2&gt;&lt;p&gt;3週目の定時後には毎日イベントが開催されており，毎日飲んで食べて踊っていました．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;サウスパークで汚れた心をアイカツで浄化する回 &lt;a href=&#34;https://twitter.com/hashtag/%E3%81%84%E3%82%8D%E3%81%84%E3%82%8D%E3%81%AA%E5%9B%9E?src=hash&#34;&gt;#いろいろな回&lt;/a&gt;&lt;/p&gt;&amp;mdash; すしす (@susisu2413) &lt;a href=&#34;https://twitter.com/susisu2413/status/771334213266132992&#34;&gt;2016年9月1日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;京都最高 &lt;a href=&#34;https://t.co/AW2GNDGv77&#34;&gt;pic.twitter.com/AW2GNDGv77&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/771724091891920896&#34;&gt;2016年9月2日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;いい感じの音楽を聞きながらビールを飲んでピザを食べている &lt;a href=&#34;https://t.co/2jUISYpwTm&#34;&gt;pic.twitter.com/2jUISYpwTm&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/773111843963318273&#34;&gt;2016年9月6日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;h2 id=&#34;面談&#34;&gt;&lt;a href=&#34;#面談&#34; class=&#34;headerlink&#34; title=&#34;面談&#34;&gt;&lt;/a&gt;面談&lt;/h2&gt;&lt;p&gt;社長面談があるということは事前に聞いていたのですが，まさかCTO面談，人事面談，社長面談と，3つも面談があるとは思っていませんでした！&lt;br&gt;社長とお話できる時間が用意されているのは，はてなインターンの魅力の一つではないかと思います．面談でなくてもお昼休みには役員・社員のみなさんが一緒にご飯を食べているので，話しかけ放題です．&lt;/p&gt;
+&lt;h2 id=&#34;最終発表&#34;&gt;&lt;a href=&#34;#最終発表&#34; class=&#34;headerlink&#34; title=&#34;最終発表&#34;&gt;&lt;/a&gt;最終発表&lt;/h2&gt;&lt;p&gt;最終日，配属されたチームごとに最終発表を行いました．僕達のチームは「機械学習とはなんぞや？」というところから易しく説明して，いかに苦労してフィルタが完成したか，というところを発表しました．&lt;br&gt;残念ながら1票という僅差で3位でしたが，多くの社員さんが感想と共に投票してくださり，とても嬉しかったです．&lt;/p&gt;
+&lt;h1 id=&#34;その他&#34;&gt;&lt;a href=&#34;#その他&#34; class=&#34;headerlink&#34; title=&#34;その他&#34;&gt;&lt;/a&gt;その他&lt;/h1&gt;&lt;h2 id=&#34;ダメ&#34;&gt;&lt;a href=&#34;#ダメ&#34; class=&#34;headerlink&#34; title=&#34;ダメ&#34;&gt;&lt;/a&gt;ダメ&lt;/h2&gt;&lt;p&gt;インターンもあと1週間となった頃，ふと良くないことに気付いてしまいました．&lt;br&gt;&lt;strong&gt;「帰り道に，ゲーセンあるじゃん」&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;クリアできた &lt;a href=&#34;https://t.co/9wAEaMyI4U&#34;&gt;pic.twitter.com/9wAEaMyI4U&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/773914896605908994&#34;&gt;2016年9月8日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;h2 id=&#34;インターン生&#34;&gt;&lt;a href=&#34;#インターン生&#34; class=&#34;headerlink&#34; title=&#34;インターン生&#34;&gt;&lt;/a&gt;インターン生&lt;/h2&gt;&lt;p&gt;楽しいインターン生ばかりでした．特に印象的だった出来事を3つだけピックアップ．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;酔わなくても語彙力が低いのに，酔うと崩壊してくる人．&lt;br&gt;&lt;a href=&#34;http://benevolent0505.hatenadiary.com/entry/2016/09/07/230753&#34;&gt;酔ってる - 雑紙&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;芹澤優ラブな人．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;40辛 (@ 辛麺専門店 辛獅子 in 京都市中京区, 京都府) &lt;a href=&#34;https://t.co/zHcDAULsj4&#34;&gt;https://t.co/zHcDAULsj4&lt;/a&gt; &lt;a href=&#34;https://t.co/2sLiW3PNG9&#34;&gt;pic.twitter.com/2sLiW3PNG9&lt;/a&gt;&lt;/p&gt;&amp;mdash; 芹澤優 (@upamune) &lt;a href=&#34;https://twitter.com/upamune/status/770583615415672832&#34;&gt;2016年8月30日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ISUCONメンバー(&lt;a href=&#34;http://ak1t0.hatenablog.com/&#34;&gt;id:ak1t0&lt;/a&gt;)も集まったので，ISUCON出場します！&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;超便利画像&#34;&gt;&lt;a href=&#34;#超便利画像&#34; class=&#34;headerlink&#34; title=&#34;超便利画像&#34;&gt;&lt;/a&gt;超便利画像&lt;/h2&gt;&lt;p&gt;さてさて，最後になりましたが&lt;br&gt;超便利画像を大公開！ はてなで出たご飯，はてなでおごってもらったご飯一覧です！！！&lt;/p&gt;
+&lt;img src=&#34;/2016/09/%E3%81%AF%E3%81%A6%E3%81%AA%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B32016%E3%81%A7%E6%9C%80%E9%AB%98%E3%81%AE%E5%A4%8F%E3%82%92%E9%81%8E%E3%81%94%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F/all.png&#34; width=&#34;600&#34; /&gt;
+
+&lt;h1 id=&#34;ほんの少しでも興味がある人へ&#34;&gt;&lt;a href=&#34;#ほんの少しでも興味がある人へ&#34; class=&#34;headerlink&#34; title=&#34;ほんの少しでも興味がある人へ&#34;&gt;&lt;/a&gt;ほんの少しでも興味がある人へ&lt;/h1&gt;&lt;p&gt;Web系の仕事に興味がある人！&lt;br&gt;プログラムを作ることが好きな人！&lt;br&gt;共同でコードを書いてみたい人！&lt;br&gt;すごい人たちと知り合いたい人！&lt;br&gt;はてなが大好きな人！&lt;/p&gt;
+&lt;p&gt;是非このインターンに参加すべきです！ 来年の夏休みの予定をあけて，パソコンとエディタを用意しておきましょう！ 心配することはなにもありません．インターンに合格するくらいなら，きっとついていけます．&lt;/p&gt;
+&lt;p&gt;その中で，インターン絶対合格したいという人は何か作りましょう！ 「ものを作っている人，それを完成させた人であれば，はてなに来てもやっていけるだろう」という考えを聞きました．「ゲーム作りたいなー」というのは簡単ですが，本当に完成させるのはなかなか大変です．ゲームじゃなくてロボットでも良いです．もちろんWebサービスでもいいでしょう．要するに，手を動かして何かを完成させる経験をするべきです．僕はマウス&lt;del&gt;をサボって&lt;/del&gt;が完成していないので偉そうには言えませんが，このことを心がけるといいでしょう．&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;&lt;a href=&#34;#総括&#34; class=&#34;headerlink&#34; title=&#34;総括&#34;&gt;&lt;/a&gt;総括&lt;/h1&gt;&lt;p&gt;お世話になった皆さん，お仕事が特に忙しい中に，本当にありがとうございました！ 最高だったはてな京都オフィスで，最高の経験をすることができました！&lt;/p&gt;
+&lt;h1 id=&#34;夏休みが終わったら&#34;&gt;&lt;a href=&#34;#夏休みが終わったら&#34; class=&#34;headerlink&#34; title=&#34;夏休みが終わったら&#34;&gt;&lt;/a&gt;夏休みが終わったら&lt;/h1&gt;&lt;p&gt;やらないといけないことがたくさん溜まっている気がしますが多分幻想だと思うので，&lt;a href=&#34;http://blog.taniho.net/2016/04/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E6%A9%9F%E3%81%AE%E5%95%8F%E9%A1%8C%E7%82%B9/&#34;&gt;これ&lt;/a&gt;に尽力します．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;なんかニコニコに上がってる方のデレステ演奏機がランキング食い込んでるけど、僕は諦めてないからな&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/768473178142220289&#34;&gt;2016年8月24日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+</content>
+        <category term="はてな" />
+        <category term="インターン" />
+        <category term="最高" />
+        <updated>2016-09-15T06:13:52.000Z</updated>
+    </entry>
+</feed>

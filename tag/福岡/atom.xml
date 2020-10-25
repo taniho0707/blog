@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;福岡&#34; tag</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2016-10-16T19:17:07.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2016/10/%E7%AC%AC26%E5%9B%9E%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E4%B9%9D%E5%B7%9E%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A%E3%81%A7%E5%86%8D%E7%8F%BE%E6%80%A7%E3%81%AE%E9%AB%98%E3%81%95%E3%82%92%E8%A6%8B%E3%81%9B%E3%81%A4%E3%81%91%E3%81%A6%E3%81%8D%E3%81%9F/</id>
+        <title>第26回マイクロマウス九州地区大会で再現性の高さを見せつけてきた</title>
+        <link rel="alternate" href="http://blog.taniho.net/2016/10/%E7%AC%AC26%E5%9B%9E%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E4%B9%9D%E5%B7%9E%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A%E3%81%A7%E5%86%8D%E7%8F%BE%E6%80%A7%E3%81%AE%E9%AB%98%E3%81%95%E3%82%92%E8%A6%8B%E3%81%9B%E3%81%A4%E3%81%91%E3%81%A6%E3%81%8D%E3%81%9F/"/>
+        <content type="html">&lt;h1 id=&#34;九州大会&#34;&gt;&lt;a href=&#34;#九州大会&#34; class=&#34;headerlink&#34; title=&#34;九州大会&#34;&gt;&lt;/a&gt;九州大会&lt;/h1&gt;&lt;p&gt;どうしてこんな遠いところに来てしまったんだろうか……(遠い目)&lt;/p&gt;
+&lt;img src=&#34;/2016/10/%E7%AC%AC26%E5%9B%9E%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E4%B9%9D%E5%B7%9E%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A%E3%81%A7%E5%86%8D%E7%8F%BE%E6%80%A7%E3%81%AE%E9%AB%98%E3%81%95%E3%82%92%E8%A6%8B%E3%81%9B%E3%81%A4%E3%81%91%E3%81%A6%E3%81%8D%E3%81%9F/IMG_3866.JPG&#34; width=&#34;600&#34; /&gt;
+
+&lt;p&gt;今年2回めの飛行機で，初めての九州上陸です．&lt;br&gt;航空会社はSTAR FLYERを使いましたが，国内線なのにモニタがついていたりしていてとてもすごかったです(小並感)．&lt;/p&gt;
+&lt;h1 id=&#34;屋台&#34;&gt;&lt;a href=&#34;#屋台&#34; class=&#34;headerlink&#34; title=&#34;屋台&#34;&gt;&lt;/a&gt;屋台&lt;/h1&gt;&lt;p&gt;着日の夜には&lt;a href=&#34;https://twitter.com/tencho100&#34;&gt;頭の&lt;/a&gt;&lt;a href=&#34;https://twitter.com/mmkn730&#34;&gt;悪い&lt;/a&gt;&lt;a href=&#34;https://twitter.com/tennisyi&#34;&gt;人たち&lt;/a&gt;と天神の屋台に行きました．&lt;/p&gt;
+&lt;p&gt;ずーーーーーっと歩き続けた後，とりあえず入った&lt;a href=&#34;https://tabelog.com/fukuoka/A4001/A400102/40017915/&#34;&gt;照ちゃん&lt;/a&gt;が大当たりで最高でした．&lt;br&gt;おでんもうまい，肉がうまい，酒がうまい，ラーメンがうまい．&lt;/p&gt;
+&lt;p&gt;僕はアジの唐揚げ(800円)をしゃぶり尽くして満面の笑みを浮かべていたと思います．&lt;/p&gt;
+&lt;img src=&#34;/2016/10/%E7%AC%AC26%E5%9B%9E%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E4%B9%9D%E5%B7%9E%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A%E3%81%A7%E5%86%8D%E7%8F%BE%E6%80%A7%E3%81%AE%E9%AB%98%E3%81%95%E3%82%92%E8%A6%8B%E3%81%9B%E3%81%A4%E3%81%91%E3%81%A6%E3%81%8D%E3%81%9F/IMG_3874.JPG&#34; width=&#34;600&#34; /&gt;
+
+&lt;h1 id=&#34;戦績&#34;&gt;&lt;a href=&#34;#戦績&#34; class=&#34;headerlink&#34; title=&#34;戦績&#34;&gt;&lt;/a&gt;戦績&lt;/h1&gt;&lt;p&gt;さて，&lt;a href=&#34;http://blog.taniho.net/2016/10/%E7%AC%AC34%E5%9B%9E%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E6%9D%B1%E6%97%A5%E6%9C%AC%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A%E3%82%92%E8%A6%8B%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F/&#34;&gt;前の記事で目標を書いていた&lt;/a&gt;ような気がします．&lt;br&gt;前回の東北大会では照明の影響が大きく，まともに走ることができませんでした．&lt;/p&gt;
+&lt;p&gt;今回の九州大会では，どうにか&lt;strong&gt;ゴール&lt;/strong&gt;をすることができました！&lt;br&gt;……が，なんと帰り探索でクラッシュ．5回連続で同じところで止まってしまい，最短走行をすることができませんでした．&lt;/p&gt;
+&lt;p&gt;反省点は，&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;スラロームの調整が甘い&lt;/li&gt;
+&lt;li&gt;探索でコケた時に迷路データが消えるのはダメ&lt;/li&gt;
+&lt;li&gt;前壁補正入れよう&lt;/li&gt;
+&lt;li&gt;壁切れ補正入れよう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;要するに準備不足なので，今週もがんばります．&lt;/p&gt;
+&lt;h1 id=&#34;進捗&#34;&gt;&lt;a href=&#34;#進捗&#34; class=&#34;headerlink&#34; title=&#34;進捗&#34;&gt;&lt;/a&gt;進捗&lt;/h1&gt;&lt;p&gt;出走が終わり，しょげていた時にぽちぽちとコードを書いていました．&lt;/p&gt;
+&lt;p&gt;おかげで&lt;strong&gt;迷路データのMRAMへの保存&lt;/strong&gt;ができるようになりました！&lt;br&gt;これで，仮に探索でコケてもそれまでのデータが消えることはなくなりました！！&lt;/p&gt;
+&lt;p&gt;次の中部大会では，&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;走行の安定&lt;/li&gt;
+&lt;li&gt;モード機能の実装&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;あたりを強化したいと思っています．&lt;/p&gt;
+</content>
+        <category term="マイクロマウス" />
+        <category term="旅行" />
+        <category term="福岡" />
+        <updated>2016-10-16T19:17:07.000Z</updated>
+    </entry>
+</feed>

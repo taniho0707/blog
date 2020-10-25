@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>taniho&#39;s blog • Posts by &#34;linux&#34; category</title>
+        <link>http://blog.taniho.net</link>
+        <description>technical note</description>
+        <language>en</language>
+        <pubDate>Fri, 15 Dec 2017 00:00:00 +0900</pubDate>
+        <lastBuildDate>Fri, 15 Dec 2017 00:00:00 +0900</lastBuildDate>
+        <category>Emacs</category>
+        <category>ArchLinux</category>
+        <category>マイクロマウス</category>
+        <category>台湾</category>
+        <category>旅行</category>
+        <category>たまこまーけっと</category>
+        <category>2016年</category>
+        <category>買い物</category>
+        <category>おすすめ</category>
+        <category>日常</category>
+        <category>2017年</category>
+        <category>クリスマス</category>
+        <category>Elecrow</category>
+        <category>電子工作</category>
+        <category>関西地区大会</category>
+        <category>猫</category>
+        <category>Apache</category>
+        <category>letsencrypt</category>
+        <category>Blu-ray</category>
+        <category>VLC</category>
+        <category>CNC</category>
+        <category>Magit</category>
+        <category>git</category>
+        <category>MFT</category>
+        <category>RaspberryPi</category>
+        <category>無線LAN</category>
+        <category>Mice</category>
+        <category>鵤</category>
+        <category>メジロ</category>
+        <category>Qt</category>
+        <category>デレステ</category>
+        <category>yakudo</category>
+        <category>Android</category>
+        <category>Discord</category>
+        <category>Webアプリ</category>
+        <category>教習所</category>
+        <category>ロボット</category>
+        <category>Linux</category>
+        <category>remark</category>
+        <category>スライドショー</category>
+        <category>ごはん</category>
+        <category>金町</category>
+        <category>クレジットカード</category>
+        <category>ヘボコン</category>
+        <category>ボードゲーム</category>
+        <category>Quadcept</category>
+        <category>CAD</category>
+        <category>Doxygen</category>
+        <category>2018年</category>
+        <category>dアニメストア</category>
+        <category>Renesas</category>
+        <category>RX62T</category>
+        <category>e2studio</category>
+        <category>github</category>
+        <category>マウス</category>
+        <category>分解</category>
+        <category>logicool</category>
+        <category>M570</category>
+        <category>G700s</category>
+        <category>seccamp2016</category>
+        <category>seccamp</category>
+        <category>ownCloud</category>
+        <category>サーバー</category>
+        <category>subsonic</category>
+        <category>音楽</category>
+        <category>みそ煮込みうどん</category>
+        <category>I.Sys</category>
+        <category>フラッグLED</category>
+        <category>i3</category>
+        <category>wm</category>
+        <category>AdventCalendar</category>
+        <category>モード</category>
+        <category>迷路</category>
+        <category>C++</category>
+        <category>調整</category>
+        <category>中華</category>
+        <category>まとめ</category>
+        <category>助けて</category>
+        <category>三角関数</category>
+        <category>福岡</category>
+        <category>東北地区大会</category>
+        <category>STL</category>
+        <category>入門</category>
+        <category>ラズパイコンテスト</category>
+        <category>NFC</category>
+        <category>C言語</category>
+        <category>部品</category>
+        <category>管理</category>
+        <category>電子部品</category>
+        <category>STM32CubeMX</category>
+        <category>FTDI</category>
+        <category>Makefile</category>
+        <category>アプリ</category>
+        <category>はてな</category>
+        <category>インターン</category>
+        <category>最高</category>
+        <category>セキュリティ・キャンプ</category>
+        <item>
+            <guid isPermalink="true">http://blog.taniho.net/2017/12/TAC-15-Linux%E4%BE%BF%E5%88%A9%E3%81%AA%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E9%9B%86/</guid>
+            <title>[TAC:15] Linux便利なコマンド集</title>
+            <link>http://blog.taniho.net/2017/12/TAC-15-Linux%E4%BE%BF%E5%88%A9%E3%81%AA%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E9%9B%86/</link>
+            <category>Linux</category>
+            <pubDate>Fri, 15 Dec 2017 00:00:00 +0900</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;この記事は&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;の15日目の記事です．&lt;/p&gt;
+&lt;p&gt;今日は僕が愛用しているLinuxコマンドを紹介します．愛用とか言うとsedとかなんとか言い出す人がいそうですが，今日は痒いところに手が届くツールをメインに紹介していきます．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;紹介&#34;&gt;&lt;a href=&#34;#紹介&#34; class=&#34;headerlink&#34; title=&#34;紹介&#34;&gt;&lt;/a&gt;紹介&lt;/h1&gt;&lt;h2 id=&#34;maim&#34;&gt;&lt;a href=&#34;#maim&#34; class=&#34;headerlink&#34; title=&#34;maim&#34;&gt;&lt;/a&gt;maim&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/naelstrof/maim&#34;&gt;naelstrof/maim&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;スクリーンショットが撮影できます．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;jpgまたはpngで保存&lt;/li&gt;
+&lt;li&gt;全画面・前面ウインドウのみ・ユーザ指定エリアのみの撮影ができる&lt;/li&gt;
+&lt;li&gt;マウスカーソルを含める・含めないの選択ができる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ユーザ指定エリアのみ切り出せる機能はWindowsのSnippingToolと同じ雰囲気ですが，これが非常に便利で愛用しています．ブログに掲載したスクリーンショットもこの機能を使って撮影しています．ちなみに僕のキーコンフィグは&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PrtSc：全画面撮影&lt;/li&gt;
+&lt;li&gt;Alt + PrtSc；前面ウインドウのみ撮影&lt;/li&gt;
+&lt;li&gt;Shift + PrtSc：ユーザ指定エリアのみ撮影&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;という感じで使っています．&lt;/p&gt;
+&lt;h2 id=&#34;zmv&#34;&gt;&lt;a href=&#34;#zmv&#34; class=&#34;headerlink&#34; title=&#34;zmv&#34;&gt;&lt;/a&gt;zmv&lt;/h2&gt;&lt;p&gt;強烈に便利です．ファイルの一括リネーム，文字種変換，ゼロ埋めなどがこのコマンド一つで事足ります．僕は詳しい説明が出来ないので次のリンクを見てください．&lt;br&gt;コマンドを実行する前にプレビューを見てリネームの確認ができるのも良いポイントです．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://wonderwall.hatenablog.com/entry/2017/02/26/000702&#34;&gt;Zshメモ : zmvコマンドでリネーム（連番、ゼロ埋め、置換、拡張子、大文字、小文字など） - もた日記&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;z-sh&#34;&gt;&lt;a href=&#34;#z-sh&#34; class=&#34;headerlink&#34; title=&#34;z.sh&#34;&gt;&lt;/a&gt;z.sh&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/rupa/z&#34;&gt;rupa/z: z&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;よく行くディレクトリに一発で移動できるコマンドです．入力した名前を，これまでアクセスしたディレクトリの履歴から探してきて移動してくれます．&lt;br&gt;例えば&lt;code&gt;/foo/bar/baz/qux/quux/corge/grault/waldo/fred/plugh/xyzzy/thud&lt;/code&gt;によくアクセスするとしましょう．この深いディレクトリにアクセスするためにフルネームを打ち込むのは面倒です．ここでz.shを使えば，&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;j thud&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;だけで目的の場所まで移動できます．&lt;br&gt;(もちろん，他に&lt;code&gt;/foo/thud&lt;/code&gt;なんていうディレクトリがあれば話は別ですが)&lt;/p&gt;
+&lt;h2 id=&#34;peco&#34;&gt;&lt;a href=&#34;#peco&#34; class=&#34;headerlink&#34; title=&#34;peco&#34;&gt;&lt;/a&gt;peco&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/peco/peco&#34;&gt;peco/peco&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;pecoです．コマンドの入力履歴から検索することが出来ます．「あーあのコマンドのオプションなんだっけ」みたいな時に履歴をパッと見られると便利です．&lt;/p&gt;
+&lt;h2 id=&#34;cam&#34;&gt;&lt;a href=&#34;#cam&#34; class=&#34;headerlink&#34; title=&#34;cam&#34;&gt;&lt;/a&gt;cam&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/itchyny/cam&#34;&gt;itchyny/cam&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ターミナルから&lt;strong&gt;画像を閲覧&lt;/strong&gt;できます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;cam.png&#34; alt=&#34;twitterアイコン&#34;&gt;&lt;/p&gt;
+&lt;p&gt;もう一度言います．ターミナルから&lt;strong&gt;画像を閲覧&lt;/strong&gt;できます．&lt;/p&gt;
+&lt;h2 id=&#34;linenotcat&#34;&gt;&lt;a href=&#34;#linenotcat&#34; class=&#34;headerlink&#34; title=&#34;linenotcat&#34;&gt;&lt;/a&gt;linenotcat&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/moznion/linenotcat&#34;&gt;moznion/linenotcat&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ターミナルからLINEを送れます．Linuxから携帯に文章や画像を送信したい時に便利です．&lt;/p&gt;
+&lt;h2 id=&#34;zsh-prompt&#34;&gt;&lt;a href=&#34;#zsh-prompt&#34; class=&#34;headerlink&#34; title=&#34;zsh prompt&#34;&gt;&lt;/a&gt;zsh prompt&lt;/h2&gt;&lt;p&gt;最後に僕のzsh promptの設定を紹介して終わりにしようと思います．&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;PROMPT=&lt;span class=&#34;string&#34;&gt;&amp;#x27;%B%F&amp;#123;white&amp;#125;%K&amp;#123;blue&amp;#125;%n@%m%k%f %F&amp;#123;green&amp;#125;%~%f%b $(git_super_status) %F&amp;#123;240&amp;#125;%*%f&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;string&#34;&gt; %# &amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&#34;zsh.png&#34; alt=&#34;ターミナルの様子&#34;&gt;&lt;/p&gt;
+&lt;p&gt;gitの情報が見えるので便利．また，時刻を表示しているので「あれ？ コンパイルしたっけ？？ 書き込みしたっけ？？？」みたいなことがあっても，時刻を見れば一発で判明して便利です．&lt;/p&gt;
+&lt;h1 id=&#34;まとめ&#34;&gt;&lt;a href=&#34;#まとめ&#34; class=&#34;headerlink&#34; title=&#34;まとめ&#34;&gt;&lt;/a&gt;まとめ&lt;/h1&gt;&lt;p&gt;こういうのすごい好きなのでもっと教えてください．&lt;/p&gt;
+&lt;p&gt;明日の&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;はremark，Linuxでも作れるプレゼンテーションツールを紹介しようと思います．&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

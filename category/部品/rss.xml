@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>taniho&#39;s blog • Posts by &#34;部品&#34; category</title>
+        <link>http://blog.taniho.net</link>
+        <description>technical note</description>
+        <language>en</language>
+        <pubDate>Mon, 03 Dec 2018 22:02:30 +0900</pubDate>
+        <lastBuildDate>Mon, 03 Dec 2018 22:02:30 +0900</lastBuildDate>
+        <category>Emacs</category>
+        <category>ArchLinux</category>
+        <category>マイクロマウス</category>
+        <category>台湾</category>
+        <category>旅行</category>
+        <category>たまこまーけっと</category>
+        <category>2016年</category>
+        <category>買い物</category>
+        <category>おすすめ</category>
+        <category>日常</category>
+        <category>2017年</category>
+        <category>クリスマス</category>
+        <category>Elecrow</category>
+        <category>電子工作</category>
+        <category>関西地区大会</category>
+        <category>猫</category>
+        <category>Apache</category>
+        <category>letsencrypt</category>
+        <category>Blu-ray</category>
+        <category>VLC</category>
+        <category>CNC</category>
+        <category>Magit</category>
+        <category>git</category>
+        <category>MFT</category>
+        <category>RaspberryPi</category>
+        <category>無線LAN</category>
+        <category>Mice</category>
+        <category>鵤</category>
+        <category>メジロ</category>
+        <category>Qt</category>
+        <category>デレステ</category>
+        <category>yakudo</category>
+        <category>Android</category>
+        <category>Discord</category>
+        <category>Webアプリ</category>
+        <category>教習所</category>
+        <category>ロボット</category>
+        <category>Linux</category>
+        <category>remark</category>
+        <category>スライドショー</category>
+        <category>ごはん</category>
+        <category>金町</category>
+        <category>クレジットカード</category>
+        <category>ヘボコン</category>
+        <category>ボードゲーム</category>
+        <category>Quadcept</category>
+        <category>CAD</category>
+        <category>Doxygen</category>
+        <category>2018年</category>
+        <category>dアニメストア</category>
+        <category>Renesas</category>
+        <category>RX62T</category>
+        <category>e2studio</category>
+        <category>github</category>
+        <category>マウス</category>
+        <category>分解</category>
+        <category>logicool</category>
+        <category>M570</category>
+        <category>G700s</category>
+        <category>seccamp2016</category>
+        <category>seccamp</category>
+        <category>ownCloud</category>
+        <category>サーバー</category>
+        <category>subsonic</category>
+        <category>音楽</category>
+        <category>みそ煮込みうどん</category>
+        <category>I.Sys</category>
+        <category>フラッグLED</category>
+        <category>i3</category>
+        <category>wm</category>
+        <category>AdventCalendar</category>
+        <category>モード</category>
+        <category>迷路</category>
+        <category>C++</category>
+        <category>調整</category>
+        <category>中華</category>
+        <category>まとめ</category>
+        <category>助けて</category>
+        <category>三角関数</category>
+        <category>福岡</category>
+        <category>東北地区大会</category>
+        <category>STL</category>
+        <category>入門</category>
+        <category>ラズパイコンテスト</category>
+        <category>NFC</category>
+        <category>C言語</category>
+        <category>部品</category>
+        <category>管理</category>
+        <category>電子部品</category>
+        <category>STM32CubeMX</category>
+        <category>FTDI</category>
+        <category>Makefile</category>
+        <category>アプリ</category>
+        <category>はてな</category>
+        <category>インターン</category>
+        <category>最高</category>
+        <category>セキュリティ・キャンプ</category>
+        <item>
+            <guid isPermalink="true">http://blog.taniho.net/2018/12/%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E3%81%AE%E7%AE%A1%E7%90%86%E6%96%B9%E6%B3%95%E3%82%92%E8%80%83%E3%81%88%E3%82%8B/</guid>
+            <title>電子部品の管理方法を考える</title>
+            <link>http://blog.taniho.net/2018/12/%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E3%81%AE%E7%AE%A1%E7%90%86%E6%96%B9%E6%B3%95%E3%82%92%E8%80%83%E3%81%88%E3%82%8B/</link>
+            <category>部品</category>
+            <category>管理</category>
+            <pubDate>Mon, 03 Dec 2018 22:02:30 +0900</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;この記事は&lt;a href=&#34;https://adventar.org/calendars/3562&#34;&gt;Mice Advent Calender 2018&lt;/a&gt;の2日目の記事です．&lt;br&gt;前日の記事はKubota_miceさんの&lt;a href=&#34;https://ku-hi.hatenablog.com/entry/2018/12/02/000752&#34;&gt;自己紹介？＆雑談&lt;/a&gt;でした．&lt;br&gt;今年からマイクロマウスの地区大会で完走記録がないと全日本大会に参加できないルールになってしまったため，人によっては&lt;del&gt;マイクロマウスシーズンが早く終わってしまうんですね&lt;/del&gt;．&lt;br&gt;いえ，新しいシーズンが1ヶ月早く始まる，と考えることもできますね．&lt;br&gt;&lt;strong&gt;無理なく&lt;/strong&gt;活動を続けていき，&lt;strong&gt;来年会えることを楽しみ&lt;/strong&gt;にしています．&lt;/p&gt;
+&lt;p&gt;さて話は変わり，皆さんはマイクロマウスや他の趣味で使っている電子部品はどのように管理されていますか？&lt;/p&gt;
+&lt;p&gt;部品を使うのは自分だけなので，適当に管理してもなんとなく運用できてしまう一方，あまり適当に管理していると同じ部品を買ってしまったり欲しい部品が見つからないといった問題も発生します．&lt;br&gt;そこで，本記事では僕の管理方法を晒しあげ，賛同/反対共に，皆さんの意見を聞き出そうという目的の記事です．&lt;br&gt;この記事に感化されてオススメの管理方法記事が増えていくと嬉しいです．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;今の管理方法&#34;&gt;&lt;a href=&#34;#今の管理方法&#34; class=&#34;headerlink&#34; title=&#34;今の管理方法&#34;&gt;&lt;/a&gt;今の管理方法&lt;/h1&gt;&lt;p&gt;今は写真のように，カードファイルを使っています．&lt;br&gt;元ネタをtwitterで見かけて参考にしました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;01.jpg&#34; alt=&#34;全貌&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;02.jpg&#34; alt=&#34;中身&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;03.jpg&#34; alt=&#34;中身&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;04.jpg&#34; alt=&#34;中身&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ファイルは&lt;a href=&#34;https://www.kokuyo-st.co.jp/search/1_detail.php?sid=100117035&#34;&gt;KOKUYO リングファイル&amp;lt;スリム&amp;gt;Ａ４Ｓ&lt;/a&gt;，&lt;br&gt;中身は&lt;a href=&#34;http://www.lihit-lab.com/products/catalog/G49160.html&#34;&gt;LIHIT リクエスト　クリヤーポケット［９ポケット］&lt;/a&gt;，&lt;a href=&#34;https://www.lihit-lab.com/products/catalog/G49150.html&#34;&gt;LIHIT リクエスト　クリヤーポケット［４ポケット］&lt;/a&gt;を併用しています．&lt;/p&gt;
+&lt;p&gt;小袋は秋月電子通商の&lt;a href=&#34;http://akizukidenshi.com/catalog/g/gP-04086&#34;&gt;チャック袋&lt;/a&gt;と&lt;a href=&#34;http://akizukidenshi.com/catalog/g/gP-05004&#34;&gt;帯電防止チャック袋&lt;/a&gt;を使っています．&lt;br&gt;どちらも非常に安価なので気兼ねなく使えます．&lt;/p&gt;
+&lt;p&gt;その他のマイルールとしては，以下の通り決めています．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ファイルは大きい部品(緑ファイル)，受動素子(赤ファイル)，その他の素子(青ファイル)に分類．&lt;/li&gt;
+&lt;li&gt;受動素子は，R・C・L・その他の順で前から並べる．&lt;br&gt;その中では，パッケージサイズ順に並べ，更に定数の小さい順に並べる．&lt;/li&gt;
+&lt;li&gt;その他の素子はジャンルごとに分けて並べる．&lt;br&gt;例えば，コネクタ・LED・トランジスタ・センサ・通信系IC・ロジックIC・メモリ，など．&lt;/li&gt;
+&lt;li&gt;小袋には&lt;a href=&#34;http://www.nichiban.co.jp/stationery/mytack/index.html&#34;&gt;マイタックラベル ML-7&lt;/a&gt;を貼り，部品名と主要なパラメータを記入する&lt;br&gt;例えば，LEDの場合は色と型番，抵抗の場合は抵抗値と誤差と定格電力，コンデンサの場合は容量と誤差と温度特性，その他のICは分類(6軸センサ・モータードライバ・磁気式エンコーダなど)と型番を書きます．&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以上のルールだけで運用しています．&lt;/p&gt;
+&lt;h1 id=&#34;良いこと&#34;&gt;&lt;a href=&#34;#良いこと&#34; class=&#34;headerlink&#34; title=&#34;良いこと&#34;&gt;&lt;/a&gt;良いこと&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;部品の場所がわからなくなることが無くなった&lt;br&gt;受動素子は順番に並んでいるのでもちろんのこと，ICもなんとなく近い物が順番に並ぶように並べているため，欲しい部品をささっと取り出すことができます．&lt;br&gt;また，新しいものを作る時に部品の在庫をすぐに調べられるようになりました．&lt;/li&gt;
+&lt;li&gt;収納しやすい&lt;br&gt;これまでは部品を小袋に入れたものを大きな袋に入れていたのですが，それだとどうしてもかさばってしまいます．&lt;br&gt;ファイルに入れることで本棚に立てることもできるようになり，置き場所の自由度が上がりました．&lt;/li&gt;
+&lt;li&gt;ルール化できているので脳死で管理できる&lt;br&gt;この管理方法に限ったことではないですが，わかりやすいルールを作ったことで直感的にファイリングをおこなうことができるようになりました．&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;悪いこと&#34;&gt;&lt;a href=&#34;#悪いこと&#34; class=&#34;headerlink&#34; title=&#34;悪いこと&#34;&gt;&lt;/a&gt;悪いこと&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;逆さを向けると部品が落ちてくる&lt;br&gt;ファイルには落ちないために返し？がついていますが，いちいちきっちり収納するのは大変面倒です．&lt;br&gt;しかし，これをサボるとファイルをひっくり返した時に部品が落ちてきてしまいます．&lt;br&gt;悪いのは僕なんだけど，面倒くさいよなあ&lt;/li&gt;
+&lt;li&gt;新しい部品が届くと時間が溶ける&lt;br&gt;当然ですがこの管理方法を続けるためには，新しい部品が届いたらすべての部品をファイルに収納する必要があります．&lt;br&gt;マイタックに名前を書き，長いリールはカットし，収納します．&lt;br&gt;受動部品は大変面倒で，新しく1005の1.2Ωを買ったときは最悪でした．というのも，定数の小さい順に並べていくため，既に持っているその部品より大きい定数の袋を順々にずらしていく必要があるからです．&lt;/li&gt;
+&lt;li&gt;ルールを見つけるのが難しい&lt;br&gt;今回は，ある程度のわかりやすいルールを見つけることができていますが，まだルール化出来ていないこともあります．&lt;br&gt;例えば，大きい部品の緑ファイル内は無秩序状態です．&lt;br&gt;今は部品数が少ないので問題にはなっていませんが，将来的に大きい部品が増えたときは新たに考える必要があると思います．&lt;/li&gt;
+&lt;li&gt;管理対象に出来ない部品がどうしても発生する&lt;br&gt;ファイルに入り切らない大量の部品や，厚みのある部品，尖っている部品，正体のわからない部品などはこの方法で管理できません．&lt;br&gt;仕方無しに別の袋に入れて別の場所に置いています．&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;さいごに&#34;&gt;&lt;a href=&#34;#さいごに&#34; class=&#34;headerlink&#34; title=&#34;さいごに&#34;&gt;&lt;/a&gt;さいごに&lt;/h1&gt;&lt;p&gt;以上が僕の電子部品管理方法です．&lt;br&gt;是非皆さんの管理方法を教えてください．それを見て僕の方法も逐一アップデートしていきたいと思っています．&lt;/p&gt;
+&lt;p&gt;さて，明日の&lt;a href=&#34;https://adventar.org/calendars/3562&#34;&gt;Mice Advent Calender 2018&lt;/a&gt;は，Savant013さんの謝罪会見です．&lt;br&gt;ん？ そういえば昨日の全日本大会でマウスを見なかった気がするな……？&lt;br&gt;どんな記事になるか楽しみです．&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

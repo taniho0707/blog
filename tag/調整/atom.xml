@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;調整&#34; tag</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2017-11-02T05:24:24.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2017/11/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E8%AA%BF%E6%95%B4%E6%B3%95-%E5%83%95%E5%90%91%E3%81%91/</id>
+        <title>マイクロマウス調整法(僕向け)</title>
+        <link rel="alternate" href="http://blog.taniho.net/2017/11/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E8%AA%BF%E6%95%B4%E6%B3%95-%E5%83%95%E5%90%91%E3%81%91/"/>
+        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;こんにちは．地区大会も残すところ中部だけとなり，あとは全日本に向けて仕上げていく時期となってまいりました．&lt;br&gt;みなさんマウスの調整はお済みでしょうか？&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://tenpura.sugo-roku.com/%E5%A3%81%E5%88%B6%E5%BE%A1/tofreshman&#34;&gt;マイクロマウス調整法（フレッシュマン向け） 徒然なるままに書きつくれば&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;さて早速ですが，先輩の記事にあやかって僕の調整のやり方を書き残しておこうと思います．ただし，&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;※今回の記事は個人の主義主張が強く含まれます。調整方法がコレで正解というわけではないので、あくまで一意見としてお聞きください。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;ということでお願いします．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;機体パラメータ&#34;&gt;&lt;a href=&#34;#機体パラメータ&#34; class=&#34;headerlink&#34; title=&#34;機体パラメータ&#34;&gt;&lt;/a&gt;機体パラメータ&lt;/h1&gt;&lt;p&gt;いろんなパラメータを合わせる前に，必ず調整が必要なパラメータがいくつかあります．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PIDゲイン&lt;/li&gt;
+&lt;li&gt;ジャイロセンサの”Angular rate sensitivity”&lt;/li&gt;
+&lt;li&gt;タイヤ径&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;このパラメータを変更するとすべてのパラメータを見直す必要があるため，&lt;strong&gt;必ず調整前に確認&lt;/strong&gt;します．&lt;/p&gt;
+&lt;h2 id=&#34;PIDゲイン&#34;&gt;&lt;a href=&#34;#PIDゲイン&#34; class=&#34;headerlink&#34; title=&#34;PIDゲイン&#34;&gt;&lt;/a&gt;PIDゲイン&lt;/h2&gt;&lt;p&gt;重心速度制御，角速度制御のそれぞれゲインを合わせます．&lt;/p&gt;
+&lt;p&gt;僕は決め打ちでゲインを合わせています．挙動を見て概ね良さそうなところまでもっていき，後は速度・角速度ログを見ながら微調整します．&lt;/p&gt;
+&lt;h2 id=&#34;ジャイロセンサの”Angular-rate-sensitivity”&#34;&gt;&lt;a href=&#34;#ジャイロセンサの”Angular-rate-sensitivity”&#34; class=&#34;headerlink&#34; title=&#34;ジャイロセンサの”Angular rate sensitivity”&#34;&gt;&lt;/a&gt;ジャイロセンサの”Angular rate sensitivity”&lt;/h2&gt;&lt;p&gt;単位が[dps/LSB]とか[mdps/LSB]とかで表されるアレです．&lt;br&gt;アナログジャイロの場合は特に，データシート通りの値ではない場合があるので必ず確認します．&lt;/p&gt;
+&lt;p&gt;調整方法は，180°の超信地旋回を10回〜20回程度走らせて，止まった時の角度を確認します．&lt;/p&gt;
+&lt;h2 id=&#34;タイヤ径&#34;&gt;&lt;a href=&#34;#タイヤ径&#34; class=&#34;headerlink&#34; title=&#34;タイヤ径&#34;&gt;&lt;/a&gt;タイヤ径&lt;/h2&gt;&lt;p&gt;タイヤ径は最も重要なパラメータの一つだと思いますが，一旦計算値を入れておき，&lt;strong&gt;両壁での壁制御ができるようになってから&lt;/strong&gt;調整を行います．&lt;/p&gt;
+&lt;p&gt;理由は2つあります．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;壁制御をかけた方が距離の計測がやりやすいから&lt;/li&gt;
+&lt;li&gt;本番でも壁制御を使うため，壁制御があることを前提としてタイヤ径を合わせたほうが良いから&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;調整方法は，迷路上にできるだけ長い直線区間を用意し，全区間に両壁を入れた状態でn区画走らせます．停止した地点がどれだけずれているかを確認し，タイヤ径を調整します．&lt;br&gt;そのため，スタート地点とゴール地点には補助線を引いておいたほうがいいでしょう．&lt;/p&gt;
+&lt;h1 id=&#34;壁制御&#34;&gt;&lt;a href=&#34;#壁制御&#34; class=&#34;headerlink&#34; title=&#34;壁制御&#34;&gt;&lt;/a&gt;壁制御&lt;/h1&gt;&lt;h2 id=&#34;左右センサのリファレンス値・Pゲイン&#34;&gt;&lt;a href=&#34;#左右センサのリファレンス値・Pゲイン&#34; class=&#34;headerlink&#34; title=&#34;左右センサのリファレンス値・Pゲイン&#34;&gt;&lt;/a&gt;左右センサのリファレンス値・Pゲイン&lt;/h2&gt;&lt;p&gt;壁制御のあれこれを説明する前に，まずは両壁での壁制御ができるようにします．&lt;br&gt;左右センサのリファレンス値は，前壁が存在しない迷路の中央にマウスを置き，平均値を取ります．&lt;/p&gt;
+&lt;p&gt;Pゲインは，次の条件を(数字の若い項目を優先して)満たすようにがんばります．&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;どれだけ端に寄せても暴走しない&lt;/li&gt;
+&lt;li&gt;半区画で角度が戻る&lt;/li&gt;
+&lt;li&gt;1区画で中心に戻る&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;ここまで合わせてから，タイヤ径の調整を行います．&lt;/p&gt;
+&lt;h2 id=&#34;壁の存在閾値&#34;&gt;&lt;a href=&#34;#壁の存在閾値&#34; class=&#34;headerlink&#34; title=&#34;壁の存在閾値&#34;&gt;&lt;/a&gt;壁の存在閾値&lt;/h2&gt;&lt;p&gt;壁が存在するかどうかを判断する閾値を調整します．&lt;/p&gt;
+&lt;p&gt;機械的に調整しようと試したことがあるのですが，うまくいきませんでした．したがって，直感とトライアルアンドエラーで調整しています．&lt;/p&gt;
+&lt;h2 id=&#34;壁切れの閾値&#34;&gt;&lt;a href=&#34;#壁切れの閾値&#34; class=&#34;headerlink&#34; title=&#34;壁切れの閾値&#34;&gt;&lt;/a&gt;壁切れの閾値&lt;/h2&gt;&lt;p&gt;壁切れの閾値は，壁の存在閾値と別に設定しています．&lt;br&gt;ただし，基本的に&lt;/p&gt;
+&lt;p&gt;(壁切れの閾値) = (壁の存在閾値) - n&lt;br&gt;n = 5 〜 20 程度の定数&lt;/p&gt;
+&lt;p&gt;みたいな感じでマシンごとに決めています．&lt;/p&gt;
+&lt;h1 id=&#34;スラローム&#34;&gt;&lt;a href=&#34;#スラローム&#34; class=&#34;headerlink&#34; title=&#34;スラローム&#34;&gt;&lt;/a&gt;スラローム&lt;/h1&gt;&lt;p&gt;一番大変なスラロームの調整です．探索時に使う小回りのスラロームについて書きます．&lt;/p&gt;
+&lt;p&gt;スラロームについて詳しくはこちらを参照してください．&lt;br&gt;&lt;a href=&#34;http://tenpura.sugo-roku.com/%E3%83%9E%E3%82%A6%E3%82%B9/%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B9%E3%83%A9%E3%83%AD%E3%83%BC%E3%83%A0%E8%B5%B0%E8%A1%8C&#34;&gt;マウスにおけるスラローム走行 徒然なるままに書きつくれば&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;スラローム調整項目&#34;&gt;&lt;a href=&#34;#スラローム調整項目&#34; class=&#34;headerlink&#34; title=&#34;スラローム調整項目&#34;&gt;&lt;/a&gt;スラローム調整項目&lt;/h2&gt;&lt;p&gt;スラロームには様々なパラメータがありますが，代表的なところでは&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;角加速度&lt;/li&gt;
+&lt;li&gt;転回する合計の角度&lt;/li&gt;
+&lt;li&gt;前距離・後ろ距離&lt;/li&gt;
+&lt;li&gt;円弧軌道で転回する角度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;があると思います．&lt;br&gt;ここで，円弧軌道で転回する角度は，転回する合計の角度の 1/3 で固定しています．(どうしても調整が難しい場合のみ変更)&lt;/p&gt;
+&lt;h2 id=&#34;合計の角度を調整&#34;&gt;&lt;a href=&#34;#合計の角度を調整&#34; class=&#34;headerlink&#34; title=&#34;合計の角度を調整&#34;&gt;&lt;/a&gt;合計の角度を調整&lt;/h2&gt;&lt;p&gt;まずはスラロームの角度を調整します．&lt;br&gt;次の迷路を5周程度周回させ，角度のみ直します．&lt;/p&gt;
+&lt;img src=&#34;slalom1.png&#34; width=&#34;400&#34; /&gt;
+
+&lt;p&gt;初めの直進時には，角度を直すために壁制御を有効化しておきます．それ以外では無効化しておきます．&lt;/p&gt;
+&lt;h2 id=&#34;前距離後ろ距離を調整&#34;&gt;&lt;a href=&#34;#前距離後ろ距離を調整&#34; class=&#34;headerlink&#34; title=&#34;前距離後ろ距離を調整&#34;&gt;&lt;/a&gt;前距離後ろ距離を調整&lt;/h2&gt;&lt;p&gt;次に前距離と後ろ距離を調整します．&lt;br&gt;次の迷路を走らせ(直進→90°旋回→直進)，停止位置がどれだけずれているか確認します．ずれを分かりやすくするため，図のように補助線を引いておくことをオススメします．&lt;/p&gt;
+&lt;img src=&#34;slalom2.png&#34; width=&#34;400&#34; /&gt;
+
+&lt;p&gt;初めの直進時には，角度を直すために壁制御を有効化しておきます．旋回後の直進時は余計な制御がかからないように壁制御を無効化します．&lt;/p&gt;
+&lt;h2 id=&#34;壁切れから区画までの距離&#34;&gt;&lt;a href=&#34;#壁切れから区画までの距離&#34; class=&#34;headerlink&#34; title=&#34;壁切れから区画までの距離&#34;&gt;&lt;/a&gt;壁切れから区画までの距離&lt;/h2&gt;&lt;p&gt;最後に壁切れの調整です．壁切れの閾値は調整済であるとして，壁切れが発生した地点が区画(柱と柱の間)からどれだけの距離であるか，設定する必要があります．これは左右のセンサの角度によって決まるため，右と左で別々に調整する必要があります．&lt;/p&gt;
+&lt;p&gt;調整迷路は，前距離後ろ距離の調整迷路と同じです．壁切れを有効化して，スラロームが正しい場所で終わることを確認します．&lt;/p&gt;
+&lt;h2 id=&#34;スラローム調整用迷路&#34;&gt;&lt;a href=&#34;#スラローム調整用迷路&#34; class=&#34;headerlink&#34; title=&#34;スラローム調整用迷路&#34;&gt;&lt;/a&gt;スラローム調整用迷路&lt;/h2&gt;&lt;p&gt;最後に，小回りスラロームがきちんと出来ているか検証するため，特訓迷路を紹介して終わりにします．&lt;/p&gt;
+&lt;img src=&#34;slalom3.png&#34; width=&#34;400&#34; /&gt;
+
+&lt;img src=&#34;slalom4.png&#34; width=&#34;200&#34; /&gt;
+
+&lt;p&gt;下の迷路は非常に重要で，問題なく走行することで「左右の前距離と後ろ距離の合計値が正しい」ことが保証されます．ただし，下の迷路を走れたからと言って上の迷路を走れるとは限らないので，どちらも試してみることをオススメします．&lt;/p&gt;
+&lt;h1 id=&#34;さいごに&#34;&gt;&lt;a href=&#34;#さいごに&#34; class=&#34;headerlink&#34; title=&#34;さいごに&#34;&gt;&lt;/a&gt;さいごに&lt;/h1&gt;&lt;p&gt;きあいでちょうせいするのはつらい&lt;/p&gt;
+</content>
+        <category term="マイクロマウス" />
+        <category term="調整" />
+        <updated>2017-11-02T05:24:24.000Z</updated>
+    </entry>
+</feed>

@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>taniho&#39;s blog • Posts by &#34;m570&#34; tag</title>
+        <link>http://blog.taniho.net</link>
+        <description>technical note</description>
+        <language>en</language>
+        <pubDate>Sat, 04 Feb 2017 09:50:27 +0900</pubDate>
+        <lastBuildDate>Sat, 04 Feb 2017 09:50:27 +0900</lastBuildDate>
+        <category>Emacs</category>
+        <category>ArchLinux</category>
+        <category>マイクロマウス</category>
+        <category>台湾</category>
+        <category>旅行</category>
+        <category>たまこまーけっと</category>
+        <category>2016年</category>
+        <category>買い物</category>
+        <category>おすすめ</category>
+        <category>日常</category>
+        <category>2017年</category>
+        <category>クリスマス</category>
+        <category>Elecrow</category>
+        <category>電子工作</category>
+        <category>関西地区大会</category>
+        <category>猫</category>
+        <category>Apache</category>
+        <category>letsencrypt</category>
+        <category>Blu-ray</category>
+        <category>VLC</category>
+        <category>CNC</category>
+        <category>Magit</category>
+        <category>git</category>
+        <category>MFT</category>
+        <category>RaspberryPi</category>
+        <category>無線LAN</category>
+        <category>Mice</category>
+        <category>鵤</category>
+        <category>メジロ</category>
+        <category>Qt</category>
+        <category>デレステ</category>
+        <category>yakudo</category>
+        <category>Android</category>
+        <category>Discord</category>
+        <category>Webアプリ</category>
+        <category>教習所</category>
+        <category>ロボット</category>
+        <category>Linux</category>
+        <category>remark</category>
+        <category>スライドショー</category>
+        <category>ごはん</category>
+        <category>金町</category>
+        <category>クレジットカード</category>
+        <category>ヘボコン</category>
+        <category>ボードゲーム</category>
+        <category>Quadcept</category>
+        <category>CAD</category>
+        <category>Doxygen</category>
+        <category>2018年</category>
+        <category>dアニメストア</category>
+        <category>Renesas</category>
+        <category>RX62T</category>
+        <category>e2studio</category>
+        <category>github</category>
+        <category>マウス</category>
+        <category>分解</category>
+        <category>logicool</category>
+        <category>M570</category>
+        <category>G700s</category>
+        <category>seccamp2016</category>
+        <category>seccamp</category>
+        <category>ownCloud</category>
+        <category>サーバー</category>
+        <category>subsonic</category>
+        <category>音楽</category>
+        <category>みそ煮込みうどん</category>
+        <category>I.Sys</category>
+        <category>フラッグLED</category>
+        <category>i3</category>
+        <category>wm</category>
+        <category>AdventCalendar</category>
+        <category>モード</category>
+        <category>迷路</category>
+        <category>C++</category>
+        <category>調整</category>
+        <category>中華</category>
+        <category>まとめ</category>
+        <category>助けて</category>
+        <category>三角関数</category>
+        <category>福岡</category>
+        <category>東北地区大会</category>
+        <category>STL</category>
+        <category>入門</category>
+        <category>ラズパイコンテスト</category>
+        <category>NFC</category>
+        <category>C言語</category>
+        <category>部品</category>
+        <category>管理</category>
+        <category>電子部品</category>
+        <category>STM32CubeMX</category>
+        <category>FTDI</category>
+        <category>Makefile</category>
+        <category>アプリ</category>
+        <category>はてな</category>
+        <category>インターン</category>
+        <category>最高</category>
+        <category>セキュリティ・キャンプ</category>
+        <item>
+            <guid isPermalink="true">http://blog.taniho.net/2017/02/logicool%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8C%E3%83%81%E3%83%A3%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99%E3%81%AE%E3%81%A7%E4%BF%AE%E7%90%86%E3%81%97%E3%81%9F/</guid>
+            <title>logicoolのマウスがチャタリングを起こすので修理した</title>
+            <link>http://blog.taniho.net/2017/02/logicool%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8C%E3%83%81%E3%83%A3%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99%E3%81%AE%E3%81%A7%E4%BF%AE%E7%90%86%E3%81%97%E3%81%9F/</link>
+            <category>マウス</category>
+            <category>分解</category>
+            <category>logicool</category>
+            <category>M570</category>
+            <category>G700s</category>
+            <pubDate>Sat, 04 Feb 2017 09:50:27 +0900</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;僕はlogicoolのマウスを愛用しています．これまでに買ったマウスは，&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://support.logicool.co.jp/ja_jp/product/mx-620-cordless-laser-mouse&#34;&gt;MX620&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://support.logicool.co.jp/ja_jp/product/wireless-trackball-m570&#34;&gt;M570&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://support.logicool.co.jp/ja_jp/product/g700s-rechargable-wireless-gaming-mouse&#34;&gt;G700s&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;しかし，もう購入して3年以上たっているので，チャタリングが多発するようになりました．そこで，今回の記事ではM570とG700sのスイッチを交換した記録をまとめようと思います．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;M570&#34;&gt;&lt;a href=&#34;#M570&#34; class=&#34;headerlink&#34; title=&#34;M570&#34;&gt;&lt;/a&gt;M570&lt;/h1&gt;&lt;h2 id=&#34;代替品&#34;&gt;&lt;a href=&#34;#代替品&#34; class=&#34;headerlink&#34; title=&#34;代替品&#34;&gt;&lt;/a&gt;代替品&lt;/h2&gt;&lt;p&gt;ネットでググった情報をもとに，オムロンの&lt;a href=&#34;https://www.monotaro.com/p/3903/6085/&#34;&gt;D2F-01F&lt;/a&gt;を2個購入しました．マウスの左クリック・右クリック部分のスイッチを交換していきます．&lt;/p&gt;
+&lt;h2 id=&#34;分解手順&#34;&gt;&lt;a href=&#34;#分解手順&#34; class=&#34;headerlink&#34; title=&#34;分解手順&#34;&gt;&lt;/a&gt;分解手順&lt;/h2&gt;&lt;p&gt;これがM570です．&lt;br&gt;&lt;img src=&#34;/2017/02/logicool%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8C%E3%83%81%E3%83%A3%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99%E3%81%AE%E3%81%A7%E4%BF%AE%E7%90%86%E3%81%97%E3%81%9F/02.jpg&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;分解していきます．&lt;br&gt;分解には，トルクスレンチのT5が必要です．&lt;/p&gt;
+&lt;p&gt;ウラ面の滑り止めを3つ剥がし，計4箇所のネジを外します．&lt;br&gt;&lt;img src=&#34;/2017/02/logicool%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8C%E3%83%81%E3%83%A3%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99%E3%81%AE%E3%81%A7%E4%BF%AE%E7%90%86%E3%81%97%E3%81%9F/01.jpg&#34; width=&#34;300&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;/2017/02/logicool%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8C%E3%83%81%E3%83%A3%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99%E3%81%AE%E3%81%A7%E4%BF%AE%E7%90%86%E3%81%97%E3%81%9F/03.jpg&#34; width=&#34;600&#34; /&gt;
+電池ボックスのシールを剥がし，その下のネジも外します．
+&lt;img src=&#34;/2017/02/logicool%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8C%E3%83%81%E3%83%A3%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99%E3%81%AE%E3%81%A7%E4%BF%AE%E7%90%86%E3%81%97%E3%81%9F/04.jpg&#34; width=&#34;600&#34; /&gt;
+
+&lt;p&gt;これでマウスのケースを分離することができます．ケースを外したときの様子です．&lt;br&gt;&lt;img src=&#34;/2017/02/logicool%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8C%E3%83%81%E3%83%A3%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99%E3%81%AE%E3%81%A7%E4%BF%AE%E7%90%86%E3%81%97%E3%81%9F/05.jpg&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;基板は普通にプラスネジで外すことができます．せっかくなので，少し観察．&lt;br&gt;この写真の上部分が無線通信用のアンテナっぽい．&lt;br&gt;&lt;img src=&#34;/2017/02/logicool%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8C%E3%83%81%E3%83%A3%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99%E3%81%AE%E3%81%A7%E4%BF%AE%E7%90%86%E3%81%97%E3%81%9F/06.jpg&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;基板表面の全体像．コンパクトに収まっていていいですね．マイコンはAtmega168PAを使っているみたい．右側が電源用の昇圧回路かと予想．それ以外には目立った部品はなかったので，本当にシンプルに作られているようです．&lt;br&gt;&lt;img src=&#34;/2017/02/logicool%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8C%E3%83%81%E3%83%A3%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99%E3%81%AE%E3%81%A7%E4%BF%AE%E7%90%86%E3%81%97%E3%81%9F/07.jpg&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;さてさて，問題のスイッチを交換していきます．まずはもともとのスイッチを取り外しました．ハンダ吸い取り線とハンダを使って取り外します．最後までハンダを吸い取らないと外しにくいので頑張ってください．ハンダをすべて剥がせなかったときは，その上に少量のハンダを乗せます．そうすることで，半田の吸い取りがしやすくなります．&lt;br&gt;&lt;img src=&#34;/2017/02/logicool%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8C%E3%83%81%E3%83%A3%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99%E3%81%AE%E3%81%A7%E4%BF%AE%E7%90%86%E3%81%97%E3%81%9F/08.jpg&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;さいごに，どーんと新しいスイッチをはんだ付けすれば完了です！&lt;br&gt;&lt;img src=&#34;/2017/02/logicool%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8C%E3%83%81%E3%83%A3%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99%E3%81%AE%E3%81%A7%E4%BF%AE%E7%90%86%E3%81%97%E3%81%9F/09.jpg&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;無事，チャタリングの起こらないマウスへと変貌しました．&lt;/p&gt;
+&lt;h1 id=&#34;G700s&#34;&gt;&lt;a href=&#34;#G700s&#34; class=&#34;headerlink&#34; title=&#34;G700s&#34;&gt;&lt;/a&gt;G700s&lt;/h1&gt;&lt;h2 id=&#34;代替品-1&#34;&gt;&lt;a href=&#34;#代替品-1&#34; class=&#34;headerlink&#34; title=&#34;代替品&#34;&gt;&lt;/a&gt;代替品&lt;/h2&gt;&lt;p&gt;ネットでググった情報をもとに，オムロンのD2F-01Fを2個……はい，先ほどと同じです．同じようにやっていきましょう．&lt;/p&gt;
+&lt;h2 id=&#34;分解手順-1&#34;&gt;&lt;a href=&#34;#分解手順-1&#34; class=&#34;headerlink&#34; title=&#34;分解手順&#34;&gt;&lt;/a&gt;分解手順&lt;/h2&gt;&lt;p&gt;これがG700sです．有線でも無線でも使えるゲーミングマウスということで，かゆいところに手が届く……気がしたのですが，いかんせんバッテリー持ちが極端に悪いので(1日持たない)完全に有線ゲーミングマウスとして使っています．キー数はこれが最適解だと思っています．親指で4キーを操作できるのは素晴らしい．&lt;br&gt;&lt;img src=&#34;/2017/02/logicool%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8C%E3%83%81%E3%83%A3%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99%E3%81%AE%E3%81%A7%E4%BF%AE%E7%90%86%E3%81%97%E3%81%9F/10.jpg&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;さて，分解していきます．裏側のカグスベールっぽいやつ(マウスソールと呼ぶらしいです)をすべて剥がし，ネジを5本外します．こちらは普通のプラスネジでした．&lt;br&gt;&lt;img src=&#34;/2017/02/logicool%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8C%E3%83%81%E3%83%A3%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99%E3%81%AE%E3%81%A7%E4%BF%AE%E7%90%86%E3%81%97%E3%81%9F/11.jpg&#34; width=&#34;300&#34; /&gt;&lt;br&gt;&lt;img src=&#34;/2017/02/logicool%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8C%E3%83%81%E3%83%A3%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99%E3%81%AE%E3%81%A7%E4%BF%AE%E7%90%86%E3%81%97%E3%81%9F/12.jpg&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;ケースを開いた様子です．M570とは打って変わって，基板がでかい！&lt;br&gt;&lt;img src=&#34;/2017/02/logicool%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8C%E3%83%81%E3%83%A3%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99%E3%81%AE%E3%81%A7%E4%BF%AE%E7%90%86%E3%81%97%E3%81%9F/13.jpg&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;マウスホイール部分の，写真で言う右端部分に，ピンのようなものがついています．これを力づくで抜くことで，マウスホイールを取り外すことができます．&lt;br&gt;また，写真の左側についていた金属部分も，ネジを外して取っておきます．小さなバネが2つついているのでなくさないように気をつけて．&lt;br&gt;それから，右端部分の黒いプラスチックパーツも，ネジを外して取っておきます．&lt;br&gt;&lt;img src=&#34;/2017/02/logicool%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8C%E3%83%81%E3%83%A3%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99%E3%81%AE%E3%81%A7%E4%BF%AE%E7%90%86%E3%81%97%E3%81%9F/14.jpg&#34; width=&#34;600&#34; /&gt;&lt;br&gt;これだけの部品が出てきました．&lt;br&gt;&lt;img src=&#34;/2017/02/logicool%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8C%E3%83%81%E3%83%A3%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99%E3%81%AE%E3%81%A7%E4%BF%AE%E7%90%86%E3%81%97%E3%81%9F/15.jpg&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;余談ですが，レーザー部分がモジュール化(？)されていました．ここだけ別開発して，いろんなマウスで使いまわせるようにしているのでしょうか？&lt;/p&gt;
+&lt;p&gt;さて，ひとつだけ問題があって，上の基板と下の基板は，2mmピッチの連結ピンヘッダではんだ付けされています．この14ピンを気合で取り外す必要がありました．見た目ほど難しくもなかったので写真は取ってませんでした．&lt;br&gt;外した基板の全体像です．スイッチは交換済みです．&lt;br&gt;マイコンはNXPでした．電源回路がめっちゃデカイです．このマウスはニッケル水素電池専用で，充電もできるようになっています．その影響ではないでしょうか．&lt;br&gt;&lt;img src=&#34;/2017/02/logicool%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8C%E3%83%81%E3%83%A3%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99%E3%81%AE%E3%81%A7%E4%BF%AE%E7%90%86%E3%81%97%E3%81%9F/16.jpg&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;元々使用されていたスイッチ&#34;&gt;&lt;a href=&#34;#元々使用されていたスイッチ&#34; class=&#34;headerlink&#34; title=&#34;元々使用されていたスイッチ&#34;&gt;&lt;/a&gt;元々使用されていたスイッチ&lt;/h1&gt;&lt;p&gt;さて，左がM570，右がG700sのマウスに元々ついていたスイッチです．左は型番不明(そもそもオムロン製ではない気がする)，右は系列品の中国製造品でした．&lt;br&gt;&lt;img src=&#34;/2017/02/logicool%E3%81%AE%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%8C%E3%83%81%E3%83%A3%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E8%B5%B7%E3%81%93%E3%81%99%E3%81%AE%E3%81%A7%E4%BF%AE%E7%90%86%E3%81%97%E3%81%9F/17.jpg&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;今回交換したスイッチは機械的耐性100万回，電気的耐性10万回となっていました．交換もなかなか面倒なので，頑張って2,3年位は持ってほしいなあと思います．&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

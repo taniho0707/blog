@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;owncloud&#34; tag</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2018-07-21T11:00:03.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2018/07/ownCloud%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%90%8C%E6%9C%9F%E3%81%AB%E5%A4%B1%E6%95%97%E3%81%97%E3%81%9F/</id>
+        <title>ownCloudのファイル同期に失敗した</title>
+        <link rel="alternate" href="http://blog.taniho.net/2018/07/ownCloud%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%90%8C%E6%9C%9F%E3%81%AB%E5%A4%B1%E6%95%97%E3%81%97%E3%81%9F/"/>
+        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;数年前から，個人で使っているパソコンのファイル同期にはownCloudを使っています．&lt;/p&gt;
+&lt;p&gt;詳しくはこの記事を見てください．&lt;br&gt;&lt;a href=&#34;http://hantasmouse.hatenablog.jp/entry/2015/07/21/154021&#34;&gt;OneDrive-&amp;gt;ownCloud - hantas’s blog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;なかなか快適に利用しているのですが，今日大量のファイル追加＆リネームを行った結果，ファイルの同期に失敗してしまいました．&lt;br&gt;今回のブログでは，そのトラブルの解決法を書き残しておきます．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;原因&#34;&gt;&lt;a href=&#34;#原因&#34; class=&#34;headerlink&#34; title=&#34;原因&#34;&gt;&lt;/a&gt;原因&lt;/h1&gt;&lt;p&gt;原因は至って簡単で，大量のフォルダとその中にある画像ファイルをまとめて追加しました．&lt;br&gt;そして，同期が完了しないうちにすべてのフォルダをリネームしたせいで，サーバー内の処理が正しく完了せず，今回のトラブルに至ります．&lt;/p&gt;
+&lt;h1 id=&#34;症状と解決法&#34;&gt;&lt;a href=&#34;#症状と解決法&#34; class=&#34;headerlink&#34; title=&#34;症状と解決法&#34;&gt;&lt;/a&gt;症状と解決法&lt;/h1&gt;&lt;h2 id=&#34;症状1&#34;&gt;&lt;a href=&#34;#症状1&#34; class=&#34;headerlink&#34; title=&#34;症状1&#34;&gt;&lt;/a&gt;症状1&lt;/h2&gt;&lt;p&gt;初めに発生したエラーは，&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Server replied “423 Locked” to “GET “(〜〜〜)””&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;原因がわかりませんでしたが，該当のファイルがロックされた状態になっていて操作できなくなっていた気がします．&lt;/p&gt;
+&lt;p&gt;そこで，&lt;br&gt;&lt;a href=&#34;https://arimasou16.com/blog/2018/02/16/00247/&#34;&gt;ownCloudが、Server replied “423 Locked”…で同期エラーとなるのを解消する - 有馬総一郎のブログ&lt;/a&gt;&lt;br&gt;この記事通りに作業をすると，一部のファイルが操作できるようになっていました．よしよし．&lt;/p&gt;
+&lt;h2 id=&#34;症状2&#34;&gt;&lt;a href=&#34;#症状2&#34; class=&#34;headerlink&#34; title=&#34;症状2&#34;&gt;&lt;/a&gt;症状2&lt;/h2&gt;&lt;p&gt;次に発生していたエラーは，&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Server replied “503 Could not open file “(〜〜〜)””&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;データベース上は存在しているのに，サーバー上の実ファイルは削除されている状態でした．&lt;/p&gt;
+&lt;p&gt;そこで，ファイルリストを再スキャンしました．&lt;br&gt;&lt;a href=&#34;https://qiita.com/wakisuke/items/248928bddd26afcb1f05&#34;&gt;ownCloudの導入と保存先変更など - Qiita&lt;/a&gt;&lt;br&gt;occのコマンドを叩けば一発でした．&lt;/p&gt;
+&lt;h1 id=&#34;おわりに&#34;&gt;&lt;a href=&#34;#おわりに&#34; class=&#34;headerlink&#34; title=&#34;おわりに&#34;&gt;&lt;/a&gt;おわりに&lt;/h1&gt;&lt;p&gt;なおってよかった&lt;/p&gt;
+</content>
+        <category term="ownCloud" />
+        <updated>2018-07-21T11:00:03.000Z</updated>
+    </entry>
+</feed>

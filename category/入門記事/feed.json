@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "taniho's blog • All posts by \"入門記事\" category",
+    "description": "technical note",
+    "home_page_url": "http://blog.taniho.net",
+    "items": [
+        {
+            "id": "http://blog.taniho.net/2017/05/RaspberryPi%E3%81%A7%E5%AD%A6%E5%86%85%E7%84%A1%E7%B7%9ALAN%E3%81%AB%E6%8E%A5%E7%B6%9A%E3%81%99%E3%82%8B/",
+            "url": "http://blog.taniho.net/2017/05/RaspberryPi%E3%81%A7%E5%AD%A6%E5%86%85%E7%84%A1%E7%B7%9ALAN%E3%81%AB%E6%8E%A5%E7%B6%9A%E3%81%99%E3%82%8B/",
+            "title": "RaspberryPiで学内無線LANに接続する",
+            "date_published": "2017-05-23T06:53:13.000Z",
+            "content_html": "<h1 id=\"はじめに\"><a href=\"#はじめに\" class=\"headerlink\" title=\"はじめに\"></a>はじめに</h1><p>最近ブログの更新をサボっていたのでこんな記事でお茶を濁そうと思います．</p>\n<p>RaspberryPiで学内の無線LANに接続したいと思ったわけですが，なかなか面倒な認証方式だったのでメモを残しておきます．</p>\n<a id=\"more\"></a>\n\n<h1 id=\"Raspbianでの無線LAN操作\"><a href=\"#Raspbianでの無線LAN操作\" class=\"headerlink\" title=\"Raspbianでの無線LAN操作\"></a>Raspbianでの無線LAN操作</h1><p><a href=\"https://www.modmypi.com/blog/how-to-set-up-the-ralink-rt5370-wifi-dongle-on-raspian\">ModMyPi | How to Set Up the Ralink RT5370 WiFi Dongle on Raspian</a></p>\n<h1 id=\"認証\"><a href=\"#認証\" class=\"headerlink\" title=\"認証\"></a>認証</h1><p><a href=\"https://bbs.archlinux.org/viewtopic.php?id=183766\">Wpa_supplicant on WPA2-Enterprise / Newbie Corner / Arch Linux Forums</a></p>\n<p>/etc/wpa_supplicant/wpa_supplicant.conf を編集します．</p>\n<figure class=\"highlight plain\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br><span class=\"line\">5</span><br><span class=\"line\">6</span><br><span class=\"line\">7</span><br><span class=\"line\">8</span><br><span class=\"line\">9</span><br><span class=\"line\">10</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">network&#x3D;&#123;</span><br><span class=\"line\">        scan_ssid&#x3D;1</span><br><span class=\"line\">        ssid&#x3D;&quot;ssid&quot;</span><br><span class=\"line\">        key_mgmt&#x3D;WPA-EAP</span><br><span class=\"line\">        eap&#x3D;PEAP</span><br><span class=\"line\">        identity&#x3D;&quot;identity&quot;</span><br><span class=\"line\">        phase1&#x3D;&quot;peaplabel&#x3D;auto peapver&#x3D;0 &quot;</span><br><span class=\"line\">        phase2&#x3D;&quot;auth&#x3D;MSCHAPV2&quot;</span><br><span class=\"line\">        password&#x3D;&quot;passwd&quot;</span><br><span class=\"line\">&#125;</span><br></pre></td></tr></table></figure>\n\n<p>で動きます．<br>設定を変更した後は</p>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">sudo wpa_action wlan0 stop</span><br><span class=\"line\">sudo ifup wlan0</span><br><span class=\"line\">sudo wpa_cli status</span><br></pre></td></tr></table></figure>\n\n<p>でインターネットにつながるはずです．</p>\n<h1 id=\"次回予告\"><a href=\"#次回予告\" class=\"headerlink\" title=\"次回予告\"></a>次回予告</h1><p>新作マウスを鋭意製作中！<br>果たして無理な部品実装に僕の手先は耐えられるのか！？<br>タイヤのサイズを考えずに作ったホイールだけどどうなっちゃうの！？<br>次回！ タニタンv3.0H(仮)死す！ お楽しみに！！</p>\n<p><img src=\"01.png\" title=\"タイヤ\"></p>\n",
+            "tags": [
+                "RaspberryPi",
+                "無線LAN"
+            ]
+        }
+    ]
+}

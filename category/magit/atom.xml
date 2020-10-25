@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;magit&#34; category</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2016-04-14T08:01:35.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2016/04/Emacser%E5%BE%A1%E7%94%A8%E9%81%94git%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/</id>
+        <title>Emacser御用達gitクライアント</title>
+        <link rel="alternate" href="http://blog.taniho.net/2016/04/Emacser%E5%BE%A1%E7%94%A8%E9%81%94git%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/"/>
+        <content type="html">&lt;p&gt;gitがようやく部内に広まりつつありますが，そのきっかけの一つはGUI操作のできるgitクライアントが紹介されたことでしょう。&lt;br&gt;僕もWindowsで使っている &lt;a href=&#34;https://tortoisegit.org/&#34;&gt;TortoiseGit&lt;/a&gt; は，エクスプローラに統合でき，かなり使い勝手のいいクライアントだと思います。&lt;br&gt;しかし，Linuxを常用しているのでなにかいいクライアントが無いものかと探していたら，Emacs向けのパッケージを見つけました。&lt;br&gt;(それまではコマンド直打ちをしていましたが，やはり面倒。gitの学習のためにはコマンドを自分で打つべきだとは思います。)&lt;/p&gt;
+&lt;h1 id=&#34;Magit&#34;&gt;&lt;a href=&#34;#Magit&#34; class=&#34;headerlink&#34; title=&#34;Magit&#34;&gt;&lt;/a&gt;Magit&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/magit/magit&#34;&gt;Magit&lt;/a&gt;&lt;br&gt;パッケージマネージャからインストールしてやりました。&lt;/p&gt;
+&lt;h2 id=&#34;起動&#34;&gt;&lt;a href=&#34;#起動&#34; class=&#34;headerlink&#34; title=&#34;起動&#34;&gt;&lt;/a&gt;起動&lt;/h2&gt;&lt;p&gt;gitで管理しているファイルをEmacsで開き，&lt;/p&gt;
+&lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;M-x magit-status&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;でMagitが起動します。&lt;br&gt;&lt;img src=&#34;/2016/04/Emacser%E5%BE%A1%E7%94%A8%E9%81%94git%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/1.png&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;使い方は出てきたバッファ内で’?’を打つと表示されます。&lt;br&gt;&lt;img src=&#34;/2016/04/Emacser%E5%BE%A1%E7%94%A8%E9%81%94git%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/2.png&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;すでにStaged, Unstaged, Untrackedなファイルがリストアップされてると思いますが，これらのファイルを操作するのは1キーの打鍵で済みます。&lt;br&gt;カーソルを合わせて’s’を押すとstage，’u’を押すとunstage，これだけです。&lt;/p&gt;
+&lt;h2 id=&#34;コミット&#34;&gt;&lt;a href=&#34;#コミット&#34; class=&#34;headerlink&#34; title=&#34;コミット&#34;&gt;&lt;/a&gt;コミット&lt;/h2&gt;&lt;p&gt;‘c’を押すとCommitのためのメニューが開きます。&lt;br&gt;&lt;img src=&#34;/2016/04/Emacser%E5%BE%A1%E7%94%A8%E9%81%94git%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/3.png&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;もう一度’c’を押してコミット画面に遷移します。&lt;br&gt;下のバッファにコミットメッセージを書きます。&lt;br&gt;上のバッファにはgit-diffが表示されているのでコミットメッセージも書きやすくなっています。&lt;br&gt;&lt;img src=&#34;/2016/04/Emacser%E5%BE%A1%E7%94%A8%E9%81%94git%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/4.png&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;あとは”C-c C-c”を押せばコミット完了です。&lt;br&gt;&lt;img src=&#34;/2016/04/Emacser%E5%BE%A1%E7%94%A8%E9%81%94git%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/5.png&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;プッシュ&#34;&gt;&lt;a href=&#34;#プッシュ&#34; class=&#34;headerlink&#34; title=&#34;プッシュ&#34;&gt;&lt;/a&gt;プッシュ&lt;/h2&gt;&lt;p&gt;最後に’P’の打鍵でプッシュのメニューを開きます。&lt;br&gt;ここで登録されているremoteにプッシュするため，’p’を打鍵するとパスワードを求められます。&lt;br&gt;&lt;img src=&#34;/2016/04/Emacser%E5%BE%A1%E7%94%A8%E9%81%94git%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/6.png&#34; width=&#34;600&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;これにてプッシュ完了です。&lt;/p&gt;
+&lt;h1 id=&#34;利点&#34;&gt;&lt;a href=&#34;#利点&#34; class=&#34;headerlink&#34; title=&#34;利点&#34;&gt;&lt;/a&gt;利点&lt;/h1&gt;&lt;p&gt;Magitの利点としては，次のようなことが考えられると思います。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;コーディングからプッシュまでをすべてEmacsの中で済ませることができる&lt;/li&gt;
+&lt;li&gt;キーストローク数が最小限なのでスムーズにgitを操作できる&lt;/li&gt;
+&lt;li&gt;メニューに簡易的な説明が表示されるのでキー操作を忘れない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;なんと言っても一番上ですね。&lt;br&gt;ファイルを編集中に逐一コミットすることが，とても楽ちんになります。&lt;/p&gt;
+</content>
+        <category term="Emacs" />
+        <category term="Magit" />
+        <category term="git" />
+        <updated>2016-04-14T08:01:35.000Z</updated>
+    </entry>
+</feed>

@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;中華&#34; tag</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2018-12-10T12:11:13.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2018/12/%E5%AE%B6%E5%BA%AD%E7%94%A8CNC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%BF%E3%81%B9%E3%81%9F%E3%81%93%E3%81%A8%E3%81%BE%E3%81%A8%E3%82%81/</id>
+        <title>家庭用CNCについて調べたことまとめ</title>
+        <link rel="alternate" href="http://blog.taniho.net/2018/12/%E5%AE%B6%E5%BA%AD%E7%94%A8CNC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%BF%E3%81%B9%E3%81%9F%E3%81%93%E3%81%A8%E3%81%BE%E3%81%A8%E3%82%81/"/>
+        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;CNCが欲しくなりました(唐突)&lt;/p&gt;
+&lt;p&gt;しかしお財布事情も厳しいので，なるべく安く良いものを買いたいと思っています．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;250x250以上の作業範囲&lt;/li&gt;
+&lt;li&gt;確実に動くもの&lt;br&gt;買ったは良いものの，PCとの接続やソフトの問題で動かせないことは避けたい&lt;/li&gt;
+&lt;li&gt;それなりの剛性&lt;br&gt;最低でもジュラルミンを削りたい&lt;/li&gt;
+&lt;li&gt;それなりに安いこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;優先度は上から順です．&lt;br&gt;この記事では，CNCを調べる過程で得た知識をまとめようと思います．&lt;/p&gt;
+&lt;p&gt;この記事はネットで得た情報をまとめただけの記事です．&lt;br&gt;内容の正確さは一切保証できませんのでご了承ください．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;概要&#34;&gt;&lt;a href=&#34;#概要&#34; class=&#34;headerlink&#34; title=&#34;概要&#34;&gt;&lt;/a&gt;概要&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.originalmind.co.jp/&#34;&gt;ORIGINAL MIND&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;サポートがしっかりしており，公式の情報も多いので確実に動かせる&lt;/li&gt;
+&lt;li&gt;(格安系に比べて)高い，特に作業範囲が広いものはかなり高額&lt;br&gt;さらにオプションをつけると一気に値段が上がる&lt;/li&gt;
+&lt;li&gt;剛性は高い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://openbuilds.com/link-forums/part-store.39/&#34;&gt;OpenBuilds&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;フォーラムがあり，情報を集めやすい&lt;/li&gt;
+&lt;li&gt;それなりに安い&lt;/li&gt;
+&lt;li&gt;アルミフレームなので剛性が心配&lt;/li&gt;
+&lt;li&gt;改造パーツも販売されており，楽しそう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.aliexpress.com/wholesale?SearchText=cnc&#34;&gt;中華CNC&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;公式の情報は少ないので，個人サイトを探して情報を集める必要がある(しんどい)&lt;br&gt;品質がものによってバラバラ&lt;/li&gt;
+&lt;li&gt;安い&lt;/li&gt;
+&lt;li&gt;ものによって剛性はまちまち&lt;br&gt;ただし少し調べた感じ，アルミ製しかなさそう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;各メーカーごとのまとめ&#34;&gt;&lt;a href=&#34;#各メーカーごとのまとめ&#34; class=&#34;headerlink&#34; title=&#34;各メーカーごとのまとめ&#34;&gt;&lt;/a&gt;各メーカーごとのまとめ&lt;/h1&gt;&lt;h2 id=&#34;ORIGINAL-MIND&#34;&gt;&lt;a href=&#34;#ORIGINAL-MIND&#34; class=&#34;headerlink&#34; title=&#34;ORIGINAL MIND&#34;&gt;&lt;/a&gt;ORIGINAL MIND&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://www.originalmind.co.jp/products/kitmill_sr&#34; style=&#34;text-decoration: none;&#34;&gt;&lt;div class=&#34;link-box&#34;&gt;&lt;div class=&#34;img-box&#34;&gt;&lt;div style=&#34;background-image: url(&#39;https://www.originalmind.co.jp/products/uploadimg/sr/sr_top2.jpg&#39;);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;text-box&#34;&gt;&lt;p class=&#34;title&#34;&gt;KitMill SR200/420 | ORIGINALMIND オリジナルマインド&lt;/p&gt;&lt;p class=&#34;description&#34;&gt;CNCフライスや折り曲げ機をはじめとするオリジナル製品と、新品・中古の各種メカトロニクス製品を販売しています。&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;安定感と実績抜群です．&lt;br&gt;初めてCNCを買うなら，ORIGINAL MINDにしておくのが安心だと思います．&lt;/p&gt;
+&lt;p&gt;ただし広い切削範囲が必要であれば，上記リンクのSR420(328,000円)が必要ですし，原点センサやハンドルやボールネジに変更するとかなりの金額になってしまいます．&lt;/p&gt;
+&lt;h2 id=&#34;OpenBuilds&#34;&gt;&lt;a href=&#34;#OpenBuilds&#34; class=&#34;headerlink&#34; title=&#34;OpenBuilds&#34;&gt;&lt;/a&gt;OpenBuilds&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://openbuildspartstore.com/openbuilds-c-beam-machine/&#34; style=&#34;text-decoration: none;&#34;&gt;&lt;div class=&#34;link-box&#34;&gt;&lt;div class=&#34;img-box&#34;&gt;&lt;div style=&#34;background-image: url(&#39;https://cdn8.bigcommerce.com/s-itwgldve/products/246/images/3295/cbeam_mach_black_v2__28441.1534344748.500.659.png?c=2&#39;);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;text-box&#34;&gt;&lt;p class=&#34;title&#34;&gt;OpenBuilds&lt;/p&gt;&lt;p class=&#34;description&#34;&gt;Dream It - Build It - Share It with OpenBuilds&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;海外のコミュニティなんでしょうか，そこでパーツや組み立てキットも販売している感じです．&lt;br&gt;ただし，組み立てキットに付属してくる部品は一部追加工が必要らしいので，要注意です．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bbs.avalontech.jp/t/openbuilds-c-beam-machine-xl/217&#34; style=&#34;text-decoration: none;&#34;&gt;&lt;div class=&#34;link-box&#34;&gt;&lt;div class=&#34;img-box&#34;&gt;&lt;div style=&#34;background-image: url(&#39;https://bbs.avalontech.jp/uploads/default/optimized/1X/2510a53df172761216da1e7d6e345b9c1e2235ad_1_375x500.jpg&#39;);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;text-box&#34;&gt;&lt;p class=&#34;title&#34;&gt;【レビュー】OpenbuildsのC-Beam Machine XL組み立て&lt;/p&gt;&lt;p class=&#34;description&#34;&gt;要点まとめ：  ・大工系の工具やスキルが必要（ヤスリ大量，Vslotの切断＆タッピング，MDF板の購入と切断と穴あけ，微調整など）  ・六角レンチ，ドリル，タッピングツール，ヤスリなどなど  ・部品の余裕がない．一個ミスったら注文だ！  ・大工レベルのスキルが必要です，組立自体は難しくないが，Farmbotみたいな丁寧な説明がほしい．  品…&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;公式の通販は海外から発注することになりますが，国内で購入できるショップもあります．&lt;br&gt;こちらで購入すると，追加工がされている状態で届くそうなので，便利そうです．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.avalontech.jp/product/gp003/&#34; style=&#34;text-decoration: none;&#34;&gt;&lt;div class=&#34;link-box&#34;&gt;&lt;div class=&#34;img-box&#34;&gt;&lt;div style=&#34;background-image: url(&#39;https://www.avalontech.jp/wp-content/uploads/2018/05/avalontech%E7%94%9F%E5%9C%B0%E5%BE%8C.png&#39;);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;text-box&#34;&gt;&lt;p class=&#34;title&#34;&gt;C-Beam Machine 剛性強化版&lt;/p&gt;&lt;p class=&#34;description&#34;&gt;C-Beam Machine Xlarge 剛性強化型 （3軸CNC 組立キット）&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;パーツの販売があるということは，修理や改造も容易にできるということです．&lt;br&gt;上記のショップに掲載されている写真には，ルーターの横にレーザーが取り付けてある様子が写っています．&lt;/p&gt;
+&lt;p&gt;OpenBuilds公式のコントローラソフトやCAMが無料で公開されているため，簡単に動かせると思います．&lt;br&gt;マルチプラットフォーム対応なのもポイントが高いですね．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://software.openbuilds.com/&#34; style=&#34;text-decoration: none;&#34;&gt;&lt;div class=&#34;link-box&#34;&gt;&lt;div class=&#34;img-box&#34;&gt;&lt;div style=&#34;background-image: url(&#39;https://software.openbuilds.com/logo.png&#39;);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;text-box&#34;&gt;&lt;p class=&#34;title&#34;&gt;OpenBuilds Software&lt;/p&gt;&lt;p class=&#34;description&#34;&gt;Download page for OpenBuilds Software&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;問題点は，剛性の低さでしょうか．&lt;br&gt;あと下板が非常に小さいのも不安です．&lt;br&gt;というわけで今回は購入を見送りました．&lt;/p&gt;
+&lt;h2 id=&#34;中華CNC&#34;&gt;&lt;a href=&#34;#中華CNC&#34; class=&#34;headerlink&#34; title=&#34;中華CNC&#34;&gt;&lt;/a&gt;中華CNC&lt;/h2&gt;&lt;p&gt;今日のメインです．&lt;br&gt;中華CNCにはいくつかの種類があります．&lt;br&gt;僕が調べた範囲で，その特徴をまとめてみようと思います．&lt;/p&gt;
+&lt;h3 id=&#34;制御基板&#34;&gt;&lt;a href=&#34;#制御基板&#34; class=&#34;headerlink&#34; title=&#34;制御基板&#34;&gt;&lt;/a&gt;制御基板&lt;/h3&gt;&lt;p&gt;制御基板は大きく分けて2種類あります．&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Arduino互換基板が付属しているタイプ&lt;/li&gt;
+&lt;li&gt;コントロールボックスが付属しているタイプ&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;Arduino互換基板&#34;&gt;&lt;a href=&#34;#Arduino互換基板&#34; class=&#34;headerlink&#34; title=&#34;Arduino互換基板&#34;&gt;&lt;/a&gt;Arduino互換基板&lt;/h4&gt;&lt;p&gt;Arduino互換基板には，gbrlというオープンソースのファームウェアを書き込んで利用することが出来ます．&lt;br&gt;ハードウェアの構成も市販品を組み合わせただけの場合が多い(要検証)気がします．&lt;br&gt;そのため，トラブった際にも自分でどうにか解決しやすいのではないかと思います．&lt;/p&gt;
+&lt;p&gt;各種ソフトのまとめは下記記事が充実しています．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cnc-selfbuild.blogspot.com/2016/05/cnc_15.html&#34; style=&#34;text-decoration: none;&#34;&gt;&lt;div class=&#34;link-box&#34;&gt;&lt;div class=&#34;img-box&#34;&gt;&lt;div style=&#34;background-image: url(&#39;https://4.bp.blogspot.com/-DjnRNa1hDDM/VzgPaBqaCRI/AAAAAAAAFHg/NL-MwJlnKnchucaVrHdnKLsaQ5zufK0-QCLcB/w1200-h630-p-k-no-nu/%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588%2B2016-05-14%2B3.59.11.png&#39;);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;text-box&#34;&gt;&lt;p class=&#34;title&#34;&gt;CNC関連のソフト（まとめ）&lt;/p&gt;&lt;p class=&#34;description&#34;&gt;CNCルーター、CNCレーザーカッター、Arduino、GRBL、CNCシールド、bCNCなどを使用した自作CNCマシンのブログ&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;コントロールボックス&#34;&gt;&lt;a href=&#34;#コントロールボックス&#34; class=&#34;headerlink&#34; title=&#34;コントロールボックス&#34;&gt;&lt;/a&gt;コントロールボックス&lt;/h4&gt;&lt;p&gt;コントロールボックスタイプは，なかなか面倒です．&lt;br&gt;というのも，基本的にインターフェースがパラレルなので，最近のパソコンを使って制御できません．&lt;br&gt;動かすには，方法がいくつかあります．&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;パラレルポートが内蔵されているパソコンを買う&lt;br&gt;手っ取り早い方法だと思います．&lt;/li&gt;
+&lt;li&gt;Parallel-USB変換器を使う&lt;br&gt;普通の変換ケーブルでは動作しない予感がします．&lt;br&gt;こういったCNC専用の変換器を使う必要がありそうです．&lt;br&gt;&lt;a href=&#34;http://cncdrive.com/UC100.html&#34; style=&#34;text-decoration: none;&#34;&gt;&lt;div class=&#34;link-box&#34;&gt;&lt;div class=&#34;img-box&#34;&gt;&lt;div style=&#34;background-image: url(&#39;http://cncdrive.com/img/UC100.jpg&#39;);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;text-box&#34;&gt;&lt;p class=&#34;title&#34;&gt;CNCdrive - motion controls&lt;/p&gt;&lt;p class=&#34;description&#34;&gt;CNC drives, control systems&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Parallel-Arduino変換器を使う&lt;br&gt;先述したとおり，Arduinoであれば比較的簡単に動かすことができそうです．そこで，&lt;br&gt;これを使えば，Arduino用のドライバを使ってパラレルポートのコントロールボックスを制御できるのではないでしょうか．&lt;br&gt;&lt;a href=&#34;https://www.tindie.com/products/Ron/arduino-grbl-to-db25-cnc-shield-kit/&#34; style=&#34;text-decoration: none;&#34;&gt;&lt;div class=&#34;link-box&#34;&gt;&lt;div class=&#34;img-box&#34;&gt;&lt;div style=&#34;background-image: url(&#39;https://cdn.tindiemedia.com/images/resize/8EZhMXGumHqn3CHLKuLNxgLptTM=/p/1200x630/smart/i/7902/products/2016-03-15T17%3A26%3A51.026Z-20160315_122008.jpg&#39;);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;text-box&#34;&gt;&lt;p class=&#34;title&#34;&gt;Arduino GRBL to DB25 CNC Shield Kit by Ron on Tindie&lt;/p&gt;&lt;p class=&#34;description&#34;&gt;Fix your  cheap eBay CNC router/engraver for less than $10. This shield allows you to use the USB to talk to a db25 based CNC machine.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;というわけで，パラレルは面倒くさそうだったので，僕はなかなか買う気が起こりませんでした．&lt;/p&gt;
+&lt;p&gt;ちなみにUSBポートのついているコントロールボックスもあります．&lt;br&gt;ネットを調べていると，ドライバの入手が面倒くさい場合もあるみたいなので，一筋縄ではいかなそうです．&lt;/p&gt;
+&lt;h3 id=&#34;CNCの調べ方&#34;&gt;&lt;a href=&#34;#CNCの調べ方&#34; class=&#34;headerlink&#34; title=&#34;CNCの調べ方&#34;&gt;&lt;/a&gt;CNCの調べ方&lt;/h3&gt;&lt;p&gt;AliExpressの検索窓に「CNCxxyy」と打ち込みます．&lt;br&gt;xxとyyが，それぞれ切削範囲の横幅か縦幅です．&lt;br&gt;例えば，「CNC3020」「CNC1419」などが代表的です．&lt;br&gt;いい感じの検索候補が出てきたら，おそらくその製品は存在します．&lt;/p&gt;
+&lt;p&gt;CNCにレーザーが付属しているもの，4軸・5軸加工用のオプションが付けられるものなどがあります．&lt;/p&gt;
+&lt;h3 id=&#34;コピー品&#34;&gt;&lt;a href=&#34;#コピー品&#34; class=&#34;headerlink&#34; title=&#34;コピー品&#34;&gt;&lt;/a&gt;コピー品&lt;/h3&gt;&lt;p&gt;長々と中華CNCをまとめていますが，AliExpressに出回っているCNCはコピー品があるそうです(もしかしてほぼすべてコピー品なのか？)．&lt;br&gt;こちらのサイトに，作業範囲の大きなCNCがまとめられていました．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://oggcraft.jp/stepcraft420.html&#34; style=&#34;text-decoration: none;&#34;&gt;&lt;div class=&#34;link-box&#34;&gt;&lt;div class=&#34;img-box&#34;&gt;&lt;div style=&#34;background-image: url(&#39;http://oggcraft.jp/gazouko21/stepcraft/stepcraft_1.jpg&#39;);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;text-box&#34;&gt;&lt;p class=&#34;title&#34;&gt;ゴム銃のオッグクラフト CNCルーター STEPCRAFT-2 420&lt;/p&gt;&lt;p class=&#34;description&#34;&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;曰く，こちらのサイトで販売されているCNCがオリジナルらしい．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.omiocnc.com/&#34; style=&#34;text-decoration: none;&#34;&gt;&lt;div class=&#34;link-box&#34;&gt;&lt;div class=&#34;img-box&#34;&gt;&lt;div style=&#34;background-image: url(&#39;https://www.omiocnc.com/skin/frontend/default/sns_nova/images/logo1.png&#39;);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;text-box&#34;&gt;&lt;p class=&#34;title&#34;&gt;Best CNC Router/Engraver New Products—OMIOCNC -omiocnc.com&lt;/p&gt;&lt;p class=&#34;description&#34;&gt;OMIOCNC provide CNC Router/Engraving/Milling/Router equipments, especially designed for woodworking and metalworking.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;確かに，同じような見た目で印字の違うものがAliに大量に出回っている気がする！&lt;/p&gt;
+&lt;h1 id=&#34;次回予告&#34;&gt;&lt;a href=&#34;#次回予告&#34; class=&#34;headerlink&#34; title=&#34;次回予告&#34;&gt;&lt;/a&gt;次回予告&lt;/h1&gt;&lt;p&gt;一番最後に紹介したサイトのCNCを購入しようと思います．&lt;br&gt;なんでも，USB接続が可能だそうで，実際に動かしてみた人を見つけることも出来ました．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://katosunmemo.hatenablog.com/entry/2016/12/30/024919&#34; style=&#34;text-decoration: none;&#34;&gt;&lt;div class=&#34;link-box&#34;&gt;&lt;div class=&#34;img-box&#34;&gt;&lt;div style=&#34;background-image: url(&#39;https://cdn-ak.f.st-hatena.com/images/fotolife/k/katosunmemo/20161230/20161230013150.jpg&#39;);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;text-box&#34;&gt;&lt;p class=&#34;title&#34;&gt;NCフライスかった。&lt;/p&gt;&lt;p class=&#34;description&#34;&gt;NCフライス買いました！ 1ドル110円くらいのときで、送料関税込みで13万に収まるくらいでした。 OMIOCNC社のX3-300-USBです。www.omiocnc.com 今回はセットアップして自動で動かすところまでをまとめたいと思います。 本記事の内容により万一損害が生じたとしても、いかなる場合もその損害について一切の責任を負いません。 非常…&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;http://www.easyaudiokit.com/bekkan3/CNC3020/CNC3020.html&#34; style=&#34;text-decoration: none;&#34;&gt;&lt;div class=&#34;link-box&#34;&gt;&lt;div class=&#34;img-box&#34;&gt;&lt;div style=&#34;background-image: url(&#39;http://www.easyaudiokit.com/bekkan3/CNC3020/image1.jpg&#39;);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;text-box&#34;&gt;&lt;p class=&#34;title&#34;&gt;CNCフライス導入を検討する！の巻&lt;/p&gt;&lt;p class=&#34;description&#34;&gt;なぜCNCフライスが欲しくなったか？理由は簡単で、アンプ等のケース加工でもっとも面倒なのは四角の穴をあけることです。いつもはΦ３程度の穴をいくつもあけて、ニッパーでその穴を連結し…&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pic-garage.blogspot.com/2017/03/cnc.html&#34; style=&#34;text-decoration: none;&#34;&gt;&lt;div class=&#34;link-box&#34;&gt;&lt;div class=&#34;img-box&#34;&gt;&lt;div style=&#34;background-image: url(&#39;https://lh3.googleusercontent.com/-WWklHPo0yxU/WMSM6bItrhI/AAAAAAAAAWk/Hmp--x0g2Ck/w1200-h630-p-k-no-nu/%25255BUNSET%25255D.png&#39;);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;text-box&#34;&gt;&lt;p class=&#34;title&#34;&gt;中華CNC、動くまでの備忘録&lt;/p&gt;&lt;p class=&#34;description&#34;&gt;中華CNC3040がようやく動きはじめた。少し長いですが、動くまでの経緯を備忘録として残しておきます。 (0) AliExpress(楽天みたいな場所)で見つけたショップに注文する。 (1) 注文して1週間位でDHLで荷物が届き、代引きで関税を支払う(3千円位) 。コンビニで振り…&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/tendergorilla/status/1071401636784787456&#34; style=&#34;text-decoration: none;&#34;&gt;&lt;div class=&#34;link-box&#34;&gt;&lt;div class=&#34;img-box&#34;&gt;&lt;div style=&#34;background-image: url(&#39;https://pbs.twimg.com/profile_images/977802223349506049/AVpaao9R_400x400.jpg&#39;);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;text-box&#34;&gt;&lt;p class=&#34;title&#34;&gt;ΝΚΝ on Twitter&lt;/p&gt;&lt;p class=&#34;description&#34;&gt;“@taniho_0707 自分がイメージしてたのはこういうの&lt;br&gt;ブログ楽しみにしてます☻&lt;br&gt;https://t.co/HjmnnjxC7H”&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+        <category term="CNC" />
+        <category term="中華" />
+        <category term="まとめ" />
+        <updated>2018-12-10T12:11:13.000Z</updated>
+    </entry>
+</feed>

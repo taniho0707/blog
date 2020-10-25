@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>taniho&#39;s blog • Posts by &#34;dアニメストア&#34; tag</title>
+        <link>http://blog.taniho.net</link>
+        <description>technical note</description>
+        <language>en</language>
+        <pubDate>Mon, 06 Jun 2016 01:34:25 +0900</pubDate>
+        <lastBuildDate>Mon, 06 Jun 2016 01:34:25 +0900</lastBuildDate>
+        <category>Emacs</category>
+        <category>ArchLinux</category>
+        <category>マイクロマウス</category>
+        <category>台湾</category>
+        <category>旅行</category>
+        <category>たまこまーけっと</category>
+        <category>2016年</category>
+        <category>買い物</category>
+        <category>おすすめ</category>
+        <category>日常</category>
+        <category>2017年</category>
+        <category>クリスマス</category>
+        <category>Elecrow</category>
+        <category>電子工作</category>
+        <category>関西地区大会</category>
+        <category>猫</category>
+        <category>Apache</category>
+        <category>letsencrypt</category>
+        <category>Blu-ray</category>
+        <category>VLC</category>
+        <category>CNC</category>
+        <category>Magit</category>
+        <category>git</category>
+        <category>MFT</category>
+        <category>RaspberryPi</category>
+        <category>無線LAN</category>
+        <category>Mice</category>
+        <category>鵤</category>
+        <category>メジロ</category>
+        <category>Qt</category>
+        <category>デレステ</category>
+        <category>yakudo</category>
+        <category>Android</category>
+        <category>Discord</category>
+        <category>Webアプリ</category>
+        <category>教習所</category>
+        <category>ロボット</category>
+        <category>Linux</category>
+        <category>remark</category>
+        <category>スライドショー</category>
+        <category>ごはん</category>
+        <category>金町</category>
+        <category>クレジットカード</category>
+        <category>ヘボコン</category>
+        <category>ボードゲーム</category>
+        <category>Quadcept</category>
+        <category>CAD</category>
+        <category>Doxygen</category>
+        <category>2018年</category>
+        <category>dアニメストア</category>
+        <category>Renesas</category>
+        <category>RX62T</category>
+        <category>e2studio</category>
+        <category>github</category>
+        <category>マウス</category>
+        <category>分解</category>
+        <category>logicool</category>
+        <category>M570</category>
+        <category>G700s</category>
+        <category>seccamp2016</category>
+        <category>seccamp</category>
+        <category>ownCloud</category>
+        <category>サーバー</category>
+        <category>subsonic</category>
+        <category>音楽</category>
+        <category>みそ煮込みうどん</category>
+        <category>I.Sys</category>
+        <category>フラッグLED</category>
+        <category>i3</category>
+        <category>wm</category>
+        <category>AdventCalendar</category>
+        <category>モード</category>
+        <category>迷路</category>
+        <category>C++</category>
+        <category>調整</category>
+        <category>中華</category>
+        <category>まとめ</category>
+        <category>助けて</category>
+        <category>三角関数</category>
+        <category>福岡</category>
+        <category>東北地区大会</category>
+        <category>STL</category>
+        <category>入門</category>
+        <category>ラズパイコンテスト</category>
+        <category>NFC</category>
+        <category>C言語</category>
+        <category>部品</category>
+        <category>管理</category>
+        <category>電子部品</category>
+        <category>STM32CubeMX</category>
+        <category>FTDI</category>
+        <category>Makefile</category>
+        <category>アプリ</category>
+        <category>はてな</category>
+        <category>インターン</category>
+        <category>最高</category>
+        <category>セキュリティ・キャンプ</category>
+        <item>
+            <guid isPermalink="true">http://blog.taniho.net/2016/06/d%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%B9%E3%83%88%E3%82%A2%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E/</guid>
+            <title>dアニメストアはいいぞ</title>
+            <link>http://blog.taniho.net/2016/06/d%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%B9%E3%83%88%E3%82%A2%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E/</link>
+            <category>ArchLinux</category>
+            <category>たまこまーけっと</category>
+            <category>日常</category>
+            <category>dアニメストア</category>
+            <pubDate>Mon, 06 Jun 2016 01:34:25 +0900</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;アニメ好きな人たちへ&#34;&gt;&lt;a href=&#34;#アニメ好きな人たちへ&#34; class=&#34;headerlink&#34; title=&#34;アニメ好きな人たちへ&#34;&gt;&lt;/a&gt;アニメ好きな人たちへ&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://anime.dmkt-sp.jp/animestore/tp_pc&#34;&gt;dアニメストア&lt;/a&gt; はご存知でしょうか？&lt;br&gt;アニメ番組の配信サイトです．最近特に頑張っています．もともとはドコモの契約者のみに提供されていたサービスらしいですが，今は誰でも入会できるようになっています．&lt;br&gt;その魅力をまとめ，&lt;del&gt;沼に落とそう&lt;/del&gt;みなさんにおすすめしようと思います．&lt;/p&gt;
+&lt;h1 id=&#34;dアニメストアとは&#34;&gt;&lt;a href=&#34;#dアニメストアとは&#34; class=&#34;headerlink&#34; title=&#34;dアニメストアとは&#34;&gt;&lt;/a&gt;dアニメストアとは&lt;/h1&gt;&lt;h2 id=&#34;値段&#34;&gt;&lt;a href=&#34;#値段&#34; class=&#34;headerlink&#34; title=&#34;値段&#34;&gt;&lt;/a&gt;値段&lt;/h2&gt;&lt;p&gt;公式サイトにこんな文言がありました．(アクセス日：2016年6月6日)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;月額400円(税抜)で約1,600作品、 約30,000話のアニメが見放題！&lt;br&gt;ドコモじゃなくてもOK！ 初回31日間は無料で見放題！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;え，まって，すごくないですか？&lt;br&gt;月額400円でほぼすべての作品が見放題．一部有料作品(レンタル販売という扱い)がありますが，現時点で13作品だけです．2016年6月6日早朝段階で全作品数は1673作品でした．つまり，1660作品が見放題というわけですね，すごい．&lt;/p&gt;
+&lt;h2 id=&#34;配信作品&#34;&gt;&lt;a href=&#34;#配信作品&#34; class=&#34;headerlink&#34; title=&#34;配信作品&#34;&gt;&lt;/a&gt;配信作品&lt;/h2&gt;&lt;p&gt;一番の問題はどんなアニメが配信されているかということですね．&lt;br&gt;例えば2016年春アニメを例に挙げると，残念ながらすべての作品が配信されているわけではないです．僕が見ようとしたアニメだけでも，&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;甲鉄城のカバネリ&lt;/li&gt;
+&lt;li&gt;彼女と彼女の猫 -Everything Flows-&lt;/li&gt;
+&lt;li&gt;ばくおん！！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;は配信されていませんでした．&lt;br&gt;また，最新作の配信についても，配信日程が遅いものも見受けられます．Re:ゼロから始める異世界生活はテレビ放映の2週間後に配信されています……．もちろん，TV放映の翌日に配信される作品も多々ありますよ．&lt;/p&gt;
+&lt;p&gt;ではdアニメストアがどういった作品を多く置いているかについてです．&lt;br&gt;例えばノイタミナ作品は多く配信されています．僕だけがいない街や，PSYCHO-PASSなど，話題を呼んだ作品が見放題です．もちろん，有名なタイトルも多く配信されています．個人的イチオシですが，電脳コイルが配信されています．良いアニメだよほんとに．&lt;br&gt;昔のアニメも揃っているようです．アルプスの少女ハイジ，パーマン，おそ松くん(おそ松さんじゃないですよ)，他にも新世紀エヴァンゲリオンも配信中です．&lt;br&gt;劇場版も配信作がそろっています．図書館戦争，あの花，花咲くいろは，雲のむこう、約束の場所，などなど．たまこラブストーリーは配信されていませんでした……残念！&lt;br&gt;他にも，ショートアニメもラインナップがそろっています．ゆるめいつ全シリーズや，あいまいみー(残念ながら1期のみ)が配信中．&lt;/p&gt;
+&lt;h2 id=&#34;独自のサービス&#34;&gt;&lt;a href=&#34;#独自のサービス&#34; class=&#34;headerlink&#34; title=&#34;独自のサービス&#34;&gt;&lt;/a&gt;独自のサービス&lt;/h2&gt;&lt;p&gt;面白い配信サービスも展開されています．&lt;br&gt;例えば，アニソン配信です．なんとフルサイズの楽曲にムービーがついて配信されているのです．例えばGod knows，ガーネット，紅蓮の弓矢，などなど，全124曲のラインナップになっています．&lt;/p&gt;
+&lt;p&gt;また，dアニメストアはリクエストが可能です．観たいけど配信されていない作品は，是非リクエストを入れましょう．毎月のように新規作品が配信されているので，いつか配信開始されるかもしれません(一方で，しばしば配信終了もされています．また，復活することもよくあります)．&lt;/p&gt;
+&lt;h2 id=&#34;他のサービスと比較して&#34;&gt;&lt;a href=&#34;#他のサービスと比較して&#34; class=&#34;headerlink&#34; title=&#34;他のサービスと比較して&#34;&gt;&lt;/a&gt;他のサービスと比較して&lt;/h2&gt;&lt;p&gt;大手アニメ配信サイトであるバンダイチャンネルに，バンダイチャンネルのおすすめポイントがまとめられていました．&lt;a href=&#34;http://www.b-ch.com/contents/feat_monthly/&#34;&gt;ここ&lt;/a&gt;．この表を見ながら確認していきましょう．&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;作品数自体はdアニメストアのほうが少ないですが，見放題作品数はおよそ1.5倍もあります．&lt;/li&gt;
+&lt;li&gt;ガンダムシリーズは一部有料配信なんですよね……．こればかりはバンダイチャンネルに劣ります．仕方ない．&lt;/li&gt;
+&lt;li&gt;最新作の追加はリアルタイムで通知が来ます．しかも最新作の追加更新は毎日12時に行われています．&lt;/li&gt;
+&lt;li&gt;特撮は扱っていなかったはずです．まあ”アニメ”ストアなので……&lt;/li&gt;
+&lt;li&gt;自動連続再生に対応しています．&lt;/li&gt;
+&lt;li&gt;途中で再生を停止した場合，次回再生時には続きから再生します．この情報はアカウントごとに保存されているため，再生するデバイスを変えても再生位置は変わりません．&lt;/li&gt;
+&lt;li&gt;PC版の場合，シークバーにサムネイル表示されていました．&lt;/li&gt;
+&lt;li&gt;視聴履歴はもちろん，気になるリストや，マイリスト機能が用意されています．&lt;/li&gt;
+&lt;li&gt;アニメごとに口コミが見られるわけではありませんが，1シーズンに1回，おすすめアニメ投票が行われています．&lt;/li&gt;
+&lt;li&gt;ファンがオススメアニメを公開はできません．その代わり，ユーザーへのおすすめアニメが公式から紹介されます．他にも，ジャンル別のアニメ特集が組まれています．&lt;/li&gt;
+&lt;li&gt;全話視聴したら”Complete”って書かれます……，別にエンブレムとかはいらないと思う．&lt;/li&gt;
+&lt;li&gt;決済手段はクレジットのみです．&lt;/li&gt;
+&lt;li&gt;対応デバイスはWin，Mac，Android，iOSです．しかし，GoogleChrome(Chromium)ブラウザを使えばLinuxからも視聴ができました！(これが言いたいがためにブログ更新したと言っても過言ではない)&lt;img src=&#34;/2016/06/d%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%B9%E3%83%88%E3%82%A2%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E/1.png&#34; width=&#34;600&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;レベルなんて概念はありません．&lt;/li&gt;
+&lt;li&gt;動画の画質は3〜4種類用意されており，再生時に選択可能です(Edge，Chromeを除く)．&lt;/li&gt;
+&lt;li&gt;会員限定のプレゼント企画が毎月開催されています．&lt;/li&gt;
+&lt;li&gt;月額料金の支払いごとにdポイントが貯まるようです．&lt;/li&gt;
+&lt;li&gt;特典……そんなのあったっけ．&lt;/li&gt;
+&lt;li&gt;過去ライブの配信はされているようです．&lt;/li&gt;
+&lt;li&gt;iOSとAndroidは専用アプリがあります．使い勝手は問題ないと思っています．&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;結論&#34;&gt;&lt;a href=&#34;#結論&#34; class=&#34;headerlink&#34; title=&#34;結論&#34;&gt;&lt;/a&gt;結論&lt;/h1&gt;&lt;p&gt;dアニメストアはいいぞ．最新作を一番乗りで観たい！ という人にはあまりオススメできませんが，過去作品をゆっくり観たいという人にはとてもオススメです．&lt;/p&gt;
+&lt;p&gt;ちなみに，僕は基本的にdアニメストアでアニメを観て，配信されていない作品はAmazonビデオ(AmazonStudentなので年額1900円)で観ています．それでも配信されていない作品などはDMM月額レンタルで借りることにしています．割れ，ダメ，絶対！&lt;/p&gt;
+&lt;p&gt;それではみなさん，dアニメストアで楽しいアニメライフを！&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

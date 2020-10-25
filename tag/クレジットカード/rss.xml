@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>taniho&#39;s blog • Posts by &#34;クレジットカード&#34; tag</title>
+        <link>http://blog.taniho.net</link>
+        <description>technical note</description>
+        <language>en</language>
+        <pubDate>Mon, 18 Dec 2017 20:00:00 +0900</pubDate>
+        <lastBuildDate>Mon, 18 Dec 2017 20:00:00 +0900</lastBuildDate>
+        <category>Emacs</category>
+        <category>ArchLinux</category>
+        <category>マイクロマウス</category>
+        <category>台湾</category>
+        <category>旅行</category>
+        <category>たまこまーけっと</category>
+        <category>2016年</category>
+        <category>買い物</category>
+        <category>おすすめ</category>
+        <category>日常</category>
+        <category>2017年</category>
+        <category>クリスマス</category>
+        <category>Elecrow</category>
+        <category>電子工作</category>
+        <category>関西地区大会</category>
+        <category>猫</category>
+        <category>Apache</category>
+        <category>letsencrypt</category>
+        <category>Blu-ray</category>
+        <category>VLC</category>
+        <category>CNC</category>
+        <category>Magit</category>
+        <category>git</category>
+        <category>MFT</category>
+        <category>RaspberryPi</category>
+        <category>無線LAN</category>
+        <category>Mice</category>
+        <category>鵤</category>
+        <category>メジロ</category>
+        <category>Qt</category>
+        <category>デレステ</category>
+        <category>yakudo</category>
+        <category>Android</category>
+        <category>Discord</category>
+        <category>Webアプリ</category>
+        <category>教習所</category>
+        <category>ロボット</category>
+        <category>Linux</category>
+        <category>remark</category>
+        <category>スライドショー</category>
+        <category>ごはん</category>
+        <category>金町</category>
+        <category>クレジットカード</category>
+        <category>ヘボコン</category>
+        <category>ボードゲーム</category>
+        <category>Quadcept</category>
+        <category>CAD</category>
+        <category>Doxygen</category>
+        <category>2018年</category>
+        <category>dアニメストア</category>
+        <category>Renesas</category>
+        <category>RX62T</category>
+        <category>e2studio</category>
+        <category>github</category>
+        <category>マウス</category>
+        <category>分解</category>
+        <category>logicool</category>
+        <category>M570</category>
+        <category>G700s</category>
+        <category>seccamp2016</category>
+        <category>seccamp</category>
+        <category>ownCloud</category>
+        <category>サーバー</category>
+        <category>subsonic</category>
+        <category>音楽</category>
+        <category>みそ煮込みうどん</category>
+        <category>I.Sys</category>
+        <category>フラッグLED</category>
+        <category>i3</category>
+        <category>wm</category>
+        <category>AdventCalendar</category>
+        <category>モード</category>
+        <category>迷路</category>
+        <category>C++</category>
+        <category>調整</category>
+        <category>中華</category>
+        <category>まとめ</category>
+        <category>助けて</category>
+        <category>三角関数</category>
+        <category>福岡</category>
+        <category>東北地区大会</category>
+        <category>STL</category>
+        <category>入門</category>
+        <category>ラズパイコンテスト</category>
+        <category>NFC</category>
+        <category>C言語</category>
+        <category>部品</category>
+        <category>管理</category>
+        <category>電子部品</category>
+        <category>STM32CubeMX</category>
+        <category>FTDI</category>
+        <category>Makefile</category>
+        <category>アプリ</category>
+        <category>はてな</category>
+        <category>インターン</category>
+        <category>最高</category>
+        <category>セキュリティ・キャンプ</category>
+        <item>
+            <guid isPermalink="true">http://blog.taniho.net/2017/12/TAC-18-%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1/</guid>
+            <title>[TAC:18] クレジットカードのススメ</title>
+            <link>http://blog.taniho.net/2017/12/TAC-18-%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1/</link>
+            <category>クレジットカード</category>
+            <pubDate>Mon, 18 Dec 2017 20:00:00 +0900</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;この記事は&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;の18日目の記事です．&lt;/p&gt;
+&lt;p&gt;今日は，僕がコレまでに取得したカードを紹介し，良かったことなどをまとめたいと思います．すべて個人の主観であり，具体的な数値などはほとんど出ないのでご了承ください．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;デビッドカード&#34;&gt;&lt;a href=&#34;#デビッドカード&#34; class=&#34;headerlink&#34; title=&#34;デビッドカード&#34;&gt;&lt;/a&gt;デビッドカード&lt;/h1&gt;&lt;p&gt;デビッドカードはクレジットカードとほぼ同じように使えますが，支払い時点で引き落としがされるので「お金を借りることなく」支払いができます．クレジットカードを作ると買い物をしすぎて怖いと言う人も，デビッドカードなら口座に入っている額しか決済できないので安心して使うことが出来ます．&lt;br&gt;「ネット通販や海外通販をしたいけどクレジットは怖い」という人はまずデビッドカードを作ってみてはどうでしょうか．&lt;/p&gt;
+&lt;h2 id=&#34;スルガ銀行-Visaデビットカード&#34;&gt;&lt;a href=&#34;#スルガ銀行-Visaデビットカード&#34; class=&#34;headerlink&#34; title=&#34;スルガ銀行 Visaデビットカード&#34;&gt;&lt;/a&gt;スルガ銀行 Visaデビットカード&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://www.surugabank.co.jp/surugabank/visa_debit/&#34;&gt;スルガ銀行 Visaデビットカード&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;僕が高校生の時に，初めて作ったカードです．このカードはなんと言っても&lt;strong&gt;入金手数料無料&lt;/strong&gt;なのが強いです．大抵のコンビニから入金できるので，利用する上で煩わしいと思ったことはありません．&lt;/p&gt;
+&lt;h1 id=&#34;クレジットカード&#34;&gt;&lt;a href=&#34;#クレジットカード&#34; class=&#34;headerlink&#34; title=&#34;クレジットカード&#34;&gt;&lt;/a&gt;クレジットカード&lt;/h1&gt;&lt;h2 id=&#34;ToMeCard&#34;&gt;&lt;a href=&#34;#ToMeCard&#34; class=&#34;headerlink&#34; title=&#34;ToMeCard&#34;&gt;&lt;/a&gt;ToMeCard&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;http://www.to-me-card.jp/&#34;&gt;東京メトロ To Me CARD&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;初めて作ったクレジットカードですが，枠が20万円付いていました．種類はTo Me CARD PASMO Prime(JCB)です．大都会に出てきた頃に作ったので，&lt;strong&gt;PASMOオートチャージ&lt;/strong&gt;の便利さには驚きました．設定金額を下回ると自動的にチャージしてくれるので，基本的に手動で入金する必要が無くなりました．&lt;br&gt;注意点は，オートチャージは首都圏の改札機を通した時にしか行われないので，コンビニや関西の改札では手動でチャージする必要があるということです．&lt;/p&gt;
+&lt;p&gt;このカードはポイントも溜まりやすく感じています．&lt;br&gt;JCBのOkiDokiポイントは，Amazonで1ポイント=3円のレートで，しかも1ポイント単位で利用できるためとても便利です．&lt;br&gt;また，別枠のメトロポイントはメトロ利用の度に溜まっていき，実質的にメトロ乗車賃10〜20円引きになっています．&lt;/p&gt;
+&lt;p&gt;メトロをよく利用する人には非常にオススメのカードです．&lt;/p&gt;
+&lt;h2 id=&#34;JAL-CARD&#34;&gt;&lt;a href=&#34;#JAL-CARD&#34; class=&#34;headerlink&#34; title=&#34;JAL CARD&#34;&gt;&lt;/a&gt;JAL CARD&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://www.jal.co.jp/jalcard/&#34;&gt;JALカード&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;友達にそそのかされて作りました．招待コードを入力して作ったのですが，入会特典だけで国内線に1回乗れる分のポイントがもらえてホクホクしました．&lt;br&gt;内容はしょぼいですが，海外旅行保険が付帯されているので嬉しいですね．&lt;br&gt;僕はそんなに飛行機に乗るわけではないですが，なんやかんや支払いをこのカードに頼っていたら，九州大会から帰ってこれるだけのポイントが溜まっていました．そこそこオススメなので作りたい人がいれば&lt;strong&gt;招待コードを教えます&lt;/strong&gt;連絡ください(ゲス顔)．&lt;/p&gt;
+&lt;h2 id=&#34;J-WEST-CARD&#34;&gt;&lt;a href=&#34;#J-WEST-CARD&#34; class=&#34;headerlink&#34; title=&#34;J-WEST CARD&#34;&gt;&lt;/a&gt;J-WEST CARD&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://www.jr-odekake.net/j-west/&#34;&gt;J-WESTカード&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;作る価値なし&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ただし，僕は帰省の度に東海道新幹線を利用するので恩恵を受けていました．大学→実家間のチケットは「学割乗車券東京都区内→京都市内 + e特急券指定席東京→京都」が安牌でした．エクスプレス予約では自由席と指定席の値段が同じなので快適に乗車することが出来ます．また，ポイントサービスもあるので年に数回乗ればグリーン席にアップグレードすることも出来ます．大学4年間で3回&lt;strong&gt;無料グリーン席&lt;/strong&gt;を堪能できました．&lt;/p&gt;
+&lt;h2 id=&#34;ENEOS-CARD&#34;&gt;&lt;a href=&#34;#ENEOS-CARD&#34; class=&#34;headerlink&#34; title=&#34;ENEOS CARD&#34;&gt;&lt;/a&gt;ENEOS CARD&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;http://www.noe.jxtg-group.co.jp/carlife/card/card/index.html&#34;&gt;ENEOSカード（C・P・S）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ガソリンスタンドが多いので，車を持っていたりよく借りる人は持っていて損はないと思います．僕は時々しか使わないので，年1回以上の利用で翌年の年会費が無料になるType Sを作りました．メリットは給油代の値引きと僅かなロードサービスしかありませんが，特にデメリットもないので作っておいて良いんじゃないでしょうか．ETCカードも無料で作れるので，おすすめです．&lt;/p&gt;
+&lt;h2 id=&#34;楽天カード&#34;&gt;&lt;a href=&#34;#楽天カード&#34; class=&#34;headerlink&#34; title=&#34;楽天カード&#34;&gt;&lt;/a&gt;楽天カード&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://www.rakuten-card.co.jp/&#34;&gt;楽天カード&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;プレミアムカード無料特典のPRIORITY PASS以外価値なし&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;多分いちばん取得しやすいゴールドカードだと思います．ただしポイント交換・メールサービス・運営会社に難しか無い．&lt;/p&gt;
+&lt;h1 id=&#34;まとめ&#34;&gt;&lt;a href=&#34;#まとめ&#34; class=&#34;headerlink&#34; title=&#34;まとめ&#34;&gt;&lt;/a&gt;まとめ&lt;/h1&gt;&lt;p&gt;カードは1枚位持っていて損はしないと思うので，自分が一番トクできそうな1枚を探していきましょう．&lt;/p&gt;
+&lt;p&gt;明日の&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;は，書く内容あるのかなあ．&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

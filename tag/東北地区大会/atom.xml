@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;東北地区大会&#34; tag</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2016-10-10T15:56:23.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2016/10/%E7%AC%AC29%E5%9B%9E%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E6%9D%B1%E5%8C%97%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A%E3%81%A7%E8%B6%B3%E7%AB%8B%E6%B3%95%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%9F%E8%A9%B1/</id>
+        <title>第29回マイクロマウス東北地区大会で足立法を実装した話</title>
+        <link rel="alternate" href="http://blog.taniho.net/2016/10/%E7%AC%AC29%E5%9B%9E%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E6%9D%B1%E5%8C%97%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A%E3%81%A7%E8%B6%B3%E7%AB%8B%E6%B3%95%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%9F%E8%A9%B1/"/>
+        <content type="html">&lt;h1 id=&#34;東北大会&#34;&gt;&lt;a href=&#34;#東北大会&#34; class=&#34;headerlink&#34; title=&#34;東北大会&#34;&gt;&lt;/a&gt;東北大会&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;http://mm.jan.jp/&#34;&gt;マイクロマウス東北地区大会&lt;/a&gt;は，我々Miceが毎年大変お世話になっている大会です．&lt;br&gt;毎年多くのフレッシュマンが精神と時の部屋でとてつもない成長を遂げます．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;東北大会前日（当日？）の調整部屋の様子です！&lt;br&gt;通称：精神と時の部屋からの中継でした（笑）&lt;br&gt; &lt;a href=&#34;https://twitter.com/hashtag/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9?src=hash&#34;&gt;#マイクロマウス&lt;/a&gt; &lt;a href=&#34;https://t.co/nh2ppytwBb&#34;&gt;pic.twitter.com/nh2ppytwBb&lt;/a&gt;&lt;/p&gt;&amp;mdash; 全日本マイクロマウス大会実行委員会 (@MicromouseJapan) &lt;a href=&#34;https://twitter.com/MicromouseJapan/status/784782124020666373&#34;&gt;2016年10月8日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;本年度も6人のフレッシュマンがエントリーし，うち3名が完走．そしてその3名が上位1〜3位を独占という結果になりました！ まずは良い結果になり，ホッとしています．正直自分の出走より何倍もドキドキしていました．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://nunumouse.hatenablog.com/entry/2016/10/11/185607&#34;&gt;きつね，ねずみ，25%OFF&lt;/a&gt; &lt;del&gt;(ブログ書いてね)&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://aigis0009.hatenablog.com/entry/2016/10/10/032258&#34;&gt;東北大会！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hihumi-technic.hatenablog.com/entry/2016/10/10/005609&#34;&gt;東北大会直後&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;反省点も色々と考えているようなので，次の大会も期待しています．博多ラーメン食べられるのが今週の活力．&lt;/p&gt;
+&lt;h1 id=&#34;精神と時の部屋での成長&#34;&gt;&lt;a href=&#34;#精神と時の部屋での成長&#34; class=&#34;headerlink&#34; title=&#34;精神と時の部屋での成長&#34;&gt;&lt;/a&gt;精神と時の部屋での成長&lt;/h1&gt;&lt;p&gt;調整時間にあまり他の人に構えなくて申し訳なく思っていますが，なんせ自分の進捗が怪しいので頑張っていました．&lt;/p&gt;
+&lt;p&gt;今年のマウスはマイコンを変えただけでなく，プログラムをイチから書き直しています．というのも，コンパイラを変えたことでC++14が使えるようになったので，色々と直したいところが出てきたためです．&lt;br&gt;ついでにクラス設計も考え直しました．今のところ，いい感じにコードが動いているように思います．&lt;/p&gt;
+&lt;p&gt;さて，そのせいもあり，容易には昨年度のプログラムを流用することができなくなっています．&lt;br&gt;精神と時の部屋では，&lt;strong&gt;壁情報の保存，歩数マップの展開，足立法の実装&lt;/strong&gt;を終えることができました．(あれっ，進捗遅くない？？？)&lt;br&gt;そういえばモードを実装しようと思っていましたが，間に合いませんでした．そのうちがんばります．&lt;/p&gt;
+&lt;p&gt;さて，ここからは技術的な話．毎度言っていますが，参考にするときは完全に自己責任で．より良い方法があればご教示いただきたいです．&lt;br&gt;足立法で走行するプログラムは，こんな感じになっています．&lt;/p&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;42&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;VelocityControl vc;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Position pos;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Adachi adachi;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Map &lt;span class=&#34;built_in&#34;&gt;map&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Walldata walldata;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;WallSensor wall;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;adachi.setGoal(&lt;span class=&#34;number&#34;&gt;11&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;11&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;vc-&amp;gt;runTrapAccel(&lt;span class=&#34;number&#34;&gt;0.0f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.25f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.25f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.045f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2.0f&lt;/span&gt;); &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt;(vc-&amp;gt;isRunning());&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt;(&lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;)&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	walldata = wall-&amp;gt;getWall();&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;built_in&#34;&gt;map&lt;/span&gt;.addWall(pos.getPositionX(), pos.getPositionY(), pos.getAngle(), walldata);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	adachi.setMap(&lt;span class=&#34;built_in&#34;&gt;map&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	adachi.renewFootmap();&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	slalomparams::RunType runtype = adachi.getNextMotion(pos.getPositionX(), pos.getPositionY(), pos.getAngle(), walldata);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt;(runtype == slalomparams::RunType::TRAPACCEL)&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		vc-&amp;gt;runTrapAccel(&lt;span class=&#34;number&#34;&gt;0.25f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.25f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.25f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.078f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2.0f&lt;/span&gt;); &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt;(vc-&amp;gt;isRunning());&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125; &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt;(runtype == slalomparams::RunType::PIVOTTURN)&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		vc-&amp;gt;runTrapAccel(&lt;span class=&#34;number&#34;&gt;0.25f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.25f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.0f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.045f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2.0f&lt;/span&gt;); &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt;(vc-&amp;gt;isRunning());&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		vc-&amp;gt;runPivotTurn(&lt;span class=&#34;number&#34;&gt;360&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;180&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt;); &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt;(vc-&amp;gt;isRunning());&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		vc-&amp;gt;runTrapAccel(&lt;span class=&#34;number&#34;&gt;0.0f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.25f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.25f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.045f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2.0f&lt;/span&gt;); &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt;(vc-&amp;gt;isRunning());&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125; &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt;(runtype == slalomparams::RunType::SLALOM90SML_RIGHT)&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		vc-&amp;gt;runSlalom(RunType::SLALOM90SML_RIGHT, &lt;span class=&#34;number&#34;&gt;0.25f&lt;/span&gt;); &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt;(vc-&amp;gt;isRunning());&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125; &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt;(runtype == slalomparams::RunType::SLALOM90SML_LEFT)&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		vc-&amp;gt;runSlalom(RunType::SLALOM90SML_LEFT, &lt;span class=&#34;number&#34;&gt;0.25f&lt;/span&gt;); &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt;(vc-&amp;gt;isRunning());&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125; &lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		vc-&amp;gt;runTrapAccel(&lt;span class=&#34;number&#34;&gt;0.25f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.25f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.0f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.045f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2.0f&lt;/span&gt;); &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt;(vc-&amp;gt;isRunning());&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;keyword&#34;&gt;break&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	pos.setNextPosition(runtype);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt;(pos.getPositionX() == &lt;span class=&#34;number&#34;&gt;11&lt;/span&gt; &amp;amp;&amp;amp; pos.getPositionY() == &lt;span class=&#34;number&#34;&gt;11&lt;/span&gt;)&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		vc-&amp;gt;runTrapAccel(&lt;span class=&#34;number&#34;&gt;0.25f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.25f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.0f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;0.045f&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2.0f&lt;/span&gt;); &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt;(vc-&amp;gt;isRunning());&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;keyword&#34;&gt;break&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;adachi.setMap(&lt;span class=&#34;built_in&#34;&gt;map&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;壁情報を &lt;code&gt;Walldata&lt;/code&gt; クラスでやり取りできるので，記述がなかなか楽になっています．&lt;br&gt;それから，足立法と座標管理部分と実際のセンサやモータ駆動部分を分離したため，シミュレータにそのまま移植できるはずです．&lt;/p&gt;
+</content>
+        <category term="マイクロマウス" />
+        <category term="日常" />
+        <category term="C++" />
+        <category term="東北地区大会" />
+        <updated>2016-10-10T15:56:23.000Z</updated>
+    </entry>
+</feed>

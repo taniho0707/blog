@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>taniho&#39;s blog • Posts by &#34;アプリ&#34; tag</title>
+        <link>http://blog.taniho.net</link>
+        <description>technical note</description>
+        <language>en</language>
+        <pubDate>Sat, 23 Dec 2017 03:00:00 +0900</pubDate>
+        <lastBuildDate>Sat, 23 Dec 2017 03:00:00 +0900</lastBuildDate>
+        <category>Emacs</category>
+        <category>ArchLinux</category>
+        <category>マイクロマウス</category>
+        <category>台湾</category>
+        <category>旅行</category>
+        <category>たまこまーけっと</category>
+        <category>2016年</category>
+        <category>買い物</category>
+        <category>おすすめ</category>
+        <category>日常</category>
+        <category>2017年</category>
+        <category>クリスマス</category>
+        <category>Elecrow</category>
+        <category>電子工作</category>
+        <category>関西地区大会</category>
+        <category>猫</category>
+        <category>Apache</category>
+        <category>letsencrypt</category>
+        <category>Blu-ray</category>
+        <category>VLC</category>
+        <category>CNC</category>
+        <category>Magit</category>
+        <category>git</category>
+        <category>MFT</category>
+        <category>RaspberryPi</category>
+        <category>無線LAN</category>
+        <category>Mice</category>
+        <category>鵤</category>
+        <category>メジロ</category>
+        <category>Qt</category>
+        <category>デレステ</category>
+        <category>yakudo</category>
+        <category>Android</category>
+        <category>Discord</category>
+        <category>Webアプリ</category>
+        <category>教習所</category>
+        <category>ロボット</category>
+        <category>Linux</category>
+        <category>remark</category>
+        <category>スライドショー</category>
+        <category>ごはん</category>
+        <category>金町</category>
+        <category>クレジットカード</category>
+        <category>ヘボコン</category>
+        <category>ボードゲーム</category>
+        <category>Quadcept</category>
+        <category>CAD</category>
+        <category>Doxygen</category>
+        <category>2018年</category>
+        <category>dアニメストア</category>
+        <category>Renesas</category>
+        <category>RX62T</category>
+        <category>e2studio</category>
+        <category>github</category>
+        <category>マウス</category>
+        <category>分解</category>
+        <category>logicool</category>
+        <category>M570</category>
+        <category>G700s</category>
+        <category>seccamp2016</category>
+        <category>seccamp</category>
+        <category>ownCloud</category>
+        <category>サーバー</category>
+        <category>subsonic</category>
+        <category>音楽</category>
+        <category>みそ煮込みうどん</category>
+        <category>I.Sys</category>
+        <category>フラッグLED</category>
+        <category>i3</category>
+        <category>wm</category>
+        <category>AdventCalendar</category>
+        <category>モード</category>
+        <category>迷路</category>
+        <category>C++</category>
+        <category>調整</category>
+        <category>中華</category>
+        <category>まとめ</category>
+        <category>助けて</category>
+        <category>三角関数</category>
+        <category>福岡</category>
+        <category>東北地区大会</category>
+        <category>STL</category>
+        <category>入門</category>
+        <category>ラズパイコンテスト</category>
+        <category>NFC</category>
+        <category>C言語</category>
+        <category>部品</category>
+        <category>管理</category>
+        <category>電子部品</category>
+        <category>STM32CubeMX</category>
+        <category>FTDI</category>
+        <category>Makefile</category>
+        <category>アプリ</category>
+        <category>はてな</category>
+        <category>インターン</category>
+        <category>最高</category>
+        <category>セキュリティ・キャンプ</category>
+        <item>
+            <guid isPermalink="true">http://blog.taniho.net/2017/12/TAC-23-%E3%82%AA%E3%82%B9%E3%82%B9%E3%83%A1Android%E3%82%A2%E3%83%97%E3%83%AA15%E9%81%B8/</guid>
+            <title>[TAC:23] オススメAndroidアプリ15選</title>
+            <link>http://blog.taniho.net/2017/12/TAC-23-%E3%82%AA%E3%82%B9%E3%82%B9%E3%83%A1Android%E3%82%A2%E3%83%97%E3%83%AA15%E9%81%B8/</link>
+            <category>Android</category>
+            <category>アプリ</category>
+            <pubDate>Sat, 23 Dec 2017 03:00:00 +0900</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;この記事は&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;の23日目の記事です．&lt;/p&gt;
+&lt;p&gt;今日は僕が常用するオススメAndroidアプリを15個紹介しようと思います．どれも厳選の上使用しているので，是非皆さんも使ってみてください．では早速始めます．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;紹介&#34;&gt;&lt;a href=&#34;#紹介&#34; class=&#34;headerlink&#34; title=&#34;紹介&#34;&gt;&lt;/a&gt;紹介&lt;/h1&gt;&lt;h2 id=&#34;K-9-Mail&#34;&gt;&lt;a href=&#34;#K-9-Mail&#34; class=&#34;headerlink&#34; title=&#34;K-9 Mail&#34;&gt;&lt;/a&gt;K-9 Mail&lt;/h2&gt;&lt;p&gt;オススメのメーラです．複数のアカウントを色分けして管理できるので便利です．IMAPとPOP3を併用しているのですが，両方問題なく使えています．&lt;/p&gt;
+&lt;div style=&#34;clear:both&#34;&gt;&lt;div class=&#34;androidapp-icon-image&#34; style=&#34;float:left;padding:0 10px 0 0&#34;&gt;&lt;img width=&#34;100&#34; style=&#34;border:0&#34; src=&#34;https://lh6.ggpht.com/4nAIkTwY8Zmo3Vt1XPNXWH3_YVXj9muHfLyLjuT9LUHIxSgiC_RTHFl9PSPqwhAuFW7l=w300&#34;&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.fsck.k9&#34; target=&#34;_blank&#34;&gt;K-9 Mail&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;androidapp-details&#34; style=&#34;font-size:small&#34;&gt;&lt;div&gt;開発元：&lt;a href=&#34;https://k9mail.github.io/&#34; target=&#34;_blank&#34;&gt;K-9 Dog Walkers&lt;/a&gt;&lt;/div&gt;&lt;div&gt;価格：無料&lt;/div&gt;&lt;div&gt;平均評価：4.2（合計87,080件）&lt;/div&gt;&lt;div&gt;ダウンロード：500万回以上&lt;/div&gt;&lt;div&gt;（2017年12月23日時点）&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&#34;Sleipnir&#34;&gt;&lt;a href=&#34;#Sleipnir&#34; class=&#34;headerlink&#34; title=&#34;Sleipnir&#34;&gt;&lt;/a&gt;Sleipnir&lt;/h2&gt;&lt;p&gt;オススメのブラウザです．マルチタブブラウザですが，Google Chromeとは異なり，下にタブバーがあります．ここをタップすることでタブを切り替えたり，フリック操作でタブを閉じることが出来ます．この快適さに惚れてiPhoneでもAndroidでも愛用しています．&lt;/p&gt;
+&lt;img src=&#34;/2017/12/TAC-23-%E3%82%AA%E3%82%B9%E3%82%B9%E3%83%A1Android%E3%82%A2%E3%83%97%E3%83%AA15%E9%81%B8/sleipnir.png&#34; width=&#34;350&#34; /&gt;
+
+&lt;div style=&#34;clear:both&#34;&gt;&lt;div class=&#34;androidapp-icon-image&#34; style=&#34;float:left;padding:0 10px 0 0&#34;&gt;&lt;img width=&#34;100&#34; style=&#34;border:0&#34; src=&#34;https://lh3.ggpht.com/BgNB_LcKn4uhNzeENro5yIF2GNCkJuyO8cPVhE1QMolv_QNyjOC5koDDRsAHqUAKfxKs=w300&#34;&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=jp.co.fenrir.android.sleipnir&#34; target=&#34;_blank&#34;&gt;Sleipnir Mobile - ウェブブラウザ&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;androidapp-details&#34; style=&#34;font-size:small&#34;&gt;&lt;div&gt;開発元：&lt;a href=&#34;http://www.fenrir-inc.com/&#34; target=&#34;_blank&#34;&gt;Fenrir Inc.&lt;/a&gt;&lt;/div&gt;&lt;div&gt;価格：無料&lt;/div&gt;&lt;div&gt;平均評価：3.9（合計9,407件）&lt;/div&gt;&lt;div&gt;ダウンロード：50万回以上&lt;/div&gt;&lt;div&gt;（2017年12月23日時点）&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&#34;biyontter&#34;&gt;&lt;a href=&#34;#biyontter&#34; class=&#34;headerlink&#34; title=&#34;biyontter&#34;&gt;&lt;/a&gt;biyontter&lt;/h2&gt;&lt;p&gt;言わずと知れたツイ廃向けTwitterクライアントです．マルチアカウント，マルチタブ対応，リスト表示対応です．ワンタップでfav，RT，引用RT，リプライなどの操作をすることができて非常に(慣れれば)快適です．&lt;br&gt;デザインの設定も自由に出来たり，複雑なミュート設定も出来たり，アカウントに対応したカラーラベルを付けたり，過去のTLを遡ったりと，普通に使う分にも非常に便利でオススメです．&lt;/p&gt;
+&lt;div style=&#34;clear:both&#34;&gt;&lt;div class=&#34;androidapp-icon-image&#34; style=&#34;float:left;padding:0 10px 0 0&#34;&gt;&lt;img width=&#34;100&#34; style=&#34;border:0&#34; src=&#34;https://lh3.googleusercontent.com/YXps2EPS_teWg66-RclS-7noqJ4WAl8Wg06xmOz-jDn6-ezHWeCmuJFuSh6Yenf38TY=w300&#34;&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=jp.gifu.abs104a.twitterproject&#34; target=&#34;_blank&#34;&gt;びよーんったー&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;androidapp-details&#34; style=&#34;font-size:small&#34;&gt;&lt;div&gt;開発元：&lt;a href=&#34;http://d.hatena.ne.jp/ABS104a/&#34; target=&#34;_blank&#34;&gt;ABS104a&lt;/a&gt;&lt;/div&gt;&lt;div&gt;価格：無料（広告を含む）&lt;/div&gt;&lt;div&gt;平均評価：4.1（合計1,727件）&lt;/div&gt;&lt;div&gt;ダウンロード：10万回以上&lt;/div&gt;&lt;div&gt;（2017年12月23日時点）&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&#34;DigiCal&#34;&gt;&lt;a href=&#34;#DigiCal&#34; class=&#34;headerlink&#34; title=&#34;DigiCal&#34;&gt;&lt;/a&gt;DigiCal&lt;/h2&gt;&lt;p&gt;カレンダーはこのアプリを使っています．気に入ったので広告なしの有償版を購入しました．&lt;br&gt;複数のカレンダーを色分けして表示することが出来，またカレンダーの表示スタイルも複数の中から選ぶことができるので便利です．&lt;/p&gt;
+&lt;p&gt;一番便利なのは，ちょうどいい感じのウィジェットがあることです．全体のスケジュールをパッと確認できるので重宝しています．&lt;/p&gt;
+&lt;img src=&#34;/2017/12/TAC-23-%E3%82%AA%E3%82%B9%E3%82%B9%E3%83%A1Android%E3%82%A2%E3%83%97%E3%83%AA15%E9%81%B8/digical.png&#34; width=&#34;350&#34; /&gt;
+
+&lt;div style=&#34;clear:both&#34;&gt;&lt;div class=&#34;androidapp-icon-image&#34; style=&#34;float:left;padding:0 10px 0 0&#34;&gt;&lt;img width=&#34;100&#34; style=&#34;border:0&#34; src=&#34;https://lh3.googleusercontent.com/IKClqChSzbBD3IwRW1fgiQWBo-bM3Rt89Dbr7_Wd0c2zXq5UiwIkaTSOgY3cY95nogU2=w300&#34;&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.digibites.calendar&#34; target=&#34;_blank&#34;&gt;DigiCal 日本カレンダースケジュール&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;androidapp-details&#34; style=&#34;font-size:small&#34;&gt;&lt;div&gt;開発元：&lt;a href=&#34;http://digibites.nl/digical&#34; target=&#34;_blank&#34;&gt;Digibites&lt;/a&gt;&lt;/div&gt;&lt;div&gt;価格：無料（アプリ内購入あり）（広告を含む）&lt;/div&gt;&lt;div&gt;平均評価：4.4（合計125,462件）&lt;/div&gt;&lt;div&gt;ダウンロード：500万回以上&lt;/div&gt;&lt;div&gt;（2017年12月23日時点）&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&#34;OpenSync&#34;&gt;&lt;a href=&#34;#OpenSync&#34; class=&#34;headerlink&#34; title=&#34;OpenSync&#34;&gt;&lt;/a&gt;OpenSync&lt;/h2&gt;&lt;p&gt;カレンダーと連絡先の同期に使用しています．僕は自前のサーバに&lt;a href=&#34;http://sabre.io/baikal/&#34;&gt;カレンダー・連絡先用サーバ&lt;/a&gt;を立ち上げているので，専用のアプリを使う必要がありました．特に不満もなく使用しています．&lt;/p&gt;
+&lt;div style=&#34;clear:both&#34;&gt;&lt;div class=&#34;androidapp-icon-image&#34; style=&#34;float:left;padding:0 10px 0 0&#34;&gt;&lt;img width=&#34;100&#34; style=&#34;border:0&#34; src=&#34;https://lh3.googleusercontent.com/9vhr2b2JCV1l9x4b3pAijPpPd3Ad1pSBjuevQizpcT-Ar5e748zMaPB1Hv6B1I4MOQ=w300&#34;&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.deependhulla.opensync&#34; target=&#34;_blank&#34;&gt;Open Sync&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;androidapp-details&#34; style=&#34;font-size:small&#34;&gt;&lt;div&gt;開発元：&lt;a href=&#34;http://deependhulla.com&#34; target=&#34;_blank&#34;&gt;Deepen Dhulla&lt;/a&gt;&lt;/div&gt;&lt;div&gt;価格：無料&lt;/div&gt;&lt;div&gt;平均評価：3.5（合計106件）&lt;/div&gt;&lt;div&gt;ダウンロード：1万回以上&lt;/div&gt;&lt;div&gt;（2017年12月23日時点）&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&#34;Just-Reminder&#34;&gt;&lt;a href=&#34;#Just-Reminder&#34; class=&#34;headerlink&#34; title=&#34;Just Reminder&#34;&gt;&lt;/a&gt;Just Reminder&lt;/h2&gt;&lt;p&gt;リマインダに使っています．やること(洗剤買う・工具持っていく・家賃払うなど)を指定した時刻に教えてくれます．時間になったら通知音と共に全画面で通知をしてくれるので便利です．&lt;/p&gt;
+&lt;div style=&#34;clear:both&#34;&gt;&lt;div class=&#34;androidapp-icon-image&#34; style=&#34;float:left;padding:0 10px 0 0&#34;&gt;&lt;img width=&#34;100&#34; style=&#34;border:0&#34; src=&#34;https://lh3.googleusercontent.com/Qhw95NX0cIqHEbdjy8NOPwofOWUhhDeui9U7-AahZSkmYdSOmb6jGzVlh1HpbKoIjg=w300&#34;&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=in.smsoft.justremind&#34; target=&#34;_blank&#34;&gt;ちょうどリマインダー&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;androidapp-details&#34; style=&#34;font-size:small&#34;&gt;&lt;div&gt;開発元：&lt;a href=&#34;&#34; target=&#34;_blank&#34;&gt;AppHouze Co&lt;/a&gt;&lt;/div&gt;&lt;div&gt;価格：無料（アプリ内購入あり）（広告を含む）&lt;/div&gt;&lt;div&gt;平均評価：4.5（合計31,469件）&lt;/div&gt;&lt;div&gt;ダウンロード：100万回以上&lt;/div&gt;&lt;div&gt;（2017年12月23日時点）&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&#34;Solid-Explorer-Classic&#34;&gt;&lt;a href=&#34;#Solid-Explorer-Classic&#34; class=&#34;headerlink&#34; title=&#34;Solid Explorer Classic&#34;&gt;&lt;/a&gt;Solid Explorer Classic&lt;/h2&gt;&lt;p&gt;ファイル管理に使っています．オンラインストレージもスムーズに使用することが出来ます．GoogleDrive，DropboxやWebDAVに対応しているので幸せです(&lt;a href=&#34;http://hantasmouse.hatenablog.jp/entry/2015/07/21/154021&#34;&gt;ownCloudが使いたかった&lt;/a&gt;のでこのアプリを選びました)．画面も2カラムあるため，あるファイルを別のフォルダにコピーするという作業がパパっとできます．&lt;br&gt;気に入ったので広告なしの有償版を購入しました．&lt;/p&gt;
+&lt;div style=&#34;clear:both&#34;&gt;&lt;div class=&#34;androidapp-icon-image&#34; style=&#34;float:left;padding:0 10px 0 0&#34;&gt;&lt;img width=&#34;100&#34; style=&#34;border:0&#34; src=&#34;https://lh5.ggpht.com/MF-F5Dvj-H5o98FZv5haWWqz_AvEMqk9na2ZJbCYihcxK1ltz15GrZ4S4qkV705lQbw=w300&#34;&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=pl.solidexplorer&#34; target=&#34;_blank&#34;&gt;Solid Explorer Classic&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;androidapp-details&#34; style=&#34;font-size:small&#34;&gt;&lt;div&gt;開発元：&lt;a href=&#34;&#34; target=&#34;_blank&#34;&gt;NeatBytes&lt;/a&gt;&lt;/div&gt;&lt;div&gt;価格：無料（広告を含む）&lt;/div&gt;&lt;div&gt;平均評価：4.5（合計49,687件）&lt;/div&gt;&lt;div&gt;ダウンロード：100万回以上&lt;/div&gt;&lt;div&gt;（2017年12月23日時点）&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&#34;FastHub&#34;&gt;&lt;a href=&#34;#FastHub&#34; class=&#34;headerlink&#34; title=&#34;FastHub&#34;&gt;&lt;/a&gt;FastHub&lt;/h2&gt;&lt;p&gt;Github専用のビューワです．ブラウザからできることがほとんどアプリでできるので快適です．&lt;/p&gt;
+&lt;div style=&#34;clear:both&#34;&gt;&lt;div class=&#34;androidapp-icon-image&#34; style=&#34;float:left;padding:0 10px 0 0&#34;&gt;&lt;img width=&#34;100&#34; style=&#34;border:0&#34; src=&#34;https://lh3.googleusercontent.com/kAmJ52R7k_H7MLZ8jdEkL0jZ7-SmVrOIx_zRMsckjLpv9x12hnRjbNA7yrqY_OaGsaVQ=w300&#34;&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.fastaccess.github&#34; target=&#34;_blank&#34;&gt;FastHub for GitHub&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;androidapp-details&#34; style=&#34;font-size:small&#34;&gt;&lt;div&gt;開発元：&lt;a href=&#34;https://github.com/k0shk0sh/FastHub&#34; target=&#34;_blank&#34;&gt;Fast Access&lt;/a&gt;&lt;/div&gt;&lt;div&gt;価格：無料（アプリ内購入あり）&lt;/div&gt;&lt;div&gt;平均評価：4.7（合計1,316件）&lt;/div&gt;&lt;div&gt;ダウンロード：10万回以上&lt;/div&gt;&lt;div&gt;（2017年12月23日時点）&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&#34;Termius&#34;&gt;&lt;a href=&#34;#Termius&#34; class=&#34;headerlink&#34; title=&#34;Termius&#34;&gt;&lt;/a&gt;Termius&lt;/h2&gt;&lt;p&gt;sshできます．自鯖がトラブったり，ちょっとした作業がしたい時に活用しています．仮想キーボードも充実しているのでこのアプリがあれば大体のトラブルに対処できます．&lt;/p&gt;
+&lt;div style=&#34;clear:both&#34;&gt;&lt;div class=&#34;androidapp-icon-image&#34; style=&#34;float:left;padding:0 10px 0 0&#34;&gt;&lt;img width=&#34;100&#34; style=&#34;border:0&#34; src=&#34;https://lh3.googleusercontent.com/9jHdwNZcjje_TXegLkBoyJ_zwZj8Ws22nqnK49DaJtE6JXT3dmA9cr2pjq39NQD6q0w=w300&#34;&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client&#34; target=&#34;_blank&#34;&gt;Termius - SSH, Mosh and Telnet client&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;androidapp-details&#34; style=&#34;font-size:small&#34;&gt;&lt;div&gt;開発元：&lt;a href=&#34;https://www.termius.com&#34; target=&#34;_blank&#34;&gt;Crystalnix Limited&lt;/a&gt;&lt;/div&gt;&lt;div&gt;価格：無料（アプリ内購入あり）&lt;/div&gt;&lt;div&gt;平均評価：4.7（合計12,361件）&lt;/div&gt;&lt;div&gt;ダウンロード：10万回以上&lt;/div&gt;&lt;div&gt;（2017年12月23日時点）&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&#34;ExtraVolumeSimple&#34;&gt;&lt;a href=&#34;#ExtraVolumeSimple&#34; class=&#34;headerlink&#34; title=&#34;ExtraVolumeSimple&#34;&gt;&lt;/a&gt;ExtraVolumeSimple&lt;/h2&gt;&lt;p&gt;Androidの音量最小値より小さい音を出したい時に便利です．静かなところでイヤホンで音楽を聞く時などに便利です．&lt;/p&gt;
+&lt;div style=&#34;clear:both&#34;&gt;&lt;div class=&#34;androidapp-icon-image&#34; style=&#34;float:left;padding:0 10px 0 0&#34;&gt;&lt;img width=&#34;100&#34; style=&#34;border:0&#34; src=&#34;https://lh5.ggpht.com/sPI2hxkp7qsoIVgCWmDgo2RfYJQld0W5EFBc-ZGM8_bQRC7F4xRDQTdos9oyErtCB2zJ=w300&#34;&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=jp.Keshigoto.ExtraVolumeSimple&#34; target=&#34;_blank&#34;&gt;ExtraVolumeSimple(音量微調整)&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;androidapp-details&#34; style=&#34;font-size:small&#34;&gt;&lt;div&gt;開発元：&lt;a href=&#34;http://keshigoto.blog.fc2.com/&#34; target=&#34;_blank&#34;&gt;Keshigoto&lt;/a&gt;&lt;/div&gt;&lt;div&gt;価格：無料（広告を含む）&lt;/div&gt;&lt;div&gt;平均評価：3.9（合計763件）&lt;/div&gt;&lt;div&gt;ダウンロード：5万回以上&lt;/div&gt;&lt;div&gt;（2017年12月23日時点）&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&#34;Screen-Filter&#34;&gt;&lt;a href=&#34;#Screen-Filter&#34; class=&#34;headerlink&#34; title=&#34;Screen Filter&#34;&gt;&lt;/a&gt;Screen Filter&lt;/h2&gt;&lt;p&gt;画面の輝度を落とすアプリです．夜行バスの中で携帯を使う時に輝度をかなり絞ることが出来て，意外と有用です．&lt;/p&gt;
+&lt;div style=&#34;clear:both&#34;&gt;&lt;div class=&#34;androidapp-icon-image&#34; style=&#34;float:left;padding:0 10px 0 0&#34;&gt;&lt;img width=&#34;100&#34; style=&#34;border:0&#34; src=&#34;https://lh5.ggpht.com/f0-8s0mcXMbqv8RvP71ewaq4SEsDVrXZavOFzsy0t9cxp8ldqvnEx0SJPtxyNiFgkZQ=w300&#34;&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.haxor&#34; target=&#34;_blank&#34;&gt;Screen Filter&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;androidapp-details&#34; style=&#34;font-size:small&#34;&gt;&lt;div&gt;開発元：&lt;a href=&#34;http://onebigfluke.com&#34; target=&#34;_blank&#34;&gt;haxor industry&lt;/a&gt;&lt;/div&gt;&lt;div&gt;価格：無料&lt;/div&gt;&lt;div&gt;平均評価：4.5（合計123,793件）&lt;/div&gt;&lt;div&gt;ダウンロード：500万回以上&lt;/div&gt;&lt;div&gt;（2017年12月23日時点）&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&#34;Moneytree&#34;&gt;&lt;a href=&#34;#Moneytree&#34; class=&#34;headerlink&#34; title=&#34;Moneytree&#34;&gt;&lt;/a&gt;Moneytree&lt;/h2&gt;&lt;p&gt;口座残高管理アプリです．このアプリはクレジットの引き落とし日と金額の通知が見やすいので使っています．というかそれにしか使っていません．&lt;/p&gt;
+&lt;div style=&#34;clear:both&#34;&gt;&lt;div class=&#34;androidapp-icon-image&#34; style=&#34;float:left;padding:0 10px 0 0&#34;&gt;&lt;img width=&#34;100&#34; style=&#34;border:0&#34; src=&#34;https://lh3.googleusercontent.com/AOYXFRABnL4UAYtIzrvXFl8V5NECXRU9diVrPJNIMqQ0tbGhYLjixDv7YbO5haRJWag=w300&#34;&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=jp.moneytree.moneytree&#34; target=&#34;_blank&#34;&gt;家計簿Moneytree - 無料で人気の簡単に節約できるアプリ&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;androidapp-details&#34; style=&#34;font-size:small&#34;&gt;&lt;div&gt;開発元：&lt;a href=&#34;https://moneytree.jp/&#34; target=&#34;_blank&#34;&gt;Moneytree KK&lt;/a&gt;&lt;/div&gt;&lt;div&gt;価格：無料&lt;/div&gt;&lt;div&gt;平均評価：4.4（合計955件）&lt;/div&gt;&lt;div&gt;ダウンロード：10万回以上&lt;/div&gt;&lt;div&gt;（2017年12月23日時点）&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&#34;Keepass2Android&#34;&gt;&lt;a href=&#34;#Keepass2Android&#34; class=&#34;headerlink&#34; title=&#34;Keepass2Android&#34;&gt;&lt;/a&gt;Keepass2Android&lt;/h2&gt;&lt;p&gt;パスワード管理アプリです．僕はWindowsでもLinuxでも&lt;a href=&#34;https://keepass.info/&#34;&gt;KeePass&lt;/a&gt;を使っているので，このアプリを使うことでAndroidでもパスワードを確認することができます．僕の場合パスワードのデータはWebDAVサーバ上に置いているので，いつでも最新のパスワードデータを確認することが出来ます．&lt;/p&gt;
+&lt;div style=&#34;clear:both&#34;&gt;&lt;div class=&#34;androidapp-icon-image&#34; style=&#34;float:left;padding:0 10px 0 0&#34;&gt;&lt;img width=&#34;100&#34; style=&#34;border:0&#34; src=&#34;https://lh6.ggpht.com/e9DhGyvhyA1ATXy4Dz70KWHPUJdH3fc_RE-RN-uLm7O2TrqJ56tCTeKa3U4HPDt_HGY=w300&#34;&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=keepass2android.keepass2android&#34; target=&#34;_blank&#34;&gt;Keepass2Android Password Safe&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;androidapp-details&#34; style=&#34;font-size:small&#34;&gt;&lt;div&gt;開発元：&lt;a href=&#34;http://keepass2android.codeplex.com/&#34; target=&#34;_blank&#34;&gt;Philipp Crocoll (Croco Apps)&lt;/a&gt;&lt;/div&gt;&lt;div&gt;価格：無料&lt;/div&gt;&lt;div&gt;平均評価：4.7（合計18,546件）&lt;/div&gt;&lt;div&gt;ダウンロード：100万回以上&lt;/div&gt;&lt;div&gt;（2017年12月23日時点）&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&#34;AliExpress&#34;&gt;&lt;a href=&#34;#AliExpress&#34; class=&#34;headerlink&#34; title=&#34;AliExpress&#34;&gt;&lt;/a&gt;AliExpress&lt;/h2&gt;&lt;p&gt;言わずと知れたAliExpressのアプリです．アプリ専用の割引があるのでおすすめです．また，毎日コインをもらうことができ，交換で割引クーポンを手に入れられるのでみなさんも是非頑張ってみてください．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;ログインボーナスの進捗です &lt;a href=&#34;https://t.co/N1ZxK9GE8A&#34;&gt;pic.twitter.com/N1ZxK9GE8A&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/933388147081146368?ref_src=twsrc%5Etfw&#34;&gt;2017年11月22日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;div style=&#34;clear:both&#34;&gt;&lt;div class=&#34;androidapp-icon-image&#34; style=&#34;float:left;padding:0 10px 0 0&#34;&gt;&lt;img width=&#34;100&#34; style=&#34;border:0&#34; src=&#34;https://lh3.googleusercontent.com/pFGJzQElQPcr-H-gJdbBKC9Z0b0RDuqawSy-OBf2M_xA_m1sQo-7ssOlqOU4xGDsdcM=w300&#34;&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd&#34; target=&#34;_blank&#34;&gt;AliExpress Shopping App - Coupons For New User&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;androidapp-details&#34; style=&#34;font-size:small&#34;&gt;&lt;div&gt;開発元：&lt;a href=&#34;http://www.aliexpress.com&#34; target=&#34;_blank&#34;&gt;Alibaba Mobile&lt;/a&gt;&lt;/div&gt;&lt;div&gt;価格：無料&lt;/div&gt;&lt;div&gt;平均評価：4.6（合計4,784,908件）&lt;/div&gt;&lt;div&gt;ダウンロード：1億回以上&lt;/div&gt;&lt;div&gt;（2017年12月23日時点）&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&#34;yakudo-camera&#34;&gt;&lt;a href=&#34;#yakudo-camera&#34; class=&#34;headerlink&#34; title=&#34;yakudo camera&#34;&gt;&lt;/a&gt;yakudo camera&lt;/h2&gt;&lt;p&gt;誰でも躍動写真が撮影できます．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.taniho.net/2017/12/TAC-08-yakudo-camera%E8%A3%BD%E4%BD%9C%E8%A8%98/&#34;&gt;yakudo camera製作記 | taniho’s blog&lt;/a&gt;&lt;/p&gt;
+&lt;div style=&#34;clear:both&#34;&gt;&lt;div class=&#34;androidapp-icon-image&#34; style=&#34;float:left;padding:0 10px 0 0&#34;&gt;&lt;img width=&#34;100&#34; style=&#34;border:0&#34; src=&#34;https://lh3.googleusercontent.com/v64MELdkn5BSwAhtMqLxYLcVyEh3MXY4QnSMlOvc_AB0Xk7Hmse5lJiubSKe0YTVRA=w300&#34;&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=net.taniho.yakudo&#34; target=&#34;_blank&#34;&gt;yakudo camera&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;androidapp-details&#34; style=&#34;font-size:small&#34;&gt;&lt;div&gt;開発元：taniho_0707&lt;/div&gt;&lt;div&gt;価格：無料&lt;/div&gt;&lt;div&gt;平均評価：5.0（合計1件）&lt;/div&gt;&lt;div&gt;ダウンロード：10回以上&lt;/div&gt;&lt;div&gt;（2017年12月23日時点）&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h1 id=&#34;まとめ&#34;&gt;&lt;a href=&#34;#まとめ&#34; class=&#34;headerlink&#34; title=&#34;まとめ&#34;&gt;&lt;/a&gt;まとめ&lt;/h1&gt;&lt;p&gt;明日の&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;は，25日間続けてきた(続けている)一人Advent Calendarをやってみた感想を書きます．&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

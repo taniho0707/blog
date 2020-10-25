@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>taniho&#39;s blog • Posts by &#34;スライドショー&#34; tag</title>
+        <link>http://blog.taniho.net</link>
+        <description>technical note</description>
+        <language>en</language>
+        <pubDate>Sat, 16 Dec 2017 17:14:04 +0900</pubDate>
+        <lastBuildDate>Sat, 16 Dec 2017 17:14:04 +0900</lastBuildDate>
+        <category>Emacs</category>
+        <category>ArchLinux</category>
+        <category>マイクロマウス</category>
+        <category>台湾</category>
+        <category>旅行</category>
+        <category>たまこまーけっと</category>
+        <category>2016年</category>
+        <category>買い物</category>
+        <category>おすすめ</category>
+        <category>日常</category>
+        <category>2017年</category>
+        <category>クリスマス</category>
+        <category>Elecrow</category>
+        <category>電子工作</category>
+        <category>関西地区大会</category>
+        <category>猫</category>
+        <category>Apache</category>
+        <category>letsencrypt</category>
+        <category>Blu-ray</category>
+        <category>VLC</category>
+        <category>CNC</category>
+        <category>Magit</category>
+        <category>git</category>
+        <category>MFT</category>
+        <category>RaspberryPi</category>
+        <category>無線LAN</category>
+        <category>Mice</category>
+        <category>鵤</category>
+        <category>メジロ</category>
+        <category>Qt</category>
+        <category>デレステ</category>
+        <category>yakudo</category>
+        <category>Android</category>
+        <category>Discord</category>
+        <category>Webアプリ</category>
+        <category>教習所</category>
+        <category>ロボット</category>
+        <category>Linux</category>
+        <category>remark</category>
+        <category>スライドショー</category>
+        <category>ごはん</category>
+        <category>金町</category>
+        <category>クレジットカード</category>
+        <category>ヘボコン</category>
+        <category>ボードゲーム</category>
+        <category>Quadcept</category>
+        <category>CAD</category>
+        <category>Doxygen</category>
+        <category>2018年</category>
+        <category>dアニメストア</category>
+        <category>Renesas</category>
+        <category>RX62T</category>
+        <category>e2studio</category>
+        <category>github</category>
+        <category>マウス</category>
+        <category>分解</category>
+        <category>logicool</category>
+        <category>M570</category>
+        <category>G700s</category>
+        <category>seccamp2016</category>
+        <category>seccamp</category>
+        <category>ownCloud</category>
+        <category>サーバー</category>
+        <category>subsonic</category>
+        <category>音楽</category>
+        <category>みそ煮込みうどん</category>
+        <category>I.Sys</category>
+        <category>フラッグLED</category>
+        <category>i3</category>
+        <category>wm</category>
+        <category>AdventCalendar</category>
+        <category>モード</category>
+        <category>迷路</category>
+        <category>C++</category>
+        <category>調整</category>
+        <category>中華</category>
+        <category>まとめ</category>
+        <category>助けて</category>
+        <category>三角関数</category>
+        <category>福岡</category>
+        <category>東北地区大会</category>
+        <category>STL</category>
+        <category>入門</category>
+        <category>ラズパイコンテスト</category>
+        <category>NFC</category>
+        <category>C言語</category>
+        <category>部品</category>
+        <category>管理</category>
+        <category>電子部品</category>
+        <category>STM32CubeMX</category>
+        <category>FTDI</category>
+        <category>Makefile</category>
+        <category>アプリ</category>
+        <category>はてな</category>
+        <category>インターン</category>
+        <category>最高</category>
+        <category>セキュリティ・キャンプ</category>
+        <item>
+            <guid isPermalink="true">http://blog.taniho.net/2017/12/TAC-16-%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%92remark%E3%81%A7%E4%BD%9C%E3%82%8B/</guid>
+            <title>[TAC:16] スライドショーをremarkで作る</title>
+            <link>http://blog.taniho.net/2017/12/TAC-16-%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%92remark%E3%81%A7%E4%BD%9C%E3%82%8B/</link>
+            <category>remark</category>
+            <category>スライドショー</category>
+            <pubDate>Sat, 16 Dec 2017 17:14:04 +0900</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;この記事は&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;の16日目の記事です．&lt;/p&gt;
+&lt;p&gt;今日はスライド作成の手段として，PowerPoint(やlibreoffice impress)以外の方法もあるということを紹介したいと思います．具体的には，htmlベースのremarkの紹介です．非常にざっくりとした紹介ですが，雰囲気を知っていただければ嬉しいです．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;remarkとは&#34;&gt;&lt;a href=&#34;#remarkとは&#34; class=&#34;headerlink&#34; title=&#34;remarkとは&#34;&gt;&lt;/a&gt;remarkとは&lt;/h1&gt;&lt;p&gt;まずはこちらのデモを見てください．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://remarkjs.com/&#34;&gt;remark&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;“h”キーを押すとヘルプが出るので，興味のある人は押してみてください．発表者モード，複数画面モードなどが完備されています．&lt;/p&gt;
+&lt;p&gt;remarkはjavascriptで書かれたスライドショーツールです．ブラウザで動かすため，環境に依存しないスライドを作ることが出来ます．また，スライドの中身はMarkdown形式で書くことができるため，慣れている人はすぐにスライドを作り始めることが出来ます．&lt;/p&gt;
+&lt;h1 id=&#34;remarkを始める&#34;&gt;&lt;a href=&#34;#remarkを始める&#34; class=&#34;headerlink&#34; title=&#34;remarkを始める&#34;&gt;&lt;/a&gt;remarkを始める&lt;/h1&gt;&lt;p&gt;まずはgithubからリポジトリをクローンしてきてください．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/gnab/remark&#34;&gt;gnab/remark&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;remarkは3種類の動作方法があります．&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;boilerplate-local.html&lt;br&gt;すべてのファイルをローカルからロードします．htmlサーバを立ち上げることで利用できます．インターネットが利用できない可能性がある場合は，これを使えばいいと思います．&lt;/li&gt;
+&lt;li&gt;boilerplate-remote.html&lt;br&gt;jsファイルを外部(remote公式サーバ)からロードするようになっています．インターネットが使える環境の場合に利用できます．htmlサーバが不要なので(このファイルをブラウザで開くだけで利用できる)お手軽です．&lt;/li&gt;
+&lt;li&gt;boilerplate-single.html&lt;br&gt;jsファイル諸々が1つのファイルに埋め込まれています．このファイルを1つ持ち運ぶだけでどこでもプレゼンテーションができます．&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;僕は&lt;code&gt;boilerplate-local.html&lt;/code&gt;を使い，Python3のhttp.serverを使ってプレビューを行っていました．次のコマンドを打つと，起動したディレクトリをルートとしたサーバが8000番ポートに立ち上がります．&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;python -m http.server 8000&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;ブラウザから&lt;code&gt;http://localhost:8000/boilerplate-local.html&lt;/code&gt;を参照すれば，スライドが見られるはずです．&lt;/p&gt;
+&lt;h1 id=&#34;スライドを作る&#34;&gt;&lt;a href=&#34;#スライドを作る&#34; class=&#34;headerlink&#34; title=&#34;スライドを作る&#34;&gt;&lt;/a&gt;スライドを作る&lt;/h1&gt;&lt;p&gt;さて，テンプレートのスライドが見られたところで，中身を作っていきます．Markdownでスライドを作れると言いましたが，htmlファイルとMarkdownファイルは分離したいと思うので，設定を行います．&lt;br&gt;以降は&lt;code&gt;boilerplate-local.html&lt;/code&gt;をコピーした&lt;code&gt;slide.html&lt;/code&gt;を編集していくものとします．&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;slide.html&lt;/code&gt;の後ろの方を書き換え，同じディレクトリにある&lt;code&gt;スライドの中身.md&lt;/code&gt;ファイルを参照するようにします．&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;script&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;type&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;text/javascript&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;javascript&#34;&gt;  &lt;span class=&#34;keyword&#34;&gt;var&lt;/span&gt; slideshow = remark.create(&amp;#123;&lt;span class=&#34;attr&#34;&gt;sourceUrl&lt;/span&gt;: &lt;span class=&#34;string&#34;&gt;&amp;#x27;スライドの中身.md&amp;#x27;&lt;/span&gt;&amp;#125;);&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;script&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;Markdownの書き方は&lt;a href=&#34;http://github.com/gnab/remark/wiki&#34;&gt;remark wiki&lt;/a&gt;を見ながら頑張っていきます．よく使うのは次の記法です．&lt;/p&gt;
+&lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;# タイトル&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;## サブタイトル&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;???&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;発表用メモ&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;---&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;改ページ&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;![&lt;span class=&#34;string&#34;&gt;画像キャプション&lt;/span&gt;](&lt;span class=&#34;link&#34;&gt;img.jpg&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;xml&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;img&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;img2.jpg&amp;quot;&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;width&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;350&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;htmlタグも貼り付けられる&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;1.&lt;/span&gt; 箇条書きも&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;2.&lt;/span&gt; できる&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;.left-column[&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;こんな感じで(左)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;.right-column[&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;デザインを使う(右)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;デザインを改良する&#34;&gt;&lt;a href=&#34;#デザインを改良する&#34; class=&#34;headerlink&#34; title=&#34;デザインを改良する&#34;&gt;&lt;/a&gt;デザインを改良する&lt;/h1&gt;&lt;p&gt;htmlなので，cssを書き換えることでレイアウトや色合いなどを自由に変更できます．&lt;br&gt;デフォルトの設定はcssファイルにまとめてありますが，&lt;code&gt;slide.html&lt;/code&gt;内で上書きすることが出来ます．ファイルを開き，上部の方に設定を書くことで上書きすることが出来ます．&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;style&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;type&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;text/css&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;css&#34;&gt;  &lt;span class=&#34;comment&#34;&gt;/* Two-column layout */&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;css&#34;&gt;  &lt;span class=&#34;selector-class&#34;&gt;.left-column&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;css&#34;&gt;    &lt;span class=&#34;selector-tag&#34;&gt;color&lt;/span&gt;: &lt;span class=&#34;selector-id&#34;&gt;#777&lt;/span&gt;;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    width: 20%;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    height: 92%;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    float: left;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;css&#34;&gt;  &lt;span class=&#34;selector-class&#34;&gt;.left-column&lt;/span&gt; &lt;span class=&#34;selector-tag&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;selector-pseudo&#34;&gt;:last-of-type&lt;/span&gt;, &lt;span class=&#34;selector-class&#34;&gt;.left-column&lt;/span&gt; &lt;span class=&#34;selector-tag&#34;&gt;h3&lt;/span&gt;&lt;span class=&#34;selector-pseudo&#34;&gt;:last-child&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;css&#34;&gt;    &lt;span class=&#34;selector-tag&#34;&gt;color&lt;/span&gt;: &lt;span class=&#34;selector-id&#34;&gt;#000&lt;/span&gt;;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;css&#34;&gt;  &lt;span class=&#34;selector-class&#34;&gt;.right-column&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    width: 75%;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    float: right;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    padding-top: 1em;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;style&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;……僕はこのあたり苦手なので，cssに強い人に聞いてください．上記の例では，2段組の幅と文字色を変更しています．&lt;/p&gt;
+&lt;h1 id=&#34;スライドを作った&#34;&gt;&lt;a href=&#34;#スライドを作った&#34; class=&#34;headerlink&#34; title=&#34;スライドを作った&#34;&gt;&lt;/a&gt;スライドを作った&lt;/h1&gt;&lt;p&gt;ということでスライドを作ることが出来ました．初めて作った資料を公開してみますが，内容については当てにしないでください．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.taniho.net/mice/&#34;&gt;STM32で始めるマウス製作&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;まとめ&#34;&gt;&lt;a href=&#34;#まとめ&#34; class=&#34;headerlink&#34; title=&#34;まとめ&#34;&gt;&lt;/a&gt;まとめ&lt;/h1&gt;&lt;p&gt;導入は少し力を入れる必要がありますが，慣れればサクサクスライドが作れるようになると思います．あとはデザインができる人頑張ってくれ！！&lt;/p&gt;
+&lt;p&gt;明日の&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;は，金町駅周辺のごはん処を紹介しようと思います．&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

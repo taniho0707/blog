@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;2018年&#34; tag</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2018-12-31T14:26:43.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2018/12/%E6%BF%80%E5%8B%95%E3%81%AE2018%E5%B9%B4%E3%82%92%E9%9B%91%E3%81%AB%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8B/</id>
+        <title>激動の2018年を雑に振り返る</title>
+        <link rel="alternate" href="http://blog.taniho.net/2018/12/%E6%BF%80%E5%8B%95%E3%81%AE2018%E5%B9%B4%E3%82%92%E9%9B%91%E3%81%AB%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8B/"/>
+        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;去年に引き続き，一年のまとめと来年の抱負を書き連ねていこうと思います．&lt;br&gt;今年もあと1時間を切っているので，雑に進めていきましょう．&lt;/p&gt;
+&lt;p&gt;ちなみに去年の雑な記事はこちら．&lt;br&gt;&lt;a href=&#34;http://blog.taniho.net/2017/12/TAC-25-%E4%BB%8A%E5%B9%B4%E3%81%AE%E6%8A%B1%E8%B2%A0%E3%82%92%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A%EF%BC%8C%E6%9D%A5%E5%B9%B4%E3%81%AE%E6%8A%B1%E8%B2%A0%E3%82%92%E8%80%83%E3%81%88%E3%82%8B/&#34;&gt;今年の抱負を振り返り，来年の抱負を考える | taniho’s blog&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;今年1年のできごと&#34;&gt;&lt;a href=&#34;#今年1年のできごと&#34; class=&#34;headerlink&#34; title=&#34;今年1年のできごと&#34;&gt;&lt;/a&gt;今年1年のできごと&lt;/h1&gt;&lt;h2 id=&#34;入社&#34;&gt;&lt;a href=&#34;#入社&#34; class=&#34;headerlink&#34; title=&#34;入社&#34;&gt;&lt;/a&gt;入社&lt;/h2&gt;&lt;p&gt;ついに学生という最高の身分を捨てて収入を得てしまった．&lt;/p&gt;
+&lt;h2 id=&#34;謎コミュニティに入る&#34;&gt;&lt;a href=&#34;#謎コミュニティに入る&#34; class=&#34;headerlink&#34; title=&#34;謎コミュニティに入る&#34;&gt;&lt;/a&gt;謎コミュニティに入る&lt;/h2&gt;&lt;p&gt;Splatoon2をする謎のグループで毎晩イカをやっていました．&lt;br&gt;ただイカ引退は近い．&lt;/p&gt;
+&lt;h2 id=&#34;人生についてようやく考え始める&#34;&gt;&lt;a href=&#34;#人生についてようやく考え始める&#34; class=&#34;headerlink&#34; title=&#34;人生についてようやく考え始める&#34;&gt;&lt;/a&gt;人生についてようやく考え始める&lt;/h2&gt;&lt;p&gt;僕はこれから死ぬまでどうやって過ごしていこうか，いつまでにどんなことがしたいか，など考え始めたが，まだ全然まとまっていません．&lt;/p&gt;
+&lt;h1 id=&#34;今年の振り返り&#34;&gt;&lt;a href=&#34;#今年の振り返り&#34; class=&#34;headerlink&#34; title=&#34;今年の振り返り&#34;&gt;&lt;/a&gt;今年の振り返り&lt;/h1&gt;&lt;h2 id=&#34;スキーに行く&#34;&gt;&lt;a href=&#34;#スキーに行く&#34; class=&#34;headerlink&#34; title=&#34;スキーに行く&#34;&gt;&lt;/a&gt;スキーに行く&lt;/h2&gt;&lt;p&gt;2回行きましたが，満足は出来ていません．&lt;br&gt;2019年は最低でも2回(うち1回は北海道！)行くことが決まっているので，来年もがんばります．&lt;/p&gt;
+&lt;h2 id=&#34;色んな所に行く&#34;&gt;&lt;a href=&#34;#色んな所に行く&#34; class=&#34;headerlink&#34; title=&#34;色んな所に行く&#34;&gt;&lt;/a&gt;色んな所に行く&lt;/h2&gt;&lt;p&gt;台湾とマイクロマウス地区大会くらいしか言った記憶が無いので未達成といえば未達成ですね．&lt;br&gt;今年はなぜか旅行に行くと体調を崩す1年だったので，旅行が怖くなっているフシがあります．&lt;br&gt;厄年のせいだと信じているので，来年は大丈夫でしょう．&lt;/p&gt;
+&lt;h2 id=&#34;寝坊をしない&#34;&gt;&lt;a href=&#34;#寝坊をしない&#34; class=&#34;headerlink&#34; title=&#34;寝坊をしない&#34;&gt;&lt;/a&gt;寝坊をしない&lt;/h2&gt;&lt;p&gt;寝坊はしたような気がしますが，遅刻は1回たりともしてないのでセーフ．&lt;/p&gt;
+&lt;h2 id=&#34;結婚する&#34;&gt;&lt;a href=&#34;#結婚する&#34; class=&#34;headerlink&#34; title=&#34;結婚する&#34;&gt;&lt;/a&gt;結婚する&lt;/h2&gt;&lt;p&gt;だめでした．&lt;br&gt;いつかリベンジするぞ．&lt;/p&gt;
+&lt;h1 id=&#34;来年の抱負&#34;&gt;&lt;a href=&#34;#来年の抱負&#34; class=&#34;headerlink&#34; title=&#34;来年の抱負&#34;&gt;&lt;/a&gt;来年の抱負&lt;/h1&gt;&lt;h2 id=&#34;会社で圧倒的成長💪💪💪する&#34;&gt;&lt;a href=&#34;#会社で圧倒的成長💪💪💪する&#34; class=&#34;headerlink&#34; title=&#34;会社で圧倒的成長💪💪💪する&#34;&gt;&lt;/a&gt;会社で圧倒的成長💪💪💪する&lt;/h2&gt;&lt;p&gt;プロ技術者目指していきます．&lt;/p&gt;
+&lt;h2 id=&#34;ものづくりのモチベーションをなくさない&#34;&gt;&lt;a href=&#34;#ものづくりのモチベーションをなくさない&#34; class=&#34;headerlink&#34; title=&#34;ものづくりのモチベーションをなくさない&#34;&gt;&lt;/a&gt;ものづくりのモチベーションをなくさない&lt;/h2&gt;&lt;p&gt;学生パワーが残っている今の気持ちを今後も維持していきたいです．&lt;br&gt;気を抜いたら社会の荒波に飲み込まれそうなので，がんばります．&lt;/p&gt;
+&lt;h2 id=&#34;書き残す&#34;&gt;&lt;a href=&#34;#書き残す&#34; class=&#34;headerlink&#34; title=&#34;書き残す&#34;&gt;&lt;/a&gt;書き残す&lt;/h2&gt;&lt;p&gt;プログラムを書いたり，サーバーのメンテをしたり，等々，&lt;br&gt;何かをした時の行動ログをまとめて知識を文書化していきたいです．&lt;br&gt;あわよくば同人誌を書けるくらいの分量になればいいなあ．&lt;/p&gt;
+&lt;h2 id=&#34;通勤の時間を有効活用する&#34;&gt;&lt;a href=&#34;#通勤の時間を有効活用する&#34; class=&#34;headerlink&#34; title=&#34;通勤の時間を有効活用する&#34;&gt;&lt;/a&gt;通勤の時間を有効活用する&lt;/h2&gt;&lt;p&gt;通勤は人類が生み出した最悪の週間だと思っているので，なんとしてでも有効活用します．&lt;br&gt;今の所Twitterをしたり本を読んだり考え事をしたりTwitterをしたりしているので，もうちょっとうまいことしたい．&lt;/p&gt;
+&lt;h2 id=&#34;一人暮らしする&#34;&gt;&lt;a href=&#34;#一人暮らしする&#34; class=&#34;headerlink&#34; title=&#34;一人暮らしする&#34;&gt;&lt;/a&gt;一人暮らしする&lt;/h2&gt;&lt;p&gt;通勤時間を抹消していくぞ💪💪💪&lt;/p&gt;
+&lt;h1 id=&#34;まとめ&#34;&gt;&lt;a href=&#34;#まとめ&#34; class=&#34;headerlink&#34; title=&#34;まとめ&#34;&gt;&lt;/a&gt;まとめ&lt;/h1&gt;&lt;p&gt;今年一年お世話になった方には大変お世話になりました．&lt;br&gt;来年もまたよろしくお願いします．&lt;/p&gt;
+</content>
+        <category term="日常" />
+        <category term="2018年" />
+        <category term="まとめ" />
+        <updated>2018-12-31T14:26:43.000Z</updated>
+    </entry>
+</feed>

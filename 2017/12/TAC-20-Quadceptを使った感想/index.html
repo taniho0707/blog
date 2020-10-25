@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  <title>[TAC:20] Quadceptを使った感想 | taniho&#39;s blog</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="はじめにこの記事はtaniho Advent Calendar 2017の20日目の記事です． 今日は，最近無償版が登場した回路CADである，Quadceptを使用した感想を書こうと思います．Quadceptは世界初のクラウド型EDAらしく，かなり使いやすいという噂は聞いていたものの中々手を出せずにいました．本来は月額料金がかかるソフトウェアですが，最近になって非商用での利用の場合無料で利用できる">
+<meta property="og:type" content="article">
+<meta property="og:title" content="[TAC:20] Quadceptを使った感想">
+<meta property="og:url" content="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/index.html">
+<meta property="og:site_name" content="taniho&#39;s blog">
+<meta property="og:description" content="はじめにこの記事はtaniho Advent Calendar 2017の20日目の記事です． 今日は，最近無償版が登場した回路CADである，Quadceptを使用した感想を書こうと思います．Quadceptは世界初のクラウド型EDAらしく，かなり使いやすいという噂は聞いていたものの中々手を出せずにいました．本来は月額料金がかかるソフトウェアですが，最近になって非商用での利用の場合無料で利用できる">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/stroke1.jpg">
+<meta property="og:image" content="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/stroke2.jpg">
+<meta property="og:image" content="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/filter.jpg">
+<meta property="og:image" content="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/color1.jpg">
+<meta property="og:image" content="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/color2.jpg">
+<meta property="og:image" content="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/1point1.jpg">
+<meta property="og:image" content="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/1point2.jpg">
+<meta property="og:image" content="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/img1.jpg">
+<meta property="og:image" content="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/memo.jpg">
+<meta property="og:image" content="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/list1.jpg">
+<meta property="og:image" content="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/pad.jpg">
+<meta property="og:image" content="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/shiji1.jpg">
+<meta property="og:image" content="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/shiji2.jpg">
+<meta property="og:image" content="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/beta.jpg">
+<meta property="og:image" content="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/guide.jpg">
+<meta property="article:published_time" content="2017-12-20T13:00:00.000Z">
+<meta property="article:modified_time" content="2017-12-22T09:12:46.000Z">
+<meta property="article:author" content="taniho">
+<meta property="article:tag" content="Quadcept">
+<meta property="article:tag" content="CAD">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/stroke1.jpg">
+<meta name="twitter:creator" content="@taniho_0707">
+  
+    <link rel="alternative" href="/atom.xml" title="taniho&#39;s blog" type="application/atom+xml">
+  
+  
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  
+  <link href="//fonts.googleapis.com/css?family=Inconsolata:400,700|Open+Sans:700,400" rel="stylesheet" type="text/css">
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+<!-- Google Analytics -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-76954428-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+
+
+  <script type="text/javascript" src="http://s.hatena.ne.jp/js/HatenaStar.js"></script>
+  <script type="text/javascript">
+   Hatena.Star.Token = 'fe95224141aa192c5bf3aff7506d929f80fa68a6';
+   Hatena.Star.EntryLoader.headerTagAndClassName = ['span', 'hatenastar'];
+  </script>
+<meta name="generator" content="Hexo 5.2.0"><style>mjx-container[jax="SVG"] {
+  direction: ltr;
+}
+
+mjx-container[jax="SVG"] > svg {
+  overflow: visible;
+}
+
+mjx-container[jax="SVG"] > svg a {
+  fill: blue;
+  stroke: blue;
+}
+
+mjx-container[jax="SVG"][display="true"] {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+mjx-container[jax="SVG"][justify="left"] {
+  text-align: left;
+}
+
+mjx-container[jax="SVG"][justify="right"] {
+  text-align: right;
+}
+
+g[data-mml-node="merror"] > g {
+  fill: red;
+  stroke: red;
+}
+
+g[data-mml-node="merror"] > rect[data-background] {
+  fill: yellow;
+  stroke: none;
+}
+
+g[data-mml-node="mtable"] > line[data-line] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > rect[data-frame] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > .mjx-dashed {
+  stroke-dasharray: 140;
+}
+
+g[data-mml-node="mtable"] > .mjx-dotted {
+  stroke-linecap: round;
+  stroke-dasharray: 0,140;
+}
+
+g[data-mml-node="mtable"] > svg {
+  overflow: visible;
+}
+
+[jax="SVG"] mjx-tool {
+  display: inline-block;
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+[jax="SVG"] mjx-tool > mjx-tip {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+mjx-tool > mjx-tip {
+  display: inline-block;
+  padding: .2em;
+  border: 1px solid #888;
+  font-size: 70%;
+  background-color: #F8F8F8;
+  color: black;
+  box-shadow: 2px 2px 5px #AAAAAA;
+}
+
+g[data-mml-node="maction"][data-toggle] {
+  cursor: pointer;
+}
+
+mjx-status {
+  display: block;
+  position: fixed;
+  left: 1em;
+  bottom: 1em;
+  min-width: 25%;
+  padding: .2em .4em;
+  border: 1px solid #888;
+  font-size: 90%;
+  background-color: #F8F8F8;
+  color: black;
+}
+
+foreignObject[data-mjx-xml] {
+  font-family: initial;
+  line-height: normal;
+  overflow: visible;
+}
+
+.MathJax path {
+  stroke-width: 3;
+}
+
+mjx-container[display="true"] {
+  overflow: auto hidden;
+}
+
+mjx-container[display="true"] + br {
+  display: none;
+}
+</style></head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <div id="header">
+  <div id="header-outer" class="outer">
+    <div id="header-inner" class="inner">
+      <div id="header-title">
+        <h1 id="logo-wrap">
+          <a href="/" id="logo">taniho&#39;s blog
+          
+          </a>
+        </h1>
+      </div>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+          <a class="main-nav-link" href="/about">About</a>
+        
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://blog.taniho.net"></form>
+      </div>
+    </div>
+  </div>
+</div>
+
+      <div class="outer">
+        <section id="main"><article id="post-TAC-20-Quadceptを使った感想" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/" class="article-date">
+  <time datetime="2017-12-20T13:00:00.000Z" itemprop="datePublished">2017-12-20</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/TAC2017/">TAC2017</a>►<a class="article-category-link" href="/categories/TAC2017/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/">マイクロマウス</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      [TAC:20] Quadceptを使った感想
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <h1 id="はじめに"><a href="#はじめに" class="headerlink" title="はじめに"></a>はじめに</h1><p>この記事は<a href="http://blog.taniho.net/categories/TAC2017/">taniho Advent Calendar 2017</a>の20日目の記事です．</p>
+<p>今日は，最近無償版が登場した回路CADである，Quadceptを使用した感想を書こうと思います．Quadceptは世界初のクラウド型EDAらしく，かなり使いやすいという噂は聞いていたものの中々手を出せずにいました．本来は月額料金がかかるソフトウェアですが，最近になって非商用での利用の場合無料で利用できるCommunity版が登場しました．使用感はどうだったのか，書いていきます．</p>
+<p>サークルの先輩が一足先に<a target="_blank" rel="noopener" href="http://kuuneru.bangofan.com/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/20171219">レビューを書かれています</a>が，僕はKiCadユーザとしての視点で僕の感想を書きます．</p>
+<a id="more"></a>
+
+<h1 id="Quadcept-Community"><a href="#Quadcept-Community" class="headerlink" title="Quadcept Community"></a>Quadcept Community</h1><p>Community版の公式サイトです．</p>
+<p><a target="_blank" rel="noopener" href="https://www.quadcept.com/ja/public/community/index.html?aid=sitetop">Quadcept Community</a></p>
+<p>Community版の制限事項は3つと書かれていますがこれは嘘で，あと2つくらい制限事項があります．</p>
+<ol>
+<li>非商用利用のみ</li>
+<li>パッド数1000まで</li>
+<li>配線層数4層まで</li>
+<li>一部機能が利用できない(等長配線，MRC，デバイスブロック機能など)</li>
+<li>専用メールデスクを利用できない(質問は一般公開されたフォーラムで行い，公式の回答を得られる)</li>
+</ol>
+<p>パッド数1000までというのがピンと来ないですが，<a href="http://blog.taniho.net/2017/12/TAC-02-%E9%B5%A4%E3%81%8F%E3%82%93%E3%82%92%E4%BD%9C%E3%82%8B%E4%B8%8A%E3%81%A7%E8%8B%A6%E5%8A%B4%E3%81%97%E3%81%9F%E3%81%93%E3%81%A8%E3%81%BE%E3%81%A8%E3%82%81/">鵤くん</a>は326ピン，僕が今設計しているロボトレーサ(マイコン100ピン，大量のラインセンサ)は700ピン程度なので，同規模のロボットであれば問題ないレベルだと思います．</p>
+<p>一部機能については<a target="_blank" rel="noopener" href="https://www.quadcept.com/ja/chart/product-comparisons/sch.html">こちら</a>と<a target="_blank" rel="noopener" href="https://www.quadcept.com/ja/chart/product-comparisons/pcb.html">こちら</a>を見てください．</p>
+<p>Quadceptの使い方は，基本的には<a target="_blank" rel="noopener" href="https://www.quadcept.com/ja/manual/">公式マニュアル</a>を読めばわかります．公式マニュアルでわからないことは<a target="_blank" rel="noopener" href="https://forum.quadcept.com/">公式フォーラム</a>を探すか，新しい質問をすれば回答がもらえるかも知れません．<br>ただし，公式以外の情報はほぼ見つからないので，そのあたりはKiCadやEAGLEとは異なります．</p>
+<h1 id="Circuit-Designer"><a href="#Circuit-Designer" class="headerlink" title="Circuit Designer"></a>Circuit Designer</h1><p>回路図エディタです．良い所悪い所を事細かに書いていきます．</p>
+<h2 id="良い所"><a href="#良い所" class="headerlink" title="良い所"></a>良い所</h2><ul>
+<li><p>ストローク機能が便利<br>マウスの中クリック→マウス移動で8種類のツールを選択することが出来ます．<br><img src="stroke1.jpg" alt="ストローク機能 - 回路図"><br><img src="stroke2.jpg" alt="ストローク機能 - 配線図"><br>Inventorと同じような機能ですね．マウスだけで主要な機能を選択することができるので非常に便利です．項目はカスタマイズすることが出来ます．</p>
+</li>
+<li><p>フィルタ機能が便利<br>マウスクリックで選択するレイヤを制限することが出来ます．大きな部品の下にある配線などを操作したい時や，全選択で裏面のシルクのみを選択したい時などに活用できます．<br><img src="filter.jpg" alt="フィルタ機能"></p>
+</li>
+<li><p>配線色を変更できる<br>大電流が流れたり高周波を流したりする線の色を変更すると便利です．<br><img src="color1.jpg" alt="配線色を変える - 回路図"><br><img src="color2.jpg" alt="配線色を変える - 配線図"><br>色に対応したコメントを付けることも出来ます．単純に見やすくなるだけでも十分便利そうです．</p>
+</li>
+<li><p>一点GND機能が強すぎる<br>パワー系とロジック系のGNDは一点接続するべきですが，Quadceptでは楽々実現できます．<br><img src="1point1.jpg" alt="一点GND - 回路図"><br><img src="1point2.jpg" alt="一点GND - 配線図"></p>
+</li>
+<li><p>部品移動時に配線が追従する<br>地味ですが便利です．KiCadは早く実装して欲しい．<br><img src="img1.jpg" alt="配線が追従する"></p>
+</li>
+<li><p>メモ書きを回路図に貼れる<br>テキストメモを回路図に載せることができます．目立つ色合いなので良いですね．<br><img src="memo.jpg" alt="メモ"></p>
+</li>
+<li><p>部品が決まっていない所はシンボルだけ使うことができる<br>1kΩの抵抗を使いたいけどメーカやサイズまで決まっていない，みたいなときは「シンボル」を使います．あとでシンボルを一括で部品に差し替えします．</p>
+</li>
+<li><p>部品作成時にピン一覧を外部エディタで編集できる<br>シンプルながら最高の機能です．<br><img src="list1.jpg" alt="ピン一覧のコピー・貼り付け">  </p>
+</li>
+</ul>
+<p><strong>Excelで編集</strong>することができ，非常に便利です．</p>
+<ul>
+<li><p>異型パッドが作れる<br>FETなどでよく見られる変形パッドが簡単に作れます．<br><img src="pad.jpg" alt="異型パッドの例"></p>
+</li>
+<li><p>設計指示ができる<br>ほとんどメモ書きに近いですが，設計指示という専用のメモがあります．<br><img src="shiji1.jpg" alt="設計指示 - 回路図"><br><img src="shiji2.jpg" alt="設計指示 - 配線図"><br>「パスコンの置き場所をICの近くにする」などの指示を，部品単位で指示します．配線図編集の時に連動して表示されるので，忘れる心配がなくなって便利です．</p>
+<h2 id="悪い所"><a href="#悪い所" class="headerlink" title="悪い所"></a>悪い所</h2></li>
+<li><p>Ref更新が微妙に不便<br>KiCadでは既に番号が割り振られているRefは，番号の更新が行われません．しかし，Quadceptでは「Ref更新しない」という設定をしていない部品は<strong>すべて更新対象</strong>になります．これのどこが不便かと言うと，設計指示をした時のことです．設計指示はRef番号を基準に行うため，番号を更新されてしまうと設計指示がむちゃくちゃになってしまいます．解決法は「設計指示した部品のRef番号は固定する」ということなので気をつけたいです．</p>
+</li>
+<li><p>抵抗の定数ごとに新規部品を作る必要がある<br>KiCadのように回路図記号とフットプリントがゆるい対応付けをされているわけではなく，部品単位で厳格に決まっています．そのため，「回路図記号とフットプリントだけ決まっていて定数を自由に変更できる」部品は存在させることができません．同じ抵抗部品でも，抵抗値ごとに別の部品を作らなければいけないのが少し面倒です．</p>
+</li>
+</ul>
+<h1 id="PCB-Designer"><a href="#PCB-Designer" class="headerlink" title="PCB Designer"></a>PCB Designer</h1><p>配線図エディタです．こちらも同じく，良い所悪い所を事細かに書いていきます．ただし前述のCircuit Designerと同じ内容は省略します．</p>
+<h2 id="良い所-1"><a href="#良い所-1" class="headerlink" title="良い所"></a>良い所</h2><ul>
+<li><p>部品の移動手段が多い<br>選択した部品を数値を指定して移動することが出来ます．絶対座標，相対座標，回転，ミラー，複数部品の個別回転など，とても便利に使えます．</p>
+</li>
+<li><p>線種の変更が容易<br>線幅，ビア径，線の折れ角度などをショートカットキーで変更できます．</p>
+</li>
+<li><p>静的ベタがある<br>大電流が流れるところなどは，静的ベタを作ることが出来ます．<br><img src="beta.jpg" alt="静的ベタ"></p>
+</li>
+<li><p>日本語文字が入力可能<br>どっかのCADと違って日本語対応しています．</p>
+</li>
+<li><p>ネットの編集ができる<br>複数のビアを追加した場合などには，ネットを手動で追加して配線を引くことが出来ます．</p>
+<h2 id="悪い所-1"><a href="#悪い所-1" class="headerlink" title="悪い所"></a>悪い所</h2></li>
+<li><p>リアルタイムDRCが微妙に使いづらい<br>リアルタイムDRCがあることは大変素晴らしいのですが，引き回し中に表示されないクリアランスがあるので(例えば配線中のビアto配線のクリアランス)，そのあたりはKiCadの表示のほうが便利かもしれないですね．しかし，すべての組み合わせに対してクリアランスの設定ができるので，Quadceptの方が強いかと思います．<br><img src="guide.jpg" alt="クリアランスの表示"></p>
+</li>
+</ul>
+<h1 id="まとめ"><a href="#まとめ" class="headerlink" title="まとめ"></a>まとめ</h1><p>自信を持って「Quadceptはいいぞ」と言えるレベルのCADでした．所々ではKiCadやEAGLEに劣る部分もありますが，<strong>操作感</strong>はダントツで良いので初めて回路CADを触る人にはおすすめできるような気がします．ただしCommunity版の制限を超える物を作る場合は月額課金する必要があり，<del>一度課金して作成したデータはCommunity版に戻すことが出来ない点のみ注意が必要です</del>．<br><em>※追記(2017年12月22日)</em><br><em>quadceptファイルを受け渡す機能を使えばデータのやり取りができるという情報をいただきました．Community版からProfessional版へ移行する際に「Community版のデータベースをバックアップ」しておくことだけは忘れないでおきたいです．</em></p>
+<p>ちなみに僕の進捗は，一通り回路設計まで終えましたがまだガーバーデータは吐き出していない状態です．あくまで参考意見としてお考えください．</p>
+<p>明日の<a href="http://blog.taniho.net/categories/TAC2017/">taniho Advent Calendar 2017</a>も頑張って更新しようと思います．</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/" data-id="ckgnm7buq0038vwvxgg32gu2u" class="article-share-link" data-title="[TAC:20] Quadceptを使った感想">Share</a>
+      
+        <a href="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/#disqus_thread" class="article-comment-link">Comments</a>
+      
+      <span class="article-hatebu-link"><a href="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/" class="hatena-bookmark-button" data-hatena-bookmark-title="[TAC:20] Quadceptを使った感想" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a></span>
+      <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+      <span class="hatenastar article-hatenastar-link"><a href="http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/" style="display : none;"></a></span>
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/CAD/" rel="tag">CAD</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Quadcept/" rel="tag">Quadcept</a></li></ul>
+
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2017/12/TAC-21-Doxygen%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E6%98%8E%E6%97%A5%E3%81%AE%E8%87%AA%E5%88%86%E3%82%92%E5%9B%B0%E3%82%89%E3%81%9B%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          [TAC:21] Doxygenを使って明日の自分を困らせないようにする
+        
+      </div>
+    </a>
+  
+  
+    <a href="/2017/12/TAC-19-%E3%80%8C%E5%8D%93%E4%B8%8A%E3%83%98%E3%83%9C%E3%82%B3%E3%83%B3-%E5%AF%BE%E6%88%A6%E3%82%AD%E3%83%83%E3%83%88%E3%80%8D%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">[TAC:19] 「卓上ヘボコン 対戦キット」をプレイした</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+
+<section id="comments">
+  <div id="disqus_thread">
+    <noscript>Please enable JavaScript to view the <a target="_blank" rel="noopener" href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  </div>
+</section>
+
+</section>
+        
+          
+            <aside id="sidebar">
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Categories</h3>
+    <div class="widget">
+      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/ArchLinux/">ArchLinux</a><span class="category-list-count">3</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/ArchLinux/Media/">Media</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/ArchLinux/WM/">WM</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/Emacs/">Emacs</a><span class="category-list-count">1</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Emacs/Magit/">Magit</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/Event/">Event</a><span class="category-list-count">8</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Event/Internship/">Internship</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Event/MFT/">MFT</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Event/seccamp2016/">seccamp2016</a><span class="category-list-count">6</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/TAC2017/">TAC2017</a><span class="category-list-count">25</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/TAC2017/Discord/">Discord</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/TAC2017/Linux/">Linux</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/TAC2017/Qt/">Qt</a><span class="category-list-count">3</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/TAC2017/%E3%81%94%E3%81%AF%E3%82%93/">ごはん</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/TAC2017/%E3%81%9D%E3%81%AE%E4%BB%96/">その他</a><span class="category-list-count">8</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/TAC2017/%E3%82%B2%E3%83%BC%E3%83%A0/">ゲーム</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/TAC2017/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/">マイクロマウス</a><span class="category-list-count">9</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC/">サーバー</a><span class="category-list-count">4</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC/Apache/">Apache</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC/%E3%81%9D%E3%81%AE%E4%BB%96/">その他</a><span class="category-list-count">3</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/">マイクロマウス</a><span class="category-list-count">20</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/C/">C++</a><span class="category-list-count">4</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/C%E8%A8%80%E8%AA%9E/">C言語</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/e2studio/">e2studio</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/%E3%81%9D%E3%81%AE%E4%BB%96/">その他</a><span class="category-list-count">4</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/%E5%88%B6%E5%BE%A1/">制御</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/%E5%A4%A7%E4%BC%9A/">大会</a><span class="category-list-count">7</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/%E9%83%A8%E5%93%81/">部品</a><span class="category-list-count">2</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%85%A5%E9%96%80%E8%A8%98%E4%BA%8B/">入門記事</a><span class="category-list-count">2</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%85%A5%E9%96%80%E8%A8%98%E4%BA%8B/git/">git</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%88%86%E8%A7%A3/">分解</a><span class="category-list-count">1</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%88%86%E8%A7%A3/%E3%83%9E%E3%82%A6%E3%82%B9/">マウス</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%97%A5%E5%B8%B8/">日常</a><span class="category-list-count">11</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%97%A5%E5%B8%B8/%E3%82%B0%E3%83%AB%E3%83%A1/">グルメ</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E8%A3%BD%E4%BD%9C/">製作</a><span class="category-list-count">4</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E9%80%B2%E6%8D%97/">進捗</a><span class="category-list-count">1</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/%E9%80%B2%E6%8D%97/%E9%9F%B3%E3%82%B2%E3%83%BC/">音ゲー</a><span class="category-list-count">1</span></li></ul></li></ul>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recents</h3>
+    <div class="widget recents">
+      <ul>
+        
+          <li>
+            <a href="/2019/12/STM32%E3%81%A7QuadSPI%E6%8E%A5%E7%B6%9A%E3%81%AEwinbond-NOR-Flash%E3%82%92%E4%BD%BF%E3%81%86/">STM32でQuadSPI接続のwinbond NOR Flashを使う</a>
+          </li>
+        
+          <li>
+            <a href="/2019/12/2019%E5%B9%B4%E3%81%AB%E8%B2%B7%E3%81%A3%E3%81%A6%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE/">2019年に買って良かったもの</a>
+          </li>
+        
+          <li>
+            <a href="/2019/10/CNC%E7%94%A8%E3%81%AE%E9%98%B2%E9%9F%B3%E7%AE%B1CNCBOX%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E8%A9%B1/">CNC用の防音箱CNCBOXを作った話</a>
+          </li>
+        
+          <li>
+            <a href="/2018/12/%E6%BF%80%E5%8B%95%E3%81%AE2018%E5%B9%B4%E3%82%92%E9%9B%91%E3%81%AB%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8B/">激動の2018年を雑に振り返る</a>
+          </li>
+        
+          <li>
+            <a href="/2018/12/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AE%E8%BF%B7%E8%B7%AF%E6%9D%BF%E3%82%92%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F/">マイクロマウスの迷路板を購入した</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tag Cloud</h3>
+    <div class="widget tagcloud">
+      <a href="/tags/2016%E5%B9%B4/" style="font-size: 10px;">2016年</a> <a href="/tags/2017%E5%B9%B4/" style="font-size: 12.86px;">2017年</a> <a href="/tags/2018%E5%B9%B4/" style="font-size: 11.43px;">2018年</a> <a href="/tags/AdventCalendar/" style="font-size: 10px;">AdventCalendar</a> <a href="/tags/Android/" style="font-size: 12.86px;">Android</a> <a href="/tags/Apache/" style="font-size: 10px;">Apache</a> <a href="/tags/ArchLinux/" style="font-size: 14.29px;">ArchLinux</a> <a href="/tags/Blu-ray/" style="font-size: 10px;">Blu-ray</a> <a href="/tags/C/" style="font-size: 14.29px;">C++</a> <a href="/tags/CAD/" style="font-size: 10px;">CAD</a> <a href="/tags/CNC/" style="font-size: 11.43px;">CNC</a> <a href="/tags/C%E8%A8%80%E8%AA%9E/" style="font-size: 10px;">C言語</a> <a href="/tags/Discord/" style="font-size: 10px;">Discord</a> <a href="/tags/Doxygen/" style="font-size: 10px;">Doxygen</a> <a href="/tags/Elecrow/" style="font-size: 10px;">Elecrow</a> <a href="/tags/Emacs/" style="font-size: 10px;">Emacs</a> <a href="/tags/FTDI/" style="font-size: 10px;">FTDI</a> <a href="/tags/G700s/" style="font-size: 10px;">G700s</a> <a href="/tags/I-Sys/" style="font-size: 10px;">I.Sys</a> <a href="/tags/Linux/" style="font-size: 11.43px;">Linux</a> <a href="/tags/M570/" style="font-size: 10px;">M570</a> <a href="/tags/MFT/" style="font-size: 10px;">MFT</a> <a href="/tags/Magit/" style="font-size: 10px;">Magit</a> <a href="/tags/Makefile/" style="font-size: 10px;">Makefile</a> <a href="/tags/Mice/" style="font-size: 10px;">Mice</a> <a href="/tags/NFC/" style="font-size: 11.43px;">NFC</a> <a href="/tags/Qt/" style="font-size: 12.86px;">Qt</a> <a href="/tags/Quadcept/" style="font-size: 10px;">Quadcept</a> <a href="/tags/RX62T/" style="font-size: 10px;">RX62T</a> <a href="/tags/RaspberryPi/" style="font-size: 12.86px;">RaspberryPi</a> <a href="/tags/Renesas/" style="font-size: 10px;">Renesas</a> <a href="/tags/STL/" style="font-size: 10px;">STL</a> <a href="/tags/STM32CubeMX/" style="font-size: 10px;">STM32CubeMX</a> <a href="/tags/VLC/" style="font-size: 10px;">VLC</a> <a href="/tags/Web%E3%82%A2%E3%83%97%E3%83%AA/" style="font-size: 10px;">Webアプリ</a> <a href="/tags/d%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%B9%E3%83%88%E3%82%A2/" style="font-size: 10px;">dアニメストア</a> <a href="/tags/e2studio/" style="font-size: 10px;">e2studio</a> <a href="/tags/git/" style="font-size: 11.43px;">git</a> <a href="/tags/github/" style="font-size: 10px;">github</a> <a href="/tags/i3/" style="font-size: 10px;">i3</a> <a href="/tags/letsencrypt/" style="font-size: 10px;">letsencrypt</a> <a href="/tags/logicool/" style="font-size: 10px;">logicool</a> <a href="/tags/ownCloud/" style="font-size: 10px;">ownCloud</a> <a href="/tags/remark/" style="font-size: 10px;">remark</a> <a href="/tags/seccamp/" style="font-size: 17.14px;">seccamp</a> <a href="/tags/seccamp2016/" style="font-size: 17.14px;">seccamp2016</a> <a href="/tags/subsonic/" style="font-size: 10px;">subsonic</a> <a href="/tags/wm/" style="font-size: 10px;">wm</a> <a href="/tags/yakudo/" style="font-size: 11.43px;">yakudo</a> <a href="/tags/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/" style="font-size: 10px;">おすすめ</a> <a href="/tags/%E3%81%94%E3%81%AF%E3%82%93/" style="font-size: 11.43px;">ごはん</a> <a href="/tags/%E3%81%9F%E3%81%BE%E3%81%93%E3%81%BE%E3%83%BC%E3%81%91%E3%81%A3%E3%81%A8/" style="font-size: 14.29px;">たまこまーけっと</a> <a href="/tags/%E3%81%AF%E3%81%A6%E3%81%AA/" style="font-size: 10px;">はてな</a> <a href="/tags/%E3%81%BE%E3%81%A8%E3%82%81/" style="font-size: 11.43px;">まとめ</a> <a href="/tags/%E3%81%BF%E3%81%9D%E7%85%AE%E8%BE%BC%E3%81%BF%E3%81%86%E3%81%A9%E3%82%93/" style="font-size: 10px;">みそ煮込みうどん</a> <a href="/tags/%E3%82%A2%E3%83%97%E3%83%AA/" style="font-size: 10px;">アプリ</a> <a href="/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/" style="font-size: 10px;">インターン</a> <a href="/tags/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9/" style="font-size: 10px;">クリスマス</a> <a href="/tags/%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/" style="font-size: 10px;">クレジットカード</a> <a href="/tags/%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC/" style="font-size: 11.43px;">サーバー</a> <a href="/tags/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%82%B7%E3%83%A7%E3%83%BC/" style="font-size: 10px;">スライドショー</a> <a href="/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/" style="font-size: 10px;">セキュリティ・キャンプ</a> <a href="/tags/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86/" style="font-size: 11.43px;">デレステ</a> <a href="/tags/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B0LED/" style="font-size: 10px;">フラッグLED</a> <a href="/tags/%E3%83%98%E3%83%9C%E3%82%B3%E3%83%B3/" style="font-size: 10px;">ヘボコン</a> <a href="/tags/%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0/" style="font-size: 10px;">ボードゲーム</a> <a href="/tags/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/" style="font-size: 20px;">マイクロマウス</a> <a href="/tags/%E3%83%9E%E3%82%A6%E3%82%B9/" style="font-size: 10px;">マウス</a> <a href="/tags/%E3%83%A1%E3%82%B8%E3%83%AD/" style="font-size: 12.86px;">メジロ</a> <a href="/tags/%E3%83%A2%E3%83%BC%E3%83%89/" style="font-size: 10px;">モード</a> <a href="/tags/%E3%83%A9%E3%82%BA%E3%83%91%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88/" style="font-size: 11.43px;">ラズパイコンテスト</a> <a href="/tags/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/" style="font-size: 10px;">ロボット</a> <a href="/tags/%E4%B8%89%E8%A7%92%E9%96%A2%E6%95%B0/" style="font-size: 10px;">三角関数</a> <a href="/tags/%E4%B8%AD%E8%8F%AF/" style="font-size: 10px;">中華</a> <a href="/tags/%E5%85%A5%E9%96%80/" style="font-size: 11.43px;">入門</a> <a href="/tags/%E5%88%86%E8%A7%A3/" style="font-size: 10px;">分解</a> <a href="/tags/%E5%8A%A9%E3%81%91%E3%81%A6/" style="font-size: 10px;">助けて</a> <a href="/tags/%E5%8F%B0%E6%B9%BE/" style="font-size: 11.43px;">台湾</a> <a href="/tags/%E6%95%99%E7%BF%92%E6%89%80/" style="font-size: 10px;">教習所</a> <a href="/tags/%E6%97%85%E8%A1%8C/" style="font-size: 14.29px;">旅行</a> <a href="/tags/%E6%97%A5%E5%B8%B8/" style="font-size: 18.57px;">日常</a> <a href="/tags/%E6%9C%80%E9%AB%98/" style="font-size: 10px;">最高</a> <a href="/tags/%E6%9D%B1%E5%8C%97%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A/" style="font-size: 10px;">東北地区大会</a> <a href="/tags/%E7%84%A1%E7%B7%9ALAN/" style="font-size: 10px;">無線LAN</a> <a href="/tags/%E7%8C%AB/" style="font-size: 10px;">猫</a> <a href="/tags/%E7%A6%8F%E5%B2%A1/" style="font-size: 10px;">福岡</a> <a href="/tags/%E7%AE%A1%E7%90%86/" style="font-size: 10px;">管理</a> <a href="/tags/%E8%AA%BF%E6%95%B4/" style="font-size: 10px;">調整</a> <a href="/tags/%E8%B2%B7%E3%81%84%E7%89%A9/" style="font-size: 15.71px;">買い物</a> <a href="/tags/%E8%BF%B7%E8%B7%AF/" style="font-size: 10px;">迷路</a> <a href="/tags/%E9%83%A8%E5%93%81/" style="font-size: 10px;">部品</a> <a href="/tags/%E9%87%91%E7%94%BA/" style="font-size: 10px;">金町</a> <a href="/tags/%E9%96%A2%E8%A5%BF%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A/" style="font-size: 10px;">関西地区大会</a> <a href="/tags/%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C/" style="font-size: 10px;">電子工作</a> <a href="/tags/%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81/" style="font-size: 10px;">電子部品</a> <a href="/tags/%E9%9F%B3%E6%A5%BD/" style="font-size: 10px;">音楽</a> <a href="/tags/%E9%B5%A4/" style="font-size: 12.86px;">鵤</a>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Archives</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/12/">December 2019</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/10/">October 2019</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/12/">December 2018</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/07/">July 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/01/">January 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/12/">December 2017</a><span class="archive-list-count">26</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/11/">November 2017</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/10/">October 2017</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/09/">September 2017</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/08/">August 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/07/">July 2017</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/05/">May 2017</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/03/">March 2017</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/02/">February 2017</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/01/">January 2017</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/12/">December 2016</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/11/">November 2016</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/10/">October 2016</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/09/">September 2016</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/08/">August 2016</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/06/">June 2016</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/05/">May 2016</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/04/">April 2016</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/03/">March 2016</a><span class="archive-list-count">1</span></li></ul>
+    </div>
+  </div>
+
+  
+</aside>
+          
+        
+      </div>
+      <div id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      <a rel="license noopener" target="_blank" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a></br>
+      &copy; 2020 taniho<br>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</div>
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+    <a href="/about" class="mobile-nav-link">About</a>
+  
+</nav>
+    
+<script>
+  var disqus_shortname = 'tanihosblog';
+  
+  var disqus_url = 'http://blog.taniho.net/2017/12/TAC-20-Quadcept%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3/';
+  
+  (function(){
+    var dsq = document.createElement('script');
+    dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+  
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+
+  
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+
+
+
+<script src="/js/script.js"></script>
+
+
+  </div>
+</body>
+</html>

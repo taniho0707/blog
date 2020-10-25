@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>taniho&#39;s blog • Posts by &#34;ロボット&#34; tag</title>
+        <link>http://blog.taniho.net</link>
+        <description>technical note</description>
+        <language>en</language>
+        <pubDate>Wed, 13 Dec 2017 00:00:00 +0900</pubDate>
+        <lastBuildDate>Wed, 13 Dec 2017 00:00:00 +0900</lastBuildDate>
+        <category>Emacs</category>
+        <category>ArchLinux</category>
+        <category>マイクロマウス</category>
+        <category>台湾</category>
+        <category>旅行</category>
+        <category>たまこまーけっと</category>
+        <category>2016年</category>
+        <category>買い物</category>
+        <category>おすすめ</category>
+        <category>日常</category>
+        <category>2017年</category>
+        <category>クリスマス</category>
+        <category>Elecrow</category>
+        <category>電子工作</category>
+        <category>関西地区大会</category>
+        <category>猫</category>
+        <category>Apache</category>
+        <category>letsencrypt</category>
+        <category>Blu-ray</category>
+        <category>VLC</category>
+        <category>CNC</category>
+        <category>Magit</category>
+        <category>git</category>
+        <category>MFT</category>
+        <category>RaspberryPi</category>
+        <category>無線LAN</category>
+        <category>Mice</category>
+        <category>鵤</category>
+        <category>メジロ</category>
+        <category>Qt</category>
+        <category>デレステ</category>
+        <category>yakudo</category>
+        <category>Android</category>
+        <category>Discord</category>
+        <category>Webアプリ</category>
+        <category>教習所</category>
+        <category>ロボット</category>
+        <category>Linux</category>
+        <category>remark</category>
+        <category>スライドショー</category>
+        <category>ごはん</category>
+        <category>金町</category>
+        <category>クレジットカード</category>
+        <category>ヘボコン</category>
+        <category>ボードゲーム</category>
+        <category>Quadcept</category>
+        <category>CAD</category>
+        <category>Doxygen</category>
+        <category>2018年</category>
+        <category>dアニメストア</category>
+        <category>Renesas</category>
+        <category>RX62T</category>
+        <category>e2studio</category>
+        <category>github</category>
+        <category>マウス</category>
+        <category>分解</category>
+        <category>logicool</category>
+        <category>M570</category>
+        <category>G700s</category>
+        <category>seccamp2016</category>
+        <category>seccamp</category>
+        <category>ownCloud</category>
+        <category>サーバー</category>
+        <category>subsonic</category>
+        <category>音楽</category>
+        <category>みそ煮込みうどん</category>
+        <category>I.Sys</category>
+        <category>フラッグLED</category>
+        <category>i3</category>
+        <category>wm</category>
+        <category>AdventCalendar</category>
+        <category>モード</category>
+        <category>迷路</category>
+        <category>C++</category>
+        <category>調整</category>
+        <category>中華</category>
+        <category>まとめ</category>
+        <category>助けて</category>
+        <category>三角関数</category>
+        <category>福岡</category>
+        <category>東北地区大会</category>
+        <category>STL</category>
+        <category>入門</category>
+        <category>ラズパイコンテスト</category>
+        <category>NFC</category>
+        <category>C言語</category>
+        <category>部品</category>
+        <category>管理</category>
+        <category>電子部品</category>
+        <category>STM32CubeMX</category>
+        <category>FTDI</category>
+        <category>Makefile</category>
+        <category>アプリ</category>
+        <category>はてな</category>
+        <category>インターン</category>
+        <category>最高</category>
+        <category>セキュリティ・キャンプ</category>
+        <item>
+            <guid isPermalink="true">http://blog.taniho.net/2017/12/TAC-13-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%92%E5%A7%8B%E3%82%81%E3%81%9F%E3%81%84%E4%BA%BA%E3%81%8C%E4%BB%8A%E3%81%99%E3%81%90%E5%85%A5%E5%AD%A6%E3%81%99%E3%81%B9%E3%81%8D%E5%A4%A7%E5%AD%A6-%E5%AE%9F%E5%BA%97%E8%88%97%E7%B7%A8/</guid>
+            <title>[TAC:13] ロボットを始めたい人が今すぐ入学すべき大学 実店舗編</title>
+            <link>http://blog.taniho.net/2017/12/TAC-13-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%92%E5%A7%8B%E3%82%81%E3%81%9F%E3%81%84%E4%BA%BA%E3%81%8C%E4%BB%8A%E3%81%99%E3%81%90%E5%85%A5%E5%AD%A6%E3%81%99%E3%81%B9%E3%81%8D%E5%A4%A7%E5%AD%A6-%E5%AE%9F%E5%BA%97%E8%88%97%E7%B7%A8/</link>
+            <category>マイクロマウス</category>
+            <category>ロボット</category>
+            <pubDate>Wed, 13 Dec 2017 00:00:00 +0900</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;この記事は&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;の13日目の記事です．&lt;/p&gt;
+&lt;p&gt;今日は少し予定を変更して，ロボット(マイクロマウス)を始めたい高校生へ向けて良い大学の選び方を紹介しようと思います．&lt;br&gt;真に受けられると困るので先に言っておきますが茶番記事です．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;機械部品&#34;&gt;&lt;a href=&#34;#機械部品&#34; class=&#34;headerlink&#34; title=&#34;機械部品&#34;&gt;&lt;/a&gt;機械部品&lt;/h1&gt;&lt;h2 id=&#34;はざいや&#34;&gt;&lt;a href=&#34;#はざいや&#34; class=&#34;headerlink&#34; title=&#34;はざいや&#34;&gt;&lt;/a&gt;はざいや&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://www.hazaiya.co.jp/&#34;&gt;はざいや&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mice民にはおなじみの「はざいや」です．今年になって店舗が移転し，とても綺麗なお店になりました．&lt;br&gt;アクリル各色から，ジュラコン(POM)，ポリカや加工品を販売しています．簡単な加工もしていただけるので便利です．サイズを指定して買う場合は，予めインターネットから予約しておいて店頭受取をお願いすると便利です．&lt;/p&gt;
+&lt;p&gt;また，店舗では本当の「端材」が大量に売られているので，適当に使う材料が欲しい場合は便利です．1gあたり0.5〜1円程度での販売です．時々セールもしています．&lt;/p&gt;
+&lt;h2 id=&#34;浅井製作所&#34;&gt;&lt;a href=&#34;#浅井製作所&#34; class=&#34;headerlink&#34; title=&#34;浅井製作所&#34;&gt;&lt;/a&gt;浅井製作所&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;http://nejikouba.com/&#34;&gt;有限会社浅井製作所&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ロボット界隈では有名(？)な，超低頭ネジを製造されている会社です．頭が非常に薄いためロボットの底にも使いやすいネジで，マイクロマウスでもよく使われています．いくつかのネジは&lt;a href=&#34;https://www.rt-shop.jp/&#34;&gt;アールティー&lt;/a&gt;でも販売していますが，こちらではすべての製品を販売されています(製作元なのであたりまえか)．&lt;br&gt;通常は送料500円かかるところが，直接取りに行けば当然無料，さらに消費税分をサービスしていただけるそうです．&lt;/p&gt;
+&lt;h2 id=&#34;ネオマグ&#34;&gt;&lt;a href=&#34;#ネオマグ&#34; class=&#34;headerlink&#34; title=&#34;ネオマグ&#34;&gt;&lt;/a&gt;ネオマグ&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;http://www.neomag.jp/&#34;&gt;永久磁石・磁気応用製品　ネオマグ株式会社&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;磁石の取扱種類が非常に多い，磁石の専門店です．マイクロマウスでは磁気式エンコーダ用に使う人が多いと思います．&lt;br&gt;送料は300円と安いですが，直接店頭に行って受取もしていただけました．当日の受付でも対応していただける場合があるため，すぐに欲しい場合などに便利だと思います．&lt;/p&gt;
+&lt;h1 id=&#34;電子部品&#34;&gt;&lt;a href=&#34;#電子部品&#34; class=&#34;headerlink&#34; title=&#34;電子部品&#34;&gt;&lt;/a&gt;電子部品&lt;/h1&gt;&lt;h2 id=&#34;樫木総業株式会社&#34;&gt;&lt;a href=&#34;#樫木総業株式会社&#34; class=&#34;headerlink&#34; title=&#34;樫木総業株式会社&#34;&gt;&lt;/a&gt;樫木総業株式会社&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;http://www.kashinoki.co.jp/&#34;&gt;樫木総業株式会社&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;僕は行ったことがないのですが，店頭でST-1KL3Aを販売しているそうです．こちらも通販では間に合わない場合などに重宝しそうです．&lt;/p&gt;
+&lt;h2 id=&#34;秋月電子通商&#34;&gt;&lt;a href=&#34;#秋月電子通商&#34; class=&#34;headerlink&#34; title=&#34;秋月電子通商&#34;&gt;&lt;/a&gt;秋月電子通商&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;http://akizukidenshi.com/catalog/contents2/yashio.aspx&#34;&gt;秋月電子通商 八潮店&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;言わずと知れた秋月電子，こちらは秋葉原店と違って&lt;strong&gt;人が少ない・商品が多い&lt;/strong&gt;ので超絶おすすめです．ゆったりと商品を吟味したい方は是非行ってみてください．&lt;/p&gt;
+&lt;h1 id=&#34;大学を探す&#34;&gt;&lt;a href=&#34;#大学を探す&#34; class=&#34;headerlink&#34; title=&#34;大学を探す&#34;&gt;&lt;/a&gt;大学を探す&lt;/h1&gt;&lt;p&gt;では今日の本題です．これらのお店から近い大学を探していきましょう．&lt;br&gt;こちらが今回紹介したお店の一覧です．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;map1.png&#34; alt=&#34;今回紹介したお店&#34;&gt;&lt;/p&gt;
+&lt;p&gt;自転車で30分で移動できる距離をおよそ8kmと見積もり，先程の地図に円を描きます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;map2.png&#34; alt=&#34;30分で行ける範囲&#34;&gt;&lt;/p&gt;
+&lt;p&gt;すべてのお店に30分で行ける範囲です．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;map3.png&#34; alt=&#34;すべてのお店に30分で行ける範囲&#34;&gt;&lt;/p&gt;
+&lt;p&gt;おや……この範囲は？&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;map4.png&#34; alt=&#34;おや？&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;map5.png&#34; alt=&#34;おやおや？？&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;map6.png&#34; alt=&#34;見覚えが？？？&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;map7.png&#34; alt=&#34;あっ&#34;&gt;&lt;/p&gt;
+&lt;p&gt;おわります．&lt;/p&gt;
+&lt;h1 id=&#34;まとめ&#34;&gt;&lt;a href=&#34;#まとめ&#34; class=&#34;headerlink&#34; title=&#34;まとめ&#34;&gt;&lt;/a&gt;まとめ&lt;/h1&gt;&lt;p&gt;今日自転車でネオマグとはざいやに行き，唐突に思い立って書きました．反省はしていません．実際にすべて45分以内で行ける距離なので，自転車が好きな方は直接取りに行くといいですね．&lt;/p&gt;
+&lt;p&gt;明日の&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;は，今度こそLinux関連の話をします．&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

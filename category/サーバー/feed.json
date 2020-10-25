@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "taniho's blog • All posts by \"サーバー\" category",
+    "description": "technical note",
+    "home_page_url": "http://blog.taniho.net",
+    "items": [
+        {
+            "id": "http://blog.taniho.net/2018/07/ownCloud%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%90%8C%E6%9C%9F%E3%81%AB%E5%A4%B1%E6%95%97%E3%81%97%E3%81%9F/",
+            "url": "http://blog.taniho.net/2018/07/ownCloud%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%90%8C%E6%9C%9F%E3%81%AB%E5%A4%B1%E6%95%97%E3%81%97%E3%81%9F/",
+            "title": "ownCloudのファイル同期に失敗した",
+            "date_published": "2018-07-21T11:00:03.000Z",
+            "content_html": "<h1 id=\"はじめに\"><a href=\"#はじめに\" class=\"headerlink\" title=\"はじめに\"></a>はじめに</h1><p>数年前から，個人で使っているパソコンのファイル同期にはownCloudを使っています．</p>\n<p>詳しくはこの記事を見てください．<br><a href=\"http://hantasmouse.hatenablog.jp/entry/2015/07/21/154021\">OneDrive-&gt;ownCloud - hantas’s blog</a></p>\n<p>なかなか快適に利用しているのですが，今日大量のファイル追加＆リネームを行った結果，ファイルの同期に失敗してしまいました．<br>今回のブログでは，そのトラブルの解決法を書き残しておきます．</p>\n<a id=\"more\"></a>\n\n<h1 id=\"原因\"><a href=\"#原因\" class=\"headerlink\" title=\"原因\"></a>原因</h1><p>原因は至って簡単で，大量のフォルダとその中にある画像ファイルをまとめて追加しました．<br>そして，同期が完了しないうちにすべてのフォルダをリネームしたせいで，サーバー内の処理が正しく完了せず，今回のトラブルに至ります．</p>\n<h1 id=\"症状と解決法\"><a href=\"#症状と解決法\" class=\"headerlink\" title=\"症状と解決法\"></a>症状と解決法</h1><h2 id=\"症状1\"><a href=\"#症状1\" class=\"headerlink\" title=\"症状1\"></a>症状1</h2><p>初めに発生したエラーは，</p>\n<blockquote>\n<p>Server replied “423 Locked” to “GET “(〜〜〜)””</p>\n</blockquote>\n<p>原因がわかりませんでしたが，該当のファイルがロックされた状態になっていて操作できなくなっていた気がします．</p>\n<p>そこで，<br><a href=\"https://arimasou16.com/blog/2018/02/16/00247/\">ownCloudが、Server replied “423 Locked”…で同期エラーとなるのを解消する - 有馬総一郎のブログ</a><br>この記事通りに作業をすると，一部のファイルが操作できるようになっていました．よしよし．</p>\n<h2 id=\"症状2\"><a href=\"#症状2\" class=\"headerlink\" title=\"症状2\"></a>症状2</h2><p>次に発生していたエラーは，</p>\n<blockquote>\n<p>Server replied “503 Could not open file “(〜〜〜)””</p>\n</blockquote>\n<p>データベース上は存在しているのに，サーバー上の実ファイルは削除されている状態でした．</p>\n<p>そこで，ファイルリストを再スキャンしました．<br><a href=\"https://qiita.com/wakisuke/items/248928bddd26afcb1f05\">ownCloudの導入と保存先変更など - Qiita</a><br>occのコマンドを叩けば一発でした．</p>\n<h1 id=\"おわりに\"><a href=\"#おわりに\" class=\"headerlink\" title=\"おわりに\"></a>おわりに</h1><p>なおってよかった</p>\n",
+            "tags": [
+                "ownCloud"
+            ]
+        }
+    ]
+}

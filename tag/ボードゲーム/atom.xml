@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;ボードゲーム&#34; tag</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2017-12-19T14:50:00.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2017/12/TAC-19-%E3%80%8C%E5%8D%93%E4%B8%8A%E3%83%98%E3%83%9C%E3%82%B3%E3%83%B3-%E5%AF%BE%E6%88%A6%E3%82%AD%E3%83%83%E3%83%88%E3%80%8D%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F/</id>
+        <title>[TAC:19] 「卓上ヘボコン 対戦キット」をプレイした</title>
+        <link rel="alternate" href="http://blog.taniho.net/2017/12/TAC-19-%E3%80%8C%E5%8D%93%E4%B8%8A%E3%83%98%E3%83%9C%E3%82%B3%E3%83%B3-%E5%AF%BE%E6%88%A6%E3%82%AD%E3%83%83%E3%83%88%E3%80%8D%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F/"/>
+        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;この記事は&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;の19日目の記事です．&lt;/p&gt;
+&lt;p&gt;そろそろ書くネタが無くなってきましたが頑張って書いていきます．今日はロボット製作経験のある人たちにウケそうなボードゲームをプレイしたので，その紹介をします．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;ヘボコン&#34;&gt;&lt;a href=&#34;#ヘボコン&#34; class=&#34;headerlink&#34; title=&#34;ヘボコン&#34;&gt;&lt;/a&gt;ヘボコン&lt;/h1&gt;&lt;p&gt;みなさん，「ヘボコン」はご存知ですか？&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://portal.nifty.com/hebocon/whats.htm&#34;&gt;ヘボコンとは？ - デイリーポータルZ：@nifty&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;世界には不思議なロボットコンテストがあるみたいです．&lt;/p&gt;
+&lt;p&gt;ところでみなさん，ボードゲームってご存知ですか？&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0&#34;&gt;ボードゲーム - Wikipedia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;カタンが有名かと思いますが，カードやサイコロなどのアイテムを使って遊ぶゲームのことです．頭脳戦に挑むゲームもあれば，最終的に運ゲーに落ち着くゲームもあり，世界中には数多くのゲームが存在します．&lt;/p&gt;
+&lt;p&gt;どういう需要があって作られたのかはわかりませんが，この「ヘボコン」が題材となったボードゲームを見つけてしましました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;01.jpg&#34; alt=&#34;卓上ヘボコン 対戦キット&#34;&gt;&lt;/p&gt;
+&lt;p&gt;このゲームを購入すると，ヘボいロボットを作らずともヘボコン出場気分を体感できるようです．早速プレイしてみました．&lt;br&gt;プレイ人数は2〜4人，プレイ時間は30分程度でした．今回は3人でプレイします．&lt;/p&gt;
+&lt;h1 id=&#34;遊び方&#34;&gt;&lt;a href=&#34;#遊び方&#34; class=&#34;headerlink&#34; title=&#34;遊び方&#34;&gt;&lt;/a&gt;遊び方&lt;/h1&gt;&lt;h2 id=&#34;開封&#34;&gt;&lt;a href=&#34;#開封&#34; class=&#34;headerlink&#34; title=&#34;開封&#34;&gt;&lt;/a&gt;開封&lt;/h2&gt;&lt;p&gt;購入はこちらからできるみたいです．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://penanddice.webcrow.jp/Hebocon.html&#34;&gt;卓上ヘボコン 対戦キット | ペンとサイコロ -Pen and Dice-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;購入すると，次のような内容物になっていました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;03.jpg&#34; alt=&#34;卓上ヘボコン 対戦キット 内容物&#34;&gt;&lt;/p&gt;
+&lt;p&gt;たくさんの種類のロボット部品，タイマー，そして大量のM7ナットが目を引きます．早速ロボット感が出てきてワクワクしますね．&lt;/p&gt;
+&lt;p&gt;卓上ヘボコン 対戦キットは3つのフェーズ「部品集め」「組み立て」「対戦(ロボット相撲)」で進行していきます．&lt;/p&gt;
+&lt;h2 id=&#34;部品集め&#34;&gt;&lt;a href=&#34;#部品集め&#34; class=&#34;headerlink&#34; title=&#34;部品集め&#34;&gt;&lt;/a&gt;部品集め&lt;/h2&gt;&lt;p&gt;まずはロボットの部品を集めていきます．1個ずつ順番に部品を集めます．僕達は少し勘違いしていたようで，任意の部品を取得できるわけではなく，自分の駒の1〜4個前に置いてある部品のみ取得できるようです．そのあたり詳しいことは，先ほど貼った&lt;a href=&#34;http://penanddice.webcrow.jp/Hebocon.html&#34;&gt;公式サイト&lt;/a&gt;が一番分かりやすかったです．&lt;br&gt;取得した部品は自分のボードの上に置いていきます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;07.jpg&#34; alt=&#34;部品を1個入手&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ただし，2個め以降に入手した部品はどんどん重ねていかなければなりません．前に取得した部品の形などを確認できないので，よく考えて取っていきたいところです．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;10.jpg&#34; alt=&#34;部品の正しい置き方&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;組み立て&#34;&gt;&lt;a href=&#34;#組み立て&#34; class=&#34;headerlink&#34; title=&#34;組み立て&#34;&gt;&lt;/a&gt;組み立て&lt;/h2&gt;&lt;p&gt;部品集めが終わったら，次はロボットの組み立てです．先ほど取得した部品にはそれぞれ役割があります．書かれている記号がとあるプログラムを意味し，その部品を使うことで，盤上のロボットが動作します．部品に描いてあるナットマークが部品を使用できる回数です(正確には，すべての部品を使用し切る必要がある)．&lt;/p&gt;
+&lt;p&gt;先ほど部品を置いていったボードがロボットの筐体にあたります．筐体は6x6のマス目に区切られていて，この盤面に集めた部品をはみ出ないように置いていきます．まるでロックマンエグゼのナビカスを彷彿とさせますね．いっせーのーでの合図で，全員が部品を組み立て始めます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;15.jpg&#34; alt=&#34;部品を組み立てている僕&#34;&gt;&lt;/p&gt;
+&lt;p&gt;制限時間は，誰かが組み立て終えた瞬間から1分間です．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;16.jpg&#34; alt=&#34;突然始まるカウントダウン&#34;&gt;&lt;/p&gt;
+&lt;p&gt;さて，今回の3人のロボットはこんな感じになりました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;19.jpg&#34; alt=&#34;完成した3台の相撲ロボット&#34;&gt;&lt;/p&gt;
+&lt;p&gt;埋まったマス数に応じた特典が入ります．ただし，この競技はあくまで「ヘボコン」．ハイテクなロボットは求められていないので，すべてのマスに部品が収まった場合は-8ポイントです．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;23.jpg&#34; alt=&#34;対戦前の得点&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;対戦&#34;&gt;&lt;a href=&#34;#対戦&#34; class=&#34;headerlink&#34; title=&#34;対戦&#34;&gt;&lt;/a&gt;対戦&lt;/h2&gt;&lt;p&gt;ロボットが完成したらいよいよ相撲競技が始まります．先ほど作ったロボットの部品を使い，盤上のロボットを操作していきます．所々にプラス点とマイナス点が落ちているので注意しながら動かします．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;20.jpg&#34; alt=&#34;土俵と3台のロボ&#34;&gt;&lt;/p&gt;
+&lt;p&gt;基本的には，ナットマークにナットを1個置いて動かしていきます．初めに黄色ロボが「2歩前進する」コマンドを実行したのでこうなります．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;24.jpg&#34; alt=&#34;黄色が2歩動いた&#34;&gt;&lt;/p&gt;
+&lt;p&gt;盤面がもう少し進みました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;27.jpg&#34; alt=&#34;少し盤面が進んだ&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ここで赤ロボットが右に1歩進むコマンドを使うと，&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;28.jpg&#34; alt=&#34;1歩押された黄色&#34;&gt;&lt;/p&gt;
+&lt;p&gt;他人のロボットを押すことが出来ます．この競技は「相撲」なので，相手を押し出すことで得点が入ります．押し出されたロボットは，残念ですがそこで競技終了です．ちゃんと動くように組み立てなかった自分が悪いね．&lt;/p&gt;
+&lt;p&gt;ここで，緑ロボットが不思議なコマンドを使いました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;22.jpg&#34; alt=&#34;謎コマンド……壊れる？&#34;&gt;&lt;/p&gt;
+&lt;p&gt;なんとロボットが火花を飛ばしてしまいました．しかし，この競技はヘボコンなので得点が入ります．&lt;/p&gt;
+&lt;h1 id=&#34;詰み&#34;&gt;&lt;a href=&#34;#詰み&#34; class=&#34;headerlink&#34; title=&#34;詰み&#34;&gt;&lt;/a&gt;詰み&lt;/h1&gt;&lt;p&gt;ヘボいロボットしか存在しないので，時にはマズイ局面になることもあります．&lt;/p&gt;
+&lt;img src=&#34;/2017/12/TAC-19-%E3%80%8C%E5%8D%93%E4%B8%8A%E3%83%98%E3%83%9C%E3%82%B3%E3%83%B3-%E5%AF%BE%E6%88%A6%E3%82%AD%E3%83%83%E3%83%88%E3%80%8D%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F/30.jpg&#34; width=&#34;350&#34; /&gt;
+
+&lt;p&gt;黄色ロボットのボードですが，このままでは土俵から落ちてしまいます．しかし，土俵に残っている以上は「すべてのコマンドを使う必要がある」ため，落ちるとわかっていても動かしていきます．&lt;/p&gt;
+&lt;h1 id=&#34;決着&#34;&gt;&lt;a href=&#34;#決着&#34; class=&#34;headerlink&#34; title=&#34;決着&#34;&gt;&lt;/a&gt;決着&lt;/h1&gt;&lt;p&gt;ゲームはどんどん進んでいきます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;32.jpg&#34; alt=&#34;相撲っぽくなってきた&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;33.jpg&#34; alt=&#34;どんどん動かしていく&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;34.jpg&#34; alt=&#34;緑が押し出された&#34;&gt;&lt;/p&gt;
+&lt;p&gt;そして決着が付きました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;36.jpg&#34; alt=&#34;赤ロボットの勝ち&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ボードゲーム経験が長い先輩の圧勝です．強かった！&lt;/p&gt;
+&lt;p&gt;というわけで，以上が卓上ヘボコン 対戦キットの紹介でした．&lt;br&gt;ひょっとするとバカゲーかと思って購入しましたが，意外と難しく，しかも面白くて何度も遊べるゲームでした．&lt;strong&gt;ロボットを組み立てる作業がとても楽しく&lt;/strong&gt;，そして自分が組み立てたロボットを使って競技ができるというのが，&lt;strong&gt;ものづくりの楽しさ&lt;/strong&gt;を思い出させてくれてとても楽しい体験になりました．ロボットを作ったことが無い方はもちろんですが，ロボット製作の経験がある方同士で遊ぶとより楽しめるかもしれません．&lt;/p&gt;
+&lt;h1 id=&#34;まとめ&#34;&gt;&lt;a href=&#34;#まとめ&#34; class=&#34;headerlink&#34; title=&#34;まとめ&#34;&gt;&lt;/a&gt;まとめ&lt;/h1&gt;&lt;p&gt;いくらヘボさを競う競技であっても，優秀なロボットが優勝するという現実に目を向けたら悲しくなる気がします．&lt;/p&gt;
+&lt;p&gt;明日の&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;は真面目な話に戻ります．回路CADであるQuadceptの使用感について書こうと思います．&lt;/p&gt;
+</content>
+        <category term="ヘボコン" />
+        <category term="ボードゲーム" />
+        <updated>2017-12-19T14:50:00.000Z</updated>
+    </entry>
+</feed>

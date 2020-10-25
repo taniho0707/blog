@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;金町&#34; tag</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2017-12-17T14:54:00.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2017/12/TAC-17-%E9%87%91%E7%94%BA%E9%A7%85%E5%91%A8%E8%BE%BA%E3%81%94%E3%81%AF%E3%82%93%E5%87%A6%E7%B4%B9%E4%BB%8B/</id>
+        <title>[TAC:17] 金町駅周辺ごはん処紹介</title>
+        <link rel="alternate" href="http://blog.taniho.net/2017/12/TAC-17-%E9%87%91%E7%94%BA%E9%A7%85%E5%91%A8%E8%BE%BA%E3%81%94%E3%81%AF%E3%82%93%E5%87%A6%E7%B4%B9%E4%BB%8B/"/>
+        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;この記事は&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;の17日目の記事です．&lt;/p&gt;
+&lt;p&gt;ネタが切れてきたので，金町駅周辺のごはん情報をまとめようと思います．晩ごはんに悩んだときなどに参考にしてください．予算は僕が普段使う値段を大まかに書いています．メインのみでサイドメニューやドリンクなどをつけない場合の料金です．10円台は切り捨てて書きます．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;ラーメン&#34;&gt;&lt;a href=&#34;#ラーメン&#34; class=&#34;headerlink&#34; title=&#34;ラーメン&#34;&gt;&lt;/a&gt;ラーメン&lt;/h1&gt;&lt;h2 id=&#34;でん&#34;&gt;&lt;a href=&#34;#でん&#34; class=&#34;headerlink&#34; title=&#34;でん&#34;&gt;&lt;/a&gt;でん&lt;/h2&gt;&lt;p&gt;魚介スープのラーメンとつけ麺．誰かトリプル食べて欲しい．予算700円．&lt;/p&gt;
+&lt;h2 id=&#34;國分ラーメン食堂&#34;&gt;&lt;a href=&#34;#國分ラーメン食堂&#34; class=&#34;headerlink&#34; title=&#34;國分ラーメン食堂&#34;&gt;&lt;/a&gt;國分ラーメン食堂&lt;/h2&gt;&lt;p&gt;つくばのはりけんラーメンで修行をされた店主さんのお店らしい．濃厚なスープのラーメンが人気．予算700円．&lt;/p&gt;
+&lt;h2 id=&#34;しゅうまい屋&#34;&gt;&lt;a href=&#34;#しゅうまい屋&#34; class=&#34;headerlink&#34; title=&#34;しゅうまい屋&#34;&gt;&lt;/a&gt;しゅうまい屋&lt;/h2&gt;&lt;p&gt;中華料理屋さんの分類に入れてもよかった．ラーメンだけでなくサイドメニューもおいしい．予算800円．&lt;/p&gt;
+&lt;h2 id=&#34;金町商店&#34;&gt;&lt;a href=&#34;#金町商店&#34; class=&#34;headerlink&#34; title=&#34;金町商店&#34;&gt;&lt;/a&gt;金町商店&lt;/h2&gt;&lt;p&gt;スープを10回飲み干すとクレジットカードをもらえる(嘘)．ご飯にニンニクをのせてスープをかけると美味しい．予算800円．&lt;/p&gt;
+&lt;h2 id=&#34;せきぐち&#34;&gt;&lt;a href=&#34;#せきぐち&#34; class=&#34;headerlink&#34; title=&#34;せきぐち&#34;&gt;&lt;/a&gt;せきぐち&lt;/h2&gt;&lt;p&gt;わりとあっさりしたラーメンだったような気がする．1回しか行ったことがない．予算700円．&lt;/p&gt;
+&lt;h2 id=&#34;MARUKO&#34;&gt;&lt;a href=&#34;#MARUKO&#34; class=&#34;headerlink&#34; title=&#34;MARUKO&#34;&gt;&lt;/a&gt;MARUKO&lt;/h2&gt;&lt;p&gt;僕は大会前に行かない．時々食べたくなる豚のご飯．時々ホットペッパーあり．予算600円．&lt;/p&gt;
+&lt;h2 id=&#34;門世&#34;&gt;&lt;a href=&#34;#門世&#34; class=&#34;headerlink&#34; title=&#34;門世&#34;&gt;&lt;/a&gt;門世&lt;/h2&gt;&lt;p&gt;ガジーナはここでしか食べられない味．復活してくれてうれしい．予算700円．&lt;/p&gt;
+&lt;h2 id=&#34;月星&#34;&gt;&lt;a href=&#34;#月星&#34; class=&#34;headerlink&#34; title=&#34;月星&#34;&gt;&lt;/a&gt;月星&lt;/h2&gt;&lt;p&gt;つけ麺と油そばが有名な店．学割あり．予算600円．&lt;/p&gt;
+&lt;h1 id=&#34;その他麺類&#34;&gt;&lt;a href=&#34;#その他麺類&#34; class=&#34;headerlink&#34; title=&#34;その他麺類&#34;&gt;&lt;/a&gt;その他麺類&lt;/h1&gt;&lt;h2 id=&#34;ポポラマーマ&#34;&gt;&lt;a href=&#34;#ポポラマーマ&#34; class=&#34;headerlink&#34; title=&#34;ポポラマーマ&#34;&gt;&lt;/a&gt;ポポラマーマ&lt;/h2&gt;&lt;p&gt;リーズナブルなのに生麺のパスタが美味しい．少し遠いのが難点．予算700円．&lt;/p&gt;
+&lt;h2 id=&#34;金町うどん&#34;&gt;&lt;a href=&#34;#金町うどん&#34; class=&#34;headerlink&#34; title=&#34;金町うどん&#34;&gt;&lt;/a&gt;金町うどん&lt;/h2&gt;&lt;p&gt;とにかく安いうどん．普通に美味しい．予算500円．&lt;/p&gt;
+&lt;h2 id=&#34;富士そば&#34;&gt;&lt;a href=&#34;#富士そば&#34; class=&#34;headerlink&#34; title=&#34;富士そば&#34;&gt;&lt;/a&gt;富士そば&lt;/h2&gt;&lt;p&gt;新しく出来た．チェーン店なので味はいつものあれだと思う．予算不明．&lt;/p&gt;
+&lt;h1 id=&#34;肉&#34;&gt;&lt;a href=&#34;#肉&#34; class=&#34;headerlink&#34; title=&#34;肉&#34;&gt;&lt;/a&gt;肉&lt;/h1&gt;&lt;h2 id=&#34;にくまる&#34;&gt;&lt;a href=&#34;#にくまる&#34; class=&#34;headerlink&#34; title=&#34;にくまる&#34;&gt;&lt;/a&gt;にくまる&lt;/h2&gt;&lt;p&gt;最近移転して綺麗になった焼肉屋．おちゃめなおばさんがオーダーを取ってくれる．そんなに高くなくておいしい．予算2500円くらい．&lt;/p&gt;
+&lt;h2 id=&#34;白河&#34;&gt;&lt;a href=&#34;#白河&#34; class=&#34;headerlink&#34; title=&#34;白河&#34;&gt;&lt;/a&gt;白河&lt;/h2&gt;&lt;p&gt;昔ながらの焼肉屋．若い人たちがオーダーを取ってくれる．予算2500円くらい．&lt;/p&gt;
+&lt;h2 id=&#34;牛繁&#34;&gt;&lt;a href=&#34;#牛繁&#34; class=&#34;headerlink&#34; title=&#34;牛繁&#34;&gt;&lt;/a&gt;牛繁&lt;/h2&gt;&lt;p&gt;チェーン店なので省略．&lt;/p&gt;
+&lt;h2 id=&#34;喝&#34;&gt;&lt;a href=&#34;#喝&#34; class=&#34;headerlink&#34; title=&#34;喝&#34;&gt;&lt;/a&gt;喝&lt;/h2&gt;&lt;p&gt;すごい美味しいとんかつ屋さんらしい．少し高いのでお昼に行ったほうが良いかも．予算不明．&lt;/p&gt;
+&lt;h2 id=&#34;からあげ食堂&#34;&gt;&lt;a href=&#34;#からあげ食堂&#34; class=&#34;headerlink&#34; title=&#34;からあげ食堂&#34;&gt;&lt;/a&gt;からあげ食堂&lt;/h2&gt;&lt;p&gt;独特な味の唐揚げ定食のみ．ソースをいくつか選べる．ご飯が無限に出てくる．学割あり．予算500円．&lt;/p&gt;
+&lt;h2 id=&#34;ひょうたん屋&#34;&gt;&lt;a href=&#34;#ひょうたん屋&#34; class=&#34;headerlink&#34; title=&#34;ひょうたん屋&#34;&gt;&lt;/a&gt;ひょうたん屋&lt;/h2&gt;&lt;p&gt;普通の洋食屋さん．値段も普通なので余裕のある時に行くと良い．予算2000円．&lt;/p&gt;
+&lt;h2 id=&#34;ふらんす亭&#34;&gt;&lt;a href=&#34;#ふらんす亭&#34; class=&#34;headerlink&#34; title=&#34;ふらんす亭&#34;&gt;&lt;/a&gt;ふらんす亭&lt;/h2&gt;&lt;p&gt;普通の洋食屋さん．値段も普通．出てきた時に肉汁が飛び跳ねるのが素晴らしい．予算2000円．&lt;/p&gt;
+&lt;h1 id=&#34;定食&#34;&gt;&lt;a href=&#34;#定食&#34; class=&#34;headerlink&#34; title=&#34;定食&#34;&gt;&lt;/a&gt;定食&lt;/h1&gt;&lt;h2 id=&#34;風の家&#34;&gt;&lt;a href=&#34;#風の家&#34; class=&#34;headerlink&#34; title=&#34;風の家&#34;&gt;&lt;/a&gt;風の家&lt;/h2&gt;&lt;p&gt;地元の定食屋さん．普通に美味しくてバランスの良いメニューを出してもらえるのでオススメ．予算600円．&lt;/p&gt;
+&lt;h2 id=&#34;Sガスト&#34;&gt;&lt;a href=&#34;#Sガスト&#34; class=&#34;headerlink&#34; title=&#34;Sガスト&#34;&gt;&lt;/a&gt;Sガスト&lt;/h2&gt;&lt;p&gt;言わずと知れた爆安店．学割でライス大盛りかサイドメニューを選べる．予算500円．&lt;/p&gt;
+&lt;h2 id=&#34;やよい軒&#34;&gt;&lt;a href=&#34;#やよい軒&#34; class=&#34;headerlink&#34; title=&#34;やよい軒&#34;&gt;&lt;/a&gt;やよい軒&lt;/h2&gt;&lt;p&gt;オシャレなチェーンの定食屋．お値段はそこまで安くないがご飯が無限に出てくる．予算700円．&lt;/p&gt;
+&lt;h2 id=&#34;大戸屋&#34;&gt;&lt;a href=&#34;#大戸屋&#34; class=&#34;headerlink&#34; title=&#34;大戸屋&#34;&gt;&lt;/a&gt;大戸屋&lt;/h2&gt;&lt;p&gt;チェーンの定食屋．ご飯の種類と量を選べる．ちょっと遠い．予算700円．&lt;/p&gt;
+&lt;h1 id=&#34;中華料理&#34;&gt;&lt;a href=&#34;#中華料理&#34; class=&#34;headerlink&#34; title=&#34;中華料理&#34;&gt;&lt;/a&gt;中華料理&lt;/h1&gt;&lt;h2 id=&#34;日高屋&#34;&gt;&lt;a href=&#34;#日高屋&#34; class=&#34;headerlink&#34; title=&#34;日高屋&#34;&gt;&lt;/a&gt;日高屋&lt;/h2&gt;&lt;p&gt;庶民の味方の中華屋．ビールを頼むと限界人間になれる．モツがモツモツしている．予算600円．&lt;/p&gt;
+&lt;h2 id=&#34;金盛楼&#34;&gt;&lt;a href=&#34;#金盛楼&#34; class=&#34;headerlink&#34; title=&#34;金盛楼&#34;&gt;&lt;/a&gt;金盛楼&lt;/h2&gt;&lt;p&gt;中国人の経営する中華料理屋．雰囲気は若干怪しいが味は結構良い．予算600円．&lt;/p&gt;
+&lt;h2 id=&#34;クレイジー餃子&#34;&gt;&lt;a href=&#34;#クレイジー餃子&#34; class=&#34;headerlink&#34; title=&#34;クレイジー餃子&#34;&gt;&lt;/a&gt;クレイジー餃子&lt;/h2&gt;&lt;p&gt;新しく出来た中華料理屋．名前がクレイジー．予算不明．&lt;/p&gt;
+&lt;h2 id=&#34;珍来&#34;&gt;&lt;a href=&#34;#珍来&#34; class=&#34;headerlink&#34; title=&#34;珍来&#34;&gt;&lt;/a&gt;珍来&lt;/h2&gt;&lt;p&gt;このあたりで有名な爆盛り中華屋．中盛・大盛があり大盛りにすると胃がもたれる．もちもち自家製麺は美味しい．予算600円．&lt;/p&gt;
+&lt;h2 id=&#34;龍園&#34;&gt;&lt;a href=&#34;#龍園&#34; class=&#34;headerlink&#34; title=&#34;龍園&#34;&gt;&lt;/a&gt;龍園&lt;/h2&gt;&lt;p&gt;中華料理屋．単品メニューを頼んで青島ビールを飲むと最高．予算700円．&lt;/p&gt;
+&lt;h2 id=&#34;金町餃子&#34;&gt;&lt;a href=&#34;#金町餃子&#34; class=&#34;headerlink&#34; title=&#34;金町餃子&#34;&gt;&lt;/a&gt;金町餃子&lt;/h2&gt;&lt;p&gt;餃子とラーメンのセットを頼むと良い．雰囲気はちょっとアレ．予算600円．&lt;/p&gt;
+&lt;h1 id=&#34;居酒屋&#34;&gt;&lt;a href=&#34;#居酒屋&#34; class=&#34;headerlink&#34; title=&#34;居酒屋&#34;&gt;&lt;/a&gt;居酒屋&lt;/h1&gt;&lt;h2 id=&#34;金町製麺&#34;&gt;&lt;a href=&#34;#金町製麺&#34; class=&#34;headerlink&#34; title=&#34;金町製麺&#34;&gt;&lt;/a&gt;金町製麺&lt;/h2&gt;&lt;p&gt;有名な居酒屋．居酒屋だけど有名なのはラーメンで大学の講義にもゲスト出演した．お酒も日替わりでいろいろと入っているので楽しい．予算は飲み方次第ということで．&lt;/p&gt;
+&lt;h2 id=&#34;ガキ大将&#34;&gt;&lt;a href=&#34;#ガキ大将&#34; class=&#34;headerlink&#34; title=&#34;ガキ大将&#34;&gt;&lt;/a&gt;ガキ大将&lt;/h2&gt;&lt;p&gt;安くて美味しいのでワイワイできる．モツ煮がオススメ．予算は飲み方次第．&lt;/p&gt;
+&lt;h2 id=&#34;すし祥&#34;&gt;&lt;a href=&#34;#すし祥&#34; class=&#34;headerlink&#34; title=&#34;すし祥&#34;&gt;&lt;/a&gt;すし祥&lt;/h2&gt;&lt;p&gt;平日は定食が食べられる．健康的で美味しくて良い．飲み会をしても美味しいのでオススメ．予算は定食の場合600円．&lt;/p&gt;
+&lt;h2 id=&#34;ときわ食堂&#34;&gt;&lt;a href=&#34;#ときわ食堂&#34; class=&#34;headerlink&#34; title=&#34;ときわ食堂&#34;&gt;&lt;/a&gt;ときわ食堂&lt;/h2&gt;&lt;p&gt;大衆食堂・居酒屋と言う感じ．定食だけでも問題なし．予算は定食の場合700円．&lt;/p&gt;
+&lt;h2 id=&#34;地鶏-若&#34;&gt;&lt;a href=&#34;#地鶏-若&#34; class=&#34;headerlink&#34; title=&#34;地鶏 若&#34;&gt;&lt;/a&gt;地鶏 若&lt;/h2&gt;&lt;p&gt;昼は定食が食べられる．すごい健康的なのでオススメ．予算は定食の場合600円．&lt;/p&gt;
+&lt;h1 id=&#34;弁当&#34;&gt;&lt;a href=&#34;#弁当&#34; class=&#34;headerlink&#34; title=&#34;弁当&#34;&gt;&lt;/a&gt;弁当&lt;/h1&gt;&lt;h2 id=&#34;HottoMotto&#34;&gt;&lt;a href=&#34;#HottoMotto&#34; class=&#34;headerlink&#34; title=&#34;HottoMotto&#34;&gt;&lt;/a&gt;HottoMotto&lt;/h2&gt;&lt;p&gt;金町と水元に1軒ずつあります．&lt;/p&gt;
+&lt;h2 id=&#34;オリジン弁当&#34;&gt;&lt;a href=&#34;#オリジン弁当&#34; class=&#34;headerlink&#34; title=&#34;オリジン弁当&#34;&gt;&lt;/a&gt;オリジン弁当&lt;/h2&gt;&lt;p&gt;金町に1軒あります．&lt;/p&gt;
+&lt;h2 id=&#34;おかず屋&#34;&gt;&lt;a href=&#34;#おかず屋&#34; class=&#34;headerlink&#34; title=&#34;おかず屋&#34;&gt;&lt;/a&gt;おかず屋&lt;/h2&gt;&lt;p&gt;クッソ安くて怪しすぎるお弁当屋．僕は1回行ったけどもう二度と行きたくない．怖い．予算300円？&lt;/p&gt;
+&lt;h2 id=&#34;磯島&#34;&gt;&lt;a href=&#34;#磯島&#34; class=&#34;headerlink&#34; title=&#34;磯島&#34;&gt;&lt;/a&gt;磯島&lt;/h2&gt;&lt;p&gt;金町だとこっちの海鮮丼が好き．海鮮丼以外もいくつかメニューがある．予算500円．&lt;/p&gt;
+&lt;h2 id=&#34;丼丸&#34;&gt;&lt;a href=&#34;#丼丸&#34; class=&#34;headerlink&#34; title=&#34;丼丸&#34;&gt;&lt;/a&gt;丼丸&lt;/h2&gt;&lt;p&gt;海鮮丼の種類が多い．駅から近いので行きやすい．毎月サービスデーがある．予算500円．&lt;/p&gt;
+&lt;h1 id=&#34;牛丼&#34;&gt;&lt;a href=&#34;#牛丼&#34; class=&#34;headerlink&#34; title=&#34;牛丼&#34;&gt;&lt;/a&gt;牛丼&lt;/h1&gt;&lt;h2 id=&#34;松屋&#34;&gt;&lt;a href=&#34;#松屋&#34; class=&#34;headerlink&#34; title=&#34;松屋&#34;&gt;&lt;/a&gt;松屋&lt;/h2&gt;&lt;p&gt;あります．&lt;/p&gt;
+&lt;h2 id=&#34;すき家&#34;&gt;&lt;a href=&#34;#すき家&#34; class=&#34;headerlink&#34; title=&#34;すき家&#34;&gt;&lt;/a&gt;すき家&lt;/h2&gt;&lt;p&gt;あります．&lt;/p&gt;
+&lt;h2 id=&#34;吉野家&#34;&gt;&lt;a href=&#34;#吉野家&#34; class=&#34;headerlink&#34; title=&#34;吉野家&#34;&gt;&lt;/a&gt;吉野家&lt;/h2&gt;&lt;p&gt;あります．&lt;/p&gt;
+&lt;h1 id=&#34;ハンバーガ&#34;&gt;&lt;a href=&#34;#ハンバーガ&#34; class=&#34;headerlink&#34; title=&#34;ハンバーガ&#34;&gt;&lt;/a&gt;ハンバーガ&lt;/h1&gt;&lt;h2 id=&#34;マクドナルド&#34;&gt;&lt;a href=&#34;#マクドナルド&#34; class=&#34;headerlink&#34; title=&#34;マクドナルド&#34;&gt;&lt;/a&gt;マクドナルド&lt;/h2&gt;&lt;p&gt;あります．&lt;/p&gt;
+&lt;h2 id=&#34;モスバーガー&#34;&gt;&lt;a href=&#34;#モスバーガー&#34; class=&#34;headerlink&#34; title=&#34;モスバーガー&#34;&gt;&lt;/a&gt;モスバーガー&lt;/h2&gt;&lt;p&gt;少し遠いけど南口の奥の方にあります．&lt;/p&gt;
+&lt;h2 id=&#34;ケンタッキー&#34;&gt;&lt;a href=&#34;#ケンタッキー&#34; class=&#34;headerlink&#34; title=&#34;ケンタッキー&#34;&gt;&lt;/a&gt;ケンタッキー&lt;/h2&gt;&lt;p&gt;あります．&lt;/p&gt;
+&lt;h1 id=&#34;その他&#34;&gt;&lt;a href=&#34;#その他&#34; class=&#34;headerlink&#34; title=&#34;その他&#34;&gt;&lt;/a&gt;その他&lt;/h1&gt;&lt;h2 id=&#34;福寿司&#34;&gt;&lt;a href=&#34;#福寿司&#34; class=&#34;headerlink&#34; title=&#34;福寿司&#34;&gt;&lt;/a&gt;福寿司&lt;/h2&gt;&lt;p&gt;そこそこ値段のするお寿司屋．&lt;/p&gt;
+&lt;h2 id=&#34;シータラ&#34;&gt;&lt;a href=&#34;#シータラ&#34; class=&#34;headerlink&#34; title=&#34;シータラ&#34;&gt;&lt;/a&gt;シータラ&lt;/h2&gt;&lt;p&gt;大人気カレー店．ナンが食べられるのが強い．ポイントカード10ポイントで1食無料．予算600円．&lt;/p&gt;
+&lt;h2 id=&#34;ラリグラス&#34;&gt;&lt;a href=&#34;#ラリグラス&#34; class=&#34;headerlink&#34; title=&#34;ラリグラス&#34;&gt;&lt;/a&gt;ラリグラス&lt;/h2&gt;&lt;p&gt;少し遠いけどナンが食べ放題のカレー屋．予算600円．&lt;/p&gt;
+&lt;h2 id=&#34;サイゼリヤ&#34;&gt;&lt;a href=&#34;#サイゼリヤ&#34; class=&#34;headerlink&#34; title=&#34;サイゼリヤ&#34;&gt;&lt;/a&gt;サイゼリヤ&lt;/h2&gt;&lt;p&gt;少し遠いけど安くて大人数で入れるので強い．予算600円．&lt;/p&gt;
+&lt;h1 id=&#34;まとめ&#34;&gt;&lt;a href=&#34;#まとめ&#34; class=&#34;headerlink&#34; title=&#34;まとめ&#34;&gt;&lt;/a&gt;まとめ&lt;/h1&gt;&lt;p&gt;雑にまとめてみました．新しい店が出たら追加していこうと思います．&lt;/p&gt;
+&lt;p&gt;明日の&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;は，雑多な話をするかもしれません．&lt;/p&gt;
+</content>
+        <category term="ごはん" />
+        <category term="金町" />
+        <updated>2017-12-17T14:54:00.000Z</updated>
+    </entry>
+</feed>

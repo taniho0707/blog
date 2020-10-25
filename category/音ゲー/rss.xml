@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>taniho&#39;s blog • Posts by &#34;音ゲー&#34; category</title>
+        <link>http://blog.taniho.net</link>
+        <description>technical note</description>
+        <language>en</language>
+        <pubDate>Wed, 13 Apr 2016 21:32:30 +0900</pubDate>
+        <lastBuildDate>Wed, 13 Apr 2016 21:32:30 +0900</lastBuildDate>
+        <category>Emacs</category>
+        <category>ArchLinux</category>
+        <category>マイクロマウス</category>
+        <category>台湾</category>
+        <category>旅行</category>
+        <category>たまこまーけっと</category>
+        <category>2016年</category>
+        <category>買い物</category>
+        <category>おすすめ</category>
+        <category>日常</category>
+        <category>2017年</category>
+        <category>クリスマス</category>
+        <category>Elecrow</category>
+        <category>電子工作</category>
+        <category>関西地区大会</category>
+        <category>猫</category>
+        <category>Apache</category>
+        <category>letsencrypt</category>
+        <category>Blu-ray</category>
+        <category>VLC</category>
+        <category>CNC</category>
+        <category>Magit</category>
+        <category>git</category>
+        <category>MFT</category>
+        <category>RaspberryPi</category>
+        <category>無線LAN</category>
+        <category>Mice</category>
+        <category>鵤</category>
+        <category>メジロ</category>
+        <category>Qt</category>
+        <category>デレステ</category>
+        <category>yakudo</category>
+        <category>Android</category>
+        <category>Discord</category>
+        <category>Webアプリ</category>
+        <category>教習所</category>
+        <category>ロボット</category>
+        <category>Linux</category>
+        <category>remark</category>
+        <category>スライドショー</category>
+        <category>ごはん</category>
+        <category>金町</category>
+        <category>クレジットカード</category>
+        <category>ヘボコン</category>
+        <category>ボードゲーム</category>
+        <category>Quadcept</category>
+        <category>CAD</category>
+        <category>Doxygen</category>
+        <category>2018年</category>
+        <category>dアニメストア</category>
+        <category>Renesas</category>
+        <category>RX62T</category>
+        <category>e2studio</category>
+        <category>github</category>
+        <category>マウス</category>
+        <category>分解</category>
+        <category>logicool</category>
+        <category>M570</category>
+        <category>G700s</category>
+        <category>seccamp2016</category>
+        <category>seccamp</category>
+        <category>ownCloud</category>
+        <category>サーバー</category>
+        <category>subsonic</category>
+        <category>音楽</category>
+        <category>みそ煮込みうどん</category>
+        <category>I.Sys</category>
+        <category>フラッグLED</category>
+        <category>i3</category>
+        <category>wm</category>
+        <category>AdventCalendar</category>
+        <category>モード</category>
+        <category>迷路</category>
+        <category>C++</category>
+        <category>調整</category>
+        <category>中華</category>
+        <category>まとめ</category>
+        <category>助けて</category>
+        <category>三角関数</category>
+        <category>福岡</category>
+        <category>東北地区大会</category>
+        <category>STL</category>
+        <category>入門</category>
+        <category>ラズパイコンテスト</category>
+        <category>NFC</category>
+        <category>C言語</category>
+        <category>部品</category>
+        <category>管理</category>
+        <category>電子部品</category>
+        <category>STM32CubeMX</category>
+        <category>FTDI</category>
+        <category>Makefile</category>
+        <category>アプリ</category>
+        <category>はてな</category>
+        <category>インターン</category>
+        <category>最高</category>
+        <category>セキュリティ・キャンプ</category>
+        <item>
+            <guid isPermalink="true">http://blog.taniho.net/2016/04/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E6%A9%9F%E3%81%AE%E5%95%8F%E9%A1%8C%E7%82%B9/</guid>
+            <title>デレステ自動演奏機の問題点</title>
+            <link>http://blog.taniho.net/2016/04/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E6%A9%9F%E3%81%AE%E5%95%8F%E9%A1%8C%E7%82%B9/</link>
+            <category>デレステ</category>
+            <pubDate>Wed, 13 Apr 2016 21:32:30 +0900</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;なんだこれは&#34;&gt;&lt;a href=&#34;#なんだこれは&#34; class=&#34;headerlink&#34; title=&#34;なんだこれは&#34;&gt;&lt;/a&gt;なんだこれは&lt;/h1&gt;&lt;p&gt;アイドルマスター シンデレラガールズ スターライトステージという，スマートフォン向けのゲームがあります。&lt;br&gt;いわゆる音ゲーです。&lt;br&gt;未だに先駆者が出ていないため，何を思い立ったか自動演奏機を作っています。&lt;br&gt;※ソフトウェア的に自動クリアする動画はありましたが，自動クリア(物理)はこれが初だと思います。&lt;/p&gt;
+&lt;center&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;こんなことやってる場合じゃないので短期間凍結します。そのうち完成させます。 &lt;a href=&#34;https://t.co/LeUXynXp9W&#34;&gt;pic.twitter.com/LeUXynXp9W&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho/2 (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/718776810096361472&#34;&gt;2016年4月9日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/center&gt;
+
+&lt;h1 id=&#34;メカ&#34;&gt;&lt;a href=&#34;#メカ&#34; class=&#34;headerlink&#34; title=&#34;メカ&#34;&gt;&lt;/a&gt;メカ&lt;/h1&gt;&lt;img src=&#34;/2016/04/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E6%A9%9F%E3%81%AE%E5%95%8F%E9%A1%8C%E7%82%B9/machine.jpeg&#34; width=&#34;600&#34; /&gt;
+
+&lt;p&gt;打鍵用にタカハソレノイドを2個，移動用にサーボモータを2個使っています。&lt;br&gt;スライダクランク機構で打鍵部を移動させています。&lt;/p&gt;
+&lt;p&gt;デレステは”スライド”と呼ばれる譜面があるため，打鍵しながら左右に動かせる機構が必要でした。&lt;br&gt;現時点では同時押しは2つまでしかないため，打鍵部は2つのみとしました。&lt;/p&gt;
+&lt;h1 id=&#34;制御&#34;&gt;&lt;a href=&#34;#制御&#34; class=&#34;headerlink&#34; title=&#34;制御&#34;&gt;&lt;/a&gt;制御&lt;/h1&gt;&lt;p&gt;制御用のマイコンとして，STM32F401RE nucleo boardを使っています。&lt;br&gt;外付け部品が不要で使うことができ，おねだんも1700円(デバッガ付き)なのでオススメです。&lt;/p&gt;
+&lt;h1 id=&#34;ソフトウェア&#34;&gt;&lt;a href=&#34;#ソフトウェア&#34; class=&#34;headerlink&#34; title=&#34;ソフトウェア&#34;&gt;&lt;/a&gt;ソフトウェア&lt;/h1&gt;&lt;img src=&#34;/2016/04/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E6%A9%9F%E3%81%AE%E5%95%8F%E9%A1%8C%E7%82%B9/software.jpeg&#34; width=&#34;600&#34; /&gt;
+
+&lt;p&gt;譜面データをハードコーディングするのだけは絶対にやめたい(ダサいし楽曲追加が面倒)ので，譜面データを作成するソフトを作っています。&lt;br&gt;ついでにQtのお勉強もしています。&lt;/p&gt;
+&lt;h1 id=&#34;今後&#34;&gt;&lt;a href=&#34;#今後&#34; class=&#34;headerlink&#34; title=&#34;今後&#34;&gt;&lt;/a&gt;今後&lt;/h1&gt;&lt;p&gt;1,2ヶ月はマイクロマウスと夏コミに専念したいため凍結させますが，夏休み頃から再開させようと考えています。&lt;br&gt;機械の精度を見直し，ソフトを完成させることができれば，それなりに演奏してくれるのではないでしょうか。&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

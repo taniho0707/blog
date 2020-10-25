@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;電子部品&#34; tag</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2017-07-04T03:54:05.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2017/07/%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%BF/</id>
+        <title>電子部品ディストリビュータ</title>
+        <link rel="alternate" href="http://blog.taniho.net/2017/07/%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%BF/"/>
+        <content type="html">&lt;h1 id=&#34;電子部品を買う&#34;&gt;&lt;a href=&#34;#電子部品を買う&#34; class=&#34;headerlink&#34; title=&#34;電子部品を買う&#34;&gt;&lt;/a&gt;電子部品を買う&lt;/h1&gt;&lt;p&gt;電子部品を購入する際には，色々な店を使う人が多いと思います．実店舗ならその場で購入できますが，ネット通販は支払いや発送などがあり，少し敷居が高いのではないでしょうか．&lt;br&gt;そこで，これまでに私が利用したことのある電子部品の販売店をまとめてみようと思います．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;p&gt;それぞれのお店に「送料・配送業者・配送時間の目安」を書いています．&lt;br&gt;送料・配送業者は東京都23区内発送，2017年7月段階での情報です．&lt;br&gt;配送時間は東京23区内配送の，あくまで目安です．&lt;/p&gt;
+&lt;h1 id=&#34;国内&#34;&gt;&lt;a href=&#34;#国内&#34; class=&#34;headerlink&#34; title=&#34;国内&#34;&gt;&lt;/a&gt;国内&lt;/h1&gt;&lt;h2 id=&#34;秋月電子通商&#34;&gt;&lt;a href=&#34;#秋月電子通商&#34; class=&#34;headerlink&#34; title=&#34;秋月電子通商&#34;&gt;&lt;/a&gt;秋月電子通商&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;http://akizukidenshi.com/catalog/default.aspx&#34;&gt;HP&lt;/a&gt;&lt;br&gt;言わずと知れたお店．秋葉原店は非常に混雑するため，八潮店に行くことをオススメ．遠方の方は通販が便利です．&lt;br&gt;全体的に価格が異常に安いため，取り扱ってる部品は秋月で買うと良いと思います．1608metricサイズのチップセラコンなんかが非常にお買い得です．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;送料は500円&lt;/li&gt;
+&lt;li&gt;配送業者は，ヤマトまたは佐川&lt;/li&gt;
+&lt;li&gt;荷物は2〜3日到着&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;千石電商&#34;&gt;&lt;a href=&#34;#千石電商&#34; class=&#34;headerlink&#34; title=&#34;千石電商&#34;&gt;&lt;/a&gt;千石電商&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;http://www.sengoku.co.jp/&#34;&gt;HP&lt;/a&gt;&lt;br&gt;電子部品のスーパーマーケット．基本的な部品があらかた揃っています．店員さんはそっけないが，レジ打ちはプロ．なんでバラバラに入れた圧着金具の識別ができるの．&lt;br&gt;秋葉原だけでなく，日本橋にも店舗を持っている点が嬉しい．&lt;/p&gt;
+&lt;p&gt;実は私は通販を利用したことがないので参考情報だけ．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;送料は432円&lt;/li&gt;
+&lt;li&gt;配送業者は，ヤマト運輸，佐川急便，日本郵便&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;marutsu&#34;&gt;&lt;a href=&#34;#marutsu&#34; class=&#34;headerlink&#34; title=&#34;marutsu&#34;&gt;&lt;/a&gt;marutsu&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://www.marutsu.co.jp/&#34;&gt;HP&lt;/a&gt;&lt;br&gt;電子部品のコンビニエンスストア．あまり安くはないが，店舗数が多いので非常に便利．&lt;br&gt;通販では，意外と豊富な部品を取り揃えています．マイコン等はここでしか売っていない場合もありました．&lt;/p&gt;
+&lt;p&gt;実はマルツも通販を利用したことがないので参考情報だけ．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;送料は486円，メール便は259円(5000円以上送料無料)&lt;/li&gt;
+&lt;li&gt;配送業者は，ヤマト運輸(場合によりゆうパック及び日本通運)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chip1stop&#34;&gt;&lt;a href=&#34;#chip1stop&#34; class=&#34;headerlink&#34; title=&#34;chip1stop&#34;&gt;&lt;/a&gt;chip1stop&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;http://www.chip1stop.com/&#34;&gt;HP&lt;/a&gt;&lt;br&gt;ホントは法人しか登録できない．&lt;br&gt;一つの商品に複数の販売形態・配送元倉庫があり，それぞれに在庫と発送可能日程が書かれているためややこしい．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;送料は650円(5000円以上送料無料)&lt;/li&gt;
+&lt;li&gt;配送業者は佐川&lt;/li&gt;
+&lt;li&gt;荷物は2〜3日で届くが，即日出荷できない商品があるので要注意&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;海外&#34;&gt;&lt;a href=&#34;#海外&#34; class=&#34;headerlink&#34; title=&#34;海外&#34;&gt;&lt;/a&gt;海外&lt;/h1&gt;&lt;h2 id=&#34;RS-Components&#34;&gt;&lt;a href=&#34;#RS-Components&#34; class=&#34;headerlink&#34; title=&#34;RS Components&#34;&gt;&lt;/a&gt;RS Components&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;http://jp.rs-online.com/web/&#34;&gt;HP&lt;/a&gt;&lt;br&gt;海外と書きましたが，大半の商品は国内発送です．&lt;br&gt;RaspberryPiの公式代理店．&lt;br&gt;値段はそこそこ高めなので，できるだけ他のサイトで買いたいなあ．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;送料は486円(8000円以上送料無料)&lt;/li&gt;
+&lt;li&gt;配送業者は佐川&lt;/li&gt;
+&lt;li&gt;荷物は1〜2日で届くが，即日出荷できない商品があるので要注意&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Digikey&#34;&gt;&lt;a href=&#34;#Digikey&#34; class=&#34;headerlink&#34; title=&#34;Digikey&#34;&gt;&lt;/a&gt;Digikey&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://www.digikey.jp/&#34;&gt;HP&lt;/a&gt;&lt;br&gt;アメリカのお店．取り扱っている部品が非常に多く，表面実装部品は，まずここで探しています．&lt;br&gt;10000円以上買うと消費税がかかるため，6000〜9999円の範囲で買うと一番オトク．&lt;br&gt;時差があるため，注文のタイミング次第では日本時間の2日で届く場合もあり，非常に早い．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;送料は2000円(6000円以上送料無料)&lt;/li&gt;
+&lt;li&gt;配送業者はUPS(国内はヤマトに委託する可能性あり)&lt;/li&gt;
+&lt;li&gt;荷物は2〜4日で届く&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ARROW&#34;&gt;&lt;a href=&#34;#ARROW&#34; class=&#34;headerlink&#34; title=&#34;ARROW&#34;&gt;&lt;/a&gt;ARROW&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://www.arrow.com/&#34;&gt;HP&lt;/a&gt;&lt;br&gt;この前始めて使いました．今なら期間限定で，$20以上の買い物でFedEx Priorityの送料が無料になります．&lt;br&gt;Digikeyより安い部品が多く(特に0402metricのチップ抵抗は半額)，一度検討してみることをオススメします．&lt;br&gt;ただ，部品の入った帯電防止袋はDigikeyの方が良いです．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;送料はややこしい&lt;br&gt;DHLとFedEx Economyは無料！&lt;br&gt;FedEx PriorityとUPSは4400〜5300円&lt;/li&gt;
+&lt;li&gt;配送業者はFedEx，DHLまたはUPS&lt;/li&gt;
+&lt;li&gt;荷物は，FedEx Priorityの場合2〜3日で届く(国内配送委託は西濃運輸)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;Mouser&#34;&gt;&lt;a href=&#34;#Mouser&#34; class=&#34;headerlink&#34; title=&#34;Mouser&#34;&gt;&lt;/a&gt;Mouser&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;http://www.mouser.jp/&#34;&gt;HP&lt;/a&gt;&lt;br&gt;ごめんなさい，ここだけ使ったことがないです．とりあえずの紹介だけ．&lt;/p&gt;
+&lt;h1 id=&#34;まとめ&#34;&gt;&lt;a href=&#34;#まとめ&#34; class=&#34;headerlink&#34; title=&#34;まとめ&#34;&gt;&lt;/a&gt;まとめ&lt;/h1&gt;&lt;p&gt;いろんな店があります．&lt;br&gt;欲しい部品が一つの店で置いてなくても，別の店で取り扱っている可能性もあるので，ここに挙げたサイトでよく確認してみましょう．&lt;/p&gt;
+</content>
+        <category term="電子部品" />
+        <updated>2017-07-04T03:54:05.000Z</updated>
+    </entry>
+</feed>

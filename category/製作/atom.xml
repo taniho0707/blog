@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;製作&#34; category</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2019-10-27T13:48:09.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2019/10/CNC%E7%94%A8%E3%81%AE%E9%98%B2%E9%9F%B3%E7%AE%B1CNCBOX%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E8%A9%B1/</id>
+        <title>CNC用の防音箱CNCBOXを作った話</title>
+        <link rel="alternate" href="http://blog.taniho.net/2019/10/CNC%E7%94%A8%E3%81%AE%E9%98%B2%E9%9F%B3%E7%AE%B1CNCBOX%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E8%A9%B1/"/>
+        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;去年の年末，初の満額ボーナスを貰った僕はあまりのテンションの上がりっぷりによりCNCを買ってしまいました．&lt;br&gt;ところが，僕が今住んでいるのは実家の一軒家……．&lt;br&gt;CNCの音がかなりうるさく，このままでは到底使えない状況でした．&lt;/p&gt;
+&lt;p&gt;ネット上を探すと，防音用の箱を作っている人が結構いらっしゃるようです．&lt;br&gt;というわけで，僕も防音用の箱「CNCBOX」を作ることにしました．&lt;/p&gt;
+&lt;p&gt;作る上でバリバリ参考にさせていただいたサイトはこちらです．&lt;br&gt;バリバリ参考，どころかほぼ設計丸パクリしました．&lt;br&gt;&lt;a href=&#34;https://sa01.naturum.ne.jp/e3041819.html&#34;&gt;浦安DIYシーバス:CNC防音ボックス&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;設計&#34;&gt;&lt;a href=&#34;#設計&#34; class=&#34;headerlink&#34; title=&#34;設計&#34;&gt;&lt;/a&gt;設計&lt;/h1&gt;&lt;p&gt;参考サイトと今回では大きく違う点が一点あります．&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CNCのサイズが全然違う&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;全国の常識的な人たちは常識的なコンパクトサイズのCNCを買い求めるわけですが，僕はアホなので&lt;strong&gt;大は小を兼ねる&lt;/strong&gt;とか言いながら大きいCNCを買ってしまいました．&lt;br&gt;&lt;a href=&#34;https://www.omiocnc.com/products/x3-series/x3-300-usb-cnc-desktop-engraver.html&#34;&gt;X3-300-USB CNC Desktop Engraver&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;仕方がないのでこのデカいCNCに合わせたCNCBOXを設計していきました．&lt;br&gt;参考サイトの設計をベースに，サイズアップを図っていきます．&lt;/p&gt;
+&lt;h1 id=&#34;製作&#34;&gt;&lt;a href=&#34;#製作&#34; class=&#34;headerlink&#34; title=&#34;製作&#34;&gt;&lt;/a&gt;製作&lt;/h1&gt;&lt;h2 id=&#34;防音・吸音材&#34;&gt;&lt;a href=&#34;#防音・吸音材&#34; class=&#34;headerlink&#34; title=&#34;防音・吸音材&#34;&gt;&lt;/a&gt;防音・吸音材&lt;/h2&gt;&lt;p&gt;吸音材として，こちらのスポンジを使いました．&lt;br&gt;側面は大きめのピラミッド型，底面はCNCの高さがあるので低めのスポンジを設置します．&lt;/p&gt;
+&lt;iframe style=&#34;width:120px;height:240px;&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; src=&#34;//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=taniho0707-22&amp;language=ja_JP&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=B06XWFDGRS&amp;linkId=15b2a1215b343c9c3c1c567f59becd31&#34;&gt;&lt;/iframe&gt;
+
+&lt;iframe style=&#34;width:120px;height:240px;&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; src=&#34;//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=taniho0707-22&amp;language=ja_JP&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=B072828YNG&amp;linkId=9e911b96189ca832630b6024e41de33e&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;分量がかなり多いため荷物の両が心配だったのですが，小さいパッケージで届きました．&lt;br&gt;このサイズが，&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;01.jpg&#34; alt=&#34;吸音材のパッケージ&#34;&gt;&lt;/p&gt;
+&lt;p&gt;このサイズになります．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;03.jpg&#34; alt=&#34;吸音材開封後&#34;&gt;&lt;/p&gt;
+&lt;p&gt;吸音材だけでは音漏れの可能性があるので，こちらの防音シートを貼ることにします．&lt;/p&gt;
+&lt;iframe style=&#34;width:120px;height:240px;&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; src=&#34;//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=taniho0707-22&amp;language=ja_JP&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=B06XC19T7F&amp;linkId=cd9685a6795a0a6d502095c435e9a42c&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;照明&#34;&gt;&lt;a href=&#34;#照明&#34; class=&#34;headerlink&#34; title=&#34;照明&#34;&gt;&lt;/a&gt;照明&lt;/h2&gt;&lt;p&gt;防音箱の中は暗くなることが考えられるので，LED照明を搭載します．&lt;br&gt;AliExpressで安いリールLEDを買います．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ja.aliexpress.com/item/32834372574.html&#34;&gt;Led ストリップライト 5630 5730 防水 ip65 dc 12 v 300led 5 メートルウォームホワイト 3000 18k ホワイト 6500 18k コールドホワイト赤緑青フレキシブルテープ - AliExpress&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;電源は秋月のAC-DC電源と，スイッチ付きDCジャックを使いました．&lt;br&gt;そして，アルミ角パイプをいい感じに組み立てて，光らせます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;04.jpg&#34; alt=&#34;LEDフレーム&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;板材&#34;&gt;&lt;a href=&#34;#板材&#34; class=&#34;headerlink&#34; title=&#34;板材&#34;&gt;&lt;/a&gt;板材&lt;/h2&gt;&lt;p&gt;板材は密度の比較的高いMDFを使います．&lt;br&gt;大型ホームセンターに行って，厚さ15mmのMDFを切り出してもらいます．&lt;br&gt;総重量が約34kgあるため，持って帰るだけでも重労働です．&lt;/p&gt;
+&lt;p&gt;下板には鬼目ナットを埋め込み，ダンパーを取り付けます．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.monotaro.com/g/00408766/&#34;&gt;エアーダンパー WFタイプ ブリヂストン 空気バネベローズ形 【通販モノタロウ】 WF4014～&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;06.jpg&#34; alt=&#34;鬼目ナットを埋め込んだ板&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;05.jpg&#34; alt=&#34;ダンパーを取り付けた板&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;07.jpg&#34; alt=&#34;ダンパーを取り付け終わった板&#34;&gt;&lt;/p&gt;
+&lt;p&gt;板材同士の組み立てには，M3x40mmのパーチクルビスを使うことにしました．&lt;br&gt;このあたりのネジの選定は知識が無いので，誰かに教えて欲しい所．&lt;/p&gt;
+&lt;h2 id=&#34;組み立て&#34;&gt;&lt;a href=&#34;#組み立て&#34; class=&#34;headerlink&#34; title=&#34;組み立て&#34;&gt;&lt;/a&gt;組み立て&lt;/h2&gt;&lt;p&gt;板材の上に遮音シートを貼り，その上に吸音材を貼り付けます．&lt;br&gt;貼り付けにはネダ用の接着剤を使いました．&lt;br&gt;1kgあれば足りるだろうと高をくくっていましたが，結局1.5kg程度使用しました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;08.jpg&#34; alt=&#34;接着剤を塗っている遮音シート&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;09.jpg&#34; alt=&#34;半組み立て状態の箱&#34;&gt;&lt;/p&gt;
+&lt;p&gt;接着剤で遮音シートを貼り付けた後は，ダイソーで売っている300円のタッカーを使いました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;10.jpg&#34; alt=&#34;タッカーを売った後の遮音シート&#34;&gt;&lt;/p&gt;
+&lt;p&gt;遮音シートの上に，更に接着剤を塗り，吸音材を貼り付けていきます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;11.jpg&#34; alt=&#34;テンションが高まって撮影した吸音材を貼り付けた箱&#34;&gt;&lt;/p&gt;
+&lt;p&gt;この調子で5面を組み立て，LEDを取り付け，CNCを中に設置するとこのようになります．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;12.jpg&#34; alt=&#34;5面完成&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ちなみに，CNCとダンパーの間には耐震用のゲルマットを取り付けています．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;18.jpg&#34; alt=&#34;CNCの足部分拡大&#34;&gt;&lt;/p&gt;
+&lt;p&gt;LEDを点灯させると，夜でもこんな感じ．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;13.jpg&#34; alt=&#34;LEDを点灯させた防音箱&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;14.jpg&#34; alt=&#34;格好いいアングル&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ドア&#34;&gt;&lt;a href=&#34;#ドア&#34; class=&#34;headerlink&#34; title=&#34;ドア&#34;&gt;&lt;/a&gt;ドア&lt;/h2&gt;&lt;p&gt;詞顎に，6面目のドアを設置します．&lt;br&gt;ドアが当たる部分にはアルミフレームを取り付け，最前面にはゴムシートを取り付けます．&lt;br&gt;ちなみに，右側にあるオレンジ色の部分には，ドア固定用のマグネットが埋め込んであります．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;15.jpg&#34; alt=&#34;ドアにあるアルミフレーム&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ドアにはゴムシートを取り付けます．&lt;br&gt;また，マグネットに向かい合う部分には鉄製のネジを取り付け，くっつくようにしておきます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;19.jpg&#34; alt=&#34;ドア拡大図&#34;&gt;&lt;/p&gt;
+&lt;p&gt;最後に，本体と蝶番で固定すれば……&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;20.jpg&#34; alt=&#34;蝶番&#34;&gt;&lt;/p&gt;
+&lt;p&gt;完成です！！！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;21.jpg&#34; alt=&#34;改正図&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;使用感&#34;&gt;&lt;a href=&#34;#使用感&#34; class=&#34;headerlink&#34; title=&#34;使用感&#34;&gt;&lt;/a&gt;使用感&lt;/h1&gt;&lt;p&gt;MDFを切削している時の音量を，ドアの前から計測してみました．&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;条件&lt;/th&gt;
+&lt;th&gt;音量 [dBA]&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;ドア開&lt;/td&gt;
+&lt;td&gt;89.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ドア閉&lt;/td&gt;
+&lt;td&gt;50.4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;ということで，約40dBAの遮音効果があることが分かりました！&lt;/p&gt;
+&lt;p&gt;誰か詳しい人，これが妥当な値なのか教えてください．&lt;/p&gt;
+&lt;h1 id=&#34;おわりに&#34;&gt;&lt;a href=&#34;#おわりに&#34; class=&#34;headerlink&#34; title=&#34;おわりに&#34;&gt;&lt;/a&gt;おわりに&lt;/h1&gt;&lt;p&gt;無事にCNCでの切削を自由にできる環境を手に入れました．&lt;br&gt;早速ロボトレーサを作っていくぞ．&lt;/p&gt;
+&lt;p&gt;今回かかった金額は，およそ55000円．&lt;br&gt;かかった時間は，実作業2週間程度でした．&lt;/p&gt;
+&lt;p&gt;最後に，今回設計したCNCBOXの設計データを公開します．&lt;br&gt;よければ何かの参考にしてみてください．&lt;br&gt;&lt;a href=&#34;https://cad.onshape.com/documents/c4beed14df13a73fc0725942/w/e45c6b473113af122e5cc267/e/c04dd9c9ea957129dbdcc43b&#34;&gt;X3-300-USB_CNCBOX | Onshape&lt;/a&gt;&lt;br&gt;(配置がバグってるとかいうツッコミは無しで)&lt;/p&gt;
+&lt;h1 id=&#34;参考URL&#34;&gt;&lt;a href=&#34;#参考URL&#34; class=&#34;headerlink&#34; title=&#34;参考URL&#34;&gt;&lt;/a&gt;参考URL&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://sa01.naturum.ne.jp/e3041819.html&#34;&gt;浦安DIYシーバス:CNC防音ボックス&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nagoya88.net/adminsblog/2017/11/cnc-2.html&#34;&gt;CNCの静音化（防音、吸音、防振）について検討開始 - 管理人が興味関心を綴るぶろぐ。&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sonorize.jp/kyuuonzai&#34;&gt;吸音材｜プロがおすすめする効果の高い吸音材【ソノーライズ】&lt;/a&gt;&lt;/p&gt;
+</content>
+        <category term="CNC" />
+        <updated>2019-10-27T13:48:09.000Z</updated>
+    </entry>
+</feed>

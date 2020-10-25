@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;サーバー&#34; tag</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2017-08-05T05:57:58.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2017/08/%E6%88%91%E3%81%8C%E5%AE%B6%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A7%8B%E6%88%90%E3%82%92%E8%80%83%E3%81%88%E3%82%8B/</id>
+        <title>我が家のネットワーク構成を考える</title>
+        <link rel="alternate" href="http://blog.taniho.net/2017/08/%E6%88%91%E3%81%8C%E5%AE%B6%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A7%8B%E6%88%90%E3%82%92%E8%80%83%E3%81%88%E3%82%8B/"/>
+        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;「快適なゲームライフ」と「快適なサーバーライフ」を両立するためにはこの手段しかなかった．&lt;/strong&gt;&lt;br&gt;というわけで自宅のネットワーク構成を思い切って変更することにしました．&lt;br&gt;しかし上手くいかなかったので何がダメだったのか教えてください．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;現状の問題&#34;&gt;&lt;a href=&#34;#現状の問題&#34; class=&#34;headerlink&#34; title=&#34;現状の問題&#34;&gt;&lt;/a&gt;現状の問題&lt;/h1&gt;&lt;p&gt;昔のネットワーク構成はこんな感じです．わりとありふれた構成の中に，自宅サーバーを2台鎮座させています．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;2.png&#34; alt=&#34;旧構成&#34;&gt;&lt;/p&gt;
+&lt;p&gt;プロバイダはSo-netとインターリンクの2回線を契約しています(使用していたのはインターリンクのみ)．&lt;br&gt;運用上，特に問題は無いのですが，次のような欲がありました．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;インターリンクの回線速度が遅いので，常用PCではSo-netを使いたい&lt;/li&gt;
+&lt;li&gt;IPアドレスが変わってほしくないので，So-netを使いたくない(インターリンクの回線は固定IPを契約している)&lt;/li&gt;
+&lt;li&gt;サーバーとそれ以外のマシン間の通信速度は1Gbps出したい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;解決手法-案&#34;&gt;&lt;a href=&#34;#解決手法-案&#34; class=&#34;headerlink&#34; title=&#34;解決手法(案)&#34;&gt;&lt;/a&gt;解決手法(案)&lt;/h1&gt;&lt;p&gt;(案)と書いているのは，まだ満足に運用できていないからです．問題点については後述します．&lt;/p&gt;
+&lt;p&gt;僕がやりたかったことを簡単にまとめると，&lt;br&gt;&lt;strong&gt;「サーバーはインターリンク回線に，それ以外はSo-net回線につなぎたいが，ローカルネットワークは1つにまとめたい」&lt;/strong&gt;&lt;br&gt;ということになります．&lt;br&gt;そこで，ものすごく安直に次のような構成にしてみました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;1.png&#34; alt=&#34;新構成&#34;&gt;&lt;br&gt;(この図を作るに当たって，次のサイトからイラストをお借りしています)&lt;br&gt;&lt;a href=&#34;http://jp.yamaha.com/products/network/downloads/tools/&#34;&gt;http://jp.yamaha.com/products/network/downloads/tools/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;http://www.irasutoya.com/2013/01/blog-post_7254.html&#34;&gt;http://www.irasutoya.com/2013/01/blog-post_7254.html&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;未解決の問題点&#34;&gt;&lt;a href=&#34;#未解決の問題点&#34; class=&#34;headerlink&#34; title=&#34;未解決の問題点&#34;&gt;&lt;/a&gt;未解決の問題点&lt;/h1&gt;&lt;p&gt;思い切って新しい構成にしたものの，昔よりひどいことになってしまいました．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;通信速度が異様に遅い(どちらのプロバイダ回線も)&lt;/li&gt;
+&lt;li&gt;PINGが異様に遅い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ということで詳しい方々，原因や対策をご教示いただけませんか．&lt;/p&gt;
+</content>
+        <category term="サーバー" />
+        <category term="助けて" />
+        <updated>2017-08-05T05:57:58.000Z</updated>
+    </entry>
+</feed>

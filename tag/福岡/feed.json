@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "taniho's blog • All posts by \"福岡\" tag",
+    "description": "technical note",
+    "home_page_url": "http://blog.taniho.net",
+    "items": [
+        {
+            "id": "http://blog.taniho.net/2016/10/%E7%AC%AC26%E5%9B%9E%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E4%B9%9D%E5%B7%9E%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A%E3%81%A7%E5%86%8D%E7%8F%BE%E6%80%A7%E3%81%AE%E9%AB%98%E3%81%95%E3%82%92%E8%A6%8B%E3%81%9B%E3%81%A4%E3%81%91%E3%81%A6%E3%81%8D%E3%81%9F/",
+            "url": "http://blog.taniho.net/2016/10/%E7%AC%AC26%E5%9B%9E%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E4%B9%9D%E5%B7%9E%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A%E3%81%A7%E5%86%8D%E7%8F%BE%E6%80%A7%E3%81%AE%E9%AB%98%E3%81%95%E3%82%92%E8%A6%8B%E3%81%9B%E3%81%A4%E3%81%91%E3%81%A6%E3%81%8D%E3%81%9F/",
+            "title": "第26回マイクロマウス九州地区大会で再現性の高さを見せつけてきた",
+            "date_published": "2016-10-16T19:17:07.000Z",
+            "content_html": "<h1 id=\"九州大会\"><a href=\"#九州大会\" class=\"headerlink\" title=\"九州大会\"></a>九州大会</h1><p>どうしてこんな遠いところに来てしまったんだろうか……(遠い目)</p>\n<img src=\"/2016/10/%E7%AC%AC26%E5%9B%9E%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E4%B9%9D%E5%B7%9E%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A%E3%81%A7%E5%86%8D%E7%8F%BE%E6%80%A7%E3%81%AE%E9%AB%98%E3%81%95%E3%82%92%E8%A6%8B%E3%81%9B%E3%81%A4%E3%81%91%E3%81%A6%E3%81%8D%E3%81%9F/IMG_3866.JPG\" width=\"600\" />\n\n<p>今年2回めの飛行機で，初めての九州上陸です．<br>航空会社はSTAR FLYERを使いましたが，国内線なのにモニタがついていたりしていてとてもすごかったです(小並感)．</p>\n<h1 id=\"屋台\"><a href=\"#屋台\" class=\"headerlink\" title=\"屋台\"></a>屋台</h1><p>着日の夜には<a href=\"https://twitter.com/tencho100\">頭の</a><a href=\"https://twitter.com/mmkn730\">悪い</a><a href=\"https://twitter.com/tennisyi\">人たち</a>と天神の屋台に行きました．</p>\n<p>ずーーーーーっと歩き続けた後，とりあえず入った<a href=\"https://tabelog.com/fukuoka/A4001/A400102/40017915/\">照ちゃん</a>が大当たりで最高でした．<br>おでんもうまい，肉がうまい，酒がうまい，ラーメンがうまい．</p>\n<p>僕はアジの唐揚げ(800円)をしゃぶり尽くして満面の笑みを浮かべていたと思います．</p>\n<img src=\"/2016/10/%E7%AC%AC26%E5%9B%9E%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E4%B9%9D%E5%B7%9E%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A%E3%81%A7%E5%86%8D%E7%8F%BE%E6%80%A7%E3%81%AE%E9%AB%98%E3%81%95%E3%82%92%E8%A6%8B%E3%81%9B%E3%81%A4%E3%81%91%E3%81%A6%E3%81%8D%E3%81%9F/IMG_3874.JPG\" width=\"600\" />\n\n<h1 id=\"戦績\"><a href=\"#戦績\" class=\"headerlink\" title=\"戦績\"></a>戦績</h1><p>さて，<a href=\"http://blog.taniho.net/2016/10/%E7%AC%AC34%E5%9B%9E%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E6%9D%B1%E6%97%A5%E6%9C%AC%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A%E3%82%92%E8%A6%8B%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F/\">前の記事で目標を書いていた</a>ような気がします．<br>前回の東北大会では照明の影響が大きく，まともに走ることができませんでした．</p>\n<p>今回の九州大会では，どうにか<strong>ゴール</strong>をすることができました！<br>……が，なんと帰り探索でクラッシュ．5回連続で同じところで止まってしまい，最短走行をすることができませんでした．</p>\n<p>反省点は，</p>\n<ul>\n<li>スラロームの調整が甘い</li>\n<li>探索でコケた時に迷路データが消えるのはダメ</li>\n<li>前壁補正入れよう</li>\n<li>壁切れ補正入れよう</li>\n</ul>\n<p>要するに準備不足なので，今週もがんばります．</p>\n<h1 id=\"進捗\"><a href=\"#進捗\" class=\"headerlink\" title=\"進捗\"></a>進捗</h1><p>出走が終わり，しょげていた時にぽちぽちとコードを書いていました．</p>\n<p>おかげで<strong>迷路データのMRAMへの保存</strong>ができるようになりました！<br>これで，仮に探索でコケてもそれまでのデータが消えることはなくなりました！！</p>\n<p>次の中部大会では，</p>\n<ul>\n<li>走行の安定</li>\n<li>モード機能の実装</li>\n</ul>\n<p>あたりを強化したいと思っています．</p>\n",
+            "tags": [
+                "マイクロマウス",
+                "旅行",
+                "福岡"
+            ]
+        }
+    ]
+}

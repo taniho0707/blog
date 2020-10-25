@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "taniho's blog • All posts by \"magit\" category",
+    "description": "technical note",
+    "home_page_url": "http://blog.taniho.net",
+    "items": [
+        {
+            "id": "http://blog.taniho.net/2016/04/Emacser%E5%BE%A1%E7%94%A8%E9%81%94git%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/",
+            "url": "http://blog.taniho.net/2016/04/Emacser%E5%BE%A1%E7%94%A8%E9%81%94git%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/",
+            "title": "Emacser御用達gitクライアント",
+            "date_published": "2016-04-14T08:01:35.000Z",
+            "content_html": "<p>gitがようやく部内に広まりつつありますが，そのきっかけの一つはGUI操作のできるgitクライアントが紹介されたことでしょう。<br>僕もWindowsで使っている <a href=\"https://tortoisegit.org/\">TortoiseGit</a> は，エクスプローラに統合でき，かなり使い勝手のいいクライアントだと思います。<br>しかし，Linuxを常用しているのでなにかいいクライアントが無いものかと探していたら，Emacs向けのパッケージを見つけました。<br>(それまではコマンド直打ちをしていましたが，やはり面倒。gitの学習のためにはコマンドを自分で打つべきだとは思います。)</p>\n<h1 id=\"Magit\"><a href=\"#Magit\" class=\"headerlink\" title=\"Magit\"></a>Magit</h1><p><a href=\"https://github.com/magit/magit\">Magit</a><br>パッケージマネージャからインストールしてやりました。</p>\n<h2 id=\"起動\"><a href=\"#起動\" class=\"headerlink\" title=\"起動\"></a>起動</h2><p>gitで管理しているファイルをEmacsで開き，</p>\n<figure class=\"highlight plain\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">M-x magit-status</span><br></pre></td></tr></table></figure>\n<p>でMagitが起動します。<br><img src=\"/2016/04/Emacser%E5%BE%A1%E7%94%A8%E9%81%94git%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/1.png\" width=\"600\" /></p>\n<p>使い方は出てきたバッファ内で’?’を打つと表示されます。<br><img src=\"/2016/04/Emacser%E5%BE%A1%E7%94%A8%E9%81%94git%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/2.png\" width=\"600\" /></p>\n<p>すでにStaged, Unstaged, Untrackedなファイルがリストアップされてると思いますが，これらのファイルを操作するのは1キーの打鍵で済みます。<br>カーソルを合わせて’s’を押すとstage，’u’を押すとunstage，これだけです。</p>\n<h2 id=\"コミット\"><a href=\"#コミット\" class=\"headerlink\" title=\"コミット\"></a>コミット</h2><p>‘c’を押すとCommitのためのメニューが開きます。<br><img src=\"/2016/04/Emacser%E5%BE%A1%E7%94%A8%E9%81%94git%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/3.png\" width=\"600\" /></p>\n<p>もう一度’c’を押してコミット画面に遷移します。<br>下のバッファにコミットメッセージを書きます。<br>上のバッファにはgit-diffが表示されているのでコミットメッセージも書きやすくなっています。<br><img src=\"/2016/04/Emacser%E5%BE%A1%E7%94%A8%E9%81%94git%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/4.png\" width=\"600\" /></p>\n<p>あとは”C-c C-c”を押せばコミット完了です。<br><img src=\"/2016/04/Emacser%E5%BE%A1%E7%94%A8%E9%81%94git%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/5.png\" width=\"600\" /></p>\n<h2 id=\"プッシュ\"><a href=\"#プッシュ\" class=\"headerlink\" title=\"プッシュ\"></a>プッシュ</h2><p>最後に’P’の打鍵でプッシュのメニューを開きます。<br>ここで登録されているremoteにプッシュするため，’p’を打鍵するとパスワードを求められます。<br><img src=\"/2016/04/Emacser%E5%BE%A1%E7%94%A8%E9%81%94git%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/6.png\" width=\"600\" /></p>\n<p>これにてプッシュ完了です。</p>\n<h1 id=\"利点\"><a href=\"#利点\" class=\"headerlink\" title=\"利点\"></a>利点</h1><p>Magitの利点としては，次のようなことが考えられると思います。</p>\n<ul>\n<li>コーディングからプッシュまでをすべてEmacsの中で済ませることができる</li>\n<li>キーストローク数が最小限なのでスムーズにgitを操作できる</li>\n<li>メニューに簡易的な説明が表示されるのでキー操作を忘れない</li>\n</ul>\n<p>なんと言っても一番上ですね。<br>ファイルを編集中に逐一コミットすることが，とても楽ちんになります。</p>\n",
+            "tags": [
+                "Emacs",
+                "Magit",
+                "git"
+            ]
+        }
+    ]
+}

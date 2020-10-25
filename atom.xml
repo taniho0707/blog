@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2019-12-19T14:10:38.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2019/12/STM32%E3%81%A7QuadSPI%E6%8E%A5%E7%B6%9A%E3%81%AEwinbond-NOR-Flash%E3%82%92%E4%BD%BF%E3%81%86/</id>
+        <title>STM32でQuadSPI接続のwinbond NOR Flashを使う</title>
+        <link rel="alternate" href="http://blog.taniho.net/2019/12/STM32%E3%81%A7QuadSPI%E6%8E%A5%E7%B6%9A%E3%81%AEwinbond-NOR-Flash%E3%82%92%E4%BD%BF%E3%81%86/"/>
+        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;この記事は&lt;a href=&#34;https://adventar.org/calendars/3991&#34;&gt;Mice Advent Calendar 2019&lt;/a&gt;の20日目の記事です．&lt;br&gt;昨日の記事は&lt;a href=&#34;https://twitter.com/Solder_disaster&#34;&gt;半田ディザスター&lt;/a&gt;さんの&lt;a href=&#34;&#34;&gt;しろめくんが死んだ話とver2の話&lt;/a&gt;の記事でした．&lt;br&gt;～感想～&lt;/p&gt;
+&lt;p&gt;さて，今日は新作のトレーサーに搭載したNOR Flashを使うために試行錯誤した話をまとめようと思います．&lt;br&gt;搭載したFlashは&lt;a href=&#34;https://www.winbond.com/hq/product/code-storage-flash-memory/serial-nor-flash/index.html?__locale=ja&amp;partNo=W25R64JV&#34;&gt;winbond W25R64JV&lt;/a&gt;，です(データシートは&lt;a href=&#34;https://www.digikey.jp/product-detail/ja/winbond-electronics/W25Q64JVSSIM-TR/W25Q64JVSSIMCT-ND/7776729&#34;&gt;Digikey&lt;/a&gt;から取れました)．&lt;/p&gt;
+&lt;p&gt;この記事では，STM32でのQuadSPIの使い方と，winbond NOR Flashの使い方についてまとめようと思います．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;QuadSPIについて&#34;&gt;&lt;a href=&#34;#QuadSPIについて&#34; class=&#34;headerlink&#34; title=&#34;QuadSPIについて&#34;&gt;&lt;/a&gt;QuadSPIについて&lt;/h1&gt;&lt;p&gt;SPI通信では4本の信号線で全二重方式の通信ができます．&lt;br&gt;データラインは上りが1本，下りが1本です．&lt;/p&gt;
+&lt;p&gt;QSPI通信では6本の信号線で半二重方式の通信を行います．&lt;br&gt;データラインは，Quad I/O通信時は上りと下り共用で4本です．&lt;br&gt;(これパラレル通信では？ と思うのだけれど詳しい人教えてください)&lt;/p&gt;
+&lt;p&gt;端的に言って，同時に4本使ってデータを送れるので，&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;速い&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;というわけです．&lt;br&gt;今回はこれを使っていきます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;SPI_QSPI.png&#34; alt=&#34;SPIとQSPIの信号線&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;STM32-HALでのQuadSPI&#34;&gt;&lt;a href=&#34;#STM32-HALでのQuadSPI&#34; class=&#34;headerlink&#34; title=&#34;STM32 HALでのQuadSPI&#34;&gt;&lt;/a&gt;STM32 HALでのQuadSPI&lt;/h1&gt;&lt;h2 id=&#34;フレームフォーマット&#34;&gt;&lt;a href=&#34;#フレームフォーマット&#34; class=&#34;headerlink&#34; title=&#34;フレームフォーマット&#34;&gt;&lt;/a&gt;フレームフォーマット&lt;/h2&gt;&lt;p&gt;STM32では，QSPIのフレームを次のように，Instruction，Address，Alternate，Dummy，Dataという名前を付けて定義しています．&lt;br&gt;図では4線通信をしており，長さも一例ですが，&lt;br&gt;それぞれ1線・2線に変更したり，ある程度の制約の中でクロック数を変えることは出来ます(詳しくは後述)．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;FrameFormat.png&#34; alt=&#34;QSPIのフレームフォーマット&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;初期設定&#34;&gt;&lt;a href=&#34;#初期設定&#34; class=&#34;headerlink&#34; title=&#34;初期設定&#34;&gt;&lt;/a&gt;初期設定&lt;/h2&gt;&lt;h3 id=&#34;STM32CubeMX&#34;&gt;&lt;a href=&#34;#STM32CubeMX&#34; class=&#34;headerlink&#34; title=&#34;STM32CubeMX&#34;&gt;&lt;/a&gt;STM32CubeMX&lt;/h3&gt;&lt;p&gt;STM32CubeMXでコード生成する場合は，QUADSPIを有効にすれば初期化コードが生成されます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;STM32CubeMX.png&#34; alt=&#34;STM32CubeMXでのQSPI設定&#34;&gt;&lt;/p&gt;
+&lt;p&gt;General Parametersの説明は次章で行うため省略します．&lt;/p&gt;
+&lt;h3 id=&#34;HAL&#34;&gt;&lt;a href=&#34;#HAL&#34; class=&#34;headerlink&#34; title=&#34;HAL&#34;&gt;&lt;/a&gt;HAL&lt;/h3&gt;&lt;p&gt;HALのAPIを直接叩いて設定する方法です．&lt;br&gt;ざっくりと，以下のようなコードで初期設定を行います．&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;__HAL_RCC_QSPI_CLK_ENABLE();&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;__HAL_RCC_GPIOE_CLK_ENABLE();&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;QSPI_HandleTypeDef hqspi;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hqspi.Instance = QUADSPI;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hqspi.Init.ClockPrescaler = &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hqspi.Init.FifoThreshold = &lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hqspi.Init.SampleShifting = QSPI_SAMPLE_SHIFTING_NONE;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hqspi.Init.FlashSize = &lt;span class=&#34;number&#34;&gt;22&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hqspi.Init.ChipSelectHighTime = QSPI_CS_HIGH_TIME_1_CYCLE;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hqspi.Init.ClockMode = QSPI_CLOCK_MODE_0;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hqspi.Init.FlashID = QSPI_FLASH_ID_1;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hqspi.Init.DualFlash = QSPI_DUALFLASH_DISABLE;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;HAL_QSPI_Init(&amp;amp;hqspi);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;GPIO_InitTypeDef GPIO_InitStruct;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;GPIO_InitStruct.Pin = GPIO_PIN_2;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;GPIO_InitStruct.Mode = GPIO_MODE_AF_PP;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;GPIO_InitStruct.Pull = GPIO_NOPULL;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_VERY_HIGH;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;GPIO_InitStruct.Alternate = GPIO_AF9_QUADSPI;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;HAL_GPIO_Init(GPIOE, &amp;amp;GPIO_InitStruct);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 同様に全ピンの設定を行う&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;code&gt;QSPI_InitTypeDef&lt;/code&gt; は下記の通りです．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;QSPI_InitTypeDef.png&#34; alt=&#34;QSPI_InitTypeDef&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Indirect-Mode&#34;&gt;&lt;a href=&#34;#Indirect-Mode&#34; class=&#34;headerlink&#34; title=&#34;Indirect Mode&#34;&gt;&lt;/a&gt;Indirect Mode&lt;/h2&gt;&lt;p&gt;Indirect Modeは全てのコマンドを実行できるモードです．&lt;br&gt;Instruction，Address，Alternate，Dummy，それぞれの設定を &lt;code&gt;QSPI_CommandTypeDef&lt;/code&gt; を使って設定を行い，その後Dataを送受信します．&lt;br&gt;設定漏れがあると正しく動かないので下記表を参考にして適切に設定していきます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;QSPI_CommandTypeDef.png&#34; alt=&#34;QSPI_CommandTypeDef&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Auto-Polling-Mode&#34;&gt;&lt;a href=&#34;#Auto-Polling-Mode&#34; class=&#34;headerlink&#34; title=&#34;Auto Polling Mode&#34;&gt;&lt;/a&gt;Auto Polling Mode&lt;/h2&gt;&lt;p&gt;Auto Polling Modeは，主にステータスレジスタを監視して書き込み完了をポーリングするために使うモードです．&lt;/p&gt;
+&lt;h1 id=&#34;NOR-Flashの使い方&#34;&gt;&lt;a href=&#34;#NOR-Flashの使い方&#34; class=&#34;headerlink&#34; title=&#34;NOR Flashの使い方&#34;&gt;&lt;/a&gt;NOR Flashの使い方&lt;/h1&gt;&lt;h2 id=&#34;接続&#34;&gt;&lt;a href=&#34;#接続&#34; class=&#34;headerlink&#34; title=&#34;接続&#34;&gt;&lt;/a&gt;接続&lt;/h2&gt;&lt;p&gt;接続はいたって簡単です．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Circuit.png&#34; alt=&#34;配線図&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;IDの読み出し-1線&#34;&gt;&lt;a href=&#34;#IDの読み出し-1線&#34; class=&#34;headerlink&#34; title=&#34;IDの読み出し(1線)&#34;&gt;&lt;/a&gt;IDの読み出し(1線)&lt;/h2&gt;&lt;p&gt;今回使用したW25Q64JVSSIMのManufacturer IDとDevice IDは下記の通りです．&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Manufacturer ID&lt;/th&gt;
+&lt;th&gt;Device ID&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;EFh&lt;/td&gt;
+&lt;td&gt;16h&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;まずはこのIDを読み出すことでデバイスとの接続を確認します．&lt;br&gt;下記のコマンドを実行することでIDを読み出せます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;ReadManufacturerDeviceID.png&#34; alt=&#34;IDの読み出し&#34;&gt;&lt;/p&gt;
+&lt;p&gt;上記のデータを送信するコードです．&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;QSPI_CommandTypeDef qspi_typedef;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.Instruction = &lt;span class=&#34;number&#34;&gt;0x90&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.InstructionMode = QSPI_INSTRUCTION_1_LINE;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.Address = &lt;span class=&#34;number&#34;&gt;0x000000&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.AddressSize = QSPI_ADDRESS_24_BITS;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.AddressMode = QSPI_ADDRESS_NONE;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.AlternateBytes = &lt;span class=&#34;number&#34;&gt;0x00&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.AlternateBytesSize = QSPI_ALTERNATE_BYTES_8_BITS;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.AlternateByteMode = QSPI_ALTERNATE_BYTES_NONE;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.DummyCycles = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.NbData = &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.DataMode = QSPI_DATA_1_LINE;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.DdrMode = QSPI_DDR_MODE_DISABLE;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.DdrHoldHalfCycle = QSPI_DDR_HHC_ANALOG_DELAY;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.SIOOMode = QSPI_SIOO_INST_EVERY_CMD;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;HAL_QSPI_Command(&amp;amp;hqspi, &amp;amp;qspi_typedef, &lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;uint8_t&lt;/span&gt; qdata[&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;HAL_QSPI_Receive(&amp;amp;hqspi, qdata, &lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// qdata[0] = 0xEF;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// qdata[1] = 0x16;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;QSPIの許可&#34;&gt;&lt;a href=&#34;#QSPIの許可&#34; class=&#34;headerlink&#34; title=&#34;QSPIの許可&#34;&gt;&lt;/a&gt;QSPIの許可&lt;/h2&gt;&lt;p&gt;FlashのWrite Status Register-2 (31h)でステータスレジスタ2のQuad Enableを1にすることで4線通信が有効化されます(初期値0)．&lt;br&gt;このビットは不揮発ビットのため，一度設定してしまえば電源を切断しても再設定不要です．&lt;/p&gt;
+&lt;p&gt;下記のコマンドで許可を行うことが出来ます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;WriteStatusRegister2.png&#34; alt=&#34;QSPIの許可&#34;&gt;&lt;/p&gt;
+&lt;p&gt;上記のデータを送信するコードです．&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;QSPI_CommandTypeDef qspi_typedef;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.Instruction = &lt;span class=&#34;number&#34;&gt;0x31&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.InstructionMode = QSPI_INSTRUCTION_1_LINE;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.Address = &lt;span class=&#34;number&#34;&gt;0x0&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.AddressSize = QSPI_ADDRESS_24_BITS;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.AddressMode = QSPI_ADDRESS_NONE;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.AlternateBytes = &lt;span class=&#34;number&#34;&gt;0x00&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.AlternateBytesSize = QSPI_ALTERNATE_BYTES_8_BITS;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.AlternateByteMode = QSPI_ALTERNATE_BYTES_NONE;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.DummyCycles = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.NbData = &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.DataMode = QSPI_DATA_1_LINE;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.DdrMode = QSPI_DDR_MODE_DISABLE;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.DdrHoldHalfCycle = QSPI_DDR_HHC_ANALOG_DELAY;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;qspi_typedef.SIOOMode = QSPI_SIOO_INST_EVERY_CMD;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;HAL_QSPI_Command(&amp;amp;hqspi, &amp;amp;qspi_typedef, &lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;uint8_t&lt;/span&gt; data = &lt;span class=&#34;number&#34;&gt;0x02&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;HAL_QSPI_Transmit(&amp;amp;hqspi, &amp;amp;data, &lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;データの消去&#34;&gt;&lt;a href=&#34;#データの消去&#34; class=&#34;headerlink&#34; title=&#34;データの消去&#34;&gt;&lt;/a&gt;データの消去&lt;/h2&gt;&lt;p&gt;データの消去には4種類の方法があります．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sector Erase：1セクター(4KB)毎にデータを消去します．これが消去できる最小単位です．&lt;/li&gt;
+&lt;li&gt;32KB Block Erase：(このチップは1Block=64KBなのですが，何故32KB消去のコマンドがあるのでしょうか……)&lt;/li&gt;
+&lt;li&gt;64KB Block Erase：1ブロック(64KB)毎にデータを消去します．&lt;/li&gt;
+&lt;li&gt;Chip Erase：チップ全てを消去します．&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;消去を行ったビットは全て1となり，データの書き込みを行えるようになります．&lt;/p&gt;
+&lt;p&gt;データの消去には多少の時間がかかるため，ステータスレジスタを確認して消去の完了を待機する必要があります．&lt;/p&gt;
+&lt;p&gt;データの消去前には&lt;code&gt;GlobalBlockUnlock&lt;/code&gt;などのアンロックコマンドを実行してから行う必要があります．&lt;/p&gt;
+&lt;p&gt;また，データの消去を行う前には，毎回&lt;code&gt;Write Enable&lt;/code&gt;を実行する必要があります．&lt;/p&gt;
+&lt;h2 id=&#34;データの書き込み&#34;&gt;&lt;a href=&#34;#データの書き込み&#34; class=&#34;headerlink&#34; title=&#34;データの書き込み&#34;&gt;&lt;/a&gt;データの書き込み&lt;/h2&gt;&lt;p&gt;データの書き込み(Program)は基本的に256Byte単位で行います．&lt;/p&gt;
+&lt;p&gt;データの書き込み前にはGlobal Block Unlockなどのアンロックコマンドを実行してから行う必要があります．&lt;/p&gt;
+&lt;p&gt;また，データの書き込みを行う前には，毎回&lt;code&gt;Write Enable&lt;/code&gt;を実行する必要があります．&lt;/p&gt;
+&lt;h2 id=&#34;データの読み出し&#34;&gt;&lt;a href=&#34;#データの読み出し&#34; class=&#34;headerlink&#34; title=&#34;データの読み出し&#34;&gt;&lt;/a&gt;データの読み出し&lt;/h2&gt;&lt;p&gt;データの読み出しはいくつかの種類があります．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Read Data&lt;/li&gt;
+&lt;li&gt;Fast Read&lt;/li&gt;
+&lt;li&gt;DTR Fast Read&lt;/li&gt;
+&lt;li&gt;Fast Read Dual Output&lt;/li&gt;
+&lt;li&gt;Fast Read Quad Output&lt;/li&gt;
+&lt;li&gt;Fast Read Dual I/O&lt;/li&gt;
+&lt;li&gt;DTR Fast Read Dual I/O&lt;/li&gt;
+&lt;li&gt;Fast Read Quad I/O&lt;/li&gt;
+&lt;li&gt;DTR Fast Read Quad I/O&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;設定&lt;/th&gt;
+&lt;th&gt;説明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;DTR&lt;/td&gt;
+&lt;td&gt;DDRと同義，CLKの立ち上がりと立ち下がりの両方でデータをラッチする&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Fast&lt;/td&gt;
+&lt;td&gt;アドレスを指定した後にダミークロックを送る必要がある代わりに，クロックの速度を上げることが出来る&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Output&lt;/td&gt;
+&lt;td&gt;データのみが2/4線となる&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;I/O&lt;/td&gt;
+&lt;td&gt;アドレスとデータが2/4線となる&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;一例として，Fast Read Quad I/Oのコマンドとコードを示します．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;FastReadQuad.png&#34; alt=&#34;Fast Read Quad I/O&#34;&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;FastReadQuad&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(&lt;span class=&#34;keyword&#34;&gt;uint32_t&lt;/span&gt; addr, &lt;span class=&#34;keyword&#34;&gt;uint8_t&lt;/span&gt;* data, &lt;span class=&#34;keyword&#34;&gt;size_t&lt;/span&gt; num)&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    QSPI_CommandTypeDef qspi_typedef;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    qspi_typedef.Instruction = &lt;span class=&#34;number&#34;&gt;0x6B&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    qspi_typedef.InstructionMode = QSPI_INSTRUCTION_1_LINE;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    qspi_typedef.Address = addr;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    qspi_typedef.AddressSize = QSPI_ADDRESS_24_BITS;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    qspi_typedef.AddressMode = QSPI_ADDRESS_1_LINE;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    qspi_typedef.AlternateBytes = &lt;span class=&#34;number&#34;&gt;0x00&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    qspi_typedef.AlternateBytesSize = QSPI_ALTERNATE_BYTES_8_BITS;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    qspi_typedef.AlternateByteMode = QSPI_ALTERNATE_BYTES_NONE;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    qspi_typedef.DummyCycles = &lt;span class=&#34;number&#34;&gt;8&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    qspi_typedef.NbData = num;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    qspi_typedef.DataMode = QSPI_DATA_4_LINES;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    qspi_typedef.DdrMode = QSPI_DDR_MODE_DISABLE;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    qspi_typedef.DdrHoldHalfCycle = QSPI_DDR_HHC_ANALOG_DELAY;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    qspi_typedef.SIOOMode = QSPI_SIOO_INST_EVERY_CMD;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    HAL_QSPI_Command(&amp;amp;port, &amp;amp;qspi_typedef, &lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    HAL_QSPI_Receive(&amp;amp;port, data, &lt;span class=&#34;number&#34;&gt;1000&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;おわりに&#34;&gt;&lt;a href=&#34;#おわりに&#34; class=&#34;headerlink&#34; title=&#34;おわりに&#34;&gt;&lt;/a&gt;おわりに&lt;/h1&gt;&lt;p&gt;QSPI，およびwinbondのNOR Flashを使うための情報をまとめました．&lt;br&gt;Flashは扱いが大変ですが，その中でもNOR Flashは扱いやすいタイプのメモリなので，積極的に使っていきたいと思います．&lt;/p&gt;
+&lt;p&gt;明日は&lt;a href=&#34;https://twitter.com/VrIyoe&#34;&gt;makoto&lt;/a&gt;さんの今年の反省と来年の話です．&lt;br&gt;～感想～&lt;/p&gt;
+</content>
+        <updated>2019-12-19T14:10:38.000Z</updated>
+    </entry>
+</feed>

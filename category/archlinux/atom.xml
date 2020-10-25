@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;archlinux&#34; category</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2016-12-06T06:25:03.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2016/12/%E3%82%BF%E3%82%A4%E3%83%AB%E5%9E%8BWM%E3%81%A7%E5%BF%AB%E9%81%A9%E3%81%AA%E7%92%B0%E5%A2%83%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</id>
+        <title>タイル型WMで快適な環境を構築する</title>
+        <link rel="alternate" href="http://blog.taniho.net/2016/12/%E3%82%BF%E3%82%A4%E3%83%AB%E5%9E%8BWM%E3%81%A7%E5%BF%AB%E9%81%A9%E3%81%AA%E7%92%B0%E5%A2%83%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/"/>
+        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;この記事は&lt;a href=&#34;http://qiita.com/advent-calendar/2016/tokyo_university_of_science&#34;&gt;東京理科大学 Advent Calendar 2016 - Qiita&lt;/a&gt;の6日目の記事です．昨日はfujitoraさんの&lt;a href=&#34;http://qiita.com/fujitora/items/a8f1da9ebc98c2940b4a&#34;&gt;New Relicでめっちゃ簡単にRailsアプリケーションの監視をする&lt;/a&gt;でした．明日の枠はまだ埋まっていないので，この記事を見た誰かが書いてくれると嬉しいなあ．&lt;/p&gt;
+&lt;h1 id=&#34;デスクトップ環境とは&#34;&gt;&lt;a href=&#34;#デスクトップ環境とは&#34; class=&#34;headerlink&#34; title=&#34;デスクトップ環境とは&#34;&gt;&lt;/a&gt;デスクトップ環境とは&lt;/h1&gt;&lt;p&gt;さて皆さん，快適なデスクトップ環境をお過ごしでしょうか？&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;p&gt;唐突ですが，このスクリーンショットは半年前の僕のパソコンの様子です．&lt;br&gt;&lt;img src=&#34;window1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;この頃は&lt;a href=&#34;https://wiki.archlinuxjp.org/index.php/Cinnamon&#34;&gt;Cinnamon&lt;/a&gt;というウインドウマネージャを使っていました．これは「スタック型」と呼ばれるウインドウマネージャです．Windowsでも同じような雰囲気だと思いますが，いくつものウインドウがあり，マウスで自在に動かせるタイプの環境です．&lt;br&gt;僕は今までスタック型の環境しか使ってこなかったわけですが，あるときふと気付きました．&lt;br&gt;「新しいウインドウを開いた時，いつも最大化している！！」&lt;/p&gt;
+&lt;p&gt;そして，知人の紹介で「タイル型」のウインドウマネージャがあるということを知り，ウインドウマネージャを変えることにしました．&lt;/p&gt;
+&lt;h1 id=&#34;タイル型を使う&#34;&gt;&lt;a href=&#34;#タイル型を使う&#34; class=&#34;headerlink&#34; title=&#34;タイル型を使う&#34;&gt;&lt;/a&gt;タイル型を使う&lt;/h1&gt;&lt;p&gt;今使っている環境は&lt;a href=&#34;https://i3wm.org/&#34;&gt;i3&lt;/a&gt;です．&lt;br&gt;こんな感じに，モニタをn分割していい感じのレイアウトで表示してくれます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;1.png&#34;&gt;&lt;br&gt;&lt;img src=&#34;2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ブラウザでおなじみの「タブ」のようにウインドウを切り替えることもできます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;3.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;画面を分割した中に，タブを作ることもできます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;4.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;またi3には”floating mode”なるモードが存在し，GIMPなどスタック型のウインドウマネージャ用に作られたアプリケーションも楽々使うことができます．これが，タイル型の中でもi3をオススメしたい一番の理由です．&lt;br&gt;&lt;img src=&#34;5.png&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;i3の設定&#34;&gt;&lt;a href=&#34;#i3の設定&#34; class=&#34;headerlink&#34; title=&#34;i3の設定&#34;&gt;&lt;/a&gt;i3の設定&lt;/h1&gt;&lt;p&gt;ノートパソコンで運用する上で，必要と思われる設定をまとめておきます．&lt;/p&gt;
+&lt;h2 id=&#34;ランチャー&#34;&gt;&lt;a href=&#34;#ランチャー&#34; class=&#34;headerlink&#34; title=&#34;ランチャー&#34;&gt;&lt;/a&gt;ランチャー&lt;/h2&gt;&lt;p&gt;今までGNOMEのランチャー(スタートメニュー？)を使っていたため，i3標準のdmenuは使いづらく思いました．&lt;br&gt;freedesktop.org準拠のデスクトップファイルを参照できるようにしたい，ということで，僕は&lt;a href=&#34;https://davedavenport.github.io/rofi/&#34;&gt;rofi&lt;/a&gt;を使っています．rofiはコマンドライン引数に色々と書くことで挙動や見た目を変更させることができます．&lt;br&gt;i3の設定ファイルに次にように設定しました．&lt;/p&gt;
+&lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+semicolon exec &amp;quot;rofi -show drun -font &amp;#39;snap 10&amp;#39; -fg &amp;#39;#505050&amp;#39; -bg &amp;#39;#000000&amp;#39; -hlfg &amp;#39;#ffb964&amp;#39; -hlbg &amp;#39;#000000&amp;#39; -o 85 -kb-cancel &amp;#39;Escape,Control+g&amp;#39; -kb-mode-next &amp;#39;Control+i&amp;#39;&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;Emacsのhelmと対応させて”S-;”で起動，”C-g”で閉じられるように設定しています．&lt;/p&gt;
+&lt;p&gt;デスクトップファイルについては&lt;a href=&#34;http://lambdalisue.hatenablog.com/entry/2013/09/28/015515&#34;&gt;freedesktop.org 規格のデスクトップファイルについてのメモ - Λlisue’s blog&lt;/a&gt;を参照しました．&lt;/p&gt;
+&lt;h2 id=&#34;電源管理&#34;&gt;&lt;a href=&#34;#電源管理&#34; class=&#34;headerlink&#34; title=&#34;電源管理&#34;&gt;&lt;/a&gt;電源管理&lt;/h2&gt;&lt;p&gt;ロック・サスペンド・シャットダウンあたりはぱぱっとできるように設定をします．&lt;/p&gt;
+&lt;h3 id=&#34;ロック&#34;&gt;&lt;a href=&#34;#ロック&#34; class=&#34;headerlink&#34; title=&#34;ロック&#34;&gt;&lt;/a&gt;ロック&lt;/h3&gt;&lt;p&gt;i3の場合はi3lockを使うことでお手軽にロックがかけられます．&lt;/p&gt;
+&lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;set $Locker i3lock -i ~&amp;#x2F;Pictures&amp;#x2F;Wallpaper&amp;#x2F;kishimen.png &amp;amp;&amp;amp; sleep 1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set $mode_system System (l) lock, (e) logout, (s) suspend, (h) hibernate, (r) reboot, (Shift+s) shutdown&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;mode &amp;quot;$mode_system&amp;quot; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    bindsym l exec --no-startup-id $Locker, mode &amp;quot;default&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    bindsym e exec --no-startup-id i3-msg exit, mode &amp;quot;default&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    bindsym s exec --no-startup-id $Locker &amp;amp;&amp;amp; systemctl suspend, mode &amp;quot;default&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    bindsym h exec --no-startup-id $Locker &amp;amp;&amp;amp; systemctl hibernate, mode &amp;quot;default&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    bindsym r exec --no-startup-id systemctl reboot, mode &amp;quot;default&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    bindsym Shift+s exec --no-startup-id systemctl poweroff -i, mode &amp;quot;default&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    bindsym Return mode &amp;quot;default&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    bindsym Escape mode &amp;quot;default&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;PrintScreen&#34;&gt;&lt;a href=&#34;#PrintScreen&#34; class=&#34;headerlink&#34; title=&#34;PrintScreen&#34;&gt;&lt;/a&gt;PrintScreen&lt;/h2&gt;&lt;p&gt;スクリーンショットも撮りたいので設定を行います．&lt;br&gt;僕は&lt;a href=&#34;https://github.com/naelstrof/maim&#34;&gt;maim&lt;/a&gt;を使いました．なかなかよいアプリケーションで，画面の一部を切り取ってキャプチャを行うことができます(別途&lt;a href=&#34;https://github.com/naelstrof/slop&#34;&gt;slop&lt;/a&gt;が必要)．&lt;/p&gt;
+&lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;bindsym Print exec &amp;quot;maim ~&amp;#x2F;Pictures&amp;#x2F;screenshot&amp;#x2F;$(date +%F-%T).png&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+Print exec &amp;quot;maim -i $(xdotool getactivewindow) ~&amp;#x2F;Pictures&amp;#x2F;screenshot&amp;#x2F;$(date +%F-%T).png&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym Shift+Print exec &amp;quot;maim --select ~&amp;#x2F;Pictures&amp;#x2F;screenshot&amp;#x2F;$(date +%F-%T).png&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;その他のキーボード・ショートカット&#34;&gt;&lt;a href=&#34;#その他のキーボード・ショートカット&#34; class=&#34;headerlink&#34; title=&#34;その他のキーボード・ショートカット&#34;&gt;&lt;/a&gt;その他のキーボード・ショートカット&lt;/h2&gt;&lt;p&gt;音量・ミュート・明るさなどを特殊キーから調整できるようにしました．&lt;br&gt;この際，キーの名前を取得する際にはxevコマンドを利用して調べました．&lt;br&gt;参考：&lt;a href=&#34;https://wiki.archlinuxjp.org/index.php/%E7%89%B9%E5%88%A5%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%AD%E3%83%BC&#34;&gt;特別なキーボードキー - ArchWiki&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;bindsym XF86MonBrightnessDown exec &amp;quot;xbacklight -dec 5&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym XF86MonBrightnessUp exec &amp;quot;xbacklight -inc 5&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym XF86AudioMute exec &amp;quot;amixer -q -D pulse set Master toggle&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym XF86AudioLowerVolume exec &amp;quot;amixer -c 0 -D pulse sset Master 1%- unmute&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym XF86AudioRaiseVolume exec &amp;quot;amixer -c 0 -D pulse sset Master 1%+ unmute&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym XF86AudioMicMute exec &amp;quot;amixer -c 0 -D pulse set Capture toggle&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;インターネットにつなぐ&#34;&gt;&lt;a href=&#34;#インターネットにつなぐ&#34; class=&#34;headerlink&#34; title=&#34;インターネットにつなぐ&#34;&gt;&lt;/a&gt;インターネットにつなぐ&lt;/h2&gt;&lt;p&gt;この辺からただの覚書です．&lt;br&gt;コンピュータの起動時にネットワークに接続できるようにします．&lt;/p&gt;
+&lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;exec_always --no-startup-id nm-applet&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;音を出せるようにする&#34;&gt;&lt;a href=&#34;#音を出せるようにする&#34; class=&#34;headerlink&#34; title=&#34;音を出せるようにする&#34;&gt;&lt;/a&gt;音を出せるようにする&lt;/h2&gt;&lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;exec_always --no-startup-id pulseaudio --start&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;背景を設定する&#34;&gt;&lt;a href=&#34;#背景を設定する&#34; class=&#34;headerlink&#34; title=&#34;背景を設定する&#34;&gt;&lt;/a&gt;背景を設定する&lt;/h2&gt;&lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;exec_always --no-startup-id feh --bg-scale ~&amp;#x2F;Pictures&amp;#x2F;Wallpaper&amp;#x2F;1366_768_20091126090927427353.jpg&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;i3の基本操作-大嘘&#34;&gt;&lt;a href=&#34;#i3の基本操作-大嘘&#34; class=&#34;headerlink&#34; title=&#34;i3の基本操作(大嘘)&#34;&gt;&lt;/a&gt;i3の基本操作(大嘘)&lt;/h1&gt;&lt;p&gt;i3の初期設定についてはデフォルトの設定ファイルを見てもらうとして，この記事では僕オリジナルの設定を自慢したいと思います．&lt;/p&gt;
+&lt;h2 id=&#34;ワークスペースの切り替え&#34;&gt;&lt;a href=&#34;#ワークスペースの切り替え&#34; class=&#34;headerlink&#34; title=&#34;ワークスペースの切り替え&#34;&gt;&lt;/a&gt;ワークスペースの切り替え&lt;/h2&gt;&lt;p&gt;ワークスペースの切り替えは”S-[1234567890]”がデフォルトになっているようですが，正直狙った数字キーを押すのが面倒なので，思い切って変更しています．&lt;br&gt;“S-[asdfuiop]”とすることでいい感じに使っています．&lt;/p&gt;
+&lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;set $WSa 1:a&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set $WSs 2:s&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set $WSd 3:d&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set $WSf 4:f&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set $WSu 5:u&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set $WSi 6:i&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set $WSo 7:o&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;set $WSp 8:p&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+a workspace $WSa&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+s workspace $WSs&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+d workspace $WSd&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+f workspace $WSf&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+u workspace $WSu&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+i workspace $WSi&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+o workspace $WSo&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+p workspace $WSp&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+Shift+a move container to workspace $WSa&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+Shift+s move container to workspace $WSs&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+Shift+d move container to workspace $WSd&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+Shift+f move container to workspace $WSf&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+Shift+u move container to workspace $WSu&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+Shift+i move container to workspace $WSi&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+Shift+o move container to workspace $WSo&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+Shift+p move container to workspace $WSp&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;もう一つポイントがあって，ワークスペース名を”数字:名前”にしています．&lt;br&gt;次の設定を書くことで，i3bar上に並ぶワークスペースが降順にソートされるようになります．&lt;/p&gt;
+&lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;bar &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        status_command i3status&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        font pango:DejaVu Sans 10px&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        strip_workspace_numbers yes&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;ウインドウの切り替え&#34;&gt;&lt;a href=&#34;#ウインドウの切り替え&#34; class=&#34;headerlink&#34; title=&#34;ウインドウの切り替え&#34;&gt;&lt;/a&gt;ウインドウの切り替え&lt;/h2&gt;&lt;p&gt;複数のウインドウを表示している時，その間の移動は”S-[jkl;]”がデフォルトになっています．しかし，vimキーバインドと一つずれていてとても気持ちが悪かったので，”S-[hjkl]”で移動できるように変更しました．&lt;/p&gt;
+&lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+h focus left&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+j focus down&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+k focus up&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+l focus right&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+Shift+h move left&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+Shift+j move down&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+Shift+k move up&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bindsym $mod+Shift+l move right&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;最後に&#34;&gt;&lt;a href=&#34;#最後に&#34; class=&#34;headerlink&#34; title=&#34;最後に&#34;&gt;&lt;/a&gt;最後に&lt;/h1&gt;&lt;p&gt;ここまで長々と設定を書いてきましたが，僕の設定ファイルをgithubに公開しているので貼り付けておきます．&lt;br&gt;&lt;a href=&#34;https://github.com/taniho0707/dotfiles/blob/master/i3/config&#34;&gt;taniho0707/dotfiles - gihub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;また，i3の設定で参考にしたサイトです．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.archlinuxjp.org/index.php/I3&#34;&gt;i3 - ArchWiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://i3wm.org/docs/&#34;&gt;i3 improved tiling wm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://opamp.hatenablog.jp/entry/2013/11/26/013528&#34;&gt;タイル型WMに手を出してみた (i3) - opamp_sando’s blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="ArchLinux" />
+        <category term="i3" />
+        <category term="wm" />
+        <category term="AdventCalendar" />
+        <updated>2016-12-06T06:25:03.000Z</updated>
+    </entry>
+</feed>

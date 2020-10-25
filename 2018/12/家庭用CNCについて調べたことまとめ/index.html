@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  <title>家庭用CNCについて調べたことまとめ | taniho&#39;s blog</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="はじめにCNCが欲しくなりました(唐突) しかしお財布事情も厳しいので，なるべく安く良いものを買いたいと思っています．  250x250以上の作業範囲 確実に動くもの買ったは良いものの，PCとの接続やソフトの問題で動かせないことは避けたい それなりの剛性最低でもジュラルミンを削りたい それなりに安いこと  優先度は上から順です．この記事では，CNCを調べる過程で得た知識をまとめようと思います． こ">
+<meta property="og:type" content="article">
+<meta property="og:title" content="家庭用CNCについて調べたことまとめ">
+<meta property="og:url" content="http://blog.taniho.net/2018/12/%E5%AE%B6%E5%BA%AD%E7%94%A8CNC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%BF%E3%81%B9%E3%81%9F%E3%81%93%E3%81%A8%E3%81%BE%E3%81%A8%E3%82%81/index.html">
+<meta property="og:site_name" content="taniho&#39;s blog">
+<meta property="og:description" content="はじめにCNCが欲しくなりました(唐突) しかしお財布事情も厳しいので，なるべく安く良いものを買いたいと思っています．  250x250以上の作業範囲 確実に動くもの買ったは良いものの，PCとの接続やソフトの問題で動かせないことは避けたい それなりの剛性最低でもジュラルミンを削りたい それなりに安いこと  優先度は上から順です．この記事では，CNCを調べる過程で得た知識をまとめようと思います． こ">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2018-12-10T12:11:13.000Z">
+<meta property="article:modified_time" content="2018-12-10T12:11:52.000Z">
+<meta property="article:author" content="taniho">
+<meta property="article:tag" content="CNC">
+<meta property="article:tag" content="中華">
+<meta property="article:tag" content="まとめ">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:creator" content="@taniho_0707">
+  
+    <link rel="alternative" href="/atom.xml" title="taniho&#39;s blog" type="application/atom+xml">
+  
+  
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  
+  <link href="//fonts.googleapis.com/css?family=Inconsolata:400,700|Open+Sans:700,400" rel="stylesheet" type="text/css">
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+<!-- Google Analytics -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-76954428-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+
+
+  <script type="text/javascript" src="http://s.hatena.ne.jp/js/HatenaStar.js"></script>
+  <script type="text/javascript">
+   Hatena.Star.Token = 'fe95224141aa192c5bf3aff7506d929f80fa68a6';
+   Hatena.Star.EntryLoader.headerTagAndClassName = ['span', 'hatenastar'];
+  </script>
+<meta name="generator" content="Hexo 5.2.0"><style>mjx-container[jax="SVG"] {
+  direction: ltr;
+}
+
+mjx-container[jax="SVG"] > svg {
+  overflow: visible;
+}
+
+mjx-container[jax="SVG"] > svg a {
+  fill: blue;
+  stroke: blue;
+}
+
+mjx-container[jax="SVG"][display="true"] {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+mjx-container[jax="SVG"][justify="left"] {
+  text-align: left;
+}
+
+mjx-container[jax="SVG"][justify="right"] {
+  text-align: right;
+}
+
+g[data-mml-node="merror"] > g {
+  fill: red;
+  stroke: red;
+}
+
+g[data-mml-node="merror"] > rect[data-background] {
+  fill: yellow;
+  stroke: none;
+}
+
+g[data-mml-node="mtable"] > line[data-line] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > rect[data-frame] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node="mtable"] > .mjx-dashed {
+  stroke-dasharray: 140;
+}
+
+g[data-mml-node="mtable"] > .mjx-dotted {
+  stroke-linecap: round;
+  stroke-dasharray: 0,140;
+}
+
+g[data-mml-node="mtable"] > svg {
+  overflow: visible;
+}
+
+[jax="SVG"] mjx-tool {
+  display: inline-block;
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+[jax="SVG"] mjx-tool > mjx-tip {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+mjx-tool > mjx-tip {
+  display: inline-block;
+  padding: .2em;
+  border: 1px solid #888;
+  font-size: 70%;
+  background-color: #F8F8F8;
+  color: black;
+  box-shadow: 2px 2px 5px #AAAAAA;
+}
+
+g[data-mml-node="maction"][data-toggle] {
+  cursor: pointer;
+}
+
+mjx-status {
+  display: block;
+  position: fixed;
+  left: 1em;
+  bottom: 1em;
+  min-width: 25%;
+  padding: .2em .4em;
+  border: 1px solid #888;
+  font-size: 90%;
+  background-color: #F8F8F8;
+  color: black;
+}
+
+foreignObject[data-mjx-xml] {
+  font-family: initial;
+  line-height: normal;
+  overflow: visible;
+}
+
+.MathJax path {
+  stroke-width: 3;
+}
+
+mjx-container[display="true"] {
+  overflow: auto hidden;
+}
+
+mjx-container[display="true"] + br {
+  display: none;
+}
+</style></head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <div id="header">
+  <div id="header-outer" class="outer">
+    <div id="header-inner" class="inner">
+      <div id="header-title">
+        <h1 id="logo-wrap">
+          <a href="/" id="logo">taniho&#39;s blog
+          
+          </a>
+        </h1>
+      </div>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+          <a class="main-nav-link" href="/about">About</a>
+        
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://blog.taniho.net"></form>
+      </div>
+    </div>
+  </div>
+</div>
+
+      <div class="outer">
+        <section id="main"><article id="post-家庭用CNCについて調べたことまとめ" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2018/12/%E5%AE%B6%E5%BA%AD%E7%94%A8CNC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%BF%E3%81%B9%E3%81%9F%E3%81%93%E3%81%A8%E3%81%BE%E3%81%A8%E3%82%81/" class="article-date">
+  <time datetime="2018-12-10T12:11:13.000Z" itemprop="datePublished">2018-12-10</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/">マイクロマウス</a>►<a class="article-category-link" href="/categories/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/%E3%81%9D%E3%81%AE%E4%BB%96/">その他</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      家庭用CNCについて調べたことまとめ
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <h1 id="はじめに"><a href="#はじめに" class="headerlink" title="はじめに"></a>はじめに</h1><p>CNCが欲しくなりました(唐突)</p>
+<p>しかしお財布事情も厳しいので，なるべく安く良いものを買いたいと思っています．</p>
+<ul>
+<li>250x250以上の作業範囲</li>
+<li>確実に動くもの<br>買ったは良いものの，PCとの接続やソフトの問題で動かせないことは避けたい</li>
+<li>それなりの剛性<br>最低でもジュラルミンを削りたい</li>
+<li>それなりに安いこと</li>
+</ul>
+<p>優先度は上から順です．<br>この記事では，CNCを調べる過程で得た知識をまとめようと思います．</p>
+<p>この記事はネットで得た情報をまとめただけの記事です．<br>内容の正確さは一切保証できませんのでご了承ください．</p>
+<a id="more"></a>
+
+<h1 id="概要"><a href="#概要" class="headerlink" title="概要"></a>概要</h1><ol>
+<li><a target="_blank" rel="noopener" href="https://www.originalmind.co.jp/">ORIGINAL MIND</a><ul>
+<li>サポートがしっかりしており，公式の情報も多いので確実に動かせる</li>
+<li>(格安系に比べて)高い，特に作業範囲が広いものはかなり高額<br>さらにオプションをつけると一気に値段が上がる</li>
+<li>剛性は高い</li>
+</ul>
+</li>
+<li><a target="_blank" rel="noopener" href="https://openbuilds.com/link-forums/part-store.39/">OpenBuilds</a><ul>
+<li>フォーラムがあり，情報を集めやすい</li>
+<li>それなりに安い</li>
+<li>アルミフレームなので剛性が心配</li>
+<li>改造パーツも販売されており，楽しそう</li>
+</ul>
+</li>
+<li><a target="_blank" rel="noopener" href="https://www.aliexpress.com/wholesale?SearchText=cnc">中華CNC</a><ul>
+<li>公式の情報は少ないので，個人サイトを探して情報を集める必要がある(しんどい)<br>品質がものによってバラバラ</li>
+<li>安い</li>
+<li>ものによって剛性はまちまち<br>ただし少し調べた感じ，アルミ製しかなさそう</li>
+</ul>
+</li>
+</ol>
+<h1 id="各メーカーごとのまとめ"><a href="#各メーカーごとのまとめ" class="headerlink" title="各メーカーごとのまとめ"></a>各メーカーごとのまとめ</h1><h2 id="ORIGINAL-MIND"><a href="#ORIGINAL-MIND" class="headerlink" title="ORIGINAL MIND"></a>ORIGINAL MIND</h2><p><a target="_blank" rel="noopener" href="https://www.originalmind.co.jp/products/kitmill_sr" style="text-decoration: none;"><div class="link-box"><div class="img-box"><div style="background-image: url('https://www.originalmind.co.jp/products/uploadimg/sr/sr_top2.jpg');"></div></div><div class="text-box"><p class="title">KitMill SR200/420 | ORIGINALMIND オリジナルマインド</p><p class="description">CNCフライスや折り曲げ機をはじめとするオリジナル製品と、新品・中古の各種メカトロニクス製品を販売しています。</p></div></div></a></p>
+<p>安定感と実績抜群です．<br>初めてCNCを買うなら，ORIGINAL MINDにしておくのが安心だと思います．</p>
+<p>ただし広い切削範囲が必要であれば，上記リンクのSR420(328,000円)が必要ですし，原点センサやハンドルやボールネジに変更するとかなりの金額になってしまいます．</p>
+<h2 id="OpenBuilds"><a href="#OpenBuilds" class="headerlink" title="OpenBuilds"></a>OpenBuilds</h2><p><a target="_blank" rel="noopener" href="https://openbuildspartstore.com/openbuilds-c-beam-machine/" style="text-decoration: none;"><div class="link-box"><div class="img-box"><div style="background-image: url('https://cdn8.bigcommerce.com/s-itwgldve/products/246/images/3295/cbeam_mach_black_v2__28441.1534344748.500.659.png?c=2');"></div></div><div class="text-box"><p class="title">OpenBuilds</p><p class="description">Dream It - Build It - Share It with OpenBuilds</p></div></div></a></p>
+<p>海外のコミュニティなんでしょうか，そこでパーツや組み立てキットも販売している感じです．<br>ただし，組み立てキットに付属してくる部品は一部追加工が必要らしいので，要注意です．</p>
+<p><a target="_blank" rel="noopener" href="https://bbs.avalontech.jp/t/openbuilds-c-beam-machine-xl/217" style="text-decoration: none;"><div class="link-box"><div class="img-box"><div style="background-image: url('https://bbs.avalontech.jp/uploads/default/optimized/1X/2510a53df172761216da1e7d6e345b9c1e2235ad_1_375x500.jpg');"></div></div><div class="text-box"><p class="title">【レビュー】OpenbuildsのC-Beam Machine XL組み立て</p><p class="description">要点まとめ：  ・大工系の工具やスキルが必要（ヤスリ大量，Vslotの切断＆タッピング，MDF板の購入と切断と穴あけ，微調整など）  ・六角レンチ，ドリル，タッピングツール，ヤスリなどなど  ・部品の余裕がない．一個ミスったら注文だ！  ・大工レベルのスキルが必要です，組立自体は難しくないが，Farmbotみたいな丁寧な説明がほしい．  品…</p></div></div></a></p>
+<p>公式の通販は海外から発注することになりますが，国内で購入できるショップもあります．<br>こちらで購入すると，追加工がされている状態で届くそうなので，便利そうです．</p>
+<p><a target="_blank" rel="noopener" href="https://www.avalontech.jp/product/gp003/" style="text-decoration: none;"><div class="link-box"><div class="img-box"><div style="background-image: url('https://www.avalontech.jp/wp-content/uploads/2018/05/avalontech%E7%94%9F%E5%9C%B0%E5%BE%8C.png');"></div></div><div class="text-box"><p class="title">C-Beam Machine 剛性強化版</p><p class="description">C-Beam Machine Xlarge 剛性強化型 （3軸CNC 組立キット）</p></div></div></a></p>
+<p>パーツの販売があるということは，修理や改造も容易にできるということです．<br>上記のショップに掲載されている写真には，ルーターの横にレーザーが取り付けてある様子が写っています．</p>
+<p>OpenBuilds公式のコントローラソフトやCAMが無料で公開されているため，簡単に動かせると思います．<br>マルチプラットフォーム対応なのもポイントが高いですね．</p>
+<p><a target="_blank" rel="noopener" href="https://software.openbuilds.com/" style="text-decoration: none;"><div class="link-box"><div class="img-box"><div style="background-image: url('https://software.openbuilds.com/logo.png');"></div></div><div class="text-box"><p class="title">OpenBuilds Software</p><p class="description">Download page for OpenBuilds Software</p></div></div></a></p>
+<p>問題点は，剛性の低さでしょうか．<br>あと下板が非常に小さいのも不安です．<br>というわけで今回は購入を見送りました．</p>
+<h2 id="中華CNC"><a href="#中華CNC" class="headerlink" title="中華CNC"></a>中華CNC</h2><p>今日のメインです．<br>中華CNCにはいくつかの種類があります．<br>僕が調べた範囲で，その特徴をまとめてみようと思います．</p>
+<h3 id="制御基板"><a href="#制御基板" class="headerlink" title="制御基板"></a>制御基板</h3><p>制御基板は大きく分けて2種類あります．</p>
+<ol>
+<li>Arduino互換基板が付属しているタイプ</li>
+<li>コントロールボックスが付属しているタイプ</li>
+</ol>
+<h4 id="Arduino互換基板"><a href="#Arduino互換基板" class="headerlink" title="Arduino互換基板"></a>Arduino互換基板</h4><p>Arduino互換基板には，gbrlというオープンソースのファームウェアを書き込んで利用することが出来ます．<br>ハードウェアの構成も市販品を組み合わせただけの場合が多い(要検証)気がします．<br>そのため，トラブった際にも自分でどうにか解決しやすいのではないかと思います．</p>
+<p>各種ソフトのまとめは下記記事が充実しています．</p>
+<p><a target="_blank" rel="noopener" href="https://cnc-selfbuild.blogspot.com/2016/05/cnc_15.html" style="text-decoration: none;"><div class="link-box"><div class="img-box"><div style="background-image: url('https://4.bp.blogspot.com/-DjnRNa1hDDM/VzgPaBqaCRI/AAAAAAAAFHg/NL-MwJlnKnchucaVrHdnKLsaQ5zufK0-QCLcB/w1200-h630-p-k-no-nu/%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588%2B2016-05-14%2B3.59.11.png');"></div></div><div class="text-box"><p class="title">CNC関連のソフト（まとめ）</p><p class="description">CNCルーター、CNCレーザーカッター、Arduino、GRBL、CNCシールド、bCNCなどを使用した自作CNCマシンのブログ</p></div></div></a></p>
+<h4 id="コントロールボックス"><a href="#コントロールボックス" class="headerlink" title="コントロールボックス"></a>コントロールボックス</h4><p>コントロールボックスタイプは，なかなか面倒です．<br>というのも，基本的にインターフェースがパラレルなので，最近のパソコンを使って制御できません．<br>動かすには，方法がいくつかあります．</p>
+<ol>
+<li>パラレルポートが内蔵されているパソコンを買う<br>手っ取り早い方法だと思います．</li>
+<li>Parallel-USB変換器を使う<br>普通の変換ケーブルでは動作しない予感がします．<br>こういったCNC専用の変換器を使う必要がありそうです．<br><a target="_blank" rel="noopener" href="http://cncdrive.com/UC100.html" style="text-decoration: none;"><div class="link-box"><div class="img-box"><div style="background-image: url('http://cncdrive.com/img/UC100.jpg');"></div></div><div class="text-box"><p class="title">CNCdrive - motion controls</p><p class="description">CNC drives, control systems</p></div></div></a></li>
+<li>Parallel-Arduino変換器を使う<br>先述したとおり，Arduinoであれば比較的簡単に動かすことができそうです．そこで，<br>これを使えば，Arduino用のドライバを使ってパラレルポートのコントロールボックスを制御できるのではないでしょうか．<br><a target="_blank" rel="noopener" href="https://www.tindie.com/products/Ron/arduino-grbl-to-db25-cnc-shield-kit/" style="text-decoration: none;"><div class="link-box"><div class="img-box"><div style="background-image: url('https://cdn.tindiemedia.com/images/resize/8EZhMXGumHqn3CHLKuLNxgLptTM=/p/1200x630/smart/i/7902/products/2016-03-15T17%3A26%3A51.026Z-20160315_122008.jpg');"></div></div><div class="text-box"><p class="title">Arduino GRBL to DB25 CNC Shield Kit by Ron on Tindie</p><p class="description">Fix your  cheap eBay CNC router/engraver for less than $10. This shield allows you to use the USB to talk to a db25 based CNC machine.</p></div></div></a></li>
+</ol>
+<p>というわけで，パラレルは面倒くさそうだったので，僕はなかなか買う気が起こりませんでした．</p>
+<p>ちなみにUSBポートのついているコントロールボックスもあります．<br>ネットを調べていると，ドライバの入手が面倒くさい場合もあるみたいなので，一筋縄ではいかなそうです．</p>
+<h3 id="CNCの調べ方"><a href="#CNCの調べ方" class="headerlink" title="CNCの調べ方"></a>CNCの調べ方</h3><p>AliExpressの検索窓に「CNCxxyy」と打ち込みます．<br>xxとyyが，それぞれ切削範囲の横幅か縦幅です．<br>例えば，「CNC3020」「CNC1419」などが代表的です．<br>いい感じの検索候補が出てきたら，おそらくその製品は存在します．</p>
+<p>CNCにレーザーが付属しているもの，4軸・5軸加工用のオプションが付けられるものなどがあります．</p>
+<h3 id="コピー品"><a href="#コピー品" class="headerlink" title="コピー品"></a>コピー品</h3><p>長々と中華CNCをまとめていますが，AliExpressに出回っているCNCはコピー品があるそうです(もしかしてほぼすべてコピー品なのか？)．<br>こちらのサイトに，作業範囲の大きなCNCがまとめられていました．</p>
+<p><a target="_blank" rel="noopener" href="http://oggcraft.jp/stepcraft420.html" style="text-decoration: none;"><div class="link-box"><div class="img-box"><div style="background-image: url('http://oggcraft.jp/gazouko21/stepcraft/stepcraft_1.jpg');"></div></div><div class="text-box"><p class="title">ゴム銃のオッグクラフト CNCルーター STEPCRAFT-2 420</p><p class="description"></p></div></div></a></p>
+<p>曰く，こちらのサイトで販売されているCNCがオリジナルらしい．</p>
+<p><a target="_blank" rel="noopener" href="https://www.omiocnc.com/" style="text-decoration: none;"><div class="link-box"><div class="img-box"><div style="background-image: url('https://www.omiocnc.com/skin/frontend/default/sns_nova/images/logo1.png');"></div></div><div class="text-box"><p class="title">Best CNC Router/Engraver New Products—OMIOCNC -omiocnc.com</p><p class="description">OMIOCNC provide CNC Router/Engraving/Milling/Router equipments, especially designed for woodworking and metalworking.</p></div></div></a></p>
+<p>確かに，同じような見た目で印字の違うものがAliに大量に出回っている気がする！</p>
+<h1 id="次回予告"><a href="#次回予告" class="headerlink" title="次回予告"></a>次回予告</h1><p>一番最後に紹介したサイトのCNCを購入しようと思います．<br>なんでも，USB接続が可能だそうで，実際に動かしてみた人を見つけることも出来ました．</p>
+<p><a target="_blank" rel="noopener" href="http://katosunmemo.hatenablog.com/entry/2016/12/30/024919" style="text-decoration: none;"><div class="link-box"><div class="img-box"><div style="background-image: url('https://cdn-ak.f.st-hatena.com/images/fotolife/k/katosunmemo/20161230/20161230013150.jpg');"></div></div><div class="text-box"><p class="title">NCフライスかった。</p><p class="description">NCフライス買いました！ 1ドル110円くらいのときで、送料関税込みで13万に収まるくらいでした。 OMIOCNC社のX3-300-USBです。www.omiocnc.com 今回はセットアップして自動で動かすところまでをまとめたいと思います。 本記事の内容により万一損害が生じたとしても、いかなる場合もその損害について一切の責任を負いません。 非常…</p></div></div></a></p>
+<h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><p><a target="_blank" rel="noopener" href="http://www.easyaudiokit.com/bekkan3/CNC3020/CNC3020.html" style="text-decoration: none;"><div class="link-box"><div class="img-box"><div style="background-image: url('http://www.easyaudiokit.com/bekkan3/CNC3020/image1.jpg');"></div></div><div class="text-box"><p class="title">CNCフライス導入を検討する！の巻</p><p class="description">なぜCNCフライスが欲しくなったか？理由は簡単で、アンプ等のケース加工でもっとも面倒なのは四角の穴をあけることです。いつもはΦ３程度の穴をいくつもあけて、ニッパーでその穴を連結し…</p></div></div></a></p>
+<p><a target="_blank" rel="noopener" href="https://pic-garage.blogspot.com/2017/03/cnc.html" style="text-decoration: none;"><div class="link-box"><div class="img-box"><div style="background-image: url('https://lh3.googleusercontent.com/-WWklHPo0yxU/WMSM6bItrhI/AAAAAAAAAWk/Hmp--x0g2Ck/w1200-h630-p-k-no-nu/%25255BUNSET%25255D.png');"></div></div><div class="text-box"><p class="title">中華CNC、動くまでの備忘録</p><p class="description">中華CNC3040がようやく動きはじめた。少し長いですが、動くまでの経緯を備忘録として残しておきます。 (0) AliExpress(楽天みたいな場所)で見つけたショップに注文する。 (1) 注文して1週間位でDHLで荷物が届き、代引きで関税を支払う(3千円位) 。コンビニで振り…</p></div></div></a></p>
+<p><a target="_blank" rel="noopener" href="https://twitter.com/tendergorilla/status/1071401636784787456" style="text-decoration: none;"><div class="link-box"><div class="img-box"><div style="background-image: url('https://pbs.twimg.com/profile_images/977802223349506049/AVpaao9R_400x400.jpg');"></div></div><div class="text-box"><p class="title">ΝΚΝ on Twitter</p><p class="description">“@taniho_0707 自分がイメージしてたのはこういうの<br>ブログ楽しみにしてます☻<br>https://t.co/HjmnnjxC7H”</p></div></div></a></p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://blog.taniho.net/2018/12/%E5%AE%B6%E5%BA%AD%E7%94%A8CNC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%BF%E3%81%B9%E3%81%9F%E3%81%93%E3%81%A8%E3%81%BE%E3%81%A8%E3%82%81/" data-id="ckgnm7bvy005cvwvxaucjb289" class="article-share-link" data-title="家庭用CNCについて調べたことまとめ">Share</a>
+      
+        <a href="http://blog.taniho.net/2018/12/%E5%AE%B6%E5%BA%AD%E7%94%A8CNC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%BF%E3%81%B9%E3%81%9F%E3%81%93%E3%81%A8%E3%81%BE%E3%81%A8%E3%82%81/#disqus_thread" class="article-comment-link">Comments</a>
+      
+      <span class="article-hatebu-link"><a href="http://blog.taniho.net/2018/12/%E5%AE%B6%E5%BA%AD%E7%94%A8CNC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%BF%E3%81%B9%E3%81%9F%E3%81%93%E3%81%A8%E3%81%BE%E3%81%A8%E3%82%81/" class="hatena-bookmark-button" data-hatena-bookmark-title="家庭用CNCについて調べたことまとめ" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a></span>
+      <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+      <span class="hatenastar article-hatenastar-link"><a href="http://blog.taniho.net/2018/12/%E5%AE%B6%E5%BA%AD%E7%94%A8CNC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%BF%E3%81%B9%E3%81%9F%E3%81%93%E3%81%A8%E3%81%BE%E3%81%A8%E3%82%81/" style="display : none;"></a></span>
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/CNC/" rel="tag">CNC</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E3%81%BE%E3%81%A8%E3%82%81/" rel="tag">まとめ</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E4%B8%AD%E8%8F%AF/" rel="tag">中華</a></li></ul>
+
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2018/12/2018%E5%B9%B4%E3%81%AB%E8%B2%B7%E3%81%A3%E3%81%A6%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          2018年に買ってよかったもの
+        
+      </div>
+    </a>
+  
+  
+    <a href="/2018/12/2018%E5%B9%B4Elecrow%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%84%E3%83%AA%E3%83%BC%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">2018年Elecrowクリスマスツリーを作った</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+
+<section id="comments">
+  <div id="disqus_thread">
+    <noscript>Please enable JavaScript to view the <a target="_blank" rel="noopener" href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  </div>
+</section>
+
+</section>
+        
+          
+            <aside id="sidebar">
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Categories</h3>
+    <div class="widget">
+      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/ArchLinux/">ArchLinux</a><span class="category-list-count">3</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/ArchLinux/Media/">Media</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/ArchLinux/WM/">WM</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/Emacs/">Emacs</a><span class="category-list-count">1</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Emacs/Magit/">Magit</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/Event/">Event</a><span class="category-list-count">8</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Event/Internship/">Internship</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Event/MFT/">MFT</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Event/seccamp2016/">seccamp2016</a><span class="category-list-count">6</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/TAC2017/">TAC2017</a><span class="category-list-count">25</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/TAC2017/Discord/">Discord</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/TAC2017/Linux/">Linux</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/TAC2017/Qt/">Qt</a><span class="category-list-count">3</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/TAC2017/%E3%81%94%E3%81%AF%E3%82%93/">ごはん</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/TAC2017/%E3%81%9D%E3%81%AE%E4%BB%96/">その他</a><span class="category-list-count">8</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/TAC2017/%E3%82%B2%E3%83%BC%E3%83%A0/">ゲーム</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/TAC2017/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/">マイクロマウス</a><span class="category-list-count">9</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC/">サーバー</a><span class="category-list-count">4</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC/Apache/">Apache</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC/%E3%81%9D%E3%81%AE%E4%BB%96/">その他</a><span class="category-list-count">3</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/">マイクロマウス</a><span class="category-list-count">20</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/C/">C++</a><span class="category-list-count">4</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/C%E8%A8%80%E8%AA%9E/">C言語</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/e2studio/">e2studio</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/%E3%81%9D%E3%81%AE%E4%BB%96/">その他</a><span class="category-list-count">4</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/%E5%88%B6%E5%BE%A1/">制御</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/%E5%A4%A7%E4%BC%9A/">大会</a><span class="category-list-count">7</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/%E9%83%A8%E5%93%81/">部品</a><span class="category-list-count">2</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%85%A5%E9%96%80%E8%A8%98%E4%BA%8B/">入門記事</a><span class="category-list-count">2</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%85%A5%E9%96%80%E8%A8%98%E4%BA%8B/git/">git</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%88%86%E8%A7%A3/">分解</a><span class="category-list-count">1</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%88%86%E8%A7%A3/%E3%83%9E%E3%82%A6%E3%82%B9/">マウス</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%97%A5%E5%B8%B8/">日常</a><span class="category-list-count">11</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%97%A5%E5%B8%B8/%E3%82%B0%E3%83%AB%E3%83%A1/">グルメ</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E8%A3%BD%E4%BD%9C/">製作</a><span class="category-list-count">4</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E9%80%B2%E6%8D%97/">進捗</a><span class="category-list-count">1</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/%E9%80%B2%E6%8D%97/%E9%9F%B3%E3%82%B2%E3%83%BC/">音ゲー</a><span class="category-list-count">1</span></li></ul></li></ul>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recents</h3>
+    <div class="widget recents">
+      <ul>
+        
+          <li>
+            <a href="/2019/12/STM32%E3%81%A7QuadSPI%E6%8E%A5%E7%B6%9A%E3%81%AEwinbond-NOR-Flash%E3%82%92%E4%BD%BF%E3%81%86/">STM32でQuadSPI接続のwinbond NOR Flashを使う</a>
+          </li>
+        
+          <li>
+            <a href="/2019/12/2019%E5%B9%B4%E3%81%AB%E8%B2%B7%E3%81%A3%E3%81%A6%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE/">2019年に買って良かったもの</a>
+          </li>
+        
+          <li>
+            <a href="/2019/10/CNC%E7%94%A8%E3%81%AE%E9%98%B2%E9%9F%B3%E7%AE%B1CNCBOX%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E8%A9%B1/">CNC用の防音箱CNCBOXを作った話</a>
+          </li>
+        
+          <li>
+            <a href="/2018/12/%E6%BF%80%E5%8B%95%E3%81%AE2018%E5%B9%B4%E3%82%92%E9%9B%91%E3%81%AB%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8B/">激動の2018年を雑に振り返る</a>
+          </li>
+        
+          <li>
+            <a href="/2018/12/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AE%E8%BF%B7%E8%B7%AF%E6%9D%BF%E3%82%92%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F/">マイクロマウスの迷路板を購入した</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tag Cloud</h3>
+    <div class="widget tagcloud">
+      <a href="/tags/2016%E5%B9%B4/" style="font-size: 10px;">2016年</a> <a href="/tags/2017%E5%B9%B4/" style="font-size: 12.86px;">2017年</a> <a href="/tags/2018%E5%B9%B4/" style="font-size: 11.43px;">2018年</a> <a href="/tags/AdventCalendar/" style="font-size: 10px;">AdventCalendar</a> <a href="/tags/Android/" style="font-size: 12.86px;">Android</a> <a href="/tags/Apache/" style="font-size: 10px;">Apache</a> <a href="/tags/ArchLinux/" style="font-size: 14.29px;">ArchLinux</a> <a href="/tags/Blu-ray/" style="font-size: 10px;">Blu-ray</a> <a href="/tags/C/" style="font-size: 14.29px;">C++</a> <a href="/tags/CAD/" style="font-size: 10px;">CAD</a> <a href="/tags/CNC/" style="font-size: 11.43px;">CNC</a> <a href="/tags/C%E8%A8%80%E8%AA%9E/" style="font-size: 10px;">C言語</a> <a href="/tags/Discord/" style="font-size: 10px;">Discord</a> <a href="/tags/Doxygen/" style="font-size: 10px;">Doxygen</a> <a href="/tags/Elecrow/" style="font-size: 10px;">Elecrow</a> <a href="/tags/Emacs/" style="font-size: 10px;">Emacs</a> <a href="/tags/FTDI/" style="font-size: 10px;">FTDI</a> <a href="/tags/G700s/" style="font-size: 10px;">G700s</a> <a href="/tags/I-Sys/" style="font-size: 10px;">I.Sys</a> <a href="/tags/Linux/" style="font-size: 11.43px;">Linux</a> <a href="/tags/M570/" style="font-size: 10px;">M570</a> <a href="/tags/MFT/" style="font-size: 10px;">MFT</a> <a href="/tags/Magit/" style="font-size: 10px;">Magit</a> <a href="/tags/Makefile/" style="font-size: 10px;">Makefile</a> <a href="/tags/Mice/" style="font-size: 10px;">Mice</a> <a href="/tags/NFC/" style="font-size: 11.43px;">NFC</a> <a href="/tags/Qt/" style="font-size: 12.86px;">Qt</a> <a href="/tags/Quadcept/" style="font-size: 10px;">Quadcept</a> <a href="/tags/RX62T/" style="font-size: 10px;">RX62T</a> <a href="/tags/RaspberryPi/" style="font-size: 12.86px;">RaspberryPi</a> <a href="/tags/Renesas/" style="font-size: 10px;">Renesas</a> <a href="/tags/STL/" style="font-size: 10px;">STL</a> <a href="/tags/STM32CubeMX/" style="font-size: 10px;">STM32CubeMX</a> <a href="/tags/VLC/" style="font-size: 10px;">VLC</a> <a href="/tags/Web%E3%82%A2%E3%83%97%E3%83%AA/" style="font-size: 10px;">Webアプリ</a> <a href="/tags/d%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%B9%E3%83%88%E3%82%A2/" style="font-size: 10px;">dアニメストア</a> <a href="/tags/e2studio/" style="font-size: 10px;">e2studio</a> <a href="/tags/git/" style="font-size: 11.43px;">git</a> <a href="/tags/github/" style="font-size: 10px;">github</a> <a href="/tags/i3/" style="font-size: 10px;">i3</a> <a href="/tags/letsencrypt/" style="font-size: 10px;">letsencrypt</a> <a href="/tags/logicool/" style="font-size: 10px;">logicool</a> <a href="/tags/ownCloud/" style="font-size: 10px;">ownCloud</a> <a href="/tags/remark/" style="font-size: 10px;">remark</a> <a href="/tags/seccamp/" style="font-size: 17.14px;">seccamp</a> <a href="/tags/seccamp2016/" style="font-size: 17.14px;">seccamp2016</a> <a href="/tags/subsonic/" style="font-size: 10px;">subsonic</a> <a href="/tags/wm/" style="font-size: 10px;">wm</a> <a href="/tags/yakudo/" style="font-size: 11.43px;">yakudo</a> <a href="/tags/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/" style="font-size: 10px;">おすすめ</a> <a href="/tags/%E3%81%94%E3%81%AF%E3%82%93/" style="font-size: 11.43px;">ごはん</a> <a href="/tags/%E3%81%9F%E3%81%BE%E3%81%93%E3%81%BE%E3%83%BC%E3%81%91%E3%81%A3%E3%81%A8/" style="font-size: 14.29px;">たまこまーけっと</a> <a href="/tags/%E3%81%AF%E3%81%A6%E3%81%AA/" style="font-size: 10px;">はてな</a> <a href="/tags/%E3%81%BE%E3%81%A8%E3%82%81/" style="font-size: 11.43px;">まとめ</a> <a href="/tags/%E3%81%BF%E3%81%9D%E7%85%AE%E8%BE%BC%E3%81%BF%E3%81%86%E3%81%A9%E3%82%93/" style="font-size: 10px;">みそ煮込みうどん</a> <a href="/tags/%E3%82%A2%E3%83%97%E3%83%AA/" style="font-size: 10px;">アプリ</a> <a href="/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/" style="font-size: 10px;">インターン</a> <a href="/tags/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9/" style="font-size: 10px;">クリスマス</a> <a href="/tags/%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/" style="font-size: 10px;">クレジットカード</a> <a href="/tags/%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC/" style="font-size: 11.43px;">サーバー</a> <a href="/tags/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%82%B7%E3%83%A7%E3%83%BC/" style="font-size: 10px;">スライドショー</a> <a href="/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/" style="font-size: 10px;">セキュリティ・キャンプ</a> <a href="/tags/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86/" style="font-size: 11.43px;">デレステ</a> <a href="/tags/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B0LED/" style="font-size: 10px;">フラッグLED</a> <a href="/tags/%E3%83%98%E3%83%9C%E3%82%B3%E3%83%B3/" style="font-size: 10px;">ヘボコン</a> <a href="/tags/%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0/" style="font-size: 10px;">ボードゲーム</a> <a href="/tags/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9/" style="font-size: 20px;">マイクロマウス</a> <a href="/tags/%E3%83%9E%E3%82%A6%E3%82%B9/" style="font-size: 10px;">マウス</a> <a href="/tags/%E3%83%A1%E3%82%B8%E3%83%AD/" style="font-size: 12.86px;">メジロ</a> <a href="/tags/%E3%83%A2%E3%83%BC%E3%83%89/" style="font-size: 10px;">モード</a> <a href="/tags/%E3%83%A9%E3%82%BA%E3%83%91%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88/" style="font-size: 11.43px;">ラズパイコンテスト</a> <a href="/tags/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/" style="font-size: 10px;">ロボット</a> <a href="/tags/%E4%B8%89%E8%A7%92%E9%96%A2%E6%95%B0/" style="font-size: 10px;">三角関数</a> <a href="/tags/%E4%B8%AD%E8%8F%AF/" style="font-size: 10px;">中華</a> <a href="/tags/%E5%85%A5%E9%96%80/" style="font-size: 11.43px;">入門</a> <a href="/tags/%E5%88%86%E8%A7%A3/" style="font-size: 10px;">分解</a> <a href="/tags/%E5%8A%A9%E3%81%91%E3%81%A6/" style="font-size: 10px;">助けて</a> <a href="/tags/%E5%8F%B0%E6%B9%BE/" style="font-size: 11.43px;">台湾</a> <a href="/tags/%E6%95%99%E7%BF%92%E6%89%80/" style="font-size: 10px;">教習所</a> <a href="/tags/%E6%97%85%E8%A1%8C/" style="font-size: 14.29px;">旅行</a> <a href="/tags/%E6%97%A5%E5%B8%B8/" style="font-size: 18.57px;">日常</a> <a href="/tags/%E6%9C%80%E9%AB%98/" style="font-size: 10px;">最高</a> <a href="/tags/%E6%9D%B1%E5%8C%97%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A/" style="font-size: 10px;">東北地区大会</a> <a href="/tags/%E7%84%A1%E7%B7%9ALAN/" style="font-size: 10px;">無線LAN</a> <a href="/tags/%E7%8C%AB/" style="font-size: 10px;">猫</a> <a href="/tags/%E7%A6%8F%E5%B2%A1/" style="font-size: 10px;">福岡</a> <a href="/tags/%E7%AE%A1%E7%90%86/" style="font-size: 10px;">管理</a> <a href="/tags/%E8%AA%BF%E6%95%B4/" style="font-size: 10px;">調整</a> <a href="/tags/%E8%B2%B7%E3%81%84%E7%89%A9/" style="font-size: 15.71px;">買い物</a> <a href="/tags/%E8%BF%B7%E8%B7%AF/" style="font-size: 10px;">迷路</a> <a href="/tags/%E9%83%A8%E5%93%81/" style="font-size: 10px;">部品</a> <a href="/tags/%E9%87%91%E7%94%BA/" style="font-size: 10px;">金町</a> <a href="/tags/%E9%96%A2%E8%A5%BF%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A/" style="font-size: 10px;">関西地区大会</a> <a href="/tags/%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C/" style="font-size: 10px;">電子工作</a> <a href="/tags/%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81/" style="font-size: 10px;">電子部品</a> <a href="/tags/%E9%9F%B3%E6%A5%BD/" style="font-size: 10px;">音楽</a> <a href="/tags/%E9%B5%A4/" style="font-size: 12.86px;">鵤</a>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Archives</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/12/">December 2019</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/10/">October 2019</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/12/">December 2018</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/07/">July 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/01/">January 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/12/">December 2017</a><span class="archive-list-count">26</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/11/">November 2017</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/10/">October 2017</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/09/">September 2017</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/08/">August 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/07/">July 2017</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/05/">May 2017</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/03/">March 2017</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/02/">February 2017</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/01/">January 2017</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/12/">December 2016</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/11/">November 2016</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/10/">October 2016</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/09/">September 2016</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/08/">August 2016</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/06/">June 2016</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/05/">May 2016</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/04/">April 2016</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/03/">March 2016</a><span class="archive-list-count">1</span></li></ul>
+    </div>
+  </div>
+
+  
+</aside>
+          
+        
+      </div>
+      <div id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      <a rel="license noopener" target="_blank" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a></br>
+      &copy; 2020 taniho<br>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</div>
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+    <a href="/about" class="mobile-nav-link">About</a>
+  
+</nav>
+    
+<script>
+  var disqus_shortname = 'tanihosblog';
+  
+  var disqus_url = 'http://blog.taniho.net/2018/12/%E5%AE%B6%E5%BA%AD%E7%94%A8CNC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%BF%E3%81%B9%E3%81%9F%E3%81%93%E3%81%A8%E3%81%BE%E3%81%A8%E3%82%81/';
+  
+  (function(){
+    var dsq = document.createElement('script');
+    dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+  
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+
+  
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+
+
+
+<script src="/js/script.js"></script>
+
+
+  </div>
+</body>
+</html>

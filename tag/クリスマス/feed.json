@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "taniho's blog • All posts by \"クリスマス\" tag",
+    "description": "technical note",
+    "home_page_url": "http://blog.taniho.net",
+    "items": [
+        {
+            "id": "http://blog.taniho.net/2018/12/2018%E5%B9%B4Elecrow%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%84%E3%83%AA%E3%83%BC%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F/",
+            "url": "http://blog.taniho.net/2018/12/2018%E5%B9%B4Elecrow%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%84%E3%83%AA%E3%83%BC%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F/",
+            "title": "2018年Elecrowクリスマスツリーを作った",
+            "date_published": "2018-12-05T12:40:57.000Z",
+            "content_html": "<h1 id=\"はじめに\"><a href=\"#はじめに\" class=\"headerlink\" title=\"はじめに\"></a>はじめに</h1><p>今年もクリスマスがやってきました．</p>\n<p>……クリスマス？？？ もちろんElecrow無料クリスマス基板のことですよ．</p>\n<p><a href=\"https://www.elecrow.com/blog/free-prototyping-for-christmas-pcb/\">Free Prototyping for Christmas PCB - BLOG</a></p>\n<p>なんともう4回目の開催だそうです．<br>今回はクリスマス基板初チャレンジということで，平凡なクリスマスツリーを作りました．</p>\n<a id=\"more\"></a>\n\n<h1 id=\"完成品\"><a href=\"#完成品\" class=\"headerlink\" title=\"完成品\"></a>完成品</h1><p>こちらが完成したクリスマスツリーです．<br>作品名は「Xmas2018」</p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/vAVGdu9t3do\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<p>なかなか良い光り方してると思いませんか．</p>\n<p>全体像はこんな感じです．</p>\n<p><img src=\"1.jpg\" alt=\"表面\"></p>\n<p><img src=\"2.jpg\" alt=\"裏面\"></p>\n<h1 id=\"特徴\"><a href=\"#特徴\" class=\"headerlink\" title=\"特徴\"></a>特徴</h1><p>Xmas2018にはいくつかの特徴があります．</p>\n<ol>\n<li>ランダムに点滅<br>約2秒毎にLEDが点滅しますが，光るLEDはランダムに決まります．</li>\n<li>USB給電<br>モバイルブースターやPCに接続して動かすことが出来ます．</li>\n<li>マイコン非搭載<br>555タイマICとロジックICのみで動作しています．</li>\n<li>表面は配線無し<br>表面には配線を引いていないため，見た目が綺麗です．<br>(そのせいで裏面がひどいことになっています)</li>\n</ol>\n<h1 id=\"動作説明\"><a href=\"#動作説明\" class=\"headerlink\" title=\"動作説明\"></a>動作説明</h1><p>一応動作説明を書き残しておきます．</p>\n<p><img src=\"BlockDiagram.png\" alt=\"ブロック図\"></p>\n<p>こちらがXmas2018のブロック図です．</p>\n<p>パッと光るのではなく，僅かにぼんやりと光るのは，積分回路のおかげです．</p>\n<p>マルチバイブレータが個々のLEDのトランジスタに繋がっていますが，間にラッチを挟んでいます．<br>マルチバイブレータの周波数をおよそ5MHzにしていますが，誤差の大きな抵抗を使っているため，それぞれの周波数はかなりずれています．<br>そこで，ワンショット回路から約2秒おきにパルスを出し，ラッチの出力を更新することで点灯するLEDを決めています．<br>以上がランダムに点滅する回路の概要です．</p>\n<p><img src=\"wavedrom.png\" alt=\"タイミングチャート\"></p>\n<h1 id=\"おわりに\"><a href=\"#おわりに\" class=\"headerlink\" title=\"おわりに\"></a>おわりに</h1><p>久しぶりにマイコンの載っていない電子工作をしましたが，なかなか楽しかったです．<br>新しいクリスマスグッズのアイデアが思い浮かんだら，また来年も挑戦しようと思います．</p>\n<p>無料で基板を製造してくださったElecrowの皆さんありがとうございました！</p>\n<p>Thank you for your good pcb, Elecrow!</p>\n",
+            "tags": [
+                "クリスマス",
+                "Elecrow",
+                "電子工作"
+            ]
+        }
+    ]
+}

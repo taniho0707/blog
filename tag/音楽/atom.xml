@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;音楽&#34; tag</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2017-02-22T10:05:01.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2017/02/subsonic%E3%81%AB%E4%B9%97%E3%82%8A%E6%8F%9B%E3%81%88%E3%81%9F%E8%A9%B1/</id>
+        <title>subsonicに乗り換えた話</title>
+        <link rel="alternate" href="http://blog.taniho.net/2017/02/subsonic%E3%81%AB%E4%B9%97%E3%82%8A%E6%8F%9B%E3%81%88%E3%81%9F%E8%A9%B1/"/>
+        <content type="html">&lt;h1 id=&#34;音楽生活&#34;&gt;&lt;a href=&#34;#音楽生活&#34; class=&#34;headerlink&#34; title=&#34;音楽生活&#34;&gt;&lt;/a&gt;音楽生活&lt;/h1&gt;&lt;p&gt;みなさんは音楽をどうやって聞いていますか？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;iPod・WALKMANなどの音楽端末&lt;/li&gt;
+&lt;li&gt;iPhone・Androidなどの携帯端末に音楽を入れる&lt;/li&gt;
+&lt;li&gt;Google Play Musicなどのオンラインサービスに保存して携帯端末で聞く&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;というのが主流でしょうか．僕もオンラインサービス……というか，自前のサーバーでストリーミングサーバーを構成・運用しています．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://hantasmouse.hatenablog.jp/entry/2015/10/27/140846&#34;&gt;過去のエントリ&lt;/a&gt;では，subsonicのフォークであるsupersonicを紹介していました．しかし，こちらはメンテナンスがされてないようなので，本家のsubsonicに乗り換えることにしました．&lt;br&gt;試用期間がすぎると一部の機能が制限されますが，今回は思い切って課金することにしました(一ヶ月$1なのでそんなに高くない)．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;subsonic&#34;&gt;&lt;a href=&#34;#subsonic&#34; class=&#34;headerlink&#34; title=&#34;subsonic&#34;&gt;&lt;/a&gt;subsonic&lt;/h1&gt;&lt;h2 id=&#34;ストリーミングサーバーとは&#34;&gt;&lt;a href=&#34;#ストリーミングサーバーとは&#34; class=&#34;headerlink&#34; title=&#34;ストリーミングサーバーとは&#34;&gt;&lt;/a&gt;ストリーミングサーバーとは&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;http://www.subsonic.org/pages/index.jsp&#34;&gt;subsonic&lt;/a&gt;は，音楽・動画のストリーミングサーバーです．&lt;br&gt;ストリーミングサーバーを使った音楽配信ですが，ざっくりと次のような感じだと思ってください．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;音楽を再生するプレイヤーの他に，サーバーが必要&lt;/li&gt;
+&lt;li&gt;音楽はサーバーに保存し，インターネットに接続したプレイヤーで音楽データを受信する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;例えば携帯端末で音楽を聞く際，音楽データを携帯端末に保存しておく必要はありません．インターネットに接続してさえあれば，サーバーに登録してある音楽をどこででも聞くことができます．(それなりの通信量を食いますが，設定次第で減らすこともできます)&lt;/p&gt;
+&lt;h2 id=&#34;subsonicとは&#34;&gt;&lt;a href=&#34;#subsonicとは&#34; class=&#34;headerlink&#34; title=&#34;subsonicとは&#34;&gt;&lt;/a&gt;subsonicとは&lt;/h2&gt;&lt;p&gt;ストリーミングサーバーの一種である，subsonicの特徴をまとめておきます．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;プレイヤーは様々なOSに対応(Windows,Mac,Linux,Android,iOS,WindowsPhone……等々)&lt;/li&gt;
+&lt;li&gt;ユーザー管理ができ，各種権限やフォルダごとのアクセス権を設定可能&lt;/li&gt;
+&lt;li&gt;日本語対応(ただしファイル名については注意が必要)&lt;/li&gt;
+&lt;li&gt;ユーザーごとに帯域制限を設定可能&lt;/li&gt;
+&lt;li&gt;テーマの切り替えが可能&lt;/li&gt;
+&lt;li&gt;チャット機能搭載(必要なシーンが思い浮かばない)&lt;/li&gt;
+&lt;li&gt;ジュークボックス機能(サーバーに接続されているスピーカーから音楽を再生できる)&lt;/li&gt;
+&lt;li&gt;トランスコーディング設定を変更可能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;課金をすることで，次の機能が開放されます(subsonicページから引用)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Android, iPhone, Blackberry や Windows Phone 等のアプリで再生&lt;/li&gt;
+&lt;li&gt;Mac, Windows, Chrome, Roku, その他 用のアプリで再生&lt;/li&gt;
+&lt;li&gt;ビデオストリーミング再生&lt;/li&gt;
+&lt;li&gt;ポッドキャストの受信&lt;/li&gt;
+&lt;li&gt;あなた固有のサーバアドレス: yourname.subsonic.org の使用(参照: 設定 &amp;gt; ネットワーク)&lt;/li&gt;
+&lt;li&gt;DLNA/UPnP 互換デバイスで音楽を再生&lt;/li&gt;
+&lt;li&gt;Facebook, Twitter, Google+ で音楽を共有&lt;/li&gt;
+&lt;li&gt;ウェブ画面での広告の非表示&lt;/li&gt;
+&lt;li&gt;その他の機能も今後のリリースで追加&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;インストール&#34;&gt;&lt;a href=&#34;#インストール&#34; class=&#34;headerlink&#34; title=&#34;インストール&#34;&gt;&lt;/a&gt;インストール&lt;/h2&gt;&lt;p&gt;必要なものは，&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;サーバー(自宅鯖でも，さくらのVPSなどでも，javaが動作可能であれば大丈夫なはず)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;詳しいインストール方法は省略します．公式サイトを見ながら頑張ってみてください．&lt;br&gt;&lt;a href=&#34;http://www.subsonic.org/pages/installation.jsp&#34;&gt;インストール方法&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;使い方&#34;&gt;&lt;a href=&#34;#使い方&#34; class=&#34;headerlink&#34; title=&#34;使い方&#34;&gt;&lt;/a&gt;使い方&lt;/h1&gt;&lt;h2 id=&#34;基本&#34;&gt;&lt;a href=&#34;#基本&#34; class=&#34;headerlink&#34; title=&#34;基本&#34;&gt;&lt;/a&gt;基本&lt;/h2&gt;&lt;p&gt;トップ画面です．&lt;br&gt;&lt;img src=&#34;01.png&#34; title=&#34;トップ画面&#34;&gt;&lt;/p&gt;
+&lt;p&gt;最低限のプレイヤーと，アルバムの一覧が表示されています．&lt;/p&gt;
+&lt;p&gt;使い勝手は一般的なオーディオプレイヤーと同じような感じだと思います．プレイリストに曲を追加することで，プレイリスト内の曲が順番に再生されます．&lt;br&gt;気に入った曲やアルバムには「☆」を付けることができ，お気に入りの曲とアルバムを登録することができます．&lt;br&gt;またアルバムは，お気に入り登録以外に，「☆☆☆☆☆」でのランク付けができます(ただ，☆がn個の曲のみ表示する，といったことができないようなのでなんとも)．&lt;/p&gt;
+&lt;h2 id=&#34;特徴的&#34;&gt;&lt;a href=&#34;#特徴的&#34; class=&#34;headerlink&#34; title=&#34;特徴的&#34;&gt;&lt;/a&gt;特徴的&lt;/h2&gt;&lt;p&gt;特徴的な機能があるのでいくつか紹介します．細かい設定なんかもまとめて．&lt;/p&gt;
+&lt;h3 id=&#34;ユーザー&#34;&gt;&lt;a href=&#34;#ユーザー&#34; class=&#34;headerlink&#34; title=&#34;ユーザー&#34;&gt;&lt;/a&gt;ユーザー&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;04.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ユーザーを複数作成することができます．&lt;br&gt;それぞれのユーザーに権限を設定することができるので，複数人で使う場合は便利かもしれません．&lt;/p&gt;
+&lt;h3 id=&#34;フォルダ分け&#34;&gt;&lt;a href=&#34;#フォルダ分け&#34; class=&#34;headerlink&#34; title=&#34;フォルダ分け&#34;&gt;&lt;/a&gt;フォルダ分け&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;03.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;楽曲などをフォルダ分けし，管理することができます．&lt;br&gt;僕は音楽と動画を別のフォルダに分けています．ランダム再生の時にはフォルダを限定することができるので，「英会話CD」「ドラマCD」なんかを分けておくと便利じゃないかと思います．&lt;/p&gt;
+&lt;p&gt;フォルダは，それぞれのユーザーごとにアクセス権を設定できるので，複数人で使う場合なんかはより活用できるかも知れません．&lt;/p&gt;
+&lt;h3 id=&#34;プレーヤー&#34;&gt;&lt;a href=&#34;#プレーヤー&#34; class=&#34;headerlink&#34; title=&#34;プレーヤー&#34;&gt;&lt;/a&gt;プレーヤー&lt;/h3&gt;&lt;p&gt;プレーヤーという概念があります．再生する曲はすべてプレイリストに追加しますが，このプレイリストはプレーヤーごとに1つずつ作成されます．ユーザーは，プレイヤーを切り替えることで複数のプレイリストを同時に使うことができます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;05.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;また，プレーヤーごとに再生する方法を切り替えることができます．&lt;br&gt;ブラウザ上で再生するのが一番お手軽ですが，外部プレーヤーを使うことができます．イコライザなどの設定ができるのは良い点なのでしょうか．&lt;br&gt;ジュークボックスモードと言って，サーバーに接続されたサウンドカードから音を流すことができるモードがあります．僕はオシャレな部屋じゃないので必要ありませんが，そういった人には嬉しい機能かと思います．&lt;/p&gt;
+&lt;h3 id=&#34;プレイリスト&#34;&gt;&lt;a href=&#34;#プレイリスト&#34; class=&#34;headerlink&#34; title=&#34;プレイリスト&#34;&gt;&lt;/a&gt;プレイリスト&lt;/h3&gt;&lt;p&gt;プレイリストを作成することができます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;10.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;アニメの主題歌だけをまとめたりすると便利でいいですね．&lt;/p&gt;
+&lt;h3 id=&#34;トランスコーディング&#34;&gt;&lt;a href=&#34;#トランスコーディング&#34; class=&#34;headerlink&#34; title=&#34;トランスコーディング&#34;&gt;&lt;/a&gt;トランスコーディング&lt;/h3&gt;&lt;p&gt;トランスコーディングの設定を変更することができます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;06.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;動画や音声の品質をこだわったり，携帯回線を使う場合など，用途によって使い分けることもできます．&lt;br&gt;(しかし設定を間違えて音楽が聞けなくなったときはとても悲しかった)&lt;/p&gt;
+&lt;h3 id=&#34;似ている楽曲・アーティスト&#34;&gt;&lt;a href=&#34;#似ている楽曲・アーティスト&#34; class=&#34;headerlink&#34; title=&#34;似ている楽曲・アーティスト&#34;&gt;&lt;/a&gt;似ている楽曲・アーティスト&lt;/h3&gt;&lt;p&gt;アルバムを開くと，似ている楽曲やアーティストが表示されます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;08.png&#34;&gt;&lt;br&gt;&lt;img src=&#34;09.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;何気に結構便利．&lt;/p&gt;
+&lt;h2 id=&#34;小技&#34;&gt;&lt;a href=&#34;#小技&#34; class=&#34;headerlink&#34; title=&#34;小技&#34;&gt;&lt;/a&gt;小技&lt;/h2&gt;&lt;p&gt;初期状態ではアーティスト名に日本語を使うと「#」にひとくくりにされてしまいます．解決法はいくつかあって，&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;アーティスト名の先頭にアルファベットを付ける：「M モーニング娘。」&lt;/li&gt;
+&lt;li&gt;「索引の頭文字」に日本語を追加する(未確認)：「も モーニング娘。」&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;参考：&lt;br&gt;&lt;img src=&#34;02.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;バグ&#34;&gt;&lt;a href=&#34;#バグ&#34; class=&#34;headerlink&#34; title=&#34;バグ&#34;&gt;&lt;/a&gt;バグ&lt;/h2&gt;&lt;p&gt;一つのプレイリストに同じ楽曲を2曲以上入れると，&lt;strong&gt;その2曲の間をループ再生&lt;/strong&gt;しはじめます．困った困った．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;11.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;思うところ&#34;&gt;&lt;a href=&#34;#思うところ&#34; class=&#34;headerlink&#34; title=&#34;思うところ&#34;&gt;&lt;/a&gt;思うところ&lt;/h2&gt;&lt;h3 id=&#34;ボイスドラマが憎い&#34;&gt;&lt;a href=&#34;#ボイスドラマが憎い&#34; class=&#34;headerlink&#34; title=&#34;ボイスドラマが憎い&#34;&gt;&lt;/a&gt;ボイスドラマが憎い&lt;/h3&gt;&lt;p&gt;音楽を聞きたい時に，IM@SなんかのCDによく入ってるボイスドラマが入り込んでくるのはやめてほしい．&lt;br&gt;「アルバムを再生」ボタンは便利なのに，こういうときには使えないので辛い．&lt;/p&gt;
+&lt;h3 id=&#34;インスト曲が憎い&#34;&gt;&lt;a href=&#34;#インスト曲が憎い&#34; class=&#34;headerlink&#34; title=&#34;インスト曲が憎い&#34;&gt;&lt;/a&gt;インスト曲が憎い&lt;/h3&gt;&lt;p&gt;同様の理由で，シングル曲の「〜〜(Instrumental)」が入り込んでくるのもやめてほしい．&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;誰か良い解決法教えてください．&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;まとめ&#34;&gt;&lt;a href=&#34;#まとめ&#34; class=&#34;headerlink&#34; title=&#34;まとめ&#34;&gt;&lt;/a&gt;まとめ&lt;/h1&gt;&lt;p&gt;最高の音楽・アニメ生活を送れるようになった！&lt;/p&gt;
+</content>
+        <category term="サーバー" />
+        <category term="subsonic" />
+        <category term="音楽" />
+        <updated>2017-02-22T10:05:01.000Z</updated>
+    </entry>
+</feed>

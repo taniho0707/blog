@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "taniho's blog • All posts by \"助けて\" tag",
+    "description": "technical note",
+    "home_page_url": "http://blog.taniho.net",
+    "items": [
+        {
+            "id": "http://blog.taniho.net/2017/08/%E6%88%91%E3%81%8C%E5%AE%B6%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A7%8B%E6%88%90%E3%82%92%E8%80%83%E3%81%88%E3%82%8B/",
+            "url": "http://blog.taniho.net/2017/08/%E6%88%91%E3%81%8C%E5%AE%B6%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A7%8B%E6%88%90%E3%82%92%E8%80%83%E3%81%88%E3%82%8B/",
+            "title": "我が家のネットワーク構成を考える",
+            "date_published": "2017-08-05T05:57:58.000Z",
+            "content_html": "<h1 id=\"はじめに\"><a href=\"#はじめに\" class=\"headerlink\" title=\"はじめに\"></a>はじめに</h1><p><strong>「快適なゲームライフ」と「快適なサーバーライフ」を両立するためにはこの手段しかなかった．</strong><br>というわけで自宅のネットワーク構成を思い切って変更することにしました．<br>しかし上手くいかなかったので何がダメだったのか教えてください．</p>\n<a id=\"more\"></a>\n\n<h1 id=\"現状の問題\"><a href=\"#現状の問題\" class=\"headerlink\" title=\"現状の問題\"></a>現状の問題</h1><p>昔のネットワーク構成はこんな感じです．わりとありふれた構成の中に，自宅サーバーを2台鎮座させています．</p>\n<p><img src=\"2.png\" alt=\"旧構成\"></p>\n<p>プロバイダはSo-netとインターリンクの2回線を契約しています(使用していたのはインターリンクのみ)．<br>運用上，特に問題は無いのですが，次のような欲がありました．</p>\n<ul>\n<li>インターリンクの回線速度が遅いので，常用PCではSo-netを使いたい</li>\n<li>IPアドレスが変わってほしくないので，So-netを使いたくない(インターリンクの回線は固定IPを契約している)</li>\n<li>サーバーとそれ以外のマシン間の通信速度は1Gbps出したい</li>\n</ul>\n<h1 id=\"解決手法-案\"><a href=\"#解決手法-案\" class=\"headerlink\" title=\"解決手法(案)\"></a>解決手法(案)</h1><p>(案)と書いているのは，まだ満足に運用できていないからです．問題点については後述します．</p>\n<p>僕がやりたかったことを簡単にまとめると，<br><strong>「サーバーはインターリンク回線に，それ以外はSo-net回線につなぎたいが，ローカルネットワークは1つにまとめたい」</strong><br>ということになります．<br>そこで，ものすごく安直に次のような構成にしてみました．</p>\n<p><img src=\"1.png\" alt=\"新構成\"><br>(この図を作るに当たって，次のサイトからイラストをお借りしています)<br><a href=\"http://jp.yamaha.com/products/network/downloads/tools/\">http://jp.yamaha.com/products/network/downloads/tools/</a><br><a href=\"http://www.irasutoya.com/2013/01/blog-post_7254.html\">http://www.irasutoya.com/2013/01/blog-post_7254.html</a></p>\n<h1 id=\"未解決の問題点\"><a href=\"#未解決の問題点\" class=\"headerlink\" title=\"未解決の問題点\"></a>未解決の問題点</h1><p>思い切って新しい構成にしたものの，昔よりひどいことになってしまいました．</p>\n<ul>\n<li>通信速度が異様に遅い(どちらのプロバイダ回線も)</li>\n<li>PINGが異様に遅い</li>\n</ul>\n<p>ということで詳しい方々，原因や対策をご教示いただけませんか．</p>\n",
+            "tags": [
+                "サーバー",
+                "助けて"
+            ]
+        }
+    ]
+}

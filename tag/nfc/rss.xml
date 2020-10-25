@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>taniho&#39;s blog • Posts by &#34;nfc&#34; tag</title>
+        <link>http://blog.taniho.net</link>
+        <description>technical note</description>
+        <language>en</language>
+        <pubDate>Mon, 21 Aug 2017 16:24:13 +0900</pubDate>
+        <lastBuildDate>Mon, 21 Aug 2017 16:24:13 +0900</lastBuildDate>
+        <category>Emacs</category>
+        <category>ArchLinux</category>
+        <category>マイクロマウス</category>
+        <category>台湾</category>
+        <category>旅行</category>
+        <category>たまこまーけっと</category>
+        <category>2016年</category>
+        <category>買い物</category>
+        <category>おすすめ</category>
+        <category>日常</category>
+        <category>2017年</category>
+        <category>クリスマス</category>
+        <category>Elecrow</category>
+        <category>電子工作</category>
+        <category>関西地区大会</category>
+        <category>猫</category>
+        <category>Apache</category>
+        <category>letsencrypt</category>
+        <category>Blu-ray</category>
+        <category>VLC</category>
+        <category>CNC</category>
+        <category>Magit</category>
+        <category>git</category>
+        <category>MFT</category>
+        <category>RaspberryPi</category>
+        <category>無線LAN</category>
+        <category>Mice</category>
+        <category>鵤</category>
+        <category>メジロ</category>
+        <category>Qt</category>
+        <category>デレステ</category>
+        <category>yakudo</category>
+        <category>Android</category>
+        <category>Discord</category>
+        <category>Webアプリ</category>
+        <category>教習所</category>
+        <category>ロボット</category>
+        <category>Linux</category>
+        <category>remark</category>
+        <category>スライドショー</category>
+        <category>ごはん</category>
+        <category>金町</category>
+        <category>クレジットカード</category>
+        <category>ヘボコン</category>
+        <category>ボードゲーム</category>
+        <category>Quadcept</category>
+        <category>CAD</category>
+        <category>Doxygen</category>
+        <category>2018年</category>
+        <category>dアニメストア</category>
+        <category>Renesas</category>
+        <category>RX62T</category>
+        <category>e2studio</category>
+        <category>github</category>
+        <category>マウス</category>
+        <category>分解</category>
+        <category>logicool</category>
+        <category>M570</category>
+        <category>G700s</category>
+        <category>seccamp2016</category>
+        <category>seccamp</category>
+        <category>ownCloud</category>
+        <category>サーバー</category>
+        <category>subsonic</category>
+        <category>音楽</category>
+        <category>みそ煮込みうどん</category>
+        <category>I.Sys</category>
+        <category>フラッグLED</category>
+        <category>i3</category>
+        <category>wm</category>
+        <category>AdventCalendar</category>
+        <category>モード</category>
+        <category>迷路</category>
+        <category>C++</category>
+        <category>調整</category>
+        <category>中華</category>
+        <category>まとめ</category>
+        <category>助けて</category>
+        <category>三角関数</category>
+        <category>福岡</category>
+        <category>東北地区大会</category>
+        <category>STL</category>
+        <category>入門</category>
+        <category>ラズパイコンテスト</category>
+        <category>NFC</category>
+        <category>C言語</category>
+        <category>部品</category>
+        <category>管理</category>
+        <category>電子部品</category>
+        <category>STM32CubeMX</category>
+        <category>FTDI</category>
+        <category>Makefile</category>
+        <category>アプリ</category>
+        <category>はてな</category>
+        <category>インターン</category>
+        <category>最高</category>
+        <category>セキュリティ・キャンプ</category>
+        <item>
+            <guid isPermalink="true">http://blog.taniho.net/2017/08/%E9%83%A8%E5%AE%A4%E3%83%A1%E3%83%BC%E3%83%AA%E3%82%B9%E3%82%92%E5%AD%A6%E7%94%9F%E8%A8%BC%E3%81%A8%E9%80%A3%E5%8B%95%E3%81%95%E3%81%9B%E3%82%8B-3/</guid>
+            <title>部室メーリスを学生証と連動させる(3)</title>
+            <link>http://blog.taniho.net/2017/08/%E9%83%A8%E5%AE%A4%E3%83%A1%E3%83%BC%E3%83%AA%E3%82%B9%E3%82%92%E5%AD%A6%E7%94%9F%E8%A8%BC%E3%81%A8%E9%80%A3%E5%8B%95%E3%81%95%E3%81%9B%E3%82%8B-3/</link>
+            <category>RaspberryPi</category>
+            <category>ラズパイコンテスト</category>
+            <category>NFC</category>
+            <pubDate>Mon, 21 Aug 2017 16:24:13 +0900</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;前回のあらすじ&#34;&gt;&lt;a href=&#34;#前回のあらすじ&#34; class=&#34;headerlink&#34; title=&#34;前回のあらすじ&#34;&gt;&lt;/a&gt;前回のあらすじ&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;http://blog.taniho.net/2017/08/%E9%83%A8%E5%AE%A4%E3%83%A1%E3%83%BC%E3%83%AA%E3%82%B9%E3%82%92%E5%AD%A6%E7%94%9F%E8%A8%BC%E3%81%A8%E9%80%A3%E5%8B%95%E3%81%95%E3%81%9B%E3%82%8B-2/&#34;&gt;前回の記事&lt;/a&gt;ではハードウェアをあらかた完成まで持っていきました．&lt;br&gt;今回はソフトウェアを実装し，動作させてみた様子をまとめます．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;ソフトウェア&#34;&gt;&lt;a href=&#34;#ソフトウェア&#34; class=&#34;headerlink&#34; title=&#34;ソフトウェア&#34;&gt;&lt;/a&gt;ソフトウェア&lt;/h1&gt;&lt;h2 id=&#34;液晶&#34;&gt;&lt;a href=&#34;#液晶&#34; class=&#34;headerlink&#34; title=&#34;液晶&#34;&gt;&lt;/a&gt;液晶&lt;/h2&gt;&lt;p&gt;開発初期の間は外付けモニタを用意してHDMIでつなぎます．しかし，実際に使用するときはaitendo液晶に画面を出すことになります．そこで，今のうちに液晶の設定をしておきます．&lt;br&gt;今回使用した液晶のコントローラICはili9328ですが，これはili9325のフルコンパチとのことです．したがって，FBTFTのITDB02-2.8と同様の設定をするだけで液晶が使えるようになります．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/notro/fbtft/wiki&#34;&gt;Home · notro/fbtft Wiki&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;学生証読めたよ &lt;a href=&#34;https://t.co/DlxTtW1djw&#34;&gt;pic.twitter.com/DlxTtW1djw&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/854350679426555904&#34;&gt;2017年4月18日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;h2 id=&#34;GPIO読み取り&#34;&gt;&lt;a href=&#34;#GPIO読み取り&#34; class=&#34;headerlink&#34; title=&#34;GPIO読み取り&#34;&gt;&lt;/a&gt;GPIO読み取り&lt;/h2&gt;&lt;p&gt;いろいろと方法があることが分かりました．今回はライブラリを使わず，Sysfsを使ってスイッチの状態を読み込もうと思います．&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;/sys/class/gpio/&lt;/code&gt; 以下を操作すれば良いそうです．ただし管理者権限でないと初期設定に関する操作ができませんでした．それ以外の，状態の取得や出力電圧の変更などは一般ユーザでもできるみたいです．&lt;br&gt;GUIアプリケーションを管理者権限で動かすことは避けたいので，GPIO周りの初期設定だけシェルスクリプトにまとめて，アプリケーションを分離することにしました．&lt;/p&gt;
+&lt;h2 id=&#34;NFC読み取り&#34;&gt;&lt;a href=&#34;#NFC読み取り&#34; class=&#34;headerlink&#34; title=&#34;NFC読み取り&#34;&gt;&lt;/a&gt;NFC読み取り&lt;/h2&gt;&lt;p&gt;NFCのリーダは，前回同様&lt;a href=&#34;https://www.sony.co.jp/Products/felica/business/products/RC-S620.html&#34;&gt;RC-S620/S&lt;/a&gt;を使います．しかし公式で用意されているドライバはArduino用のみ……．困っていたら良い記事が見つかりました．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://qiita.com/rukihena/items/3940ffa968c4c6492279&#34;&gt;Raspberry Pi に FeliCa リーダー・ライター RC-S620/S を接続する - Qiita&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://wiringpi.com/&#34;&gt;Wiring Pi&lt;/a&gt;というArduinoライクなRaspberryPiのライブラリがあります．これを使うことで，Arduino用RC-S620/SドライバをRaspberryPiでも使えるようにしよう，という内容でした．ありがたく使わせていただきます．&lt;/p&gt;
+&lt;h2 id=&#34;部員名簿の同期&#34;&gt;&lt;a href=&#34;#部員名簿の同期&#34; class=&#34;headerlink&#34; title=&#34;部員名簿の同期&#34;&gt;&lt;/a&gt;部員名簿の同期&lt;/h2&gt;&lt;p&gt;サークルでは，毎年新しい部員が増えて，老害が消えていきます．時々ポツンと新しい人が入ってきたり，いつの間にか消えていることもあります．いちいちRaspberryPiに接続して名簿を更新するというのも面倒くさいので，GoogleDriveを使ってブラウザから名簿の更新ができるようにしました．更新作業は次のようにします．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;登録&lt;ol&gt;
+&lt;li&gt;GoogleDrive上のファイルに登録したい人の名前を記入&lt;/li&gt;
+&lt;li&gt;pisystemのメニューから名簿の更新を実行&lt;/li&gt;
+&lt;li&gt;GoogleDriveから名簿をダウンロードし，カード未登録の部員を順番に登録していく&lt;/li&gt;
+&lt;li&gt;GoogleDriveに登録済みの名簿をアップロード&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;削除&lt;ol&gt;
+&lt;li&gt;GoogleDrive上のファイルから削除したい人を消去&lt;/li&gt;
+&lt;li&gt;pisystemのメニューから名簿の更新を実行&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;pisystemの起動時と名簿の更新作業時に，GoogleDriveと同期させています．名簿は，部員の名前とカードのIDをcsv形式で保存しているので，ブラウザからも容易に編集が出来ます．&lt;/p&gt;
+&lt;p&gt;RaspberryPiからGoogleDriveは，次のアプリケーションを使っています．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/prasmussen/gdrive&#34;&gt;prasmussen/gdrive: Google Drive CLI Client&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;コマンドラインからGoogleDriveにアクセスでき，様々な操作ができるので大変便利です．使い方が少しむずかしいので予め自分のドライブでコマンドを叩き，感覚を掴んでおくことをオススメします．&lt;br&gt;今回のアプリケーションでは，名簿のファイル名を予め設定しておきました．gdriveを利用して，まずファイル名から名簿ファイルの固有IDを調べ，この固有IDを使うことでファイルのダウンロードや削除操作ができるようになります．&lt;/p&gt;
+&lt;h2 id=&#34;メールの送信&#34;&gt;&lt;a href=&#34;#メールの送信&#34; class=&#34;headerlink&#34; title=&#34;メールの送信&#34;&gt;&lt;/a&gt;メールの送信&lt;/h2&gt;&lt;p&gt;メールを送信します．今回はGmailのアカウントを使って，msmtpで送信しました．&lt;br&gt;msmtpはsendmailと完全互換のあるSMTPクライアントです．Gmailのアカウントなどを設定することでお手軽にメールを送信できます．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wiki.archlinuxjp.org/index.php/Msmtp&#34;&gt;msmtp - ArchWiki&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Gmailの認証についてですが，上記Wikiには”Less Secure Apps”を許可することでGoogleアカウントが利用できるようになるとありましたが，僕の環境ではなぜか利用できなかったため，2段階認証のアプリパスワードを設定しました．&lt;br&gt;鍵の保存ですが，GNOME Keyringを使うことで容易にパスワード管理ができます．&lt;/p&gt;
+&lt;h2 id=&#34;Slackへ投稿&#34;&gt;&lt;a href=&#34;#Slackへ投稿&#34; class=&#34;headerlink&#34; title=&#34;Slackへ投稿&#34;&gt;&lt;/a&gt;Slackへ投稿&lt;/h2&gt;&lt;p&gt;サークル内でSlackに移行しようという動きがあったので，メールに加えてSlackにも投稿できるようにしました．&lt;/p&gt;
+&lt;p&gt;Slackには&lt;a href=&#34;https://api.slack.com/&#34;&gt;Slack API&lt;/a&gt;というAPIがあります．&lt;font color=&#34;DarkGray&#34;&gt;背景が電子工作っぽくて可愛い．&lt;/font&gt;&lt;br&gt;APIの詳しい説明は省きますが，今回はメッセージを送信するだけの簡単なお仕事なので，WEB APIを使います．&lt;/p&gt;
+&lt;p&gt;トークンを発行すれば，あとはlibcurlを使ってHTTPのPOSTメソッドを投げるだけで，予め設定したチャンネルにメッセージを送信することが出来ました．&lt;/p&gt;
+&lt;h2 id=&#34;GUI&#34;&gt;&lt;a href=&#34;#GUI&#34; class=&#34;headerlink&#34; title=&#34;GUI&#34;&gt;&lt;/a&gt;GUI&lt;/h2&gt;&lt;p&gt;ユーザーインターフェースを良くしたいので，GUI画面を作ります．今回は使い慣れている&lt;a href=&#34;https://www.qt.io/&#34;&gt;Qt&lt;/a&gt;を使おうと思います．Qtでウインドウを作るにはいくつか方法があります．&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;QtCreatorで直感的にデザインする&lt;/li&gt;
+&lt;li&gt;QtCreatorを使わずに直書きする&lt;/li&gt;
+&lt;li&gt;QtQuickでQMLを編集してデザインする&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;3番のQtQuickについては&lt;a href=&#34;http://hantasmouse.hatenablog.jp/archive/category/Qt&#34;&gt;過去記事&lt;/a&gt;を参照してください．&lt;br&gt;今回は複雑な画面を作らないということで，2番の方法で進めました．詳しく書くと長くなるので今回は省略します．&lt;/p&gt;
+&lt;p&gt;GUIソフトのデバッグですが，リモートで実行する方法を知らなかったのでメモっておきます．SSH接続する際に&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;ssh -YC pi@raspberrypi&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;とオプションを付けることで，クライアントからアプリケーションを実行するとクライアントの画面に表示されるようになります．&lt;/p&gt;
+&lt;p&gt;ところで別の問題が発生しました．&lt;br&gt;GUIアプリケーションをコマンドラインから実行すると問題ないのに，ファイラーからダブルクリックで実行できませんでした．&lt;/p&gt;
+&lt;p&gt;ごめんなさい，原因がはっきりとわかっていませんが，次のようにすることで起動できるようになりました．&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;lxterminal -e /home/pi/git/pisystem/pisystem/run.sh&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;今回はラズパイの起動時に自動的にこのアプリケーションを実行させるため，cronを使いました．cronの設定も上記と同じように，&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;@reboot lxterminal -e /home/pi/git/pisystem/pisystem/run.sh&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;という風にしました．&lt;/p&gt;
+&lt;h1 id=&#34;動作確認&#34;&gt;&lt;a href=&#34;#動作確認&#34; class=&#34;headerlink&#34; title=&#34;動作確認&#34;&gt;&lt;/a&gt;動作確認&lt;/h1&gt;&lt;p&gt;とりあえず動くようになりました！&lt;br&gt;&lt;em&gt;(実は超不安定とか口が裂けても言えない)&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;動くようになりました。動画では見えませんが、同時にSlackに投稿しています。 &lt;a href=&#34;https://t.co/KfXeO77V20&#34;&gt;pic.twitter.com/KfXeO77V20&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/857581221794140160&#34;&gt;2017年4月27日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;動画は一人分のカードのデモです．まだ画面も開発段階のものなのでパッとしません．&lt;/p&gt;
+&lt;p&gt;次の動画は，カードの追加から複数ユーザーの操作，Slackへの送信までを一通り行ったデモです．&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/upV2V_IabA0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&#34;まとめ&#34;&gt;&lt;a href=&#34;#まとめ&#34; class=&#34;headerlink&#34; title=&#34;まとめ&#34;&gt;&lt;/a&gt;まとめ&lt;/h1&gt;&lt;p&gt;無事にソフトウェアが完成しました．&lt;br&gt;果たしてpisystemは面倒くさがりのMice部員に利用してもらえるのか！？&lt;br&gt;次回に続く予定&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

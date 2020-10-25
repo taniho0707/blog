@@ -1,0 +1,21 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "taniho's blog • All posts by \"media\" category",
+    "description": "technical note",
+    "home_page_url": "http://blog.taniho.net",
+    "items": [
+        {
+            "id": "http://blog.taniho.net/2016/06/ArchLinux%E3%81%A7Blu-ray%E3%82%92%E5%86%8D%E7%94%9F%E3%81%99%E3%82%8B/",
+            "url": "http://blog.taniho.net/2016/06/ArchLinux%E3%81%A7Blu-ray%E3%82%92%E5%86%8D%E7%94%9F%E3%81%99%E3%82%8B/",
+            "title": "ArchLinuxでBlu-rayを再生する",
+            "date_published": "2016-06-09T15:30:17.000Z",
+            "content_html": "<h1 id=\"エンバンデビュー！\"><a href=\"#エンバンデビュー！\" class=\"headerlink\" title=\"エンバンデビュー！\"></a>エンバンデビュー！</h1><p>先日，初めてBlu-ray，いわゆる円盤を購入しました．</p>\n<blockquote class=\"twitter-tweet\" data-lang=\"ja\"><p lang=\"ja\" dir=\"ltr\">お ま た せ <a href=\"https://t.co/J2s1NGQeME\">pic.twitter.com/J2s1NGQeME</a></p>&mdash; taniho・モチマッヅィ (@taniho_0707) <a href=\"https://twitter.com/taniho_0707/status/740753404524257280\">2016年6月9日</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n<p>とりあえずいつものArchWikiより，<a href=\"https://wiki.archlinuxjp.org/index.php/Blu-ray\">Blu-rayについての記事</a>を見ながら再生環境を整えようとしました．<br>しかし，方法1を試しても鍵の認証ができない，方法2はそもそも鍵データが古すぎる……，ということで嘆いていました．ああ，心待ちにしていた円盤が再生できない……．<br>どうやら，今回買った円盤はAACS v46だそうで，この方法は古すぎるようです．</p>\n<p>と，そこに素晴らしい記事が舞い込んできました．<br><a href=\"https://blog.myon.info/blog/2014-12-21/play_blu_rau_in_archlinux/\">対Blu-ray用決戦部隊、通称MakeMKV</a></p>\n<p>詳しくはこちらの記事を参照してください．<br>簡単に言うと，</p>\n<blockquote>\n<p>一般的に使われているライブラリの代わりにMakeMKVで使われてるライブラリを使うことで，VLCでBDの再生ができる</p>\n</blockquote>\n<p>ということです．<br>MakeMKVというのはBlu-rayのリッピングツールであるため，取り扱いにはくれぐれも注意してください．</p>\n<p>というわけで，ArchLinuxの場合はユーザーリポジトリに入っているようなので</p>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">yaourt -S makemkv-libaacs</span><br></pre></td></tr></table></figure>\n\n<p>を実行し，VLCを起動し，Blu-rayディスクを再生しようとすると……，</p>\n<blockquote class=\"twitter-tweet\" data-lang=\"ja\"><p lang=\"ja\" dir=\"ltr\">【祝】Blu-ray再生に成功 <a href=\"https://t.co/zdgGgvHDX5\">pic.twitter.com/zdgGgvHDX5</a></p>&mdash; taniho・モチマッヅィ (@taniho_0707) <a href=\"https://twitter.com/taniho_0707/status/740922675187453953\">2016年6月9日</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n<p>参考にしたサイトの管理者の方，本当にありがとうございました．</p>\n<p>ただし，メニューには対応していないようでした……．どうにかできないのでしょうか．</p>\n<h1 id=\"余談\"><a href=\"#余談\" class=\"headerlink\" title=\"余談\"></a>余談</h1><p>今回の再生環境や，Windowsの怪しいフリーソフトでの再生時には，映像が乱れたり画面が止まったりすることが何度かありました．PowerDVDなどの純正ソフトで再生したときにはこんなことなかった気がします．<br>何が違うのでしょうか……？<br>きれいに再生する方法をご存知の方，教えてください．</p>\n",
+            "tags": [
+                "ArchLinux",
+                "たまこまーけっと",
+                "Blu-ray",
+                "VLC"
+            ]
+        }
+    ]
+}

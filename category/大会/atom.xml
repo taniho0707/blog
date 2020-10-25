@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;大会&#34; category</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2017-10-31T08:38:02.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2017/10/%E5%AD%A6%E7%94%9F%E6%9C%80%E7%B5%82%E5%B9%B4%E5%BA%A6%E3%81%AE%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A/</id>
+        <title>学生最終年度の地区大会</title>
+        <link rel="alternate" href="http://blog.taniho.net/2017/10/%E5%AD%A6%E7%94%9F%E6%9C%80%E7%B5%82%E5%B9%B4%E5%BA%A6%E3%81%AE%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A/"/>
+        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;今年一年の地区大会を振り返り，改めて全日本の目標を考えようと思います．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;プチ大会&#34;&gt;&lt;a href=&#34;#プチ大会&#34; class=&#34;headerlink&#34; title=&#34;プチ大会&#34;&gt;&lt;/a&gt;プチ大会&lt;/h1&gt;&lt;p&gt;鵤くんはまだ書き込めただけの状態(3体目)．この頃センサのピン配置が逆になっていることに気付く．&lt;/p&gt;
+&lt;p&gt;あいにくの雨でしたが大勢の方に来ていただいて大盛況でした．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;「鵤」くん、出走しました &lt;a href=&#34;https://twitter.com/hashtag/Mice%E3%83%97%E3%83%81%E5%A4%A7%E4%BC%9A?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Miceプチ大会&lt;/a&gt; &lt;a href=&#34;https://t.co/SrqWxe3PKb&#34;&gt;pic.twitter.com/SrqWxe3PKb&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/878867806107820034?ref_src=twsrc%5Etfw&#34;&gt;2017年6月25日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;h1 id=&#34;関西大会&#34;&gt;&lt;a href=&#34;#関西大会&#34; class=&#34;headerlink&#34; title=&#34;関西大会&#34;&gt;&lt;/a&gt;関西大会&lt;/h1&gt;&lt;p&gt;詳しくは昔の記事を見てください．前作のタニタンv2.0Hが頑張ってくれました．鵤くんはまだ書き込めただけの状態(この後書き込めなくなる模様)．&lt;/p&gt;
+&lt;p&gt;行きは台風と重なり，船が出港するかヒヤヒヤでした．そういえば関西大会には5人で行きましたが1人は途中で消え，2人は会場で合流し，もう1人は会ったり別れたりしていました．みんな仲悪いね．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.taniho.net/2017/07/2017%E5%B9%B4%E5%BA%A6%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E9%96%A2%E8%A5%BF%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A%E3%81%A7%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E3%82%92%E6%89%8B%E3%81%AB%E5%85%A5%E3%82%8C%E3%81%9F/&#34;&gt;2017年度マイクロマウス関西地区大会でおもちゃを手に入れた | taniho’s blog&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;北信越大会&#34;&gt;&lt;a href=&#34;#北信越大会&#34; class=&#34;headerlink&#34; title=&#34;北信越大会&#34;&gt;&lt;/a&gt;北信越大会&lt;/h1&gt;&lt;p&gt;あいにくの台風でしたが，無事に帰ってこられて一安心です．&lt;/p&gt;
+&lt;p&gt;タニタンv2.0Hは壁切れカウントがずれてゴールを素通りするという大失態．認定証はもらえませんでしたがこれで&lt;strong&gt;引退&lt;/strong&gt;です(多分？)．&lt;/p&gt;
+&lt;p&gt;鵤くんは無事新しい基板を手に入れ，左手法を実装していました．タイヤ径とセンサ値が全然あっていないのでぐるぐる周るだけのおもちゃでしたが，まあ可愛さアピールは出来たと思います．&lt;br&gt;&lt;strong&gt;LEDを3個搭載した旗&lt;/strong&gt;についてはこちらの記事を見てください．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.taniho.net/2017/09/%E3%82%AF%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9E%E3%82%A6%E3%82%B9%E7%94%A8%E3%81%AE%E6%97%97%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F/&#34;&gt;クォーターマウス用の旗を作った | taniho’s blog&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;台湾大会&#34;&gt;&lt;a href=&#34;#台湾大会&#34; class=&#34;headerlink&#34; title=&#34;台湾大会&#34;&gt;&lt;/a&gt;台湾大会&lt;/h1&gt;&lt;p&gt;今年も台湾に飛び，招待選手の方々と共に美味しいご飯を頂いたりして，本当にお世話になりました．次台湾に行ったときには必ず最短ゴールしたいと思います．&lt;/p&gt;
+&lt;p&gt;鵤くんはまだ左手法しか実装していませんでした．タイヤ径は合わせましたが，PIDゲインがまだまだあっておらず苦しい状態でした．&lt;/p&gt;
+&lt;h1 id=&#34;学生大会&#34;&gt;&lt;a href=&#34;#学生大会&#34; class=&#34;headerlink&#34; title=&#34;学生大会&#34;&gt;&lt;/a&gt;学生大会&lt;/h1&gt;&lt;p&gt;鵤くんに往復足立法と速度が変わらない最短走行を実装し，勝負に行きました．その結果なんと，&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;gakusei.jpg&#34; alt=&#34;特別賞！&#34;&gt;&lt;/p&gt;
+&lt;p&gt;非常に小さいマウスを苦労してゴールさせたということで，特別賞をいただきました．この瞬間&lt;strong&gt;「(自称)世界最小のマイクロマウス」&lt;/strong&gt;誕生です🤗🤗🤗&lt;/p&gt;
+&lt;p&gt;初めてゴールしたことは大変嬉しかったのですが，実は迷路情報が壊れていたので「たまたまゴールした」というだけなのでした．&lt;/p&gt;
+&lt;h1 id=&#34;東北大会&#34;&gt;&lt;a href=&#34;#東北大会&#34; class=&#34;headerlink&#34; title=&#34;東北大会&#34;&gt;&lt;/a&gt;東北大会&lt;/h1&gt;&lt;p&gt;東北大会の会場は非常にシビアな会場です．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;「東北大会の会場はセンサの良い実験フィールドでして」&lt;br&gt;「場所によって照度が変わります」&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/916828478661574656?ref_src=twsrc%5Etfw&#34;&gt;2017年10月8日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;はい，横壁が見れなくて死にました．&lt;/p&gt;
+&lt;p&gt;こちらは控室で開催されたクォーターサイズ競技の様子です(嘘)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;quarter.jpg&#34; alt=&#34;迫りくるneuさん&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;東日本大会&#34;&gt;&lt;a href=&#34;#東日本大会&#34; class=&#34;headerlink&#34; title=&#34;東日本大会&#34;&gt;&lt;/a&gt;東日本大会&lt;/h1&gt;&lt;p&gt;ROBO-ONE，相撲ロボット，マイクロマウスの合同開催です．ROBO-ONEは東北大会で合同開催していたこともあったので，相撲ロボットをメインに見ていました．いやー怖いねこの競技．&lt;/p&gt;
+&lt;p&gt;鵤くんがどうだったかと言うと，前壁センサが上手く働かずに壁を作ってしまっていました．せっかく入念に調整をしていたので，非常に残念です．&lt;/p&gt;
+&lt;p&gt;いろんな方とお話が出来たので，あいにくの雨でしたが非常に楽しい一日でした．&lt;/p&gt;
+&lt;h1 id=&#34;九州大会&#34;&gt;&lt;a href=&#34;#九州大会&#34; class=&#34;headerlink&#34; title=&#34;九州大会&#34;&gt;&lt;/a&gt;九州大会&lt;/h1&gt;&lt;p&gt;九州まで飛びました．Starflyer+JALというなんとも贅沢な旅です．しかし超大型台風が接近した影響で帰りの飛行機が運休してしまい，すごく冷や汗をかきました．無事帰ってこられてよかったですほんと．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kyushu.jpg&#34; alt=&#34;今年は熊本高専での開催でした&#34;&gt;&lt;/p&gt;
+&lt;p&gt;大会は，&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;探索ゴール(バグにより帰ってこず)&lt;/li&gt;
+&lt;li&gt;0.3m/s小回り最短ゴール&lt;/li&gt;
+&lt;li&gt;重ね探索(帰りでコケる)&lt;/li&gt;
+&lt;li&gt;重ね探索で帰ってくる&lt;/li&gt;
+&lt;li&gt;0.3m/s斜め最短失敗&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;という感じですが，まあひとまず最短が成功したということで成果はあったと思います．斜めはパフォーマンスのつもりでやったので，むしろ思った以上に進んでくれて嬉しかったくらいです．全日本では成功させたい．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;photogenic.jpg&#34; alt=&#34;フォトジェニックな写真&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;そして一ヶ月天下&#34;&gt;&lt;a href=&#34;#そして一ヶ月天下&#34; class=&#34;headerlink&#34; title=&#34;そして一ヶ月天下&#34;&gt;&lt;/a&gt;そして一ヶ月天下&lt;/h1&gt;&lt;p&gt;完全に負けた&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://nseyu.seesaa.net/article/454551085.html&#34;&gt;2017地区大会終了(東北地区大会/中部地区大会/世界最小のマイクロマウス): Nse製作室&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;長さ・幅・高さどれをとっても追いつけない．&lt;br&gt;全日本ではクォーターサイズクラスで一番良いタイムを出せるようにがんばります．&lt;/p&gt;
+&lt;h1 id=&#34;鵤くん&#34;&gt;&lt;a href=&#34;#鵤くん&#34; class=&#34;headerlink&#34; title=&#34;鵤くん&#34;&gt;&lt;/a&gt;鵤くん&lt;/h1&gt;&lt;p&gt;鵤くんの特徴をまとめておきます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;atama.jpg&#34; alt=&#34;部長とのサイズ比較&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;ikaru1.jpg&#34; alt=&#34;正面&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;ikaru2.jpg&#34; alt=&#34;背面&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;スペック&#34;&gt;&lt;a href=&#34;#スペック&#34; class=&#34;headerlink&#34; title=&#34;スペック&#34;&gt;&lt;/a&gt;スペック&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;サイズ：29x19.2x19mm&lt;/li&gt;
+&lt;li&gt;重さ：5.3g&lt;/li&gt;
+&lt;li&gt;CPU：STM32F412CE&lt;/li&gt;
+&lt;li&gt;LiPo：Indoor Airpolane World 50mAh&lt;/li&gt;
+&lt;li&gt;壁センサ：TT Electronics OP224 + OP644SL&lt;/li&gt;
+&lt;li&gt;ジャイロセンサ：STmicro LSM6DS3TR&lt;/li&gt;
+&lt;li&gt;エンコーダ：ams AS5147P&lt;/li&gt;
+&lt;li&gt;動輪：直径10mm，幅2mm，POM&lt;/li&gt;
+&lt;li&gt;タイヤ：シリコンチューブ&lt;/li&gt;
+&lt;li&gt;モータ：didel MK04S-10&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;その他特徴&#34;&gt;&lt;a href=&#34;#その他特徴&#34; class=&#34;headerlink&#34; title=&#34;その他特徴&#34;&gt;&lt;/a&gt;その他特徴&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;旗が立つ&lt;/li&gt;
+&lt;li&gt;かわいい&lt;/li&gt;
+&lt;li&gt;スピーカー・FRAM搭載&lt;/li&gt;
+&lt;li&gt;電源を外部からON/OFFできる&lt;/li&gt;
+&lt;li&gt;ようやく距離最短経路が導出できるようになった&lt;/li&gt;
+&lt;li&gt;かわいい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;全日本大会&#34;&gt;&lt;a href=&#34;#全日本大会&#34; class=&#34;headerlink&#34; title=&#34;全日本大会&#34;&gt;&lt;/a&gt;全日本大会&lt;/h1&gt;&lt;p&gt;斜め最短を決めることが目標です&lt;/p&gt;
+</content>
+        <category term="マイクロマウス" />
+        <category term="鵤" />
+        <updated>2017-10-31T08:38:02.000Z</updated>
+    </entry>
+</feed>

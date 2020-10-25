@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>taniho&#39;s blog • Posts by &#34;教習所&#34; tag</title>
+        <link>http://blog.taniho.net</link>
+        <description>technical note</description>
+        <language>en</language>
+        <pubDate>Sun, 10 Dec 2017 08:13:00 +0900</pubDate>
+        <lastBuildDate>Sun, 10 Dec 2017 08:13:00 +0900</lastBuildDate>
+        <category>Emacs</category>
+        <category>ArchLinux</category>
+        <category>マイクロマウス</category>
+        <category>台湾</category>
+        <category>旅行</category>
+        <category>たまこまーけっと</category>
+        <category>2016年</category>
+        <category>買い物</category>
+        <category>おすすめ</category>
+        <category>日常</category>
+        <category>2017年</category>
+        <category>クリスマス</category>
+        <category>Elecrow</category>
+        <category>電子工作</category>
+        <category>関西地区大会</category>
+        <category>猫</category>
+        <category>Apache</category>
+        <category>letsencrypt</category>
+        <category>Blu-ray</category>
+        <category>VLC</category>
+        <category>CNC</category>
+        <category>Magit</category>
+        <category>git</category>
+        <category>MFT</category>
+        <category>RaspberryPi</category>
+        <category>無線LAN</category>
+        <category>Mice</category>
+        <category>鵤</category>
+        <category>メジロ</category>
+        <category>Qt</category>
+        <category>デレステ</category>
+        <category>yakudo</category>
+        <category>Android</category>
+        <category>Discord</category>
+        <category>Webアプリ</category>
+        <category>教習所</category>
+        <category>ロボット</category>
+        <category>Linux</category>
+        <category>remark</category>
+        <category>スライドショー</category>
+        <category>ごはん</category>
+        <category>金町</category>
+        <category>クレジットカード</category>
+        <category>ヘボコン</category>
+        <category>ボードゲーム</category>
+        <category>Quadcept</category>
+        <category>CAD</category>
+        <category>Doxygen</category>
+        <category>2018年</category>
+        <category>dアニメストア</category>
+        <category>Renesas</category>
+        <category>RX62T</category>
+        <category>e2studio</category>
+        <category>github</category>
+        <category>マウス</category>
+        <category>分解</category>
+        <category>logicool</category>
+        <category>M570</category>
+        <category>G700s</category>
+        <category>seccamp2016</category>
+        <category>seccamp</category>
+        <category>ownCloud</category>
+        <category>サーバー</category>
+        <category>subsonic</category>
+        <category>音楽</category>
+        <category>みそ煮込みうどん</category>
+        <category>I.Sys</category>
+        <category>フラッグLED</category>
+        <category>i3</category>
+        <category>wm</category>
+        <category>AdventCalendar</category>
+        <category>モード</category>
+        <category>迷路</category>
+        <category>C++</category>
+        <category>調整</category>
+        <category>中華</category>
+        <category>まとめ</category>
+        <category>助けて</category>
+        <category>三角関数</category>
+        <category>福岡</category>
+        <category>東北地区大会</category>
+        <category>STL</category>
+        <category>入門</category>
+        <category>ラズパイコンテスト</category>
+        <category>NFC</category>
+        <category>C言語</category>
+        <category>部品</category>
+        <category>管理</category>
+        <category>電子部品</category>
+        <category>STM32CubeMX</category>
+        <category>FTDI</category>
+        <category>Makefile</category>
+        <category>アプリ</category>
+        <category>はてな</category>
+        <category>インターン</category>
+        <category>最高</category>
+        <category>セキュリティ・キャンプ</category>
+        <item>
+            <guid isPermalink="true">http://blog.taniho.net/2017/12/TAC-10-%E8%87%AA%E5%8B%95%E8%BB%8A%E6%95%99%E7%BF%92%E6%89%80%E3%82%92%E3%82%B5%E3%83%9C%E3%82%8B%E3%81%A8%E3%81%A9%E3%81%86%E3%81%AA%E3%82%8B%E3%81%AE%E3%81%8B/</guid>
+            <title>[TAC:10] 自動車教習所をサボるとどうなるのか</title>
+            <link>http://blog.taniho.net/2017/12/TAC-10-%E8%87%AA%E5%8B%95%E8%BB%8A%E6%95%99%E7%BF%92%E6%89%80%E3%82%92%E3%82%B5%E3%83%9C%E3%82%8B%E3%81%A8%E3%81%A9%E3%81%86%E3%81%AA%E3%82%8B%E3%81%AE%E3%81%8B/</link>
+            <category>教習所</category>
+            <pubDate>Sun, 10 Dec 2017 08:13:00 +0900</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;この記事は&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;の10日目の記事です．&lt;/p&gt;
+&lt;p&gt;今日は全国の大学生が集結する「自動車教習所」について僕の体験談をお話しします．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;入所&#34;&gt;&lt;a href=&#34;#入所&#34; class=&#34;headerlink&#34; title=&#34;入所&#34;&gt;&lt;/a&gt;入所&lt;/h1&gt;&lt;p&gt;今となっては昔のことですが，2014年3月31日，車を運転したいと思い立ち，大学近くの自動車教習所に行きました．受付でMTの普通自動車免許を取りたいという旨を伝え，入所手続きを進めました．必要事項を記入し，写真を撮影し，視力検査……，ここで問題が発生．&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 眼鏡の度が合っていなくて入所できない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;昔より視力が悪くなっていたようで，規定の視力がありませんでした．受付のおばさんには教習所来る前にちゃんとしろとクッソ怒られる始末．近くのメガネ屋の招待状を書いてもらいました．&lt;br&gt;ところでこの日は2014年3月31日なのですが，翌日から何が始まるのか皆さん覚えていますか？&lt;br&gt;**消費税が8%**になります．……というわけで，お願いして31日の入所手続き扱いにしてもらいました．30万支払いする場合の5%→8%は大きいですもん．&lt;/p&gt;
+&lt;h1 id=&#34;第1段階&#34;&gt;&lt;a href=&#34;#第1段階&#34; class=&#34;headerlink&#34; title=&#34;第1段階&#34;&gt;&lt;/a&gt;第1段階&lt;/h1&gt;&lt;p&gt;さて，1週間後に無事眼鏡を購入し，入所も無事完了しました．初めのうちは真面目に学科に通い，ぼちぼちと技能も入れていたのですが，段々と面倒になっていきます．&lt;br&gt;何が面倒かというと，僕の場合は3つあります．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;学科の時間割が複雑で考えるのが面倒&lt;/li&gt;
+&lt;li&gt;技能の予約のために教習所に行くのが面倒&lt;br&gt;スケジュールの兼ね合いなどで一度予約を入れなかったら，もう技能の予約ができなくなる&lt;/li&gt;
+&lt;li&gt;そもそも教習所に行くのが面倒&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;もうダメですね，僕には向いてないと思います．&lt;br&gt;そんなこんなで月日が流れていきます．そして2ヶ月が経とうとした頃……&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 「教習所に来なさい」というハガキが届く&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「あなたは○月○日から来ていません．卒業期限は○月○日です．」というハガキが届きました．親切ですね！！&lt;/p&gt;
+&lt;p&gt;これはマズいぞと思った僕は，再び教習所に行くようになりました．学科はぼちぼち進めていき，ほとんどの科目を受講しました．ただ技能はどうしても面倒くさく，毎回&lt;strong&gt;当日のキャンセル待ち&lt;/strong&gt;で進めていきました．&lt;br&gt;しかしこの方法にも限界がありました．&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. キャンセル待ちが出来ない技能教習がある&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;みきわめなどが代表的な例ですね．必ず事前予約が必要な教習があります．こういった予約は比較的埋まっていることが多く，翌日などの予約が入れられない場合があるため，大変困りました．&lt;br&gt;そんなこんながあり，11月末頃まで教習所に行かない日々がまた続いていました．届いたハガキの枚数はおそらく4枚位になっていたと思います．ちなみに卒業の期限は&lt;strong&gt;12月31日&lt;/strong&gt;です．年末なので少し早い28日頃が実質のデッドラインでした．&lt;/p&gt;
+&lt;p&gt;さていい加減マズいということで，教習所に行って受付で「僕大丈夫でしょうか」と聞くと「どうして来なかったの！？ もう間に合わないよ」と怒られました．至極まっとうな意見だと思いました．&lt;/p&gt;
+&lt;p&gt;ということで……&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. 仮免取得して卒業し，教習所に再入所した&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特別に&lt;/strong&gt;無料で教習を入れまくってもらい(通常は追加料金を払う必要がある)，第1段階をすべて修了し，仮免許を取得した状態で期限切れ，入所金およそ10万円を払い直して第2段階から再開する形で再入所しました．第2段階の教習費用は全額払い戻ししていただけたのですが，非常に痛い出費でした．&lt;/p&gt;
+&lt;h1 id=&#34;第2段階&#34;&gt;&lt;a href=&#34;#第2段階&#34; class=&#34;headerlink&#34; title=&#34;第2段階&#34;&gt;&lt;/a&gt;第2段階&lt;/h1&gt;&lt;p&gt;いい加減反省したので，第2段階は真面目に受けていました．教習所の卒業期限は9ヶ月間ですが，仮免許の有効期間は取得から6ヶ月なので，割と頻繁に通っていました．&lt;br&gt;そういえば教習手帳？に「仮免再入所」と書かれているらしく，教官の方々には「再入所？ 免許取り直ししてるの？」「めずらしいねー」などと散々笑われた気がします．&lt;/p&gt;
+&lt;p&gt;とまあ，そんなこんなで無事(？)教習所を卒業することが出来ました．&lt;/p&gt;
+&lt;h1 id=&#34;まとめ&#34;&gt;&lt;a href=&#34;#まとめ&#34; class=&#34;headerlink&#34; title=&#34;まとめ&#34;&gt;&lt;/a&gt;まとめ&lt;/h1&gt;&lt;p&gt;みなさん，教習所はサボってもろくなことがありません．&lt;strong&gt;余裕を持って卒業しましょう&lt;/strong&gt;．&lt;/p&gt;
+&lt;p&gt;明日の&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;は今年買って良かったものの紹介をしようと思います．&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>taniho&#39;s blog • Posts by &#34;メジロ&#34; tag</title>
+        <link>http://blog.taniho.net</link>
+        <description>technical note</description>
+        <language>en</language>
+        <pubDate>Tue, 05 Dec 2017 00:00:00 +0900</pubDate>
+        <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0900</lastBuildDate>
+        <category>Emacs</category>
+        <category>ArchLinux</category>
+        <category>マイクロマウス</category>
+        <category>台湾</category>
+        <category>旅行</category>
+        <category>たまこまーけっと</category>
+        <category>2016年</category>
+        <category>買い物</category>
+        <category>おすすめ</category>
+        <category>日常</category>
+        <category>2017年</category>
+        <category>クリスマス</category>
+        <category>Elecrow</category>
+        <category>電子工作</category>
+        <category>関西地区大会</category>
+        <category>猫</category>
+        <category>Apache</category>
+        <category>letsencrypt</category>
+        <category>Blu-ray</category>
+        <category>VLC</category>
+        <category>CNC</category>
+        <category>Magit</category>
+        <category>git</category>
+        <category>MFT</category>
+        <category>RaspberryPi</category>
+        <category>無線LAN</category>
+        <category>Mice</category>
+        <category>鵤</category>
+        <category>メジロ</category>
+        <category>Qt</category>
+        <category>デレステ</category>
+        <category>yakudo</category>
+        <category>Android</category>
+        <category>Discord</category>
+        <category>Webアプリ</category>
+        <category>教習所</category>
+        <category>ロボット</category>
+        <category>Linux</category>
+        <category>remark</category>
+        <category>スライドショー</category>
+        <category>ごはん</category>
+        <category>金町</category>
+        <category>クレジットカード</category>
+        <category>ヘボコン</category>
+        <category>ボードゲーム</category>
+        <category>Quadcept</category>
+        <category>CAD</category>
+        <category>Doxygen</category>
+        <category>2018年</category>
+        <category>dアニメストア</category>
+        <category>Renesas</category>
+        <category>RX62T</category>
+        <category>e2studio</category>
+        <category>github</category>
+        <category>マウス</category>
+        <category>分解</category>
+        <category>logicool</category>
+        <category>M570</category>
+        <category>G700s</category>
+        <category>seccamp2016</category>
+        <category>seccamp</category>
+        <category>ownCloud</category>
+        <category>サーバー</category>
+        <category>subsonic</category>
+        <category>音楽</category>
+        <category>みそ煮込みうどん</category>
+        <category>I.Sys</category>
+        <category>フラッグLED</category>
+        <category>i3</category>
+        <category>wm</category>
+        <category>AdventCalendar</category>
+        <category>モード</category>
+        <category>迷路</category>
+        <category>C++</category>
+        <category>調整</category>
+        <category>中華</category>
+        <category>まとめ</category>
+        <category>助けて</category>
+        <category>三角関数</category>
+        <category>福岡</category>
+        <category>東北地区大会</category>
+        <category>STL</category>
+        <category>入門</category>
+        <category>ラズパイコンテスト</category>
+        <category>NFC</category>
+        <category>C言語</category>
+        <category>部品</category>
+        <category>管理</category>
+        <category>電子部品</category>
+        <category>STM32CubeMX</category>
+        <category>FTDI</category>
+        <category>Makefile</category>
+        <category>アプリ</category>
+        <category>はてな</category>
+        <category>インターン</category>
+        <category>最高</category>
+        <category>セキュリティ・キャンプ</category>
+        <item>
+            <guid isPermalink="true">http://blog.taniho.net/2017/12/TAC-05-USB%E3%83%8F%E3%83%96%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%97%E3%81%9F%E3%82%8A%E3%81%97%E3%81%A6%E5%B0%82%E7%94%A8%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F/</guid>
+            <title>[TAC:05] USBハブを自作したりして専用基板を作った</title>
+            <link>http://blog.taniho.net/2017/12/TAC-05-USB%E3%83%8F%E3%83%96%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%97%E3%81%9F%E3%82%8A%E3%81%97%E3%81%A6%E5%B0%82%E7%94%A8%E5%9F%BA%E6%9D%BF%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F/</link>
+            <category>メジロ</category>
+            <pubDate>Tue, 05 Dec 2017 00:00:00 +0900</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;この記事は&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;の5日目の記事です．&lt;/p&gt;
+&lt;p&gt;今日は「鵤」専用の書き込み兼充電兼インターフェース基板である「メジロ」を紹介します．載っている書き込み回路と充電回路は，前回と前々回のブログを見てください．今回の記事では，メジロちゃんのインターフェース機能について紹介します．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;メジロちゃん&#34;&gt;&lt;a href=&#34;#メジロちゃん&#34; class=&#34;headerlink&#34; title=&#34;メジロちゃん&#34;&gt;&lt;/a&gt;メジロちゃん&lt;/h1&gt;&lt;p&gt;これがメジロちゃんです．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;mejiro.jpg&#34; alt=&#34;メジロちゃん&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;機能&#34;&gt;&lt;a href=&#34;#機能&#34; class=&#34;headerlink&#34; title=&#34;機能&#34;&gt;&lt;/a&gt;機能&lt;/h1&gt;&lt;p&gt;これがメジロちゃんの全機能です．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;マイコン内蔵&lt;/li&gt;
+&lt;li&gt;uOLED液晶搭載&lt;/li&gt;
+&lt;li&gt;USB-UART変換 x2&lt;/li&gt;
+&lt;li&gt;LiPo1セル充電 x3&lt;/li&gt;
+&lt;li&gt;鵤の電源制御&lt;/li&gt;
+&lt;li&gt;鵤のモード制御&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2つのマイコンを使う&#34;&gt;&lt;a href=&#34;#2つのマイコンを使う&#34; class=&#34;headerlink&#34; title=&#34;2つのマイコンを使う&#34;&gt;&lt;/a&gt;2つのマイコンを使う&lt;/h2&gt;&lt;p&gt;メジロちゃんと鵤くんをつなげた状態でパソコンに接続すると，USB1ポートにマイコンが2個繋がった状態になっています．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;usb.png&#34; alt=&#34;つながる頭&#34;&gt;&lt;/p&gt;
+&lt;p&gt;そして，メジロちゃんと鵤くんと同時に通信をしたいということがあり，頭の悪い僕はUSBハブを内蔵させてしまいました．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.microchip.com/wwwproducts/en/USB2422&#34;&gt;USB2422 - USB - USB Hubs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;メジロちゃんを接続すると，パソコンから2つのポートとして認識されます．このおかげで，「メジロちゃんから鵤くん電源ON→鵤くん書き込み→鵤くん電源OFF」という一連の作業を楽に行えるようになりました．&lt;/p&gt;
+&lt;h2 id=&#34;電源制御・モード制御&#34;&gt;&lt;a href=&#34;#電源制御・モード制御&#34; class=&#34;headerlink&#34; title=&#34;電源制御・モード制御&#34;&gt;&lt;/a&gt;電源制御・モード制御&lt;/h2&gt;&lt;p&gt;メジロちゃんに載っているマイコンが，鵤くんの電源用FETのゲート端子に接続されています．回路図はこんな感じです．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;1.png&#34; alt=&#34;メジロちゃん側のコネクタ周辺&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;2.png&#34; alt=&#34;鵤くん側のコネクタ周辺&#34;&gt;&lt;/p&gt;
+&lt;p&gt;メジロちゃんをパソコンに接続し，シリアルでメジロちゃんに信号を送ることで，鵤くんの電源をON/OFFすることが出来ます．&lt;/p&gt;
+&lt;p&gt;鵤くんのモード制御も同様に，メジロちゃんから書き込みモードと実行モードを変更できるようにしています．&lt;/p&gt;
+&lt;p&gt;鵤くん書き込みのコマンドはこんな感じです．アルファベット1文字をメジロちゃんへの命令にして，鵤くんを制御しています．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;d: Power Off&lt;/li&gt;
+&lt;li&gt;u: Power On&lt;/li&gt;
+&lt;li&gt;w: Write Mode&lt;/li&gt;
+&lt;li&gt;r: Run Mode&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight makefile&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;echo d &amp;gt; /dev/serial/by-id/usb-FTDI_FT230X_Basic_UART_MEJIRO01-if00-port0&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;echo w &amp;gt; /dev/serial/by-id/usb-FTDI_FT230X_Basic_UART_MEJIRO01-if00-port0&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;sleep 0.1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;echo u &amp;gt; /dev/serial/by-id/usb-FTDI_FT230X_Basic_UART_MEJIRO01-if00-port0&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;sleep 0.3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;stm32flash -b 230400 -w build/Ikaru.hex /dev/serial/by-id/usb-FTDI_FT230X_Basic_UART_MEJIRO02-if00-port0 -e 80&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;echo d &amp;gt; /dev/serial/by-id/usb-FTDI_FT230X_Basic_UART_MEJIRO01-if00-port0&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;echo r &amp;gt; /dev/serial/by-id/usb-FTDI_FT230X_Basic_UART_MEJIRO01-if00-port0&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;実際の使い勝手は最高です．次のコマンドを打つだけで，鵤くんの電源をONにして書き込み，電源をOFFにしてくれます．&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;make flash&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;uOLED液晶&#34;&gt;&lt;a href=&#34;#uOLED液晶&#34; class=&#34;headerlink&#34; title=&#34;uOLED液晶&#34;&gt;&lt;/a&gt;uOLED液晶&lt;/h2&gt;&lt;p&gt;昔使用したuOLEDをメジロちゃんに転用しました．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.4dsystems.com.au/product/uOLED_96_G2/&#34;&gt;4D Systems | uOLED-96-G2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;このuOLED，少し高いですが使い勝手が良いのでおすすめです．(ただしマウスに載せると壊れる可能性があるのでやめましょう)&lt;/p&gt;
+&lt;p&gt;鵤くんのLiPoから電源を供給して，uOLEDが動くようにしています．しかし，鵤くんのLiPoの容量が50mAhしか無いので，未だに使っていません．次回作では活用しようと思います．&lt;/p&gt;
+&lt;h1 id=&#34;まとめ&#34;&gt;&lt;a href=&#34;#まとめ&#34; class=&#34;headerlink&#34; title=&#34;まとめ&#34;&gt;&lt;/a&gt;まとめ&lt;/h1&gt;&lt;p&gt;ということで，鵤くんのサポートをするメジロくんの話でした．&lt;/p&gt;
+&lt;p&gt;明日からの&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;はマイクロマウスから離れ，今年製作した作品(？)の紹介を何回かに分けてしようと思っています．&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

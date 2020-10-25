@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "taniho's blog • All posts by \"音ゲー\" category",
+    "description": "technical note",
+    "home_page_url": "http://blog.taniho.net",
+    "items": [
+        {
+            "id": "http://blog.taniho.net/2016/04/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E6%A9%9F%E3%81%AE%E5%95%8F%E9%A1%8C%E7%82%B9/",
+            "url": "http://blog.taniho.net/2016/04/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E6%A9%9F%E3%81%AE%E5%95%8F%E9%A1%8C%E7%82%B9/",
+            "title": "デレステ自動演奏機の問題点",
+            "date_published": "2016-04-13T12:32:30.000Z",
+            "content_html": "<h1 id=\"なんだこれは\"><a href=\"#なんだこれは\" class=\"headerlink\" title=\"なんだこれは\"></a>なんだこれは</h1><p>アイドルマスター シンデレラガールズ スターライトステージという，スマートフォン向けのゲームがあります。<br>いわゆる音ゲーです。<br>未だに先駆者が出ていないため，何を思い立ったか自動演奏機を作っています。<br>※ソフトウェア的に自動クリアする動画はありましたが，自動クリア(物理)はこれが初だと思います。</p>\n<center>\n<blockquote class=\"twitter-tweet\" data-lang=\"ja\"><p lang=\"ja\" dir=\"ltr\">こんなことやってる場合じゃないので短期間凍結します。そのうち完成させます。 <a href=\"https://t.co/LeUXynXp9W\">pic.twitter.com/LeUXynXp9W</a></p>&mdash; taniho/2 (@taniho_0707) <a href=\"https://twitter.com/taniho_0707/status/718776810096361472\">2016年4月9日</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</center>\n\n<h1 id=\"メカ\"><a href=\"#メカ\" class=\"headerlink\" title=\"メカ\"></a>メカ</h1><img src=\"/2016/04/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E6%A9%9F%E3%81%AE%E5%95%8F%E9%A1%8C%E7%82%B9/machine.jpeg\" width=\"600\" />\n\n<p>打鍵用にタカハソレノイドを2個，移動用にサーボモータを2個使っています。<br>スライダクランク機構で打鍵部を移動させています。</p>\n<p>デレステは”スライド”と呼ばれる譜面があるため，打鍵しながら左右に動かせる機構が必要でした。<br>現時点では同時押しは2つまでしかないため，打鍵部は2つのみとしました。</p>\n<h1 id=\"制御\"><a href=\"#制御\" class=\"headerlink\" title=\"制御\"></a>制御</h1><p>制御用のマイコンとして，STM32F401RE nucleo boardを使っています。<br>外付け部品が不要で使うことができ，おねだんも1700円(デバッガ付き)なのでオススメです。</p>\n<h1 id=\"ソフトウェア\"><a href=\"#ソフトウェア\" class=\"headerlink\" title=\"ソフトウェア\"></a>ソフトウェア</h1><img src=\"/2016/04/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E6%A9%9F%E3%81%AE%E5%95%8F%E9%A1%8C%E7%82%B9/software.jpeg\" width=\"600\" />\n\n<p>譜面データをハードコーディングするのだけは絶対にやめたい(ダサいし楽曲追加が面倒)ので，譜面データを作成するソフトを作っています。<br>ついでにQtのお勉強もしています。</p>\n<h1 id=\"今後\"><a href=\"#今後\" class=\"headerlink\" title=\"今後\"></a>今後</h1><p>1,2ヶ月はマイクロマウスと夏コミに専念したいため凍結させますが，夏休み頃から再開させようと考えています。<br>機械の精度を見直し，ソフトを完成させることができれば，それなりに演奏してくれるのではないでしょうか。</p>\n",
+            "tags": [
+                "デレステ"
+            ]
+        }
+    ]
+}

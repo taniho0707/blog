@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>taniho&#39;s blog • Posts by &#34;入門記事&#34; category</title>
+        <link>http://blog.taniho.net</link>
+        <description>technical note</description>
+        <language>en</language>
+        <pubDate>Tue, 23 May 2017 15:53:13 +0900</pubDate>
+        <lastBuildDate>Tue, 23 May 2017 15:53:13 +0900</lastBuildDate>
+        <category>Emacs</category>
+        <category>ArchLinux</category>
+        <category>マイクロマウス</category>
+        <category>台湾</category>
+        <category>旅行</category>
+        <category>たまこまーけっと</category>
+        <category>2016年</category>
+        <category>買い物</category>
+        <category>おすすめ</category>
+        <category>日常</category>
+        <category>2017年</category>
+        <category>クリスマス</category>
+        <category>Elecrow</category>
+        <category>電子工作</category>
+        <category>関西地区大会</category>
+        <category>猫</category>
+        <category>Apache</category>
+        <category>letsencrypt</category>
+        <category>Blu-ray</category>
+        <category>VLC</category>
+        <category>CNC</category>
+        <category>Magit</category>
+        <category>git</category>
+        <category>MFT</category>
+        <category>RaspberryPi</category>
+        <category>無線LAN</category>
+        <category>Mice</category>
+        <category>鵤</category>
+        <category>メジロ</category>
+        <category>Qt</category>
+        <category>デレステ</category>
+        <category>yakudo</category>
+        <category>Android</category>
+        <category>Discord</category>
+        <category>Webアプリ</category>
+        <category>教習所</category>
+        <category>ロボット</category>
+        <category>Linux</category>
+        <category>remark</category>
+        <category>スライドショー</category>
+        <category>ごはん</category>
+        <category>金町</category>
+        <category>クレジットカード</category>
+        <category>ヘボコン</category>
+        <category>ボードゲーム</category>
+        <category>Quadcept</category>
+        <category>CAD</category>
+        <category>Doxygen</category>
+        <category>2018年</category>
+        <category>dアニメストア</category>
+        <category>Renesas</category>
+        <category>RX62T</category>
+        <category>e2studio</category>
+        <category>github</category>
+        <category>マウス</category>
+        <category>分解</category>
+        <category>logicool</category>
+        <category>M570</category>
+        <category>G700s</category>
+        <category>seccamp2016</category>
+        <category>seccamp</category>
+        <category>ownCloud</category>
+        <category>サーバー</category>
+        <category>subsonic</category>
+        <category>音楽</category>
+        <category>みそ煮込みうどん</category>
+        <category>I.Sys</category>
+        <category>フラッグLED</category>
+        <category>i3</category>
+        <category>wm</category>
+        <category>AdventCalendar</category>
+        <category>モード</category>
+        <category>迷路</category>
+        <category>C++</category>
+        <category>調整</category>
+        <category>中華</category>
+        <category>まとめ</category>
+        <category>助けて</category>
+        <category>三角関数</category>
+        <category>福岡</category>
+        <category>東北地区大会</category>
+        <category>STL</category>
+        <category>入門</category>
+        <category>ラズパイコンテスト</category>
+        <category>NFC</category>
+        <category>C言語</category>
+        <category>部品</category>
+        <category>管理</category>
+        <category>電子部品</category>
+        <category>STM32CubeMX</category>
+        <category>FTDI</category>
+        <category>Makefile</category>
+        <category>アプリ</category>
+        <category>はてな</category>
+        <category>インターン</category>
+        <category>最高</category>
+        <category>セキュリティ・キャンプ</category>
+        <item>
+            <guid isPermalink="true">http://blog.taniho.net/2017/05/RaspberryPi%E3%81%A7%E5%AD%A6%E5%86%85%E7%84%A1%E7%B7%9ALAN%E3%81%AB%E6%8E%A5%E7%B6%9A%E3%81%99%E3%82%8B/</guid>
+            <title>RaspberryPiで学内無線LANに接続する</title>
+            <link>http://blog.taniho.net/2017/05/RaspberryPi%E3%81%A7%E5%AD%A6%E5%86%85%E7%84%A1%E7%B7%9ALAN%E3%81%AB%E6%8E%A5%E7%B6%9A%E3%81%99%E3%82%8B/</link>
+            <category>RaspberryPi</category>
+            <category>無線LAN</category>
+            <pubDate>Tue, 23 May 2017 15:53:13 +0900</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;最近ブログの更新をサボっていたのでこんな記事でお茶を濁そうと思います．&lt;/p&gt;
+&lt;p&gt;RaspberryPiで学内の無線LANに接続したいと思ったわけですが，なかなか面倒な認証方式だったのでメモを残しておきます．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;Raspbianでの無線LAN操作&#34;&gt;&lt;a href=&#34;#Raspbianでの無線LAN操作&#34; class=&#34;headerlink&#34; title=&#34;Raspbianでの無線LAN操作&#34;&gt;&lt;/a&gt;Raspbianでの無線LAN操作&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://www.modmypi.com/blog/how-to-set-up-the-ralink-rt5370-wifi-dongle-on-raspian&#34;&gt;ModMyPi | How to Set Up the Ralink RT5370 WiFi Dongle on Raspian&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;認証&#34;&gt;&lt;a href=&#34;#認証&#34; class=&#34;headerlink&#34; title=&#34;認証&#34;&gt;&lt;/a&gt;認証&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://bbs.archlinux.org/viewtopic.php?id=183766&#34;&gt;Wpa_supplicant on WPA2-Enterprise / Newbie Corner / Arch Linux Forums&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;/etc/wpa_supplicant/wpa_supplicant.conf を編集します．&lt;/p&gt;
+&lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;network&amp;#x3D;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        scan_ssid&amp;#x3D;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        ssid&amp;#x3D;&amp;quot;ssid&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        key_mgmt&amp;#x3D;WPA-EAP&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        eap&amp;#x3D;PEAP&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        identity&amp;#x3D;&amp;quot;identity&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        phase1&amp;#x3D;&amp;quot;peaplabel&amp;#x3D;auto peapver&amp;#x3D;0 &amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        phase2&amp;#x3D;&amp;quot;auth&amp;#x3D;MSCHAPV2&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        password&amp;#x3D;&amp;quot;passwd&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;で動きます．&lt;br&gt;設定を変更した後は&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;sudo wpa_action wlan0 stop&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;sudo ifup wlan0&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;sudo wpa_cli status&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;でインターネットにつながるはずです．&lt;/p&gt;
+&lt;h1 id=&#34;次回予告&#34;&gt;&lt;a href=&#34;#次回予告&#34; class=&#34;headerlink&#34; title=&#34;次回予告&#34;&gt;&lt;/a&gt;次回予告&lt;/h1&gt;&lt;p&gt;新作マウスを鋭意製作中！&lt;br&gt;果たして無理な部品実装に僕の手先は耐えられるのか！？&lt;br&gt;タイヤのサイズを考えずに作ったホイールだけどどうなっちゃうの！？&lt;br&gt;次回！ タニタンv3.0H(仮)死す！ お楽しみに！！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;01.png&#34; title=&#34;タイヤ&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

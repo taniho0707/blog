@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "taniho's blog • All posts by \"デレステ\" tag",
+    "description": "technical note",
+    "home_page_url": "http://blog.taniho.net",
+    "items": [
+        {
+            "id": "http://blog.taniho.net/2017/12/TAC-06-%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86%E3%81%AE%E8%AD%9C%E9%9D%A2%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E5%8C%96%E3%81%97%E3%81%9F%E3%81%84/",
+            "url": "http://blog.taniho.net/2017/12/TAC-06-%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86%E3%81%AE%E8%AD%9C%E9%9D%A2%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E5%8C%96%E3%81%97%E3%81%9F%E3%81%84/",
+            "title": "[TAC:06] デレステの譜面をデータ化したい",
+            "date_published": "2017-12-05T15:00:00.000Z",
+            "content_html": "<h1 id=\"はじめに\"><a href=\"#はじめに\" class=\"headerlink\" title=\"はじめに\"></a>はじめに</h1><p>この記事は<a href=\"http://blog.taniho.net/categories/TAC2017/\">taniho Advent Calendar 2017</a>の6日目の記事です．</p>\n<p>今日は昔作った”score-sl-stage”の紹介をします．このソフトウェアは<a href=\"http://cinderella.idolmaster.jp/sl-stage/\">アイドルマスター シンデレラガールズ スターライトステージ（デレステ）</a>で使用される譜面データを作成することができます．もちろん公式のゲームとは一切関係はなく，ゲームで遊べるようなものではありません．</p>\n<a id=\"more\"></a>\n\n<h1 id=\"何のために作ったのか\"><a href=\"#何のために作ったのか\" class=\"headerlink\" title=\"何のために作ったのか\"></a>何のために作ったのか</h1><p>まずはこちらのブログを見てください．</p>\n<p><a href=\"http://blog.taniho.net/2016/04/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86%E8%87%AA%E5%8B%95%E6%BC%94%E5%A5%8F%E6%A9%9F%E3%81%AE%E5%95%8F%E9%A1%8C%E7%82%B9/\">デレステ自動演奏機の問題点 | taniho’s blog</a></p>\n<p>現在，鋭意製作中の自動演奏機です．完成形は近々お見せできると思いますが，今回紹介する”score-sl-stage”はこの自動演奏機で使用する譜面を制作できる，補助ソフトです．既存の楽曲を見ながら譜面を製作し，自動演奏機のプログラムにインポートさせることが出来ます．</p>\n<h1 id=\"Qt\"><a href=\"#Qt\" class=\"headerlink\" title=\"Qt\"></a>Qt</h1><p>GUI画面は<a href=\"https://www.qt.io/\">Qt</a>で作りました．クロスプラットフォーム対応なので，同じコードでWindows版，Linux版のバイナリを生成することが出来ます．</p>\n<p>画面デザインです．最新のMASTER+スライドノーツにも対応しています．<br>“Right”，”Left”という項目があるのは，先ほど紹介した自動演奏機で使うことを想定しているためです．ゆくゆくは自動的に判断できるようにしたいのですが，まずは譜面作成者が指示するところから初めます．</p>\n<p><img src=\"1.png\" alt=\"譜面製作途中\"></p>\n<p>クロスプラットフォームのGUIを作る上でQtを選んだ理由はいくつかあります．</p>\n<ul>\n<li>Android，iPhoneアプリも容易に作れる</li>\n<li>画面デザインとそれ以外を分離して書ける<br>QMLというjsonに似た形式で画面デザインができるので，いちいちコンパイルする必要がなくなる<br><a href=\"https://qiita.com/DAR/items/400a1725ddedcaa6ef0e\">QMLとC++のバインディング - Qiita</a></li>\n<li>javascriptエンジンを内蔵しているので，ある程度はC++を書かなくても動く</li>\n</ul>\n<h1 id=\"まとめ\"><a href=\"#まとめ\" class=\"headerlink\" title=\"まとめ\"></a>まとめ</h1><p>今日のブログは内容が無いような記事になってしまいました．明日から3日間は別のAdvent Calendarに登録しているので気合を入れて書いていこうと思います．</p>\n<p>明日の<a href=\"http://blog.taniho.net/categories/TAC2017/\">taniho Advent Calendar 2017</a>ではQtでAndroidアプリを開発した際に，広告を掲載しようとした話を書きます．</p>\n",
+            "tags": [
+                "Qt",
+                "デレステ"
+            ]
+        }
+    ]
+}

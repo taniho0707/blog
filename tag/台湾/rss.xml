@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>taniho&#39;s blog • Posts by &#34;台湾&#34; tag</title>
+        <link>http://blog.taniho.net</link>
+        <description>technical note</description>
+        <language>en</language>
+        <pubDate>Fri, 22 Dec 2017 18:00:00 +0900</pubDate>
+        <lastBuildDate>Fri, 22 Dec 2017 18:00:00 +0900</lastBuildDate>
+        <category>Emacs</category>
+        <category>ArchLinux</category>
+        <category>マイクロマウス</category>
+        <category>台湾</category>
+        <category>旅行</category>
+        <category>たまこまーけっと</category>
+        <category>2016年</category>
+        <category>買い物</category>
+        <category>おすすめ</category>
+        <category>日常</category>
+        <category>2017年</category>
+        <category>クリスマス</category>
+        <category>Elecrow</category>
+        <category>電子工作</category>
+        <category>関西地区大会</category>
+        <category>猫</category>
+        <category>Apache</category>
+        <category>letsencrypt</category>
+        <category>Blu-ray</category>
+        <category>VLC</category>
+        <category>CNC</category>
+        <category>Magit</category>
+        <category>git</category>
+        <category>MFT</category>
+        <category>RaspberryPi</category>
+        <category>無線LAN</category>
+        <category>Mice</category>
+        <category>鵤</category>
+        <category>メジロ</category>
+        <category>Qt</category>
+        <category>デレステ</category>
+        <category>yakudo</category>
+        <category>Android</category>
+        <category>Discord</category>
+        <category>Webアプリ</category>
+        <category>教習所</category>
+        <category>ロボット</category>
+        <category>Linux</category>
+        <category>remark</category>
+        <category>スライドショー</category>
+        <category>ごはん</category>
+        <category>金町</category>
+        <category>クレジットカード</category>
+        <category>ヘボコン</category>
+        <category>ボードゲーム</category>
+        <category>Quadcept</category>
+        <category>CAD</category>
+        <category>Doxygen</category>
+        <category>2018年</category>
+        <category>dアニメストア</category>
+        <category>Renesas</category>
+        <category>RX62T</category>
+        <category>e2studio</category>
+        <category>github</category>
+        <category>マウス</category>
+        <category>分解</category>
+        <category>logicool</category>
+        <category>M570</category>
+        <category>G700s</category>
+        <category>seccamp2016</category>
+        <category>seccamp</category>
+        <category>ownCloud</category>
+        <category>サーバー</category>
+        <category>subsonic</category>
+        <category>音楽</category>
+        <category>みそ煮込みうどん</category>
+        <category>I.Sys</category>
+        <category>フラッグLED</category>
+        <category>i3</category>
+        <category>wm</category>
+        <category>AdventCalendar</category>
+        <category>モード</category>
+        <category>迷路</category>
+        <category>C++</category>
+        <category>調整</category>
+        <category>中華</category>
+        <category>まとめ</category>
+        <category>助けて</category>
+        <category>三角関数</category>
+        <category>福岡</category>
+        <category>東北地区大会</category>
+        <category>STL</category>
+        <category>入門</category>
+        <category>ラズパイコンテスト</category>
+        <category>NFC</category>
+        <category>C言語</category>
+        <category>部品</category>
+        <category>管理</category>
+        <category>電子部品</category>
+        <category>STM32CubeMX</category>
+        <category>FTDI</category>
+        <category>Makefile</category>
+        <category>アプリ</category>
+        <category>はてな</category>
+        <category>インターン</category>
+        <category>最高</category>
+        <category>セキュリティ・キャンプ</category>
+        <item>
+            <guid isPermalink="true">http://blog.taniho.net/2017/12/TAC-22-2017%E5%B9%B4%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E5%8F%B0%E6%B9%BE%E5%A4%A7%E4%BC%9A%E3%81%AB%E4%BB%98%E3%81%8D%E6%B7%BB%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E8%A9%B1/</guid>
+            <title>[TAC:22] 2017年マイクロマウス台湾大会に付き添ってきた話</title>
+            <link>http://blog.taniho.net/2017/12/TAC-22-2017%E5%B9%B4%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E5%8F%B0%E6%B9%BE%E5%A4%A7%E4%BC%9A%E3%81%AB%E4%BB%98%E3%81%8D%E6%B7%BB%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E8%A9%B1/</link>
+            <category>台湾</category>
+            <category>旅行</category>
+            <pubDate>Fri, 22 Dec 2017 18:00:00 +0900</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;この記事は&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;の22日目の記事です．&lt;/p&gt;
+&lt;p&gt;今日は&lt;a href=&#34;http://robot.lhu.edu.tw/zh-hant/node/27&#34;&gt;2017人工智慧單晶片電腦鼠曁機器人國内及國際邀請賽&lt;/a&gt;に付き添ってきた話をします．この記事は大量の写真が含まれているのでご注意ください．&lt;/p&gt;
+&lt;p&gt;一緒に行った方々のブログはこちらです．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;null&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;出発-21日&#34;&gt;&lt;a href=&#34;#出発-21日&#34; class=&#34;headerlink&#34; title=&#34;出発(21日)&#34;&gt;&lt;/a&gt;出発(21日)&lt;/h1&gt;&lt;p&gt;2017年9月21日の夜，ここは成田空港．これから&lt;a href=&#34;https://twitter.com/b4rrAcud4/&#34;&gt;FND&lt;/a&gt;との2人旅行が始まります．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;01.jpg&#34; alt=&#34;最後の日本飯&#34;&gt;&lt;/p&gt;
+&lt;p&gt;FNDがゴールドカードを持っていたという驚愕の事実が発覚したのでラウンジでビールを飲みに行きました．なお時刻は閉店15分前．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;02.jpg&#34; alt=&#34;無料酒&#34;&gt;&lt;/p&gt;
+&lt;p&gt;JALを使う金銭的余裕がなかった僕達は毎度のごとくVanilla Airで桃園国際空港へ向かいました．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;こいつに乗ります &lt;a href=&#34;https://t.co/1y4QVPMRlp&#34;&gt;pic.twitter.com/1y4QVPMRlp&lt;/a&gt;&lt;/p&gt;&amp;mdash; 総統 (@b4rrAcud4) &lt;a href=&#34;https://twitter.com/b4rrAcud4/status/910844943140134913?ref_src=twsrc%5Etfw&#34;&gt;2017年9月21日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;特に脈絡もなく貼り付けますがこれは機内誌の写真です．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;03.jpg&#34; alt=&#34;ばにらえあさんなのだー&#34;&gt;&lt;/p&gt;
+&lt;p&gt;というわけで9月22日午前1時5分，桃園国際空港着．ふざけんなよなんでこんな真夜中に空港に放置されなきゃならんのだと文句を言いながら朝ごはん(？)を食べ，ロビーで仮眠を取ります．&lt;/p&gt;
+&lt;h1 id=&#34;22日&#34;&gt;&lt;a href=&#34;#22日&#34; class=&#34;headerlink&#34; title=&#34;22日&#34;&gt;&lt;/a&gt;22日&lt;/h1&gt;&lt;p&gt;22日の僕達の目的は高雄観光なので，始発の新幹線に乗って左營駅へ向かいました．これは朝ごはんを食べたモスバーガーでの写真です．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;04.jpg&#34; alt=&#34;台湾限定のサイドメニューが美味しい&#34;&gt;&lt;/p&gt;
+&lt;p&gt;左營駅から高雄捷運紅線に乗って&lt;a href=&#34;https://ja.wikipedia.org/wiki/%E7%BE%8E%E9%BA%97%E5%B3%B6%E9%A7%85&#34;&gt;美麗島駅&lt;/a&gt;に到着です．ここの近くにある&lt;a href=&#34;https://ahiruyah.com/&#34;&gt;あひる家&lt;/a&gt;が1泊目の宿です．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;05.jpg&#34; alt=&#34;はじめまして，高雄捷運！&#34;&gt;&lt;br&gt;&lt;img src=&#34;11.jpg&#34; alt=&#34;パネルがいっぱい展示されていた&#34;&gt;&lt;/p&gt;
+&lt;p&gt;美麗島駅はステンドグラスが綺麗なことで有名とのことです．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;美麗島駅 &lt;a href=&#34;https://t.co/Yx536fF86N&#34;&gt;pic.twitter.com/Yx536fF86N&lt;/a&gt;&lt;/p&gt;&amp;mdash; 総統 (@b4rrAcud4) &lt;a href=&#34;https://twitter.com/b4rrAcud4/status/911037765516587008?ref_src=twsrc%5Etfw&#34;&gt;2017年9月22日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;ブラブラしたら目的地である&lt;a href=&#34;https://ja.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E6%95%99%E8%82%B2%E5%B1%95%E7%A4%BA%E9%A4%A8_(%E5%8F%B0%E6%B9%BE%29&#34;&gt;航空教育展示館&lt;/a&gt;へ向かいます．高雄捷運紅線を引き返し，終点の南岡山駅に到着です．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;東　京　工　業　大　学　大　岡　山　キ　ャ　ン　パ　ス &lt;a href=&#34;https://t.co/N1Iarvy00m&#34;&gt;pic.twitter.com/N1Iarvy00m&lt;/a&gt;&lt;/p&gt;&amp;mdash; 総統 (@b4rrAcud4) &lt;a href=&#34;https://twitter.com/b4rrAcud4/status/911054662966550528?ref_src=twsrc%5Etfw&#34;&gt;2017年9月22日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;さて，ここから航空教育展示館へ行くには通常はタクシーに乗っていくのですが，&lt;/p&gt;
+&lt;p&gt;ぼく「3kmくらいだし歩かね？」&lt;/p&gt;
+&lt;p&gt;FND「は？ ふざけんな殺すぞ」&lt;/p&gt;
+&lt;p&gt;ということで許しを得たので歩くことにしました．なおこの日の気温は35°．&lt;br&gt;ちなみに後日調べた正確な距離はこちらです．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;今だから言えることですが &lt;a href=&#34;https://t.co/Ctw6w8rkza&#34;&gt;pic.twitter.com/Ctw6w8rkza&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/914400459208585216?ref_src=twsrc%5Etfw&#34;&gt;2017年10月1日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;はい，到着です．汗ダラダラでようやく到着しました．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;つきました💢💢💢💢💢💢💢💢 &lt;a href=&#34;https://t.co/GLYEyerQI5&#34;&gt;pic.twitter.com/GLYEyerQI5&lt;/a&gt;&lt;/p&gt;&amp;mdash; 総統 (@b4rrAcud4) &lt;a href=&#34;https://twitter.com/b4rrAcud4/status/911075699179401216?ref_src=twsrc%5Etfw&#34;&gt;2017年9月22日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;  
+
+&lt;p&gt;※めっちゃ怒られた&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;09.jpg&#34; alt=&#34;山の上にある航空教育展示館&#34;&gt;&lt;br&gt;&lt;img src=&#34;06.jpg&#34; alt=&#34;こんな感じで展示されている&#34;&gt;&lt;br&gt;&lt;img src=&#34;07.jpg&#34; alt=&#34;丸裸の戦闘機&#34;&gt;&lt;br&gt;&lt;img src=&#34;08.jpg&#34; alt=&#34;FNDからピトー管の説明を受けた&#34;&gt;&lt;/p&gt;
+&lt;p&gt;帰りはタクシーで帰りました．&lt;/p&gt;
+&lt;p&gt;満喫した後はお昼ご飯です．Oさんからおすすめされた汁そばをいただきました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;10.jpg&#34; alt=&#34;肉が柔らかくて美味しい&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;23日&#34;&gt;&lt;a href=&#34;#23日&#34; class=&#34;headerlink&#34; title=&#34;23日&#34;&gt;&lt;/a&gt;23日&lt;/h1&gt;&lt;p&gt;翌日の目的は他のMice勢との合流ですが，途中の台中で寄り道していきます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;12.jpg&#34; alt=&#34;暑い&#34;&gt;&lt;/p&gt;
+&lt;p&gt;台中の駅近くの公園では戦車が展示されているということで，見に行きました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;13.jpg&#34; alt=&#34;劇場版で見たアレ&#34;&gt;&lt;br&gt;※&lt;a href=&#34;http://girls-und-panzer.jp/mecha_M24_chaffee.html&#34;&gt;ガールズ＆パンツァー(GIRLS und PANZER) | M24チャーフィー軽戦車&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;14.jpg&#34; alt=&#34;遊具まで戦車っぽい柄&#34;&gt;&lt;/p&gt;
+&lt;p&gt;……と，ここまでは良かったのですが，朝寝坊&amp;amp;無計画さによりスケジュールがめっちゃ遅れていて，慌ててバスに飛び乗ります．この時点で遅刻が確定．道が混んでいてバスの到着が遅れ，体力的な問題もあって更に到着時間が遅れることが確定……．数本遅れの電車に飛び乗って台北駅へと向かいました．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;たにほ「もっと走れんのか」&lt;br&gt;わい「 &lt;a href=&#34;https://t.co/J353WJVsDP&#34;&gt;pic.twitter.com/J353WJVsDP&lt;/a&gt;&lt;/p&gt;&amp;mdash; 総統 (@b4rrAcud4) &lt;a href=&#34;https://twitter.com/b4rrAcud4/status/911469337935888386?ref_src=twsrc%5Etfw&#34;&gt;2017年9月23日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;この日宿泊したホテル &lt;a href=&#34;http://bouti.com.tw/?lang=en&#34;&gt;Bouti City Capsule Inn&lt;/a&gt;では「柚在中秋亮起來 柚子橙DIY」(読めない)というイベントが開催されていて，16時までのこのイベントに参加したいという連絡をしていました．しかし到着した時間は16時過ぎ……なんとかOKをいただいてランタンづくりを体験させてもらいました．スタッフの皆さんご迷惑をかけてごめんなさい．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;15.jpg&#34; alt=&#34;僕製作の力作&#34;&gt;&lt;br&gt;&lt;img src=&#34;16.jpg&#34; alt=&#34;みんなが作ったランタン&#34;&gt;&lt;br&gt;&lt;img src=&#34;17.jpg&#34; alt=&#34;受付に展示されてしまった&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ちなみにこのツイートはランタン製作後すぐにベッドで撮影されました．&lt;/p&gt;
+&lt;p&gt;[総統さんのツイート: “B　l　o　o　m　f　i　e　l　d](&lt;a href=&#34;https://t.co/2qxvRrrjsX&amp;quot;&#34;&gt;https://t.co/2qxvRrrjsX&amp;quot;&lt;/a&gt; &lt;a href=&#34;https://twitter.com/b4rrAcud4/status/911584753123336194&#34;&gt;https://twitter.com/b4rrAcud4/status/911584753123336194&lt;/a&gt;)&lt;/p&gt;
+&lt;h1 id=&#34;24日&#34;&gt;&lt;a href=&#34;#24日&#34; class=&#34;headerlink&#34; title=&#34;24日&#34;&gt;&lt;/a&gt;24日&lt;/h1&gt;&lt;p&gt;さてマイクロマウス台湾大会当日です．お寝坊さんの&lt;a href=&#34;https://twitter.com/@mmkn730&#34;&gt;@mmkn730&lt;/a&gt;を放置し，Mice勢3人で会場へと向かいます．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;und&#34; dir=&#34;ltr&#34;&gt;🇹🇼 🇹🇼 🇹🇼 &lt;a href=&#34;https://t.co/uAsJ0yqoV0&#34;&gt;pic.twitter.com/uAsJ0yqoV0&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/911776092649807877?ref_src=twsrc%5Etfw&#34;&gt;2017年9月24日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;FNDを探せ &lt;a href=&#34;https://t.co/gMoNQvh662&#34;&gt;pic.twitter.com/gMoNQvh662&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/911779056282042368?ref_src=twsrc%5Etfw&#34;&gt;2017年9月24日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;僕達は招待選手ではなく，今年から作っていただいた通常の参加枠にエントリーしていたのですが，招待選手と同じお弁当を頂いてしましました．本当に毎年ありがとうございます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;20.jpg&#34; alt=&#34;2個食べるかと言われたけど1個でお腹いっぱいになる&#34;&gt;&lt;/p&gt;
+&lt;p&gt;そういえば何があったかよく覚えていないのですがマウス出走後のFNDの様子です．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;22.jpg&#34; alt=&#34;ゴール座標7,7に変える&#34;&gt;&lt;/p&gt;
+&lt;p&gt;大会後は懇親会に招待して頂き，毎年恒例のもんのっすごい大量に出てくる料理をいただきました．去年いっぱい写真取ったので今年は1枚も写真がありませんでした．詳しくは&lt;a href=&#34;http://blog.taniho.net/2016/09/2016%E5%B9%B4%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E5%8F%B0%E6%B9%BE%E5%A4%A7%E4%BC%9A%E3%81%AB%E4%BB%98%E3%81%8D%E6%B7%BB%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E8%A9%B1/&#34;&gt;去年のエントリー&lt;/a&gt;を見てください．&lt;/p&gt;
+&lt;h1 id=&#34;25日&#34;&gt;&lt;a href=&#34;#25日&#34; class=&#34;headerlink&#34; title=&#34;25日&#34;&gt;&lt;/a&gt;25日&lt;/h1&gt;&lt;p&gt;大会翌日は招待選手の方々と一緒にASUS本社に行きました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;25.jpg&#34; alt=&#34;撮影会が開かれた(？)&#34;&gt;&lt;/p&gt;
+&lt;p&gt;会議室での(ガチ)商談を眺めた後，「面白いことをしたい組」と「ゆっくり観光したい組」に別れて観光に行きます．「面白いことをしたい組」は学生全員+全日本チャンプのUさんという組み合わせで，Uさんには学生の馬鹿な旅程とノリに着いてきていただくことになりました．あの，本当にごめんなさい．&lt;/p&gt;
+&lt;p&gt;まずは野柳へ向かい，昼食を取ります．美味しい海鮮料理でしたが少し観光地価格だった気がします．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;28.jpg&#34; alt=&#34;お店&#34;&gt;&lt;br&gt;&lt;img src=&#34;26.jpg&#34; alt=&#34;めちゃ量が多い&#34;&gt;&lt;br&gt;&lt;img src=&#34;27.jpg&#34; alt=&#34;カニ&#34;&gt;&lt;/p&gt;
+&lt;p&gt;お腹をいっぱいにしたら本日の目的地です．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;29.jpg&#34; alt=&#34;野柳地質公園&#34;&gt;&lt;/p&gt;
+&lt;p&gt;潮の満ち干きで自然に出来た地形だそうです．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;30.jpg&#34; alt=&#34;ぼこぼこ&#34;&gt;&lt;br&gt;&lt;img src=&#34;31.jpg&#34; alt=&#34;キリンの頭みたい&#34;&gt;&lt;br&gt;&lt;img src=&#34;32.jpg&#34; alt=&#34;また始まるFND撮影会&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ええと，その後山登りをしたような気がしますが記憶がないので省略します．Uさん大変おまたせしてごめんなさい．&lt;/p&gt;
+&lt;p&gt;全員台北に戻るということで，鉄道駅のある基隆へバスで移動します．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;33.jpg&#34; alt=&#34;基隆に到着&#34;&gt;&lt;/p&gt;
+&lt;p&gt;バスを降りたところで問題発生．&lt;/p&gt;
+&lt;p&gt;ピンク先輩「携帯がない」&lt;/p&gt;
+&lt;p&gt;一同唖然．&lt;/p&gt;
+&lt;p&gt;ぼく「基隆のバス会社事務所に行きましょう」&lt;/p&gt;
+&lt;p&gt;すごい現実的で無難な案を出したと思ったのですが，他の人たちが次々と機転を利かせていきます．&lt;/p&gt;
+&lt;p&gt;「ま．くんバスの写真撮ってたよね？」&lt;/p&gt;
+&lt;p&gt;ま．（たった今下車したバスの写真を出す）&lt;/p&gt;
+&lt;p&gt;「あの反対側に停まってるバスじゃない？」&lt;/p&gt;
+&lt;p&gt;「ダッシュだ！」&lt;/p&gt;
+&lt;p&gt;（一同全力で歩道橋を渡る）&lt;/p&gt;
+&lt;p&gt;（ピンク先輩がバスに飛び込む）&lt;/p&gt;
+&lt;p&gt;（閉まるバスの乗降扉）&lt;/p&gt;
+&lt;p&gt;（……）&lt;/p&gt;
+&lt;p&gt;（降りてくるピンク先輩）&lt;/p&gt;
+&lt;p&gt;ピンク先輩「見つかりました！！」&lt;/p&gt;
+&lt;p&gt;僕を除いて完璧な連携プレイで携帯電話を即刻回収出来ました．本当に良かった．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;34.jpg&#34; alt=&#34;件のバス&#34;&gt;&lt;/p&gt;
+&lt;p&gt;はてさて，いろいろとありましたが台北駅へ戻ってUさんとお別れ．1日ありがとうございました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;35.jpg&#34; alt=&#34;まーた撮影会が始まる&#34;&gt;&lt;/p&gt;
+&lt;p&gt;この後はOさんに連れられ，台湾大学近くの同人ショップ(！？)に行きます．端的に言って最高のお店でした．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;36.jpg&#34; alt=&#34;緑林寮&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.tabitabi-taipei.com/more/2006/0705/&#34;&gt;旅々台北【台湾同人誌の宝庫　緑林寮】&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ホクホクして同人グッズを購入した後は魯肉飯(滷肉飯)を食べに行きました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;37.jpg&#34; alt=&#34;台湾では注文を用紙に書くタイプのお店が多い&#34;&gt;&lt;br&gt;&lt;img src=&#34;38.jpg&#34; alt=&#34;約100円なのにとても美味しい&#34;&gt;&lt;br&gt;&lt;img src=&#34;39.jpg&#34; alt=&#34;空芯菜も美味しい&#34;&gt;&lt;/p&gt;
+&lt;p&gt;案内してくれたOさん，ありがとうございました．&lt;/p&gt;
+&lt;h1 id=&#34;帰宅&#34;&gt;&lt;a href=&#34;#帰宅&#34; class=&#34;headerlink&#34; title=&#34;帰宅&#34;&gt;&lt;/a&gt;帰宅&lt;/h1&gt;&lt;p&gt;桃園国際空港へ戻り，深夜発の飛行機を待ちます．Miceお金ある組は贅沢にもラウンジに入ります．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;44.jpg&#34; alt=&#34;最高の24Hラウンジ&#34;&gt;&lt;/p&gt;
+&lt;p&gt;無料でシャワーに入れるのはとてもうれしい．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;40.jpg&#34; alt=&#34;無料シャワーセット&#34;&gt;&lt;br&gt;&lt;img src=&#34;41.jpg&#34; alt=&#34;無料ディナー&#34;&gt;&lt;br&gt;&lt;img src=&#34;42.jpg&#34; alt=&#34;無料ビール&#34;&gt;&lt;br&gt;&lt;img src=&#34;43.jpg&#34; alt=&#34;無料デザート&#34;&gt;&lt;/p&gt;
+&lt;p&gt;端的に言って最高でした．&lt;br&gt;(一方そのころFNDはロビーで寂しくtwitterをしているのであった．待たせてごめん)&lt;/p&gt;
+&lt;h1 id=&#34;おわり&#34;&gt;&lt;a href=&#34;#おわり&#34; class=&#34;headerlink&#34; title=&#34;おわり&#34;&gt;&lt;/a&gt;おわり&lt;/h1&gt;&lt;p&gt;お土産です．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;45.jpg&#34; alt=&#34;(当時)部長へのお土産&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;まとめ&#34;&gt;&lt;a href=&#34;#まとめ&#34; class=&#34;headerlink&#34; title=&#34;まとめ&#34;&gt;&lt;/a&gt;まとめ&lt;/h1&gt;&lt;p&gt;来年台湾に行くことがあれば今度こそ出場します．&lt;/p&gt;
+&lt;p&gt;明日はマイクロマウス東工大Cheese杯ですが，&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;も更新します．&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

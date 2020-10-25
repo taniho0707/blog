@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;みそ煮込みうどん&#34; tag</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2018-01-08T09:45:00.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2018/01/%E3%82%AB%E3%83%83%E3%83%97%E3%81%BF%E3%81%9D%E7%85%AE%E8%BE%BC%E3%81%86%E3%81%A9%E3%82%93%E3%81%AE%E6%AD%A3%E3%81%97%E3%81%84%E9%A3%9F%E3%81%B9%E6%96%B9%E3%82%92%E8%A9%A6%E3%81%97%E3%81%9F/</id>
+        <title>カップみそ煮込うどんの正しい食べ方を試した</title>
+        <link rel="alternate" href="http://blog.taniho.net/2018/01/%E3%82%AB%E3%83%83%E3%83%97%E3%81%BF%E3%81%9D%E7%85%AE%E8%BE%BC%E3%81%86%E3%81%A9%E3%82%93%E3%81%AE%E6%AD%A3%E3%81%97%E3%81%84%E9%A3%9F%E3%81%B9%E6%96%B9%E3%82%92%E8%A9%A6%E3%81%97%E3%81%9F/"/>
+        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;先月，東工大Cheese杯が開催されました．大会は大賑わいで無事終了しました，Cheeseの皆様大変お世話になりました．さて今回のブログでは，その時に景品で頂いた「寿がきや カップ みそ煮込みうどん」の食レポをします．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;うどんを入手&#34;&gt;&lt;a href=&#34;#うどんを入手&#34; class=&#34;headerlink&#34; title=&#34;うどんを入手&#34;&gt;&lt;/a&gt;うどんを入手&lt;/h1&gt;&lt;p&gt;大賑わいの会場の様子です．僕はマイクロマウスハーフサイズ競技に出走しました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;01.jpg&#34; alt=&#34;大賑わいの会場&#34;&gt;&lt;/p&gt;
+&lt;p&gt;大会の副賞は，スポンサーの&lt;a href=&#34;https://www.elephantech.co.jp/&#34;&gt;エレファンテック株式会社&lt;/a&gt;から豪華賞品が出ていました．入賞を逃した僕達は，参加者の皆様が各自持ち寄った景品を&lt;strong&gt;全員1個ずつ&lt;/strong&gt;持って帰れるという大盤振る舞いだったので，僕はこれをいただきました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;03.jpg&#34; alt=&#34;オタクなので食べ物に釣られる&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I.Sysの方々，ありがとうございます．&lt;br&gt;ところでI.Sysにはいろんな人がいまして，この方が特にぶっ飛んでいる先代の部長さんです．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;02.jpg&#34; alt=&#34;らっちさん&#34;&gt;&lt;/p&gt;
+&lt;p&gt;らっちさん曰く，「カップみそ煮込みうどんには美味しい食べ方がある」らしいので，頂いたカップみそ煮込みうどんを美味しく調理して食べようと思います．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;04.jpg&#34; alt=&#34;本文には関係ありませんがカップの裏面です&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;調理法&#34;&gt;&lt;a href=&#34;#調理法&#34; class=&#34;headerlink&#34; title=&#34;調理法&#34;&gt;&lt;/a&gt;調理法&lt;/h1&gt;&lt;p&gt;まずは，メーカが想定した調理法を確認します．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;05.jpg&#34; alt=&#34;お召し上がり方&#34;&gt;&lt;/p&gt;
+&lt;p&gt;なるほど，至って普通のカップうどんの作り方です．お湯は線まで，茹で時間は5分，その後に液体スープを投入と．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;06.jpg&#34; alt=&#34;開封した様子&#34;&gt;&lt;/p&gt;
+&lt;p&gt;カップ麺を開封すると，お湯を入れるラインがうっすら書いてあるのが見えました．なるほど，本来はここまでお湯を入れるみたいです．&lt;/p&gt;
+&lt;p&gt;それでは，&lt;strong&gt;らっち流&lt;/strong&gt;カップみそ煮込みうどんの作り方を紹介します．&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;かやくをいれる&lt;/li&gt;
+&lt;li&gt;お湯を&lt;strong&gt;本来のラインより更に下をめがけて注ぐ&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;茹で時間は&lt;strong&gt;7分&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;液体スープを投入し，まぜて完成&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;端的に言って&lt;strong&gt;頭悪い&lt;/strong&gt;と思います．しかし名古屋の人は皆この食べ方をしていて，しかも美味しいらしいのでためらわずに調理してきましょう．&lt;/p&gt;
+&lt;h1 id=&#34;調理する&#34;&gt;&lt;a href=&#34;#調理する&#34; class=&#34;headerlink&#34; title=&#34;調理する&#34;&gt;&lt;/a&gt;調理する&lt;/h1&gt;&lt;p&gt;カップの中に入っている袋はこちらです．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;07.jpg&#34; alt=&#34;普通のかやくと液体スープっぽい&#34;&gt;&lt;/p&gt;
+&lt;p&gt;これを取り出し，かやくを投入し，お湯を&lt;strong&gt;標準よりかなり少ない量を注ぎ&lt;/strong&gt;，&lt;strong&gt;7分待った&lt;/strong&gt;結果がこちらです．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;08.jpg&#34; alt=&#34;お湯がほぼ残っていない&#34;&gt;&lt;/p&gt;
+&lt;p&gt;これは煮込みうどんなのだろうか……(困惑)&lt;/p&gt;
+&lt;p&gt;そこに液体スープを投入します．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;09.jpg&#34; alt=&#34;液体スープ(液体とは言っていない)&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;いやな予感しかしない&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;続けてかき混ぜます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;10.jpg&#34; alt=&#34;らっち流みそ煮込みうどん，完成です&#34;&gt;&lt;/p&gt;
+&lt;p&gt;え゛，これを食べるんですか？？&lt;/p&gt;
+&lt;p&gt;味噌をうどんに塗りたくっただけの食べ物になっていませんか？&lt;/p&gt;
+&lt;h1 id=&#34;試食した&#34;&gt;&lt;a href=&#34;#試食した&#34; class=&#34;headerlink&#34; title=&#34;試食した&#34;&gt;&lt;/a&gt;試食した&lt;/h1&gt;&lt;p&gt;作ったものは仕方ないので食べてみます．うどんを一口ずるずるとした感想は，&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;か   ら   い   わ   ，   く   え   る   か   こ   ん   な   ん&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;頑張って3口は食べてみましたが，あまりに塩辛くて胸焼けがしてきました．&lt;br&gt;限界を感じたのでお湯を通常の量になるように継ぎ足しました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;11.jpg&#34; alt=&#34;おそらく通常のみそ煮込みうどん&#34;&gt;&lt;/p&gt;
+&lt;p&gt;商品として売っていそうな味がしました．&lt;/p&gt;
+&lt;h1 id=&#34;おしまい&#34;&gt;&lt;a href=&#34;#おしまい&#34; class=&#34;headerlink&#34; title=&#34;おしまい&#34;&gt;&lt;/a&gt;おしまい&lt;/h1&gt;&lt;p&gt;この商品は普通に食べるのが良いと思います．いつかカップ麺じゃなくて本物が食べてみたいです．&lt;/p&gt;
+&lt;div class=&#34;amazlet-box&#34; style=&#34;margin-bottom:0px;&#34;&gt;&lt;div class=&#34;amazlet-image&#34; style=&#34;float:left;margin:0px 12px 1px 0px;&#34;&gt;&lt;a href=&#34;http://www.amazon.co.jp/exec/obidos/ASIN/B003157VBC/taniho0707-22/ref=nosim/&#34; name=&#34;amazletlink&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://images-fe.ssl-images-amazon.com/images/I/51UjQi2G9GL._SL160_.jpg&#34; style=&#34;border: none;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;amazlet-info&#34; style=&#34;line-height:120%; margin-bottom: 10px&#34;&gt;&lt;div class=&#34;amazlet-name&#34; style=&#34;margin-bottom:10px;line-height:120%&#34;&gt;&lt;a href=&#34;http://www.amazon.co.jp/exec/obidos/ASIN/B003157VBC/taniho0707-22/ref=nosim/&#34; name=&#34;amazletlink&#34; target=&#34;_blank&#34;&gt;カップ みそ煮込うどん 107g×12個&lt;/a&gt;&lt;div class=&#34;amazlet-powered-date&#34; style=&#34;font-size:80%;margin-top:5px;line-height:120%&#34;&gt;posted with &lt;a href=&#34;http://www.amazlet.com/&#34; title=&#34;amazlet&#34; target=&#34;_blank&#34;&gt;amazlet&lt;/a&gt; at 18.01.08&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;amazlet-detail&#34;&gt;寿がきや食品 &lt;br /&gt;売り上げランキング: 7,521&lt;br /&gt;&lt;/div&gt;&lt;div class=&#34;amazlet-sub-info&#34; style=&#34;float: left;&#34;&gt;&lt;div class=&#34;amazlet-link&#34; style=&#34;margin-top: 5px&#34;&gt;&lt;a href=&#34;http://www.amazon.co.jp/exec/obidos/ASIN/B003157VBC/taniho0707-22/ref=nosim/&#34; name=&#34;amazletlink&#34; target=&#34;_blank&#34;&gt;Amazon.co.jpで詳細を見る&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;amazlet-footer&#34; style=&#34;clear: left&#34;&gt;&lt;/div&gt;&lt;/div&gt;
+
+</content>
+        <category term="みそ煮込みうどん" />
+        <category term="I.Sys" />
+        <updated>2018-01-08T09:45:00.000Z</updated>
+    </entry>
+</feed>

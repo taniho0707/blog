@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>taniho&#39;s blog • Posts by &#34;letsencrypt&#34; tag</title>
+        <link>http://blog.taniho.net</link>
+        <description>technical note</description>
+        <language>en</language>
+        <pubDate>Wed, 04 May 2016 15:36:06 +0900</pubDate>
+        <lastBuildDate>Wed, 04 May 2016 15:36:06 +0900</lastBuildDate>
+        <category>Emacs</category>
+        <category>ArchLinux</category>
+        <category>マイクロマウス</category>
+        <category>台湾</category>
+        <category>旅行</category>
+        <category>たまこまーけっと</category>
+        <category>2016年</category>
+        <category>買い物</category>
+        <category>おすすめ</category>
+        <category>日常</category>
+        <category>2017年</category>
+        <category>クリスマス</category>
+        <category>Elecrow</category>
+        <category>電子工作</category>
+        <category>関西地区大会</category>
+        <category>猫</category>
+        <category>Apache</category>
+        <category>letsencrypt</category>
+        <category>Blu-ray</category>
+        <category>VLC</category>
+        <category>CNC</category>
+        <category>Magit</category>
+        <category>git</category>
+        <category>MFT</category>
+        <category>RaspberryPi</category>
+        <category>無線LAN</category>
+        <category>Mice</category>
+        <category>鵤</category>
+        <category>メジロ</category>
+        <category>Qt</category>
+        <category>デレステ</category>
+        <category>yakudo</category>
+        <category>Android</category>
+        <category>Discord</category>
+        <category>Webアプリ</category>
+        <category>教習所</category>
+        <category>ロボット</category>
+        <category>Linux</category>
+        <category>remark</category>
+        <category>スライドショー</category>
+        <category>ごはん</category>
+        <category>金町</category>
+        <category>クレジットカード</category>
+        <category>ヘボコン</category>
+        <category>ボードゲーム</category>
+        <category>Quadcept</category>
+        <category>CAD</category>
+        <category>Doxygen</category>
+        <category>2018年</category>
+        <category>dアニメストア</category>
+        <category>Renesas</category>
+        <category>RX62T</category>
+        <category>e2studio</category>
+        <category>github</category>
+        <category>マウス</category>
+        <category>分解</category>
+        <category>logicool</category>
+        <category>M570</category>
+        <category>G700s</category>
+        <category>seccamp2016</category>
+        <category>seccamp</category>
+        <category>ownCloud</category>
+        <category>サーバー</category>
+        <category>subsonic</category>
+        <category>音楽</category>
+        <category>みそ煮込みうどん</category>
+        <category>I.Sys</category>
+        <category>フラッグLED</category>
+        <category>i3</category>
+        <category>wm</category>
+        <category>AdventCalendar</category>
+        <category>モード</category>
+        <category>迷路</category>
+        <category>C++</category>
+        <category>調整</category>
+        <category>中華</category>
+        <category>まとめ</category>
+        <category>助けて</category>
+        <category>三角関数</category>
+        <category>福岡</category>
+        <category>東北地区大会</category>
+        <category>STL</category>
+        <category>入門</category>
+        <category>ラズパイコンテスト</category>
+        <category>NFC</category>
+        <category>C言語</category>
+        <category>部品</category>
+        <category>管理</category>
+        <category>電子部品</category>
+        <category>STM32CubeMX</category>
+        <category>FTDI</category>
+        <category>Makefile</category>
+        <category>アプリ</category>
+        <category>はてな</category>
+        <category>インターン</category>
+        <category>最高</category>
+        <category>セキュリティ・キャンプ</category>
+        <item>
+            <guid isPermalink="true">http://blog.taniho.net/2016/05/Apache%E3%81%A7letsencrypt%E3%82%92%E4%BD%BF%E3%81%86/</guid>
+            <title>Apacheでletsencryptを使う</title>
+            <link>http://blog.taniho.net/2016/05/Apache%E3%81%A7letsencrypt%E3%82%92%E4%BD%BF%E3%81%86/</link>
+            <category>Apache</category>
+            <category>letsencrypt</category>
+            <pubDate>Wed, 04 May 2016 15:36:06 +0900</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;Let’s-Encryptとは&#34;&gt;&lt;a href=&#34;#Let’s-Encryptとは&#34; class=&#34;headerlink&#34; title=&#34;Let’s Encryptとは&#34;&gt;&lt;/a&gt;Let’s Encryptとは&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://letsencrypt.org/&#34;&gt;Let’s Encrypt&lt;/a&gt;は無料で使えるSSL認証局です．&lt;br&gt;Let’s Encryptで証明書を取得し，Apacheで動作させるまでの方法を書き残しておきます．&lt;/p&gt;
+&lt;p&gt;動作環境は，&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ubuntu 12.04&lt;/li&gt;
+&lt;li&gt;Apache 2.4.12&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;証明書の取得&#34;&gt;&lt;a href=&#34;#証明書の取得&#34; class=&#34;headerlink&#34; title=&#34;証明書の取得&#34;&gt;&lt;/a&gt;証明書の取得&lt;/h1&gt;&lt;h2 id=&#34;クライアントの導入&#34;&gt;&lt;a href=&#34;#クライアントの導入&#34; class=&#34;headerlink&#34; title=&#34;クライアントの導入&#34;&gt;&lt;/a&gt;クライアントの導入&lt;/h2&gt;&lt;p&gt;githubからクライアントを持ってきて，依存関係の確認などを行います．&lt;br&gt;3行目でヘルプを確認していますが，このときに依存関係の確認・更新などを行うようです．&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;git &lt;span class=&#34;built_in&#34;&gt;clone&lt;/span&gt; https://github.com/letsencrypt/letsencrypt&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;cd&lt;/span&gt; letsencrypt&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;sudo ./letsencrypt-auto --&lt;span class=&#34;built_in&#34;&gt;help&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;証明書の取得-1&#34;&gt;&lt;a href=&#34;#証明書の取得-1&#34; class=&#34;headerlink&#34; title=&#34;証明書の取得&#34;&gt;&lt;/a&gt;証明書の取得&lt;/h2&gt;&lt;p&gt;今回，証明書はサブドメインごとに取得します．&lt;br&gt;なお，80番ポートを使うので動作中のApacheは停止しておきます．&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;sudo service apache2 stop&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;./letsencrypt-auto certonly --standalone -d www.taniho.net&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;./letsencrypt-auto certonly --standalone -d blog.taniho.net&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;初回はメールアドレスなどを入力させるダイアログが出てくるので，いい感じに入力していきます．&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;IMPORTANT NOTES:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Congratulations! Your certificate and chain have been saved at&lt;br&gt;/etc/letsencrypt/live/(ドメイン)/fullchain.pem. Your&lt;br&gt;cert will expire on (有効期限). To obtain a new version of the&lt;br&gt;certificate in the future, simply run Let’s Encrypt again.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;この画面が出れば取得完了です．&lt;br&gt;見れば解ると思いますが，Let’s Encryptで取得した証明書は有効期限が90日しかありません．&lt;br&gt;証明書の更新は次のコマンドを打つことで行えます．&lt;br&gt;また，更新後にApacheを再起動する必要があります．&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;letsencrypt-auto renew --force-renew&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;今回取得した証明書は，/etc/letsencrypt/live/(ドメイン)/の中に入っています．&lt;/p&gt;
+&lt;h1 id=&#34;Apacheの設定&#34;&gt;&lt;a href=&#34;#Apacheの設定&#34; class=&#34;headerlink&#34; title=&#34;Apacheの設定&#34;&gt;&lt;/a&gt;Apacheの設定&lt;/h1&gt;&lt;h2 id=&#34;とりあえず&#34;&gt;&lt;a href=&#34;#とりあえず&#34; class=&#34;headerlink&#34; title=&#34;とりあえず&#34;&gt;&lt;/a&gt;とりあえず&lt;/h2&gt;&lt;p&gt;Apache2.4.8以降では，それ以前と設定の仕方が変わっているので気をつけてください．&lt;br&gt;とりあえず，&lt;a href=&#34;https://blog.taniho.net/%E3%81%AB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E8%A8%AD%E5%AE%9A%E3%81%97%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%99%EF%BC%8E&#34;&gt;https://blog.taniho.net/にアクセスできるように設定してみます．&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;lt;VirtualHost *:443&amp;gt; &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	ServerName www.hoge.net&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	DocumentRoot &amp;#x2F;var&amp;#x2F;www&amp;#x2F;html&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	ErrorLog $&amp;#123;APACHE_LOG_DIR&amp;#125;&amp;#x2F;error.log&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	CustomLog $&amp;#123;APACHE_LOG_DIR&amp;#125;&amp;#x2F;access.log combined&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	SSLEngine on&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	SSLCertificateFile &amp;#x2F;etc&amp;#x2F;letsencrypt&amp;#x2F;live&amp;#x2F;blog.taniho.net&amp;#x2F;fullchain.pem&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	SSLCertificateKeyFile &amp;#x2F;etc&amp;#x2F;letsencrypt&amp;#x2F;live&amp;#x2F;blog.taniho.net&amp;#x2F;privkey.pem&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;lt;&amp;#x2F;VirtualHost&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;sudo service apache2 restart&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;設定を有効化する&#34;&gt;&lt;a href=&#34;#設定を有効化する&#34; class=&#34;headerlink&#34; title=&#34;設定を有効化する&#34;&gt;&lt;/a&gt;設定を有効化する&lt;/h2&gt;&lt;p&gt;/etc/apache2/site-availableにsite設定を書いたら，次のコマンドで有効化，無効化することができます．&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;a2ensite (設定ファイル名)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;a2dissite (設定ファイル名)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;同様に，Apacheのモジュールを有効化・無効化させる場合は次のコマンドを使います．&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;a2enmod (モジュール名)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;a2dismod (モジュール名)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;今回はmod_sslを有効化する必要があるので，次のコマンドを叩いておきます．&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;a2enmod ssl&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;httpに来たアクセスをhttpsにリダイレクトさせる&#34;&gt;&lt;a href=&#34;#httpに来たアクセスをhttpsにリダイレクトさせる&#34; class=&#34;headerlink&#34; title=&#34;httpに来たアクセスをhttpsにリダイレクトさせる&#34;&gt;&lt;/a&gt;httpに来たアクセスをhttpsにリダイレクトさせる&lt;/h2&gt;&lt;p&gt;必ずhttpsでアクセスさせたい場合や，その逆の場合もあると思います．&lt;br&gt;ひとまず，&lt;a href=&#34;http://blog.taniho.net/%E3%81%AB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%95%E3%82%8C%E3%81%9F%E5%A0%B4%E5%90%88%E3%81%ABhttps%E3%81%AB%E8%BB%A2%E9%80%81%E3%81%99%E3%82%8B%E8%A8%AD%E5%AE%9A%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%BE%E3%81%99%EF%BC%8E&#34;&gt;http://blog.taniho.net/にアクセスされた場合にhttpsに転送する設定をまとめておきます．&lt;/a&gt;&lt;br&gt;VirtualHost設定の中に次の内容を書きます．&lt;/p&gt;
+&lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;RewriteEngine On&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;RewriteCond %&amp;#123;HTTPS&amp;#125; off&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;RewriteRule ^(.*) https:&amp;#x2F;&amp;#x2F;blog.taniho.net$1 [R,L]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;参考&#34;&gt;&lt;a href=&#34;#参考&#34; class=&#34;headerlink&#34; title=&#34;参考&#34;&gt;&lt;/a&gt;参考&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;http://weblabo.oscasierra.net/letsencrypt-2/&#34;&gt;CentOS 7 + Apache 2.4 で Let’s Encrypt の証明書を導入する手順&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://blog.apar.jp/linux/3619/&#34;&gt;Let’s Encrypt サーバー証明書の取得と自動更新設定メモ&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;http://qiita.com/sue71/items/100004b704b9ff129b09&#34;&gt;apacheでhttpへのアクセスをhttpsへ自動リダイレクトする&lt;/a&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

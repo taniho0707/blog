@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;qt&#34; tag</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2017-12-07T15:00:00.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2017/12/TAC-08-yakudo-camera%E8%A3%BD%E4%BD%9C%E8%A8%98/</id>
+        <title>[TAC:08] yakudo camera製作記</title>
+        <link rel="alternate" href="http://blog.taniho.net/2017/12/TAC-08-yakudo-camera%E8%A3%BD%E4%BD%9C%E8%A8%98/"/>
+        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;この記事は&lt;a href=&#34;https://qiita.com/advent-calendar/2017/kuso-app2017&#34;&gt;クソアプリ Advent Calendar 2017&lt;/a&gt;，および&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;の8日目の記事です．&lt;/p&gt;
+&lt;p&gt;今日はクソみたいなAndroidアプリ，”yakudo camera”を作ったお話をします．一応&lt;a href=&#34;http://blog.taniho.net/2017/12/TAC-07-Qt-for-Android%E3%81%A7%E5%BA%83%E5%91%8A%E3%82%92%E6%8E%B2%E8%BC%89%E3%81%99%E3%82%8B/&#34;&gt;前回&lt;/a&gt;からの続きで，前回の記事ではアプリに広告を貼った話，今回が作ったアプリの話になります．&lt;/p&gt;
+&lt;p&gt;まあ，クソみたいな話なので読まなくていいと思います．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;yakudoとは&#34;&gt;&lt;a href=&#34;#yakudoとは&#34; class=&#34;headerlink&#34; title=&#34;yakudoとは&#34;&gt;&lt;/a&gt;yakudoとは&lt;/h1&gt;&lt;p&gt;※僕とは何の関係もないサークルが発祥です&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://trap.jp/post/314/&#34;&gt;あなたの知らない躍動の世界 | 東京工業大学デジタル創作同好会traP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;traPとは全く別のサークルから，twitter経由でyakudoを知りました．今では僕のサークルでも大流行しています．&lt;/p&gt;
+&lt;p&gt;yakudoとは，バカらしくも意外と奥が深く，綺麗な躍動写真を撮影するには練習が必要です．&lt;br&gt;……ハードルが高いですよね？&lt;/p&gt;
+&lt;p&gt;カメラをかざしてシャッターを押すだけで躍動写真が撮影できるアプリ，作りました．&lt;br&gt;(traPの方々には何の連絡もせず作ってしまいました．問題がありそうならお知らせください)&lt;/p&gt;
+&lt;h1 id=&#34;躍動感を出す&#34;&gt;&lt;a href=&#34;#躍動感を出す&#34; class=&#34;headerlink&#34; title=&#34;躍動感を出す&#34;&gt;&lt;/a&gt;躍動感を出す&lt;/h1&gt;&lt;h2 id=&#34;躍動感とは&#34;&gt;&lt;a href=&#34;#躍動感とは&#34; class=&#34;headerlink&#34; title=&#34;躍動感とは&#34;&gt;&lt;/a&gt;躍動感とは&lt;/h2&gt;&lt;p&gt;そもそも躍動感って何なのでしょうか？&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;躍動感 読み方：やくどうかん&lt;br&gt;生き生きとしていて動きがよく分かるような様子や雰囲気のこと&lt;br&gt;&lt;a href=&#34;https://www.weblio.jp/content/%E8%BA%8D%E5%8B%95%E6%84%9F&#34;&gt;躍動感とは - 日本語表現辞典 Weblio辞書&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;撮影する対象が，生き生きしているような動きが付く撮影のことだと解釈しましょう．&lt;br&gt;最も一般的な躍動写真は，被写体に向かってカメラを押しながら/引きながら撮影をすることで躍動感を出しています．撮影した写真の被写体は動かず背景がブレるため，「被写体が生き生きと動いている」ように見えるわけですね．&lt;br&gt;これは僕が撮影した躍動写真です．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;yakudo1.jpg&#34; alt=&#34;ごきぶり&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;yakudo2.jpg&#34; alt=&#34;金麦&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;yakudo3.jpg&#34; alt=&#34;ゆるゆり&#34;&gt;&lt;/p&gt;
+&lt;p&gt;いい感じの躍動感が付いています．&lt;/p&gt;
+&lt;h2 id=&#34;躍動感を付けてみる&#34;&gt;&lt;a href=&#34;#躍動感を付けてみる&#34; class=&#34;headerlink&#34; title=&#34;躍動感を付けてみる&#34;&gt;&lt;/a&gt;躍動感を付けてみる&lt;/h2&gt;&lt;p&gt;今回はQtでアプリを作りました．Qtには&lt;a href=&#34;http://doc.qt.io/qt-5/qimage.html&#34;&gt;QImage&lt;/a&gt;というクラスがあり，画素単位のアクセスが出来ます．撮影した画像を取り込んで，思いついたアルゴリズムを試してみましょう．&lt;/p&gt;
+&lt;h2 id=&#34;安直に&#34;&gt;&lt;a href=&#34;#安直に&#34; class=&#34;headerlink&#34; title=&#34;安直に&#34;&gt;&lt;/a&gt;安直に&lt;/h2&gt;&lt;p&gt;撮影中にカメラを動かすということは，写真の画素同士を混ぜれば良さそうです．RGB値のそれぞれの平均を取ってみましょう．次のように加工します．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;1.png&#34; alt=&#34;安直かつ確実な方法&#34;&gt;&lt;/p&gt;
+&lt;p&gt;加工済みの写真がこちら．&lt;/p&gt;
+&lt;img src=&#34;/2017/12/TAC-08-yakudo-camera%E8%A3%BD%E4%BD%9C%E8%A8%98/old1.jpg&#34; width=&#34;400&#34; /&gt;
+
+&lt;img src=&#34;/2017/12/TAC-08-yakudo-camera%E8%A3%BD%E4%BD%9C%E8%A8%98/old2.jpg&#34; width=&#34;400&#34; /&gt;
+
+&lt;img src=&#34;/2017/12/TAC-08-yakudo-camera%E8%A3%BD%E4%BD%9C%E8%A8%98/old3.jpg&#34; width=&#34;400&#34; /&gt;
+
+&lt;p&gt;いやまあかんたんにきれいになりましたねえ！！&lt;/p&gt;
+&lt;p&gt;と言いたいところなのですが，画像処理にクッソ時間がかかってしまいました．1枚あたり1分程度です．というわけで，ここからは画像処理高速化の苦労を順に見ていきます．&lt;/p&gt;
+&lt;h2 id=&#34;LPFを考える&#34;&gt;&lt;a href=&#34;#LPFを考える&#34; class=&#34;headerlink&#34; title=&#34;LPFを考える&#34;&gt;&lt;/a&gt;LPFを考える&lt;/h2&gt;&lt;p&gt;躍動感を付けるために画像をぼかす処理をしたのですが，先程のは計算時間がかかりすぎました．ということで，同じLPFでも計算時間がかからないような式に変えてみます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;2.png&#34; alt=&#34;隣しか見ない&#34;&gt;&lt;/p&gt;
+&lt;p&gt;式は次のURLなどを参考にしています．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://android.ohwada.jp/archives/334&#34;&gt;加速度センサ と ローパスフィルタ (波形) | アンドロイドな日々&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;コレにより計算時間がわずか数秒にまで短くなりました！！&lt;/p&gt;
+&lt;p&gt;んですが今度は加工した画像がえらいことになりました．&lt;/p&gt;
+&lt;img src=&#34;/2017/12/TAC-08-yakudo-camera%E8%A3%BD%E4%BD%9C%E8%A8%98/bad1.jpg&#34; width=&#34;400&#34; /&gt;
+
+&lt;p&gt;隣の画素1個しか見ないので，どうしても滑らかになってくれないんですよね．&lt;br&gt;これが解決策です．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;3.png&#34; alt=&#34;周りをよく見る&#34;&gt;&lt;/p&gt;
+&lt;p&gt;このようにすることで，僅かな計算時間で程々の躍動感を付けることが出来ました．&lt;br&gt;ただし，ここままでは中心点からまっすぐ45°方向に汚い線が入ってしまいます．&lt;/p&gt;
+&lt;img src=&#34;/2017/12/TAC-08-yakudo-camera%E8%A3%BD%E4%BD%9C%E8%A8%98/bad2.jpg&#34; width=&#34;400&#34; /&gt;
+
+&lt;p&gt;その場合は斜め方向の画素でなく，隣の画素も見てあげるようにすれば，…&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;new1.jpg&#34; alt=&#34;かわいい&#34;&gt;&lt;/p&gt;
+&lt;p&gt;きれいになりました．&lt;/p&gt;
+&lt;p&gt;あ，次の画像はバグ画像です．&lt;/p&gt;
+&lt;img src=&#34;/2017/12/TAC-08-yakudo-camera%E8%A3%BD%E4%BD%9C%E8%A8%98/bad3.jpg&#34; width=&#34;400&#34; /&gt;
+
+&lt;img src=&#34;/2017/12/TAC-08-yakudo-camera%E8%A3%BD%E4%BD%9C%E8%A8%98/bad4.jpg&#34; width=&#34;400&#34; /&gt;
+
+&lt;p&gt;↑パラメータを間違えると最後の画像のようになっちゃいました&lt;/p&gt;
+&lt;h1 id=&#34;完成形&#34;&gt;&lt;a href=&#34;#完成形&#34; class=&#34;headerlink&#34; title=&#34;完成形&#34;&gt;&lt;/a&gt;完成形&lt;/h1&gt;&lt;p&gt;というわけで，とりあえずアプリで加工ができるようになりました．&lt;br&gt;一応，公開しているアプリの特徴を紹介しておきます．&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;躍動中心を設定可能&lt;br&gt;アプリを起動してもらえればわかります．&lt;br&gt;画面をタップすることで，躍動感を与える場所を変更することが出来ます．&lt;br&gt;ちょっとバグが潜んでるかもしれません．&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;躍動レベルを調整可能&lt;br&gt;躍動する強さを変えられるようにしました．  &lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;camera00.jpg&#34; alt=&#34;躍動レベル0&#34;&gt;&lt;br&gt;&lt;img src=&#34;camera02.jpg&#34; alt=&#34;躍動レベル0.2&#34;&gt;&lt;br&gt;&lt;img src=&#34;camera04.jpg&#34; alt=&#34;躍動レベル0.4&#34;&gt;&lt;br&gt;&lt;img src=&#34;camera05.jpg&#34; alt=&#34;躍動レベル0.5&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;まとめ&#34;&gt;&lt;a href=&#34;#まとめ&#34; class=&#34;headerlink&#34; title=&#34;まとめ&#34;&gt;&lt;/a&gt;まとめ&lt;/h1&gt;&lt;p&gt;お手軽に躍動感を付けられました．現在アプリは下のURLで公開中です．&lt;br&gt;手元のZenFoneでは動いていますが，Xperiaでは不具合があります．他の機種では未確認です．ごめんなさい．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=net.taniho.yakudo&#34;&gt;yakudo camera - Google Play の Android アプリ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;明日の&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;は打って変わって，Discordのbotを作った話をします．&lt;/p&gt;
+</content>
+        <category term="Qt" />
+        <category term="yakudo" />
+        <category term="Android" />
+        <updated>2017-12-07T15:00:00.000Z</updated>
+    </entry>
+</feed>

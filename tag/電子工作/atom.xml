@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;電子工作&#34; tag</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2018-12-05T12:40:57.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2018/12/2018%E5%B9%B4Elecrow%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%84%E3%83%AA%E3%83%BC%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F/</id>
+        <title>2018年Elecrowクリスマスツリーを作った</title>
+        <link rel="alternate" href="http://blog.taniho.net/2018/12/2018%E5%B9%B4Elecrow%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%84%E3%83%AA%E3%83%BC%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F/"/>
+        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;今年もクリスマスがやってきました．&lt;/p&gt;
+&lt;p&gt;……クリスマス？？？ もちろんElecrow無料クリスマス基板のことですよ．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.elecrow.com/blog/free-prototyping-for-christmas-pcb/&#34;&gt;Free Prototyping for Christmas PCB - BLOG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;なんともう4回目の開催だそうです．&lt;br&gt;今回はクリスマス基板初チャレンジということで，平凡なクリスマスツリーを作りました．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;完成品&#34;&gt;&lt;a href=&#34;#完成品&#34; class=&#34;headerlink&#34; title=&#34;完成品&#34;&gt;&lt;/a&gt;完成品&lt;/h1&gt;&lt;p&gt;こちらが完成したクリスマスツリーです．&lt;br&gt;作品名は「Xmas2018」&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/vAVGdu9t3do&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;なかなか良い光り方してると思いませんか．&lt;/p&gt;
+&lt;p&gt;全体像はこんな感じです．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;1.jpg&#34; alt=&#34;表面&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;2.jpg&#34; alt=&#34;裏面&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;特徴&#34;&gt;&lt;a href=&#34;#特徴&#34; class=&#34;headerlink&#34; title=&#34;特徴&#34;&gt;&lt;/a&gt;特徴&lt;/h1&gt;&lt;p&gt;Xmas2018にはいくつかの特徴があります．&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;ランダムに点滅&lt;br&gt;約2秒毎にLEDが点滅しますが，光るLEDはランダムに決まります．&lt;/li&gt;
+&lt;li&gt;USB給電&lt;br&gt;モバイルブースターやPCに接続して動かすことが出来ます．&lt;/li&gt;
+&lt;li&gt;マイコン非搭載&lt;br&gt;555タイマICとロジックICのみで動作しています．&lt;/li&gt;
+&lt;li&gt;表面は配線無し&lt;br&gt;表面には配線を引いていないため，見た目が綺麗です．&lt;br&gt;(そのせいで裏面がひどいことになっています)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;動作説明&#34;&gt;&lt;a href=&#34;#動作説明&#34; class=&#34;headerlink&#34; title=&#34;動作説明&#34;&gt;&lt;/a&gt;動作説明&lt;/h1&gt;&lt;p&gt;一応動作説明を書き残しておきます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;BlockDiagram.png&#34; alt=&#34;ブロック図&#34;&gt;&lt;/p&gt;
+&lt;p&gt;こちらがXmas2018のブロック図です．&lt;/p&gt;
+&lt;p&gt;パッと光るのではなく，僅かにぼんやりと光るのは，積分回路のおかげです．&lt;/p&gt;
+&lt;p&gt;マルチバイブレータが個々のLEDのトランジスタに繋がっていますが，間にラッチを挟んでいます．&lt;br&gt;マルチバイブレータの周波数をおよそ5MHzにしていますが，誤差の大きな抵抗を使っているため，それぞれの周波数はかなりずれています．&lt;br&gt;そこで，ワンショット回路から約2秒おきにパルスを出し，ラッチの出力を更新することで点灯するLEDを決めています．&lt;br&gt;以上がランダムに点滅する回路の概要です．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;wavedrom.png&#34; alt=&#34;タイミングチャート&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;おわりに&#34;&gt;&lt;a href=&#34;#おわりに&#34; class=&#34;headerlink&#34; title=&#34;おわりに&#34;&gt;&lt;/a&gt;おわりに&lt;/h1&gt;&lt;p&gt;久しぶりにマイコンの載っていない電子工作をしましたが，なかなか楽しかったです．&lt;br&gt;新しいクリスマスグッズのアイデアが思い浮かんだら，また来年も挑戦しようと思います．&lt;/p&gt;
+&lt;p&gt;無料で基板を製造してくださったElecrowの皆さんありがとうございました！&lt;/p&gt;
+&lt;p&gt;Thank you for your good pcb, Elecrow!&lt;/p&gt;
+</content>
+        <category term="クリスマス" />
+        <category term="Elecrow" />
+        <category term="電子工作" />
+        <updated>2018-12-05T12:40:57.000Z</updated>
+    </entry>
+</feed>

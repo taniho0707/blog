@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "taniho's blog • All posts by \"フラッグled\" tag",
+    "description": "technical note",
+    "home_page_url": "http://blog.taniho.net",
+    "items": [
+        {
+            "id": "http://blog.taniho.net/2017/09/%E3%82%AF%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9E%E3%82%A6%E3%82%B9%E7%94%A8%E3%81%AE%E6%97%97%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F/",
+            "url": "http://blog.taniho.net/2017/09/%E3%82%AF%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9E%E3%82%A6%E3%82%B9%E7%94%A8%E3%81%AE%E6%97%97%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F/",
+            "title": "クォーターマウス用の旗を作った",
+            "date_published": "2017-09-05T09:42:47.000Z",
+            "content_html": "<h1 id=\"はじめに\"><a href=\"#はじめに\" class=\"headerlink\" title=\"はじめに\"></a>はじめに</h1><p>マイクロマウスに搭載する「フラッグLED」をご存知でしょうか．</p>\n<a id=\"more\"></a>\n\n<p><img src=\"que.jpg\" alt=\"Queさん\"></p>\n<p>機体が小さいハーフサイズ競技ではマウスがどこを走っているかが分かりにくく，見失うことがよくあります．そこで，上の機体製作者である我が部の大先輩がフラッグLEDを搭載されました．旗のように立ったLEDが光り輝き，マウスを見失うことがなくなります．天才的なアイデアではないでしょうか．</p>\n<p>僕も先輩に習って，前作ではフラッグLEDを搭載しています．</p>\n<p><img src=\"tanitan2.jpg\" alt=\"tanitan2.0h\"></p>\n<p>機体サイズからすると大きめの旗ですが，明るくて非常に好評です．旗のおかげで可愛らしさが50%アップです✨✨✨</p>\n<p>というわけで，新作の鵤くん用のフラッグLEDを新しく作ることにしました．気合とUEWだけで製作したので，その過程をまとめます．</p>\n<h1 id=\"作り方\"><a href=\"#作り方\" class=\"headerlink\" title=\"作り方\"></a>作り方</h1><h2 id=\"回路図\"><a href=\"#回路図\" class=\"headerlink\" title=\"回路図\"></a>回路図</h2><p>書き込み 兼 充電 兼 モード切替用端子として，6ピンのコネクタを搭載しています．ここに，電源LED1個と表示用LED2個を載せていこうと思います．<br>回路図は次のとおりです．左上がフラッグLED，それ以外がマウス側の回路図です．</p>\n<p><img src=\"circuit.jpg\" alt=\"フラッグLED周りの回路図\"></p>\n<p>電源のON/OFFに連動したLEDを無茶して載せました．動いてるのでよしとしましょう．表示用LEDは，UART用の信号線2本と兼用にしています．鵤くん用の書き込み基板に<strong>保護回路を搭載</strong>しているのでこの回路で問題ありませんが，搭載していない場合は<strong>壊れる可能性がある</strong>ので気をつけましょう．</p>\n<h2 id=\"材料\"><a href=\"#材料\" class=\"headerlink\" title=\"材料\"></a>材料</h2><p>今回の製作で使用した部品です．</p>\n<ul>\n<li>1005metricサイズのLED3つ</li>\n<li>0402metricサイズの抵抗3つ</li>\n<li><a href=\"https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-4CF5\">サンコー電商 2UEW 0.15 L-20 エナメル線(2種ポリウレタン銅線) 0.15mm 20M</a> ←常用にもオススメの細さです</li>\n<li>マウスと接続用のコネクタ</li>\n</ul>\n<h2 id=\"実装\"><a href=\"#実装\" class=\"headerlink\" title=\"実装\"></a>実装</h2><p>順番に進めていきます．</p>\n<p>まず抵抗とLEDを接続します．抵抗の先に，予め長さを揃えたUEWを付けます．</p>\n<p><img src=\"1.jpg\" alt=\"手順①\"></p>\n<p>反対側のUEWを接続します．</p>\n<p><img src=\"2.jpg\" alt=\"手順②\"></p>\n<p>コネクタに接続します．</p>\n<p><img src=\"3.jpg\" alt=\"手順③\"></p>\n<p>完成です✨✨✨</p>\n<p><img src=\"4.jpg\" alt=\"完成\"></p>\n<h1 id=\"感想\"><a href=\"#感想\" class=\"headerlink\" title=\"感想\"></a>感想</h1><p>はんだがすぐに外れたりして手間取りましたが，なんとか完成しました．このサイズにLEDが3つも埋まっているとは思えない大きさになってしまいました．</p>\n<p>参考に，去年のフラッグLEDとの比較画像を載せておきます．</p>\n<p><img src=\"5.jpg\" alt=\"サイズ比較\"></p>\n<h1 id=\"まとめ\"><a href=\"#まとめ\" class=\"headerlink\" title=\"まとめ\"></a>まとめ</h1><p>ハーフサイズ競技に参加されているみなさん，旗立てましょうよ</p>\n",
+            "tags": [
+                "フラッグLED"
+            ]
+        }
+    ]
+}

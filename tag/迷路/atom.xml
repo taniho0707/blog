@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;迷路&#34; tag</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2018-12-12T12:22:35.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2018/12/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AE%E8%BF%B7%E8%B7%AF%E6%9D%BF%E3%82%92%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F/</id>
+        <title>マイクロマウスの迷路板を購入した</title>
+        <link rel="alternate" href="http://blog.taniho.net/2018/12/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AE%E8%BF%B7%E8%B7%AF%E6%9D%BF%E3%82%92%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F/"/>
+        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;マイクロマウスは個人でも参加できるロボット競技ですが，それでも迷路が家に無いことには開発が進みません．&lt;br&gt;僕は今年大学を卒業し，サークルに常備されていた迷路がなくなったので，自宅用に迷路を買うことにしました．&lt;/p&gt;
+&lt;p&gt;マイクロマウスの迷路といえば，&lt;a href=&#34;https://www.rt-shop.jp/&#34;&gt;アールティー&lt;/a&gt;で購入，もしくは&lt;a href=&#34;https://ameblo.jp/neophile/entry-12108339424.html&#34;&gt;自作&lt;/a&gt;するのが主流です．&lt;br&gt;しかし，購入するのでは定形サイズしか買えない(2018/10/11時点，4x4と9x9のみ)・迷路を組み合わせられない(昔そんな記載を見た記憶があるのですが，実際どうなんでしょうか)ということで買い渋っていました．&lt;br&gt;自作は自由なサイズを作ることが出来ますが，寸法精度が出ず，広いスペースが必要で，しかもめんどくさいということでやりたくありません．&lt;/p&gt;
+&lt;p&gt;そこで，木材加工業者に迷路を注文することにしました．この記事では迷路(板)製作の過程をまとめます．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;注文&#34;&gt;&lt;a href=&#34;#注文&#34; class=&#34;headerlink&#34; title=&#34;注文&#34;&gt;&lt;/a&gt;注文&lt;/h1&gt;&lt;p&gt;今回は&lt;a href=&#34;http://www.storio.co.jp/diy/index.htm&#34;&gt;STORIO&lt;/a&gt;で注文しました．&lt;br&gt;フォームから板材や加工内容を指定することで簡易見積りを出せます．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.storio.co.jp/diy/index.htm&#34; style=&#34;text-decoration: none;&#34;&gt;&lt;div class=&#34;link-box&#34;&gt;&lt;div class=&#34;img-box&#34;&gt;&lt;div style=&#34;background-image: url(&#39;http://www.storio.co.jp/diy/top_img/item01.jpg&#39;);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;text-box&#34;&gt;&lt;p class=&#34;title&#34;&gt;木材加工・販売は、DIY 日曜大工応援隊！&lt;/p&gt;&lt;p class=&#34;description&#34;&gt;木材のカット・加工の通信販売。お客様の図面通りに集成材・合板などの木材を加工販売する、DIY日曜大工の専門店です。自分で見積りできるフォームも便利。法人向けも好評です。&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;設計&#34;&gt;&lt;a href=&#34;#設計&#34; class=&#34;headerlink&#34; title=&#34;設計&#34;&gt;&lt;/a&gt;設計&lt;/h2&gt;&lt;p&gt;まずは迷路板を設計します．&lt;br&gt;今回は手始めに9x9のマイクロマウス競技(旧ハーフサイズ)用迷路板を注文してみます．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;7.png&#34; alt=&#34;雑な図面&#34;&gt;&lt;/p&gt;
+&lt;p&gt;さくっと適当な図面を描いてPDFにしました．&lt;br&gt;STORIOでは加工内容が分かる程度のラフスケッチなどを図面代わりにしても構わないそうなので，気軽に注文できて嬉しいですね．&lt;/p&gt;
+&lt;h2 id=&#34;注文-1&#34;&gt;&lt;a href=&#34;#注文-1&#34; class=&#34;headerlink&#34; title=&#34;注文&#34;&gt;&lt;/a&gt;注文&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;http://www.storio.co.jp/diy/shopping/orderf1.htm&#34;&gt;注文フォーム&lt;/a&gt;から注文をしていきます．&lt;/p&gt;
+&lt;p&gt;板材・外形は，ラワンベニヤ合板(準耐水)の9mm，迷路区画が9x9なので板サイズは900x900mmで進めていきます．&lt;br&gt;柱を立てるための丸穴加工をφ4mmx100個追加します．&lt;br&gt;フォーム上は1〜99個しか入力できなかったので，丸穴50個を2セット分入力しました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;8.png&#34; alt=&#34;せこい&#34;&gt;&lt;/p&gt;
+&lt;p&gt;この段階で見積額は，&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;9.png&#34; alt=&#34;見積額&#34;&gt;&lt;/p&gt;
+&lt;p&gt;やすいですねえ．&lt;br&gt;後は住所等を入力し，先ほど作った図面をアップロードすれば注文完了です．&lt;/p&gt;
+&lt;p&gt;……と思ったら，フォームの見積もりはあくまで簡易的な見積もりだったらしく，翌日に見積額の修正連絡が来ました．&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;お支払い総額 = ￥13,166 (内消費税：￥975)，(品代：￥12,423＋梱包送料：￥743)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;うーん，安い！&lt;/p&gt;
+&lt;h1 id=&#34;加工&#34;&gt;&lt;a href=&#34;#加工&#34; class=&#34;headerlink&#34; title=&#34;加工&#34;&gt;&lt;/a&gt;加工&lt;/h1&gt;&lt;p&gt;到着した下板はこちらです．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;1.jpg&#34; alt=&#34;板&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;2.jpg&#34; alt=&#34;穴&#34;&gt;&lt;/p&gt;
+&lt;p&gt;穴がとても綺麗に空いていました．&lt;/p&gt;
+&lt;p&gt;さて，このままでは迷路として使うことが出来ないので，加工していきます．&lt;/p&gt;
+&lt;h2 id=&#34;研磨&#34;&gt;&lt;a href=&#34;#研磨&#34; class=&#34;headerlink&#34; title=&#34;研磨&#34;&gt;&lt;/a&gt;研磨&lt;/h2&gt;&lt;p&gt;届いた下板は表面がざらざらなので，まずはヤスリがけをします．&lt;br&gt;面積もあるので，Amazon人気No.1だったサンダーを購入しました．&lt;/p&gt;
+&lt;div class=&#34;amazlet-box&#34; style=&#34;margin-bottom:0px;&#34;&gt;&lt;div class=&#34;amazlet-image&#34; style=&#34;float:left;margin:0px 12px 1px 0px;&#34;&gt;&lt;a href=&#34;http://www.amazon.co.jp/exec/obidos/ASIN/B074J5DQPR/taniho0707-22/ref=nosim/&#34; name=&#34;amazletlink&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://images-fe.ssl-images-amazon.com/images/I/51N5wTRvuxL._SL160_.jpg&#34; alt=&#34;TACKLIFE PSS01A サンダー 240W/15000RPM シート軌道 低振動 低騒音 高集塵 12*サンドペーパー 24ヶ月間の保証 日本語取扱説明書 DIY コンパクト&#34; style=&#34;border: none;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;amazlet-info&#34; style=&#34;line-height:120%; margin-bottom: 10px&#34;&gt;&lt;div class=&#34;amazlet-name&#34; style=&#34;margin-bottom:10px;line-height:120%&#34;&gt;&lt;a href=&#34;http://www.amazon.co.jp/exec/obidos/ASIN/B074J5DQPR/taniho0707-22/ref=nosim/&#34; name=&#34;amazletlink&#34; target=&#34;_blank&#34;&gt;TACKLIFE PSS01A サンダー 240W/15000RPM シート軌道 低振動 低騒音 高集塵 12*サンドペーパー 24ヶ月間の保証 日本語取扱説明書 DIY コンパクト&lt;/a&gt;&lt;div class=&#34;amazlet-powered-date&#34; style=&#34;font-size:80%;margin-top:5px;line-height:120%&#34;&gt;posted with &lt;a href=&#34;http://www.amazlet.com/&#34; title=&#34;amazlet&#34; target=&#34;_blank&#34;&gt;amazlet&lt;/a&gt; at 18.10.11&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;amazlet-detail&#34;&gt;TackLife &lt;br /&gt;売り上げランキング: 218&lt;br /&gt;&lt;/div&gt;&lt;div class=&#34;amazlet-sub-info&#34; style=&#34;float: left;&#34;&gt;&lt;div class=&#34;amazlet-link&#34; style=&#34;margin-top: 5px&#34;&gt;&lt;a href=&#34;http://www.amazon.co.jp/exec/obidos/ASIN/B074J5DQPR/taniho0707-22/ref=nosim/&#34; name=&#34;amazletlink&#34; target=&#34;_blank&#34;&gt;Amazon.co.jpで詳細を見る&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;amazlet-footer&#34; style=&#34;clear: left&#34;&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;5分程度でヤスリがけが完了したので，「やっぱ電動工具は最高だなあ！！！」という気持ちになります．&lt;br&gt;ちなみに，セットした紙やすりは板1枚をやするだけでボロボロになってしまいました．&lt;/p&gt;
+&lt;h2 id=&#34;塗装&#34;&gt;&lt;a href=&#34;#塗装&#34; class=&#34;headerlink&#34; title=&#34;塗装&#34;&gt;&lt;/a&gt;塗装&lt;/h2&gt;&lt;p&gt;研磨した下板を濡れ雑巾で拭き取った後，塗装に入っていきます．&lt;br&gt;塗料はロボトレース競技公式塗料の水性フレッシュワイド つやなしブラックを使用します．&lt;br&gt;参考に，若干水で薄めながら使うと，この0.2L缶1本で1800x900の板1枚と9x9ハーフ用迷路1枚を塗り切ることが出来ました．&lt;/p&gt;
+&lt;div class=&#34;amazlet-box&#34; style=&#34;margin-bottom:0px;&#34;&gt;&lt;div class=&#34;amazlet-image&#34; style=&#34;float:left;margin:0px 12px 1px 0px;&#34;&gt;&lt;a href=&#34;http://www.amazon.co.jp/exec/obidos/ASIN/B00KHJYF28/taniho0707-22/ref=nosim/&#34; name=&#34;amazletlink&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://images-fe.ssl-images-amazon.com/images/I/51hb9VXyncL._SL160_.jpg&#34; alt=&#34;ニッペ 多用途塗料 水性フレッシュワイド つやなしブラック 0.2L&#34; style=&#34;border: none;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;amazlet-info&#34; style=&#34;line-height:120%; margin-bottom: 10px&#34;&gt;&lt;div class=&#34;amazlet-name&#34; style=&#34;margin-bottom:10px;line-height:120%&#34;&gt;&lt;a href=&#34;http://www.amazon.co.jp/exec/obidos/ASIN/B00KHJYF28/taniho0707-22/ref=nosim/&#34; name=&#34;amazletlink&#34; target=&#34;_blank&#34;&gt;ニッペ 多用途塗料 水性フレッシュワイド つやなしブラック 0.2L&lt;/a&gt;&lt;div class=&#34;amazlet-powered-date&#34; style=&#34;font-size:80%;margin-top:5px;line-height:120%&#34;&gt;posted with &lt;a href=&#34;http://www.amazlet.com/&#34; title=&#34;amazlet&#34; target=&#34;_blank&#34;&gt;amazlet&lt;/a&gt; at 18.10.16&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;amazlet-detail&#34;&gt;ニッペ &lt;br /&gt;売り上げランキング: 47,359&lt;br /&gt;&lt;/div&gt;&lt;div class=&#34;amazlet-sub-info&#34; style=&#34;float: left;&#34;&gt;&lt;div class=&#34;amazlet-link&#34; style=&#34;margin-top: 5px&#34;&gt;&lt;a href=&#34;http://www.amazon.co.jp/exec/obidos/ASIN/B00KHJYF28/taniho0707-22/ref=nosim/&#34; name=&#34;amazletlink&#34; target=&#34;_blank&#34;&gt;Amazon.co.jpで詳細を見る&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;amazlet-footer&#34; style=&#34;clear: left&#34;&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;というわけで塗りきった板がこちら．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;3.jpg&#34; alt=&#34;真っ黒&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;まとめ&#34;&gt;&lt;a href=&#34;#まとめ&#34; class=&#34;headerlink&#34; title=&#34;まとめ&#34;&gt;&lt;/a&gt;まとめ&lt;/h1&gt;&lt;p&gt;反省点は，表面のヤスリがけをもうすこし念入りにやっておけばよかったことです．&lt;br&gt;少しザラザラしているので本番の路面とグリップが異なってしまいそうです．&lt;/p&gt;
+&lt;p&gt;迷路板は，一部外注することで割とお安く作ることが出来ました．&lt;br&gt;もっと大きな迷路が必要になったら，もういちどこの方法で作ろうと思います．&lt;/p&gt;
+</content>
+        <category term="マイクロマウス" />
+        <category term="迷路" />
+        <updated>2018-12-12T12:22:35.000Z</updated>
+    </entry>
+</feed>

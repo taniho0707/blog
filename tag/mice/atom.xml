@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;mice&#34; tag</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2017-11-30T15:00:00.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2017/12/TAC-01-Mice%E3%81%A8%E9%B5%A4/</id>
+        <title>[TAC:01] Miceと鵤</title>
+        <link rel="alternate" href="http://blog.taniho.net/2017/12/TAC-01-Mice%E3%81%A8%E9%B5%A4/"/>
+        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;この記事は&lt;a href=&#34;https://adventar.org/calendars/2472&#34;&gt;Mice Advent Calendar 2017&lt;/a&gt;と&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;の1日目の記事です．&lt;/p&gt;
+&lt;p&gt;Mice Advent Calendar 2017は，僕が所属する&lt;a href=&#34;http://mice.deca.jp/&#34;&gt;東京理科大学 Mice&lt;/a&gt;の部員がブログを更新するイベントです．明日から毎日面白い記事が投稿されると思うので，みなさん是非ご覧ください．初日の今日は，前年度部長としてMiceの紹介をしようと思います．僕の主観が入り乱れている可能性があるので，各自思うところがあればブログコメントでdisっていただいても構いません．&lt;/p&gt;
+&lt;p&gt;taniho Advent Calendar 2017，略してTACは，学生生活の総決算ということで，4年間の学生生活で取り組んできたことなどを毎日更新するイベントです．頑張って更新を続けていこうと思います．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;Miceとは&#34;&gt;&lt;a href=&#34;#Miceとは&#34; class=&#34;headerlink&#34; title=&#34;Miceとは&#34;&gt;&lt;/a&gt;Miceとは&lt;/h1&gt;&lt;p&gt;マイクロマウスをメインとして，知的ロボットを製作するサークルです．サークルに興味がある方は&lt;a href=&#34;http://mice.deca.jp/intro_join.html&#34;&gt;こちら&lt;/a&gt;を見てください．&lt;/p&gt;
+&lt;p&gt;せっかくの機会なので，サークルの色々な話をしていきましょう．&lt;/p&gt;
+&lt;h2 id=&#34;技術継承&#34;&gt;&lt;a href=&#34;#技術継承&#34; class=&#34;headerlink&#34; title=&#34;技術継承&#34;&gt;&lt;/a&gt;技術継承&lt;/h2&gt;&lt;p&gt;技術系サークルでは，後輩への技術継承という大きな課題があると思います．Miceではどのように技術継承し，他大学と交流しているかお話しします．&lt;/p&gt;
+&lt;p&gt;まず後輩への技術継承です．&lt;br&gt;Miceには大学生同士の「おごり文化」が全くありません．それについて偉大なサークル創設者の方がこういう言葉を残したそうです．&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;後輩に，お金ではなく技術を渡せ&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;とても格好いい言葉ですね．つまり後輩に&lt;del&gt;お金なんかあげたくない&lt;/del&gt;躊躇なく技術を教えるのが正しい先輩像であるという考えです．Miceの新入生は忙しそうな先輩にいくらでも質問してよく，先輩もそれに答えるべきという空気ができています．&lt;br&gt;やる気のある新入生がどんどん成長できる環境になっているのではないでしょうか．&lt;/p&gt;
+&lt;p&gt;もう一点，”無償提供モータを貰ったら，ブログを作る”という決まりがあります．大会出場している部員は，皆&lt;del&gt;嫌々&lt;/del&gt;楽しそうにブログを更新して，学んだことを公開しています．&lt;br&gt;最新の記事一覧は&lt;a href=&#34;http://mice.deca.jp/link_new.php&#34;&gt;こちらのページ&lt;/a&gt;で公開されています．&lt;br&gt;スラローム走行の基本など，誰しもが苦しむポイントは&lt;a href=&#34;http://mice.deca.jp/tech_article.html&#34;&gt;こちら&lt;/a&gt;のページにまとめています．&lt;br&gt;新入生に教える際に，先輩方のブログ記事を紹介すると理解が早く，とても便利です．&lt;/p&gt;
+&lt;h2 id=&#34;技術交流&#34;&gt;&lt;a href=&#34;#技術交流&#34; class=&#34;headerlink&#34; title=&#34;技術交流&#34;&gt;&lt;/a&gt;技術交流&lt;/h2&gt;&lt;p&gt;技術交流会を毎年主催しています．昨年までは完全に身内開催で，卒業する先輩からマウスのノウハウを教えていただいたり，フレッシュマンが失敗した体験などを発表していました．&lt;br&gt;今年の冬に開催した技術交流会は&lt;a href=&#34;https://twitter.com/ishi_Mice&#34;&gt;部長&lt;/a&gt;の尽力のおかげで，他校の方々にもご参加いただきました．&lt;br&gt;&lt;a href=&#34;https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23Mice%E6%8A%80%E8%A1%93%E4%BA%A4%E6%B5%81%E4%BC%9A&amp;src=typd&#34;&gt;#Mice技術交流会 - Twitter検索&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;6月頃にはプチ大会を主催し，更に多くの方々にご参加いただきました！ プチ大会ではマウス競技以外に，新入生向けのライントレーサ競技も行っています．来年以降も，是非部員を連れて来てくださいね．&lt;br&gt;&lt;a href=&#34;https://twitter.com/search?f=tweets&amp;q=%23Mice%E3%83%97%E3%83%81%E5%A4%A7%E4%BC%9A&amp;src=typd&#34;&gt;#Miceプチ大会 - Twitter検索&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来年以降はMice就職組が各地に散らばることになるので，各支部で技術交流が広がることを期待しています．&lt;/p&gt;
+&lt;h2 id=&#34;MiceBustersと第三勢力&#34;&gt;&lt;a href=&#34;#MiceBustersと第三勢力&#34; class=&#34;headerlink&#34; title=&#34;MiceBustersと第三勢力&#34;&gt;&lt;/a&gt;MiceBustersと第三勢力&lt;/h2&gt;&lt;p&gt;そんな一見仲良さげなMiceですが，実は不仲説があります．&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;地区大会遠征でなぜか毎回，別行動する人がいるみたいです．&lt;br&gt;なんでも「ライブに行きたい」とか「バイクで行きたい」とか「ネカフェに泊まりたい」とか「後泊したい」とか……．&lt;br&gt;いつから現役生の仲がこんなに悪くなってしまったのでしょうか🤔🤔🤔&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;第30回マイクロマウス東北地区大会ハーフサイズ競技の出走リストを見てみましょう．&lt;br&gt;“東京理科大学 Mice”(現役)と”Mice Busters”(卒業生)と”Mice OB”(卒業生)がいる……！！&lt;br&gt;Miceは現役だけでなく，OBの仲も悪いのかもしれません．&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img src=&#34;list.png&#34; width=&#34;300&#34; /&gt;
+
+&lt;h2 id=&#34;MiceとMiceBusters&#34;&gt;&lt;a href=&#34;#MiceとMiceBusters&#34; class=&#34;headerlink&#34; title=&#34;MiceとMiceBusters&#34;&gt;&lt;/a&gt;MiceとMiceBusters&lt;/h2&gt;&lt;p&gt;さてさて，話題のMice Bustersについておさらいしておきましょう．&lt;br&gt;「Mice Busters」はMice卒業生の人たちが作るチーム……かと思いきや，実は少し違いそうです．Mice Busters公式サイトを見てみましょう．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www8.atwiki.jp/micebusters/&#34;&gt;Mice Bustersとは？ - Mice Busters - アットウィキ&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Mice Bustersとは東京理科大学Miceに勝つことを唯一にして最大の目的とする集団です。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;ほーん．&lt;/p&gt;
+&lt;p&gt;では2017年度の大会結果を見てみましょう．&lt;/p&gt;
+&lt;img src=&#34;buster.png&#34; width=&#34;500&#34; /&gt;
+
+&lt;p&gt;あ，勝負のルールを確認しておきますね．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;「Busterする」とは，各大会の該当競技で「MiceとMice Bustersの中で最も高い順位を取る」こと&lt;/li&gt;
+&lt;li&gt;有効な大会は「MiceとMice Bustersの両者が会場にいた大会」とする&lt;/li&gt;
+&lt;li&gt;勝ち負けは「Busterに成功した人数」で決める&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;この戦いは団体戦なので，一人が強ければ良いということではありません．相手に勝てる人が何人いるのかが一番重要になってきます．&lt;br&gt;では勝敗の結果はどうなのでしょうか．&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Mice 4 vs Mice Busters 2&lt;br&gt;🎉🎉Miceの勝ち🎉🎉&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;鵤&#34;&gt;&lt;a href=&#34;#鵤&#34; class=&#34;headerlink&#34; title=&#34;鵤&#34;&gt;&lt;/a&gt;鵤&lt;/h1&gt;&lt;p&gt;話変わります．&lt;/p&gt;
+&lt;p&gt;今年，僕が製作したハーフサイズマウスの「鵤」くんについてです．Mice所属時の機体としては最後なので，明日から詳しく紹介しようと思っています．&lt;/p&gt;
+&lt;p&gt;鵤くんのスペックと今年一年分の戦績はこちらをご覧ください．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.taniho.net/2017/10/%E5%AD%A6%E7%94%9F%E6%9C%80%E7%B5%82%E5%B9%B4%E5%BA%A6%E3%81%AE%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A/&#34;&gt;学生最終年度の地区大会 | taniho’s blog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;鵤くんに生えているアンテナの作り方はこちらをご覧ください．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.taniho.net/2017/09/%E3%82%AF%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9E%E3%82%A6%E3%82%B9%E7%94%A8%E3%81%AE%E6%97%97%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F/&#34;&gt;クォーターマウス用の旗を作った | taniho’s blog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;鵤くんの解剖記事はTACの2日目，&lt;br&gt;鵤くんの書き込み充電基板についてはTACの3〜5日目に紹介する予定です．&lt;br&gt;興味のある方は明日以降の僕のブログを見てください．&lt;/p&gt;
+&lt;p&gt;最後に，鵤くんの擬人化イラストを頂いたので紹介して終わりにしようと思います．片方が&lt;a href=&#34;http://umuoumu.blog.fc2.com/blog-entry-29.html&#34;&gt;シン・ウムオ&lt;/a&gt;，もう片方が鵤とのことです．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;あやたか先輩に習って自分のマウス擬人化したらモチベ上がるんじゃねえかとか考えて自分のマウス擬人化してたはずだったのに気がついたら勝手に人のマウス擬人化してた(誰のマウスでしょうね) &lt;a href=&#34;https://t.co/acHHZsCs2X&#34;&gt;pic.twitter.com/acHHZsCs2X&lt;/a&gt;&lt;/p&gt;&amp;mdash; れこ (@M_vi_o_la) &lt;a href=&#34;https://twitter.com/M_vi_o_la/status/922879351762296833?ref_src=twsrc%5Etfw&#34;&gt;2017年10月24日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;イラストありがとうございました！ マウス擬人化流行るといいですね．&lt;/p&gt;
+&lt;h1 id=&#34;明日に続く&#34;&gt;&lt;a href=&#34;#明日に続く&#34; class=&#34;headerlink&#34; title=&#34;明日に続く&#34;&gt;&lt;/a&gt;明日に続く&lt;/h1&gt;&lt;p&gt;明日の&lt;a href=&#34;https://adventar.org/calendars/2472&#34;&gt;Mice Advent Calendar 2017&lt;/a&gt;は&lt;a href=&#34;https://twitter.com/m_vi_o_la&#34;&gt;@M_vi_o_la&lt;/a&gt;さんの「新作の進捗やらコンセプトやらごはん」についての記事だそうです．&lt;/p&gt;
+&lt;p&gt;明日の&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;は「鵤くんを作る上で苦労したことまとめ」について書こうと思っています．&lt;/p&gt;
+&lt;p&gt;では，ここまで読んで頂きありがとうございました．&lt;/p&gt;
+&lt;iframe style=&#34;width:120px;height:240px;&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; src=&#34;//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=taniho0707-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=B00E6IUQOC&amp;linkId=f339936b479e95f2362fb68568afa6ce&#34;&gt;&lt;/iframe&gt;&lt;iframe style=&#34;width:120px;height:240px;&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; src=&#34;//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=taniho0707-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=B016GN5YTQ&amp;linkId=df428ca9f06d1e250d2ba8bdf905619b&#34;&gt;&lt;/iframe&gt;
+</content>
+        <category term="Mice" />
+        <category term="鵤" />
+        <updated>2017-11-30T15:00:00.000Z</updated>
+    </entry>
+</feed>

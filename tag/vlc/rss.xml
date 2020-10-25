@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>taniho&#39;s blog • Posts by &#34;vlc&#34; tag</title>
+        <link>http://blog.taniho.net</link>
+        <description>technical note</description>
+        <language>en</language>
+        <pubDate>Fri, 10 Jun 2016 00:30:17 +0900</pubDate>
+        <lastBuildDate>Fri, 10 Jun 2016 00:30:17 +0900</lastBuildDate>
+        <category>Emacs</category>
+        <category>ArchLinux</category>
+        <category>マイクロマウス</category>
+        <category>台湾</category>
+        <category>旅行</category>
+        <category>たまこまーけっと</category>
+        <category>2016年</category>
+        <category>買い物</category>
+        <category>おすすめ</category>
+        <category>日常</category>
+        <category>2017年</category>
+        <category>クリスマス</category>
+        <category>Elecrow</category>
+        <category>電子工作</category>
+        <category>関西地区大会</category>
+        <category>猫</category>
+        <category>Apache</category>
+        <category>letsencrypt</category>
+        <category>Blu-ray</category>
+        <category>VLC</category>
+        <category>CNC</category>
+        <category>Magit</category>
+        <category>git</category>
+        <category>MFT</category>
+        <category>RaspberryPi</category>
+        <category>無線LAN</category>
+        <category>Mice</category>
+        <category>鵤</category>
+        <category>メジロ</category>
+        <category>Qt</category>
+        <category>デレステ</category>
+        <category>yakudo</category>
+        <category>Android</category>
+        <category>Discord</category>
+        <category>Webアプリ</category>
+        <category>教習所</category>
+        <category>ロボット</category>
+        <category>Linux</category>
+        <category>remark</category>
+        <category>スライドショー</category>
+        <category>ごはん</category>
+        <category>金町</category>
+        <category>クレジットカード</category>
+        <category>ヘボコン</category>
+        <category>ボードゲーム</category>
+        <category>Quadcept</category>
+        <category>CAD</category>
+        <category>Doxygen</category>
+        <category>2018年</category>
+        <category>dアニメストア</category>
+        <category>Renesas</category>
+        <category>RX62T</category>
+        <category>e2studio</category>
+        <category>github</category>
+        <category>マウス</category>
+        <category>分解</category>
+        <category>logicool</category>
+        <category>M570</category>
+        <category>G700s</category>
+        <category>seccamp2016</category>
+        <category>seccamp</category>
+        <category>ownCloud</category>
+        <category>サーバー</category>
+        <category>subsonic</category>
+        <category>音楽</category>
+        <category>みそ煮込みうどん</category>
+        <category>I.Sys</category>
+        <category>フラッグLED</category>
+        <category>i3</category>
+        <category>wm</category>
+        <category>AdventCalendar</category>
+        <category>モード</category>
+        <category>迷路</category>
+        <category>C++</category>
+        <category>調整</category>
+        <category>中華</category>
+        <category>まとめ</category>
+        <category>助けて</category>
+        <category>三角関数</category>
+        <category>福岡</category>
+        <category>東北地区大会</category>
+        <category>STL</category>
+        <category>入門</category>
+        <category>ラズパイコンテスト</category>
+        <category>NFC</category>
+        <category>C言語</category>
+        <category>部品</category>
+        <category>管理</category>
+        <category>電子部品</category>
+        <category>STM32CubeMX</category>
+        <category>FTDI</category>
+        <category>Makefile</category>
+        <category>アプリ</category>
+        <category>はてな</category>
+        <category>インターン</category>
+        <category>最高</category>
+        <category>セキュリティ・キャンプ</category>
+        <item>
+            <guid isPermalink="true">http://blog.taniho.net/2016/06/ArchLinux%E3%81%A7Blu-ray%E3%82%92%E5%86%8D%E7%94%9F%E3%81%99%E3%82%8B/</guid>
+            <title>ArchLinuxでBlu-rayを再生する</title>
+            <link>http://blog.taniho.net/2016/06/ArchLinux%E3%81%A7Blu-ray%E3%82%92%E5%86%8D%E7%94%9F%E3%81%99%E3%82%8B/</link>
+            <category>ArchLinux</category>
+            <category>たまこまーけっと</category>
+            <category>Blu-ray</category>
+            <category>VLC</category>
+            <pubDate>Fri, 10 Jun 2016 00:30:17 +0900</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;エンバンデビュー！&#34;&gt;&lt;a href=&#34;#エンバンデビュー！&#34; class=&#34;headerlink&#34; title=&#34;エンバンデビュー！&#34;&gt;&lt;/a&gt;エンバンデビュー！&lt;/h1&gt;&lt;p&gt;先日，初めてBlu-ray，いわゆる円盤を購入しました．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;お ま た せ &lt;a href=&#34;https://t.co/J2s1NGQeME&#34;&gt;pic.twitter.com/J2s1NGQeME&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho・モチマッヅィ (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/740753404524257280&#34;&gt;2016年6月9日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;とりあえずいつものArchWikiより，&lt;a href=&#34;https://wiki.archlinuxjp.org/index.php/Blu-ray&#34;&gt;Blu-rayについての記事&lt;/a&gt;を見ながら再生環境を整えようとしました．&lt;br&gt;しかし，方法1を試しても鍵の認証ができない，方法2はそもそも鍵データが古すぎる……，ということで嘆いていました．ああ，心待ちにしていた円盤が再生できない……．&lt;br&gt;どうやら，今回買った円盤はAACS v46だそうで，この方法は古すぎるようです．&lt;/p&gt;
+&lt;p&gt;と，そこに素晴らしい記事が舞い込んできました．&lt;br&gt;&lt;a href=&#34;https://blog.myon.info/blog/2014-12-21/play_blu_rau_in_archlinux/&#34;&gt;対Blu-ray用決戦部隊、通称MakeMKV&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;詳しくはこちらの記事を参照してください．&lt;br&gt;簡単に言うと，&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一般的に使われているライブラリの代わりにMakeMKVで使われてるライブラリを使うことで，VLCでBDの再生ができる&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;ということです．&lt;br&gt;MakeMKVというのはBlu-rayのリッピングツールであるため，取り扱いにはくれぐれも注意してください．&lt;/p&gt;
+&lt;p&gt;というわけで，ArchLinuxの場合はユーザーリポジトリに入っているようなので&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;yaourt -S makemkv-libaacs&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;を実行し，VLCを起動し，Blu-rayディスクを再生しようとすると……，&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;【祝】Blu-ray再生に成功 &lt;a href=&#34;https://t.co/zdgGgvHDX5&#34;&gt;pic.twitter.com/zdgGgvHDX5&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho・モチマッヅィ (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/740922675187453953&#34;&gt;2016年6月9日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;参考にしたサイトの管理者の方，本当にありがとうございました．&lt;/p&gt;
+&lt;p&gt;ただし，メニューには対応していないようでした……．どうにかできないのでしょうか．&lt;/p&gt;
+&lt;h1 id=&#34;余談&#34;&gt;&lt;a href=&#34;#余談&#34; class=&#34;headerlink&#34; title=&#34;余談&#34;&gt;&lt;/a&gt;余談&lt;/h1&gt;&lt;p&gt;今回の再生環境や，Windowsの怪しいフリーソフトでの再生時には，映像が乱れたり画面が止まったりすることが何度かありました．PowerDVDなどの純正ソフトで再生したときにはこんなことなかった気がします．&lt;br&gt;何が違うのでしょうか……？&lt;br&gt;きれいに再生する方法をご存知の方，教えてください．&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

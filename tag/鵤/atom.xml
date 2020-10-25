@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;鵤&#34; tag</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2017-12-01T15:00:00.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2017/12/TAC-02-%E9%B5%A4%E3%81%8F%E3%82%93%E3%82%92%E4%BD%9C%E3%82%8B%E4%B8%8A%E3%81%A7%E8%8B%A6%E5%8A%B4%E3%81%97%E3%81%9F%E3%81%93%E3%81%A8%E3%81%BE%E3%81%A8%E3%82%81/</id>
+        <title>[TAC:02] 鵤くんを作る上で苦労したことまとめ</title>
+        <link rel="alternate" href="http://blog.taniho.net/2017/12/TAC-02-%E9%B5%A4%E3%81%8F%E3%82%93%E3%82%92%E4%BD%9C%E3%82%8B%E4%B8%8A%E3%81%A7%E8%8B%A6%E5%8A%B4%E3%81%97%E3%81%9F%E3%81%93%E3%81%A8%E3%81%BE%E3%81%A8%E3%82%81/"/>
+        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;この記事は&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;の2日目の記事です．&lt;/p&gt;
+&lt;p&gt;今日は僕の今年のマウス「鵤」を作る上で工夫したことや辛かったことをまとめ，来年度以降のクォーターサイズ人口増加に貢献したいと思います．&lt;/p&gt;
+&lt;p&gt;鵤くんの基本スペックと戦績はこちらの過去記事を見てください．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.taniho.net/2017/10/%E5%AD%A6%E7%94%9F%E6%9C%80%E7%B5%82%E5%B9%B4%E5%BA%A6%E3%81%AE%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A/&#34;&gt;学生最終年度の地区大会 | taniho’s blog&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;工夫したこと？&#34;&gt;&lt;a href=&#34;#工夫したこと？&#34; class=&#34;headerlink&#34; title=&#34;工夫したこと？&#34;&gt;&lt;/a&gt;工夫したこと？&lt;/h1&gt;&lt;p&gt;まずは鵤くんの製作の上で工夫したところです．&lt;/p&gt;
+&lt;h2 id=&#34;ホイールとギヤの固定&#34;&gt;&lt;a href=&#34;#ホイールとギヤの固定&#34; class=&#34;headerlink&#34; title=&#34;ホイールとギヤの固定&#34;&gt;&lt;/a&gt;ホイールとギヤの固定&lt;/h2&gt;&lt;p&gt;ホイールとギヤをどうやって固定するか毎回困っているのですが，今回はこういう風にしてみました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;wheel.png&#34; alt=&#34;ホイールとギヤをはめこむ&#34;&gt;&lt;/p&gt;
+&lt;p&gt;使用しているギヤは，&lt;a href=&#34;http://indoor-airplane-world.com/&#34;&gt;Indoor Airplane World e-shop&lt;/a&gt;のモジュール0.2，歯数40のスパーギヤです．(ピニオンは&lt;a href=&#34;https://shop.kkpmo.com/&#34;&gt;kkpmo - KK Produkcja Mikroantriebe Producer&lt;/a&gt;の9枚歯を使っています)&lt;br&gt;このスパーギヤの丸穴に合わせた形でホイールを削り，それにはめ込んで固定しています．&lt;/p&gt;
+&lt;h2 id=&#34;エンコーダ周りの構造&#34;&gt;&lt;a href=&#34;#エンコーダ周りの構造&#34; class=&#34;headerlink&#34; title=&#34;エンコーダ周りの構造&#34;&gt;&lt;/a&gt;エンコーダ周りの構造&lt;/h2&gt;&lt;p&gt;磁気式エンコーダを使う場合，シャフトを回転させた上に磁石を固定する必要があるため，どうしても横幅が大きくなってしまいます．クォーターサイズを目指す上では横幅が命と言っても過言ではないため，少し工夫してみました．こんな感じです．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;ikaru2.png&#34; alt=&#34;エンコーダ周りの構造&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ただし失敗点があって，初めはすべて金属製のベアリングを使っていたのですが，なぜかエンコーダが反応しませんでした．結論としては，磁石シャフトの磁気がベアリングに吸い込まれていたようなので，内側のベアリングを同形のPOMに交換しました．すべり軸受と言うそうです．&lt;/p&gt;
+&lt;p&gt;ところで皆さんはベアリングに車軸を圧入する際，何を使われていますか？&lt;br&gt;大半の方は糸だと思いますが，僕は「ティッシュ・キムワイプ」で圧入しています．&lt;br&gt;車軸の外周に均等にティッシュが広がるので，圧入のやりやすさがピカイチだと考えています．是非試してみてください．&lt;/p&gt;
+&lt;h2 id=&#34;ICを削った&#34;&gt;&lt;a href=&#34;#ICを削った&#34; class=&#34;headerlink&#34; title=&#34;ICを削った&#34;&gt;&lt;/a&gt;ICを削った&lt;/h2&gt;&lt;p&gt;こちらの写真を見てください．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;ikaru3.jpg&#34; alt=&#34;角が丸くなったエンコーダIC&#34;&gt;&lt;/p&gt;
+&lt;p&gt;設計の都合上どうしてもスペースが足りなかったので，エンコーダICを削ってみました．うまく動いてくれているので，これくらいの削りならセーフみたいです．&lt;/p&gt;
+&lt;h2 id=&#34;UIスイッチなし&#34;&gt;&lt;a href=&#34;#UIスイッチなし&#34; class=&#34;headerlink&#34; title=&#34;UIスイッチなし&#34;&gt;&lt;/a&gt;UIスイッチなし&lt;/h2&gt;&lt;p&gt;鵤くんには電源操作用のトグルスイッチ以外に物理スイッチを搭載していません．理由は3つあります．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;マウスが小さいので操作時に壊してしまいそう&lt;/li&gt;
+&lt;li&gt;超小型タクトスイッチは壊れやすい&lt;/li&gt;
+&lt;li&gt;そもそもスイッチを実装する面積が無い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;物理スイッチが無くても，案外困ることはありませんでした．ジャイロセンサを使ったモードの選択方法についてはこちらの記事を見てください．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.taniho.net/2017/10/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%A7%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%84%E3%83%A2%E3%83%BC%E3%83%89%E6%A9%9F%E8%83%BD%E3%82%92%E8%80%83%E3%81%88%E3%82%8B/&#34;&gt;マイクロマウスで使いやすいモード機能を考える | taniho’s blog&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;書込充電基板自作&#34;&gt;&lt;a href=&#34;#書込充電基板自作&#34; class=&#34;headerlink&#34; title=&#34;書込充電基板自作&#34;&gt;&lt;/a&gt;書込充電基板自作&lt;/h2&gt;&lt;p&gt;前作「タニタンv2.0H」から専用の書込充電基板を製作していました．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;writer.jpg&#34; alt=&#34;タニタンv2.0H用の書込充電基板&#34;&gt;&lt;/p&gt;
+&lt;p&gt;今作でも懲りずに，新しい書込充電基板を作りました．その名も「メジロ」です．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;書き込み基板です&lt;br&gt;↑旧&lt;br&gt;↓新 &lt;a href=&#34;https://t.co/7X6CucT0iq&#34;&gt;pic.twitter.com/7X6CucT0iq&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/869124919417724929?ref_src=twsrc%5Etfw&#34;&gt;2017年5月29日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;なんと，メジロに鵤を接続することで，パソコンから鵤の電源を操作することが出来ます．このおかげで，プログラムの書き込みをする時に基板を操作する必要がなくなりました．&lt;/p&gt;
+&lt;h1 id=&#34;失敗したこと&#34;&gt;&lt;a href=&#34;#失敗したこと&#34; class=&#34;headerlink&#34; title=&#34;失敗したこと&#34;&gt;&lt;/a&gt;失敗したこと&lt;/h1&gt;&lt;p&gt;次は鵤を作る上で失敗したことです．&lt;/p&gt;
+&lt;h2 id=&#34;ホイール軸の固定方法&#34;&gt;&lt;a href=&#34;#ホイール軸の固定方法&#34; class=&#34;headerlink&#34; title=&#34;ホイール軸の固定方法&#34;&gt;&lt;/a&gt;ホイール軸の固定方法&lt;/h2&gt;&lt;p&gt;先ほど，シャフトを両持ちにするためにホイールの両側にマウントを置きました．そのせいで，タイヤを交換する時に毎回ハンダごてを使ってマウントを外す必要があります．そしてマウントをつけ直すとギヤのかみ合わせが悪くなる……．この構造は考え直す必要がありそうです．&lt;/p&gt;
+&lt;h2 id=&#34;タイヤの失敗&#34;&gt;&lt;a href=&#34;#タイヤの失敗&#34; class=&#34;headerlink&#34; title=&#34;タイヤの失敗&#34;&gt;&lt;/a&gt;タイヤの失敗&lt;/h2&gt;&lt;p&gt;今回，タイヤにはシリコンチューブを使いました．タイヤ径を10mmにしたかったのでdNanoタイヤは選択肢から外れました．タイヤの自作も考えたのですが，労力がかかりすぎる予感がしたのでシリコンチューブをカットすることにしました．&lt;/p&gt;
+&lt;p&gt;ところが，このシリコンチューブはグリップ力が低く，全然速度が出せないことが判明しました．やっぱり既製品は性能良かったんだなあ．&lt;/p&gt;
+&lt;h2 id=&#34;重心高い&#34;&gt;&lt;a href=&#34;#重心高い&#34; class=&#34;headerlink&#34; title=&#34;重心高い&#34;&gt;&lt;/a&gt;重心高い&lt;/h2&gt;&lt;p&gt;リポの置き場所がなかったので，泣く泣く立てることにしました．そのせいで重心が高くなりました．悲しい．&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;ikaru1.jpg&#34; alt=&#34;リポが立ってる鵤くん&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;書き込めない問題&#34;&gt;&lt;a href=&#34;#書き込めない問題&#34; class=&#34;headerlink&#34; title=&#34;書き込めない問題&#34;&gt;&lt;/a&gt;書き込めない問題&lt;/h2&gt;&lt;p&gt;鵤くんv1と鵤くんv3は，なぜか途中から書き込めなくなるという悲しい最期を迎えています．まだ原因が判明したわけではないのですが，おそらくマイコン裏面のサーマルパッド(？)とどこかの配線が導通してしまったことじゃないかと考えています．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://cds.linear.com/docs/en/packaging/QFN_48_05-08-1704.pdf&#34;&gt;Package Drawing - QFN 48-Lead Plastic (7mm × 7mm) 05-08-1704 Rev C - QFN_48_05-08-1704.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;鵤くんv4は，基板上にカプトンテープを貼ることでなんとか生き延びています．&lt;/p&gt;
+&lt;h2 id=&#34;センサ値が悪い&#34;&gt;&lt;a href=&#34;#センサ値が悪い&#34; class=&#34;headerlink&#34; title=&#34;センサ値が悪い&#34;&gt;&lt;/a&gt;センサ値が悪い&lt;/h2&gt;&lt;p&gt;配線の幅をかなり細く作ってしまったため，センサに100mAしか流せませんでした．そのためセンサ値が弱く，今年度中ずーっと壁読めない問題に悩まされていました．次の機体を作るならば，センサ周りを丁寧に作るべきだと思います．&lt;/p&gt;
+&lt;h1 id=&#34;まとめ&#34;&gt;&lt;a href=&#34;#まとめ&#34; class=&#34;headerlink&#34; title=&#34;まとめ&#34;&gt;&lt;/a&gt;まとめ&lt;/h1&gt;&lt;p&gt;小さいマウスを作ったおかげで色々と知見が溜まったような気がします．果たしてこの知見が活用できる機会はあるのでしょうか……．&lt;/p&gt;
+&lt;p&gt;明日の&lt;a href=&#34;http://blog.taniho.net/categories/TAC2017/&#34;&gt;taniho Advent Calendar 2017&lt;/a&gt;は「書き込み基板を自作した話」について書こうと思っています．&lt;/p&gt;
+&lt;iframe style=&#34;width:120px;height:240px;&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; src=&#34;//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=taniho0707-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=B00FGO7Y18&amp;linkId=9dc8156dd1030936547bf229a0b546b4&#34;&gt;&lt;/iframe&gt;&lt;iframe style=&#34;width:120px;height:240px;&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; src=&#34;//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=taniho0707-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=B00JPWPP22&amp;linkId=9a00834a30e8ef6c82d7a2654eae6855&#34;&gt;&lt;/iframe&gt;
+</content>
+        <category term="鵤" />
+        <updated>2017-12-01T15:00:00.000Z</updated>
+    </entry>
+</feed>

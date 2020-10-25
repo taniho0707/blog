@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;event&#34; category</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2017-08-08T08:42:18.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <entry>
+        <id>http://blog.taniho.net/2017/08/MFT2017%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F/</id>
+        <title>MFT2017に行ってきた</title>
+        <link rel="alternate" href="http://blog.taniho.net/2017/08/MFT2017%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F/"/>
+        <content type="html">&lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;http://makezine.jp/event/mft2017/&#34;&gt;Maker Faire Tokyo 2017&lt;/a&gt;に遊びに行ってきました．&lt;br&gt;ものづくりをしている人や企業などが一同に集まり，製作物を展示するイベントです．今回初めての参加でしたが，とても楽しかったので記事にまとめようと思いました．&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;企業ブース&#34;&gt;&lt;a href=&#34;#企業ブース&#34; class=&#34;headerlink&#34; title=&#34;企業ブース&#34;&gt;&lt;/a&gt;企業ブース&lt;/h1&gt;&lt;p&gt;まずは企業ブースから．&lt;/p&gt;
+&lt;h2 id=&#34;RS-Components&#34;&gt;&lt;a href=&#34;#RS-Components&#34; class=&#34;headerlink&#34; title=&#34;RS Components&#34;&gt;&lt;/a&gt;RS Components&lt;/h2&gt;&lt;p&gt;アンケートに答えてクリアファイルプレゼント，さらにSNSにシェアすると粗品をプレゼント，というのにつられて行きました．ツイートしたらモバイルバッテリーもらっちゃいました．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;Maker Faire Tokyo の RSブースです。このデモ面白い。  &lt;a href=&#34;https://t.co/xVIdWFXAjT&#34;&gt;https://t.co/xVIdWFXAjT&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/MakerFaireTokyo2017?src=hash&#34;&gt;#MakerFaireTokyo2017&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/DesignSpark?src=hash&#34;&gt;#DesignSpark&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/MFTJP?src=hash&#34;&gt;#MFTJP&lt;/a&gt; &lt;a href=&#34;https://twitter.com/RSJapanMK&#34;&gt;@RSJapanMK&lt;/a&gt; &lt;a href=&#34;https://twitter.com/DesignSpark_JP&#34;&gt;@DesignSpark_JP&lt;/a&gt; さんから &lt;a href=&#34;https://t.co/INKUXCrocN&#34;&gt;pic.twitter.com/INKUXCrocN&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/894026430157172736&#34;&gt;2017年8月6日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;去年のセキュリティ・キャンプで知り合った知人がこのブースで働いていた？のでおしゃべりのついでに商品を教えてもらいました．このジェスチャセンサは，静電容量式のタッチセンサと似たような構造をしているのですが，5cmくらい離れたところで手をかざしただけで反応しました．モジュール自体もそんなに高くない(3000円ちょい)ので割とオススメ．ライブラリもgithubで公開しているそうです．&lt;/p&gt;
+&lt;h2 id=&#34;タカハ機工&#34;&gt;&lt;a href=&#34;#タカハ機工&#34; class=&#34;headerlink&#34; title=&#34;タカハ機工&#34;&gt;&lt;/a&gt;タカハ機工&lt;/h2&gt;&lt;p&gt;過去のソレコン入賞作がたくさん展示してありました．たまたま作者の方がいらっしゃったので&lt;a href=&#34;http://www.takaha.co.jp/solcon/result_04.html&#34;&gt;Human Contoroller&lt;/a&gt;のデモ()をしていただきました．実にしょうもなくて面白かったです(小並感)．&lt;/p&gt;
+&lt;h2 id=&#34;Seeed-Studio&#34;&gt;&lt;a href=&#34;#Seeed-Studio&#34; class=&#34;headerlink&#34; title=&#34;Seeed Studio&#34;&gt;&lt;/a&gt;Seeed Studio&lt;/h2&gt;&lt;p&gt;fusion PCBでご存知のあの会社です．日本法人化するそうで，日本法人の社長さんと深圳からのスタッフさんが来ていました．fusion PCBは&lt;a href=&#34;https://statics3.seeedstudio.com/fusion/ebook/PCB+DFM+V1.0+.pdf&#34;&gt;基板実装マニュアルを無料で公開&lt;/a&gt;しているのですが，フルカラー印刷された日本語訳版冊子をいただきました！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;1.jpg&#34; alt=&#34;買ったもの貰ったもの一覧&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;一般ブース&#34;&gt;&lt;a href=&#34;#一般ブース&#34; class=&#34;headerlink&#34; title=&#34;一般ブース&#34;&gt;&lt;/a&gt;一般ブース&lt;/h1&gt;&lt;h2 id=&#34;ロ技研&#34;&gt;&lt;a href=&#34;#ロ技研&#34; class=&#34;headerlink&#34; title=&#34;ロ技研&#34;&gt;&lt;/a&gt;ロ技研&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://twitter.com/idt12312&#34;&gt;idさん&lt;/a&gt;に会いに行きました．&lt;a href=&#34;http://idken.net/posts/2017-08-02-kuramoto/&#34;&gt;蔵元モデル&lt;/a&gt;を可視化したデモを見せていただきました．うちのサークルの低い団結力と比べ物にならないくらい，LEDが綺麗に同期していく様子は見ていて楽しかったです．&lt;/p&gt;
+&lt;p&gt;隣のブースでは謎のギヤが展示されていました．右のギヤを反転させると回転方向が変わるという，意味のわからない実演でした．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;同方向に回転する2枚歯ギヤ &lt;a href=&#34;https://t.co/7LP1i19Obt&#34;&gt;pic.twitter.com/7LP1i19Obt&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/894059461169393664&#34;&gt;2017年8月6日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;h1 id=&#34;帰り道&#34;&gt;&lt;a href=&#34;#帰り道&#34; class=&#34;headerlink&#34; title=&#34;帰り道&#34;&gt;&lt;/a&gt;帰り道&lt;/h1&gt;&lt;p&gt;イベントが終わり，気付いたら猫カフェにいました．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;こんな感じです &lt;a href=&#34;https://t.co/upULSymg6N&#34;&gt;pic.twitter.com/upULSymg6N&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/894086676678557696&#34;&gt;2017年8月6日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;なぜかROUND1にいました．&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;オタクしてる &lt;a href=&#34;https://t.co/kgWfFT70kk&#34;&gt;pic.twitter.com/kgWfFT70kk&lt;/a&gt;&lt;/p&gt;&amp;mdash; taniho (@taniho_0707) &lt;a href=&#34;https://twitter.com/taniho_0707/status/894124173219344384&#34;&gt;2017年8月6日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;おしまい．&lt;/p&gt;
+&lt;h1 id=&#34;さいごに&#34;&gt;&lt;a href=&#34;#さいごに&#34; class=&#34;headerlink&#34; title=&#34;さいごに&#34;&gt;&lt;/a&gt;さいごに&lt;/h1&gt;&lt;p&gt;来年はMFTに出展したい．&lt;/p&gt;
+</content>
+        <category term="MFT" />
+        <updated>2017-08-08T08:42:18.000Z</updated>
+    </entry>
+</feed>
