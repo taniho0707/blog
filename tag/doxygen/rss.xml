@@ -7,34 +7,37 @@
         <language>en</language>
         <pubDate>Thu, 21 Dec 2017 18:00:00 +0900</pubDate>
         <lastBuildDate>Thu, 21 Dec 2017 18:00:00 +0900</lastBuildDate>
-        <category>Emacs</category>
         <category>ArchLinux</category>
+        <category>Emacs</category>
+        <category>2016年</category>
+        <category>買い物</category>
+        <category>おすすめ</category>
+        <category>クリスマス</category>
+        <category>Elecrow</category>
+        <category>電子工作</category>
+        <category>2017年</category>
         <category>マイクロマウス</category>
         <category>台湾</category>
         <category>旅行</category>
         <category>たまこまーけっと</category>
-        <category>2016年</category>
-        <category>買い物</category>
-        <category>おすすめ</category>
         <category>日常</category>
-        <category>2017年</category>
-        <category>クリスマス</category>
-        <category>Elecrow</category>
-        <category>電子工作</category>
         <category>関西地区大会</category>
         <category>猫</category>
         <category>Apache</category>
         <category>letsencrypt</category>
+        <category>ADHD</category>
+        <category>結婚</category>
+        <category>AdventCalendar</category>
         <category>Blu-ray</category>
         <category>VLC</category>
-        <category>CNC</category>
         <category>Magit</category>
         <category>git</category>
-        <category>MFT</category>
         <category>RaspberryPi</category>
         <category>無線LAN</category>
-        <category>Mice</category>
+        <category>MFT</category>
+        <category>CNC</category>
         <category>鵤</category>
+        <category>Mice</category>
         <category>メジロ</category>
         <category>Qt</category>
         <category>デレステ</category>
@@ -42,25 +45,26 @@
         <category>Android</category>
         <category>Discord</category>
         <category>Webアプリ</category>
+        <category>Linux</category>
         <category>教習所</category>
         <category>ロボット</category>
-        <category>Linux</category>
         <category>remark</category>
         <category>スライドショー</category>
         <category>ごはん</category>
         <category>金町</category>
         <category>クレジットカード</category>
-        <category>ヘボコン</category>
-        <category>ボードゲーム</category>
         <category>Quadcept</category>
         <category>CAD</category>
+        <category>ヘボコン</category>
+        <category>ボードゲーム</category>
         <category>Doxygen</category>
         <category>2018年</category>
         <category>dアニメストア</category>
+        <category>github</category>
         <category>Renesas</category>
         <category>RX62T</category>
         <category>e2studio</category>
-        <category>github</category>
+        <category>ownCloud</category>
         <category>マウス</category>
         <category>分解</category>
         <category>logicool</category>
@@ -68,7 +72,6 @@
         <category>G700s</category>
         <category>seccamp2016</category>
         <category>seccamp</category>
-        <category>ownCloud</category>
         <category>サーバー</category>
         <category>subsonic</category>
         <category>音楽</category>
@@ -77,25 +80,24 @@
         <category>フラッグLED</category>
         <category>i3</category>
         <category>wm</category>
-        <category>AdventCalendar</category>
         <category>モード</category>
-        <category>迷路</category>
-        <category>C++</category>
         <category>調整</category>
+        <category>迷路</category>
         <category>中華</category>
         <category>まとめ</category>
         <category>助けて</category>
         <category>三角関数</category>
+        <category>C++</category>
         <category>福岡</category>
         <category>東北地区大会</category>
-        <category>STL</category>
+        <category>C言語</category>
         <category>入門</category>
+        <category>STL</category>
         <category>ラズパイコンテスト</category>
         <category>NFC</category>
-        <category>C言語</category>
+        <category>電子部品</category>
         <category>部品</category>
         <category>管理</category>
-        <category>電子部品</category>
         <category>STM32CubeMX</category>
         <category>FTDI</category>
         <category>Makefile</category>
@@ -104,8 +106,6 @@
         <category>インターン</category>
         <category>最高</category>
         <category>セキュリティ・キャンプ</category>
-        <category>ADHD</category>
-        <category>結婚</category>
         <item>
             <guid isPermalink="true">http://blog.taniho.net/2017/12/TAC-21-Doxygen%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E6%98%8E%E6%97%A5%E3%81%AE%E8%87%AA%E5%88%86%E3%82%92%E5%9B%B0%E3%82%89%E3%81%9B%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B/</guid>
             <title>[TAC:21] Doxygenを使って明日の自分を困らせないようにする</title>

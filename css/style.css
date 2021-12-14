@@ -638,6 +638,9 @@ a.article-title:hover {
   height: 100%;
   margin-top: 0;
 }
+.article-entry p {
+  padding-left: 1em;
+}
 p.article-more-link {
   text-align: center;
   margin: 0 0 -0.8em 0;

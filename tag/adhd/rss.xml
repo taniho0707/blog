@@ -7,34 +7,37 @@
         <language>en</language>
         <pubDate>Wed, 15 Dec 2021 00:10:00 +0900</pubDate>
         <lastBuildDate>Wed, 15 Dec 2021 00:10:00 +0900</lastBuildDate>
-        <category>Emacs</category>
         <category>ArchLinux</category>
+        <category>Emacs</category>
+        <category>2016年</category>
+        <category>買い物</category>
+        <category>おすすめ</category>
+        <category>クリスマス</category>
+        <category>Elecrow</category>
+        <category>電子工作</category>
+        <category>2017年</category>
         <category>マイクロマウス</category>
         <category>台湾</category>
         <category>旅行</category>
         <category>たまこまーけっと</category>
-        <category>2016年</category>
-        <category>買い物</category>
-        <category>おすすめ</category>
         <category>日常</category>
-        <category>2017年</category>
-        <category>クリスマス</category>
-        <category>Elecrow</category>
-        <category>電子工作</category>
         <category>関西地区大会</category>
         <category>猫</category>
         <category>Apache</category>
         <category>letsencrypt</category>
+        <category>ADHD</category>
+        <category>結婚</category>
+        <category>AdventCalendar</category>
         <category>Blu-ray</category>
         <category>VLC</category>
-        <category>CNC</category>
         <category>Magit</category>
         <category>git</category>
-        <category>MFT</category>
         <category>RaspberryPi</category>
         <category>無線LAN</category>
-        <category>Mice</category>
+        <category>MFT</category>
+        <category>CNC</category>
         <category>鵤</category>
+        <category>Mice</category>
         <category>メジロ</category>
         <category>Qt</category>
         <category>デレステ</category>
@@ -42,25 +45,26 @@
         <category>Android</category>
         <category>Discord</category>
         <category>Webアプリ</category>
+        <category>Linux</category>
         <category>教習所</category>
         <category>ロボット</category>
-        <category>Linux</category>
         <category>remark</category>
         <category>スライドショー</category>
         <category>ごはん</category>
         <category>金町</category>
         <category>クレジットカード</category>
-        <category>ヘボコン</category>
-        <category>ボードゲーム</category>
         <category>Quadcept</category>
         <category>CAD</category>
+        <category>ヘボコン</category>
+        <category>ボードゲーム</category>
         <category>Doxygen</category>
         <category>2018年</category>
         <category>dアニメストア</category>
+        <category>github</category>
         <category>Renesas</category>
         <category>RX62T</category>
         <category>e2studio</category>
-        <category>github</category>
+        <category>ownCloud</category>
         <category>マウス</category>
         <category>分解</category>
         <category>logicool</category>
@@ -68,7 +72,6 @@
         <category>G700s</category>
         <category>seccamp2016</category>
         <category>seccamp</category>
-        <category>ownCloud</category>
         <category>サーバー</category>
         <category>subsonic</category>
         <category>音楽</category>
@@ -77,25 +80,24 @@
         <category>フラッグLED</category>
         <category>i3</category>
         <category>wm</category>
-        <category>AdventCalendar</category>
         <category>モード</category>
-        <category>迷路</category>
-        <category>C++</category>
         <category>調整</category>
+        <category>迷路</category>
         <category>中華</category>
         <category>まとめ</category>
         <category>助けて</category>
         <category>三角関数</category>
+        <category>C++</category>
         <category>福岡</category>
         <category>東北地区大会</category>
-        <category>STL</category>
+        <category>C言語</category>
         <category>入門</category>
+        <category>STL</category>
         <category>ラズパイコンテスト</category>
         <category>NFC</category>
-        <category>C言語</category>
+        <category>電子部品</category>
         <category>部品</category>
         <category>管理</category>
-        <category>電子部品</category>
         <category>STM32CubeMX</category>
         <category>FTDI</category>
         <category>Makefile</category>
@@ -104,15 +106,13 @@
         <category>インターン</category>
         <category>最高</category>
         <category>セキュリティ・キャンプ</category>
-        <category>ADHD</category>
-        <category>結婚</category>
         <item>
             <guid isPermalink="true">http://blog.taniho.net/2021/12/ADHD%E8%A6%B3%E5%AF%9F%E6%97%A5%E8%A8%98-1%E6%97%A5%E7%9B%AE/</guid>
             <title>ADHD観察日記 1日目</title>
             <link>http://blog.taniho.net/2021/12/ADHD%E8%A6%B3%E5%AF%9F%E6%97%A5%E8%A8%98-1%E6%97%A5%E7%9B%AE/</link>
-            <category>AdventCalendar</category>
             <category>ADHD</category>
             <category>結婚</category>
+            <category>AdventCalendar</category>
             <pubDate>Wed, 15 Dec 2021 00:10:00 +0900</pubDate>
             <description><![CDATA[ &lt;p&gt;この記事は &lt;a href=&#34;https://adventar.org/calendars/6919&#34;&gt;マイクロマウス Advent Calendar 2021&lt;/a&gt; の 15 日目の記事です。&lt;br&gt;昨日はうめさんの &lt;a href=&#34;https://spaceninja186549939.wordpress.com/2021/12/14/advent-calendar-2021%e3%80%8014%e6%97%a5%e7%9b%ae/&#34;&gt;Advent Calendar 2021 14 日目 – SpaceNinjaBlog&lt;/a&gt; でした。&lt;br&gt;みんな車買っとる。みんな車いじっとる。わしも車買った。わしも車いじりたい。&lt;/p&gt;
 &lt;a id=&#34;more&#34;&gt;&lt;/a&gt;

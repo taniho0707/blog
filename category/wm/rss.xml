@@ -7,34 +7,37 @@
         <language>en</language>
         <pubDate>Tue, 06 Dec 2016 15:25:03 +0900</pubDate>
         <lastBuildDate>Tue, 06 Dec 2016 15:25:03 +0900</lastBuildDate>
-        <category>Emacs</category>
         <category>ArchLinux</category>
+        <category>Emacs</category>
+        <category>2016年</category>
+        <category>買い物</category>
+        <category>おすすめ</category>
+        <category>クリスマス</category>
+        <category>Elecrow</category>
+        <category>電子工作</category>
+        <category>2017年</category>
         <category>マイクロマウス</category>
         <category>台湾</category>
         <category>旅行</category>
         <category>たまこまーけっと</category>
-        <category>2016年</category>
-        <category>買い物</category>
-        <category>おすすめ</category>
         <category>日常</category>
-        <category>2017年</category>
-        <category>クリスマス</category>
-        <category>Elecrow</category>
-        <category>電子工作</category>
         <category>関西地区大会</category>
         <category>猫</category>
         <category>Apache</category>
         <category>letsencrypt</category>
+        <category>ADHD</category>
+        <category>結婚</category>
+        <category>AdventCalendar</category>
         <category>Blu-ray</category>
         <category>VLC</category>
-        <category>CNC</category>
         <category>Magit</category>
         <category>git</category>
-        <category>MFT</category>
         <category>RaspberryPi</category>
         <category>無線LAN</category>
-        <category>Mice</category>
+        <category>MFT</category>
+        <category>CNC</category>
         <category>鵤</category>
+        <category>Mice</category>
         <category>メジロ</category>
         <category>Qt</category>
         <category>デレステ</category>
@@ -42,25 +45,26 @@
         <category>Android</category>
         <category>Discord</category>
         <category>Webアプリ</category>
+        <category>Linux</category>
         <category>教習所</category>
         <category>ロボット</category>
-        <category>Linux</category>
         <category>remark</category>
         <category>スライドショー</category>
         <category>ごはん</category>
         <category>金町</category>
         <category>クレジットカード</category>
-        <category>ヘボコン</category>
-        <category>ボードゲーム</category>
         <category>Quadcept</category>
         <category>CAD</category>
+        <category>ヘボコン</category>
+        <category>ボードゲーム</category>
         <category>Doxygen</category>
         <category>2018年</category>
         <category>dアニメストア</category>
+        <category>github</category>
         <category>Renesas</category>
         <category>RX62T</category>
         <category>e2studio</category>
-        <category>github</category>
+        <category>ownCloud</category>
         <category>マウス</category>
         <category>分解</category>
         <category>logicool</category>
@@ -68,7 +72,6 @@
         <category>G700s</category>
         <category>seccamp2016</category>
         <category>seccamp</category>
-        <category>ownCloud</category>
         <category>サーバー</category>
         <category>subsonic</category>
         <category>音楽</category>
@@ -77,25 +80,24 @@
         <category>フラッグLED</category>
         <category>i3</category>
         <category>wm</category>
-        <category>AdventCalendar</category>
         <category>モード</category>
-        <category>迷路</category>
-        <category>C++</category>
         <category>調整</category>
+        <category>迷路</category>
         <category>中華</category>
         <category>まとめ</category>
         <category>助けて</category>
         <category>三角関数</category>
+        <category>C++</category>
         <category>福岡</category>
         <category>東北地区大会</category>
-        <category>STL</category>
+        <category>C言語</category>
         <category>入門</category>
+        <category>STL</category>
         <category>ラズパイコンテスト</category>
         <category>NFC</category>
-        <category>C言語</category>
+        <category>電子部品</category>
         <category>部品</category>
         <category>管理</category>
-        <category>電子部品</category>
         <category>STM32CubeMX</category>
         <category>FTDI</category>
         <category>Makefile</category>
@@ -104,16 +106,14 @@
         <category>インターン</category>
         <category>最高</category>
         <category>セキュリティ・キャンプ</category>
-        <category>ADHD</category>
-        <category>結婚</category>
         <item>
             <guid isPermalink="true">http://blog.taniho.net/2016/12/%E3%82%BF%E3%82%A4%E3%83%AB%E5%9E%8BWM%E3%81%A7%E5%BF%AB%E9%81%A9%E3%81%AA%E7%92%B0%E5%A2%83%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</guid>
             <title>タイル型WMで快適な環境を構築する</title>
             <link>http://blog.taniho.net/2016/12/%E3%82%BF%E3%82%A4%E3%83%AB%E5%9E%8BWM%E3%81%A7%E5%BF%AB%E9%81%A9%E3%81%AA%E7%92%B0%E5%A2%83%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</link>
             <category>ArchLinux</category>
+            <category>AdventCalendar</category>
             <category>i3</category>
             <category>wm</category>
-            <category>AdventCalendar</category>
             <pubDate>Tue, 06 Dec 2016 15:25:03 +0900</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;はじめに&#34;&gt;&lt;a href=&#34;#はじめに&#34; class=&#34;headerlink&#34; title=&#34;はじめに&#34;&gt;&lt;/a&gt;はじめに&lt;/h1&gt;&lt;p&gt;この記事は&lt;a href=&#34;http://qiita.com/advent-calendar/2016/tokyo_university_of_science&#34;&gt;東京理科大学 Advent Calendar 2016 - Qiita&lt;/a&gt;の6日目の記事です．昨日はfujitoraさんの&lt;a href=&#34;http://qiita.com/fujitora/items/a8f1da9ebc98c2940b4a&#34;&gt;New Relicでめっちゃ簡単にRailsアプリケーションの監視をする&lt;/a&gt;でした．明日の枠はまだ埋まっていないので，この記事を見た誰かが書いてくれると嬉しいなあ．&lt;/p&gt;
 &lt;h1 id=&#34;デスクトップ環境とは&#34;&gt;&lt;a href=&#34;#デスクトップ環境とは&#34; class=&#34;headerlink&#34; title=&#34;デスクトップ環境とは&#34;&gt;&lt;/a&gt;デスクトップ環境とは&lt;/h1&gt;&lt;p&gt;さて皆さん，快適なデスクトップ環境をお過ごしでしょうか？&lt;/p&gt;
