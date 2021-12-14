@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.taniho.net</id>
+    <title>taniho&#39;s blog • Posts by &#34;adhd観察日記&#34; category</title>
+    <link href="http://blog.taniho.net" />
+    <updated>2021-12-14T15:10:00.000Z</updated>
+    <category term="Emacs" />
+    <category term="ArchLinux" />
+    <category term="マイクロマウス" />
+    <category term="台湾" />
+    <category term="旅行" />
+    <category term="たまこまーけっと" />
+    <category term="2016年" />
+    <category term="買い物" />
+    <category term="おすすめ" />
+    <category term="日常" />
+    <category term="2017年" />
+    <category term="クリスマス" />
+    <category term="Elecrow" />
+    <category term="電子工作" />
+    <category term="関西地区大会" />
+    <category term="猫" />
+    <category term="Apache" />
+    <category term="letsencrypt" />
+    <category term="Blu-ray" />
+    <category term="VLC" />
+    <category term="CNC" />
+    <category term="Magit" />
+    <category term="git" />
+    <category term="MFT" />
+    <category term="RaspberryPi" />
+    <category term="無線LAN" />
+    <category term="Mice" />
+    <category term="鵤" />
+    <category term="メジロ" />
+    <category term="Qt" />
+    <category term="デレステ" />
+    <category term="yakudo" />
+    <category term="Android" />
+    <category term="Discord" />
+    <category term="Webアプリ" />
+    <category term="教習所" />
+    <category term="ロボット" />
+    <category term="Linux" />
+    <category term="remark" />
+    <category term="スライドショー" />
+    <category term="ごはん" />
+    <category term="金町" />
+    <category term="クレジットカード" />
+    <category term="ヘボコン" />
+    <category term="ボードゲーム" />
+    <category term="Quadcept" />
+    <category term="CAD" />
+    <category term="Doxygen" />
+    <category term="2018年" />
+    <category term="dアニメストア" />
+    <category term="Renesas" />
+    <category term="RX62T" />
+    <category term="e2studio" />
+    <category term="github" />
+    <category term="マウス" />
+    <category term="分解" />
+    <category term="logicool" />
+    <category term="M570" />
+    <category term="G700s" />
+    <category term="seccamp2016" />
+    <category term="seccamp" />
+    <category term="ownCloud" />
+    <category term="サーバー" />
+    <category term="subsonic" />
+    <category term="音楽" />
+    <category term="みそ煮込みうどん" />
+    <category term="I.Sys" />
+    <category term="フラッグLED" />
+    <category term="i3" />
+    <category term="wm" />
+    <category term="AdventCalendar" />
+    <category term="モード" />
+    <category term="迷路" />
+    <category term="C++" />
+    <category term="調整" />
+    <category term="中華" />
+    <category term="まとめ" />
+    <category term="助けて" />
+    <category term="三角関数" />
+    <category term="福岡" />
+    <category term="東北地区大会" />
+    <category term="STL" />
+    <category term="入門" />
+    <category term="ラズパイコンテスト" />
+    <category term="NFC" />
+    <category term="C言語" />
+    <category term="部品" />
+    <category term="管理" />
+    <category term="電子部品" />
+    <category term="STM32CubeMX" />
+    <category term="FTDI" />
+    <category term="Makefile" />
+    <category term="アプリ" />
+    <category term="はてな" />
+    <category term="インターン" />
+    <category term="最高" />
+    <category term="セキュリティ・キャンプ" />
+    <category term="ADHD" />
+    <category term="結婚" />
+    <entry>
+        <id>http://blog.taniho.net/2021/12/ADHD%E8%A6%B3%E5%AF%9F%E6%97%A5%E8%A8%98-1%E6%97%A5%E7%9B%AE/</id>
+        <title>ADHD観察日記 1日目</title>
+        <link rel="alternate" href="http://blog.taniho.net/2021/12/ADHD%E8%A6%B3%E5%AF%9F%E6%97%A5%E8%A8%98-1%E6%97%A5%E7%9B%AE/"/>
+        <content type="html">&lt;p&gt;この記事は &lt;a href=&#34;https://adventar.org/calendars/6919&#34;&gt;マイクロマウス Advent Calendar 2021&lt;/a&gt; の 15 日目の記事です。&lt;br&gt;昨日はうめさんの &lt;a href=&#34;https://spaceninja186549939.wordpress.com/2021/12/14/advent-calendar-2021%e3%80%8014%e6%97%a5%e7%9b%ae/&#34;&gt;Advent Calendar 2021 14 日目 – SpaceNinjaBlog&lt;/a&gt; でした。&lt;br&gt;みんな車買っとる。みんな車いじっとる。わしも車買った。わしも車いじりたい。&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
+
+&lt;h1 id=&#34;結婚&#34;&gt;&lt;a href=&#34;#結婚&#34; class=&#34;headerlink&#34; title=&#34;結婚&#34;&gt;&lt;/a&gt;結婚&lt;/h1&gt;&lt;p&gt;こんにちは。&lt;br&gt;ブログ更新が久しぶりになってしまいましたが、実は今年の 8 月に結婚しました。&lt;/p&gt;
+&lt;h2 id=&#34;結婚して良かったこと&#34;&gt;&lt;a href=&#34;#結婚して良かったこと&#34; class=&#34;headerlink&#34; title=&#34;結婚して良かったこと&#34;&gt;&lt;/a&gt;結婚して良かったこと&lt;/h2&gt;&lt;p&gt;結婚して良かったことを挙げていきます。&lt;/p&gt;
+&lt;h3 id=&#34;信頼できる人がいる安心感&#34;&gt;&lt;a href=&#34;#信頼できる人がいる安心感&#34; class=&#34;headerlink&#34; title=&#34;信頼できる人がいる安心感&#34;&gt;&lt;/a&gt;信頼できる人がいる安心感&lt;/h3&gt;&lt;p&gt;これに尽きます。&lt;br&gt;人生で一番信頼できる人がいつでも側にいる安心感がすごい。&lt;br&gt;残業してる場合じゃねえ、早く帰るぞ、になる。&lt;/p&gt;
+&lt;h3 id=&#34;あらゆることを二人ベースで考えられる&#34;&gt;&lt;a href=&#34;#あらゆることを二人ベースで考えられる&#34; class=&#34;headerlink&#34; title=&#34;あらゆることを二人ベースで考えられる&#34;&gt;&lt;/a&gt;あらゆることを二人ベースで考えられる&lt;/h3&gt;&lt;p&gt;外食を食べに行った時に二人分注文して半分こできること、二人プレイ専用のゲームを気軽に遊べること、などが挙げられます。&lt;/p&gt;
+&lt;h3 id=&#34;無限に茶-🍵-が出てくる&#34;&gt;&lt;a href=&#34;#無限に茶-🍵-が出てくる&#34; class=&#34;headerlink&#34; title=&#34;無限に茶 🍵 が出てくる&#34;&gt;&lt;/a&gt;無限に茶 🍵 が出てくる&lt;/h3&gt;&lt;p&gt;愛妻がお茶好きなので、家にいると無限に茶 🍵 が出てきます。美味しい、ごくごく。&lt;/p&gt;
+&lt;h2 id=&#34;結婚して悪かったこと&#34;&gt;&lt;a href=&#34;#結婚して悪かったこと&#34; class=&#34;headerlink&#34; title=&#34;結婚して悪かったこと&#34;&gt;&lt;/a&gt;結婚して悪かったこと&lt;/h2&gt;&lt;p&gt;結婚して悪かった唯一のことです。&lt;/p&gt;
+&lt;h3 id=&#34;改姓による手続きが面倒臭い&#34;&gt;&lt;a href=&#34;#改姓による手続きが面倒臭い&#34; class=&#34;headerlink&#34; title=&#34;改姓による手続きが面倒臭い&#34;&gt;&lt;/a&gt;改姓による手続きが面倒臭い&lt;/h3&gt;&lt;p&gt;最悪。&lt;br&gt;まず改姓しないといけない家制度が理解できない、どうして結婚したら苗字が変わるのか理解が出来ない。&lt;br&gt;次に手続きが面倒臭い。&lt;br&gt;どうして役所と銀行に行った後、もう一回役所と警察に行って、クレジットカードの名義変更の書類を取り寄せて、会社に申請しなきゃいけないのか。&lt;/p&gt;
+&lt;h1 id=&#34;ADHD-観察日記-1-日目&#34;&gt;&lt;a href=&#34;#ADHD-観察日記-1-日目&#34; class=&#34;headerlink&#34; title=&#34;ADHD 観察日記 1 日目&#34;&gt;&lt;/a&gt;ADHD 観察日記 1 日目&lt;/h1&gt;&lt;p&gt;今日の本題に入ろうと思います。&lt;/p&gt;
+&lt;p&gt;なお、僕は医学を学んだことはありませんので、ここから書く内容が正しいことは保証できません。&lt;br&gt;一人の ADHD と生活をして気付いたことをまとめた体験談としてお読みください。&lt;/p&gt;
+&lt;p&gt;僕の愛妻は ADHD(注意欠如・多動症)という病気を持っているのですが、&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注意欠陥多動性障害（AD/HD：Attention-Deficit/Hyperactivity Disorder）は、「集中できない（不注意）」「じっとしていられない（多動・多弁）」「考えるよりも先に動く（衝動的な行動）」などを特徴する発達障害です。&lt;br&gt;&lt;em&gt;&lt;a href=&#34;https://www.gov-online.go.jp/featured/201104/index.html&#34;&gt;発達障害って、なんだろう？ | 暮らしに役立つ情報 | 政府広報オンライン&lt;/a&gt; より引用&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;ADHD の症状には代表的な特徴はあるものの、人それぞれいろいろな症状が出るそうです。&lt;/p&gt;
+&lt;p&gt;(ちなみに去年の愛妻のブログはこれです。&lt;a href=&#34;https://violat.hatenablog.com/entry/2020/12/08/000000&#34;&gt;引っ越しました - Viola!&lt;/a&gt; 。話題が飛び飛びですごい読み応え。)&lt;/p&gt;
+&lt;p&gt;愛妻と一緒に生活をして 1 年以上が経ちますが、その中で多くの発見がありました。&lt;br&gt;本人は ADHD のせいだと思っていなかったものの、ADHD が関係している可能性のある症状にも気付きました。&lt;/p&gt;
+&lt;p&gt;ADHD は現代の技術では直すことの出来ない病気なので、ある種個性と捉えて、うまく折り合いを付けながら生活していく必要があります。&lt;br&gt;ADHD 観察日記の中では、生活が楽になった対処法なども書いていこうと思います。&lt;br&gt;同じ症状をお持ちの方の参考に、もしくは単純に生活の便利集としても活用いただければ幸いです。&lt;/p&gt;
+&lt;h2 id=&#34;睡眠問題&#34;&gt;&lt;a href=&#34;#睡眠問題&#34; class=&#34;headerlink&#34; title=&#34;睡眠問題&#34;&gt;&lt;/a&gt;睡眠問題&lt;/h2&gt;&lt;p&gt;愛妻はずっと昔から睡眠問題に悩まされていました。&lt;br&gt;小学校からずっと、授業中に寝てしまっていたそうです。授業だけで無く、定期試験の時でさえ寝てしまっていたそうです。&lt;br&gt;必然的に成績は散々だったそうで……。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;眠気は早ければ小学校の高学年から、通常は中学校の時期以降に顕在化する事が多い。授業中の居眠りが主体で、体育などの主体的な活動中には少ない。しかし、教室での授業では最初の 10 分ほどは起きているが、あとは殆ど眠ってしまうということも見受けられる。&lt;br&gt;&lt;em&gt;&lt;a href=&#34;https://sunao.clinic/qa/archives/276&#34;&gt;発達障害（ADHD, ASD）に見られる、日中の過度の眠気 | すなおクリニック　 Q&amp;amp;A&lt;/a&gt; より引用&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;まさにこれと同じ症状が出ていて、随分と苦労したそうです。&lt;br&gt;昼夜問わず、学校の授業だけではなく、何かに集中すると耐えがたい眠気に襲われる、というか眠いと思った瞬間には寝てしまっているそうです。&lt;br&gt;(この記事を書きながら、隣で「分かる～～～～～～～～～～」と言っています)&lt;/p&gt;
+&lt;h2 id=&#34;コンサータ&#34;&gt;&lt;a href=&#34;#コンサータ&#34; class=&#34;headerlink&#34; title=&#34;コンサータ&#34;&gt;&lt;/a&gt;コンサータ&lt;/h2&gt;&lt;p&gt;この睡眠問題を和らげるために、毎朝通勤前に薬を飲んでいます。&lt;br&gt;そう、ご存じコンサータです。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kegg.jp/medicus-bin/japic_med?japic_code=00062727&#34;&gt;医療用医薬品 : コンサータ (コンサータ錠 18mg 他)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;愛妻はコンサータを一日 54mg 飲んでいます。&lt;br&gt;これによって、日中の眠気が和らぎ、ようやく仕事が出来る状態になります (薬を飲んでから 12 時間は寝られなくなるそうです)。&lt;/p&gt;
+&lt;p&gt;さらにおまけとして、ADHD の注意欠陥も和らぎます。&lt;br&gt;薬を飲んでいないときは、五感に入ってくる情報が全てうるさく主張してくるため、何か一つのことに集中するのが非常に困難だと言います。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E5%8A%B9%E6%9E%9C&#34;&gt;カクテルパーティー効果&lt;/a&gt;という現象があります。&lt;br&gt;普通の人は、周りがある程度騒がしくても今話している相手の言葉を自然と聞き取ることが出来ますが、&lt;br&gt;愛妻は、周りの音全てが同じような音量で耳に入ってきて、相手の言葉だけを集中して聞くことが困難だそうです。&lt;/p&gt;
+&lt;p&gt;これが聴覚だけでなく、五感全て (例えば視覚、目に見える物が全て同じように主張してくる) で起こっているため、何かに集中することが困難ということになります。&lt;br&gt;薬を飲むことでこの現象が緩和されます。&lt;br&gt;本人曰く、薬を飲み始めて「普通の人はこんなに集中出来るのか！」と知ったらしいです。&lt;/p&gt;
+&lt;p&gt;むしろそれが本来の効能であって、眠気が和らぐのは薬の副作用らしいですが、いずれにせよこの薬のおかげで日常生活を送ることが出来ています。&lt;/p&gt;
+&lt;p&gt;ちなみにこの薬は、先ほども書かれていたとおり「劇薬」です。&lt;br&gt;コンサータの主成分であるメチルフェニデート塩酸塩は第一種向精神薬であり、覚醒作用を持ちます。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mhlw.go.jp/content/11121000/000771395.pdf&#34;&gt;第 4 回 大麻等の薬物対策のあり方検討会 - 厚生労働省&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;悪用を防ぐために、かなり厳しい制度が運用されています。&lt;br&gt;国に登録された医師・薬局に行き、患者カードを渡して初めて薬を処方してもらうことが出来ます。&lt;br&gt;(ちなみにこの患者カードは安っぽくてペラッペラで、「物を無くしやすい ADHD には管理が出来ないやろ」と愛妻が言っていました)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;新しい流通管理体制では、登録された医師が同薬を処方する前にあらかじめ、患者のイニシャル、性別、生年月日、第三者から得た患者の症状に関する情報源などの情報を登録することが義務付けられた。&lt;br&gt;&lt;em&gt;&lt;a href=&#34;https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/201909/562223.html&#34;&gt;コンサータ処方前の患者情報の登録を義務化へ：DI Online&lt;/a&gt; より引用&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;自立支援医療制度&#34;&gt;&lt;a href=&#34;#自立支援医療制度&#34; class=&#34;headerlink&#34; title=&#34;自立支援医療制度&#34;&gt;&lt;/a&gt;自立支援医療制度&lt;/h2&gt;&lt;p&gt;ここでコンサータの薬価を見てみましょう。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;コンサータ錠 27mg Concerta Tablets 381.2 円／錠&lt;br&gt;&lt;em&gt;&lt;a href=&#34;https://www.kegg.jp/medicus-bin/japic_med?japic_code=00062727&#34;&gt;医療用医薬品 : コンサータ (コンサータ錠 18mg 他)&lt;/a&gt; より引用&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;愛妻は一日に 54mg、つまり 2 錠飲んでいます。762.4 円／日。22872 円／月。&lt;br&gt;健康保険があるため負担は 3 割ですが、それでも安い金額ではありません。&lt;br&gt;さらに、1 回当たり 30 日分しか処方されないため、毎月の通院費もかかります。&lt;/p&gt;
+&lt;p&gt;そこで、国の制度を活用することにしました。&lt;br&gt;この辺から僕の入れ知恵が入ってきます。&lt;br&gt;ADHD には、事務手続きが苦手という特徴が出る人がいますが、愛妻がそれでした。&lt;br&gt;毎日のように催促し、なんとか申請をしてもらうことに成功しました。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/jiritsu/gaiyo.html&#34;&gt;自立支援医療制度の概要 ｜厚生労働省&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;この制度により、ADHD の治療に必要な費用負担を 1 割まで軽減することが出来ます！&lt;br&gt;さらに年収によって月額医療費の上限制度もあるため、生活への負担をかなり軽くすることが出来ました。&lt;/p&gt;
+&lt;p&gt;ただし、毎年更新が必要なのが玉に瑕。&lt;/p&gt;
+&lt;h2 id=&#34;障害者手帳&#34;&gt;&lt;a href=&#34;#障害者手帳&#34; class=&#34;headerlink&#34; title=&#34;障害者手帳&#34;&gt;&lt;/a&gt;障害者手帳&lt;/h2&gt;&lt;p&gt;自立支援医療制度だけでなく、障害者手帳も取ることにしました。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/techou.html&#34;&gt;障害者手帳について｜厚生労働省&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;障害者手帳には 3 種類ありますが、その中の精神障害者保健福祉手帳が該当します。&lt;br&gt;等級は 3 級です。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;3 級 精神障害であって、日常生活若しくは社会生活が制限を受けるか、又は日常生活若しくは社会生活に制限を加えることを必要とする程度のもの&lt;br&gt;&lt;em&gt;&lt;a href=&#34;https://www.mhlw.go.jp/kokoro/support/certificate.html&#34;&gt;精神障害者福祉手帳｜治療や生活へのサポート｜メンタルヘルス｜厚生労働省&lt;/a&gt; より引用&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;3 級は一番程度の軽い等級なので、受けられるサービスには制限がありますが、主に次のサービスを享受しています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;所得税、住民税の控除&lt;/li&gt;
+&lt;li&gt;公共施設の入場料等の割引&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;公共施設の入場料等の割引はかなりの施設で実施されているため、遊びに行くときによく利用させてもらっています。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://shogaisha-techo.com/&#34;&gt;障害者手帳で行こう！～全国版～&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;おわりに&#34;&gt;&lt;a href=&#34;#おわりに&#34; class=&#34;headerlink&#34; title=&#34;おわりに&#34;&gt;&lt;/a&gt;おわりに&lt;/h2&gt;&lt;p&gt;明日は&lt;a href=&#34;https://twitter.com/M_vi_o_la&#34;&gt;れこさん (@M_vi_o_la)&lt;/a&gt; の 未定 です。お楽しみに！&lt;/p&gt;
+</content>
+        <category term="AdventCalendar" />
+        <category term="ADHD" />
+        <category term="結婚" />
+        <updated>2021-12-14T15:10:00.000Z</updated>
+    </entry>
+</feed>

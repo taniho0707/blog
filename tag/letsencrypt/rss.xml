@@ -104,6 +104,8 @@
         <category>インターン</category>
         <category>最高</category>
         <category>セキュリティ・キャンプ</category>
+        <category>ADHD</category>
+        <category>結婚</category>
         <item>
             <guid isPermalink="true">http://blog.taniho.net/2016/05/Apache%E3%81%A7letsencrypt%E3%82%92%E4%BD%BF%E3%81%86/</guid>
             <title>Apacheでletsencryptを使う</title>

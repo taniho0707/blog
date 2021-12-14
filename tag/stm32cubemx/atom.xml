@@ -101,6 +101,8 @@
     <category term="インターン" />
     <category term="最高" />
     <category term="セキュリティ・キャンプ" />
+    <category term="ADHD" />
+    <category term="結婚" />
     <entry>
         <id>http://blog.taniho.net/2017/07/HAL%E3%81%A8Makefile%E3%81%AE%E6%A7%8B%E6%88%90%E3%81%A7C-%E3%82%92%E4%BD%BF%E3%81%86/</id>
         <title>HALとMakefileの構成でC++を使う</title>
